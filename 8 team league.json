@@ -1,0 +1,43 @@
+{
+  "version": 27,
+  "gameAttributes":[
+{"key":"luxuryPayroll","value":7000},
+{"key":"luxuryTax","value":1.5},
+{"key":"maxContract","value":2000},
+{"key":"minContract","value":200},
+{"key":"minPayroll","value":4500},
+{"key":"salaryCap","value":6000},
+{"key":"maxRosterSize","value":12},
+{"key":"minRosterSize","value":7},
+{"key": "numGamesPlayoffSeries","value": [3, 3, 3]},
+{"key": "brotherRate","value": 0.35},
+{"key": "sonRate","value": 0.15},
+{"key": "hardCap","value": true},
+{"key": "injuryRate","value": 0.000135},
+{"key": "quarterLength","value": 8},
+{"key": "numGames","value": 14},
+{"key": "numPlayoffByes","value": 2},
+{
+            "key": "confs",
+            "value": [
+                {"cid": 0, "name": "California Basketball League"}
+            ]
+        },
+        {
+            "key": "divs",
+            "value": [
+                {"did": 0, "cid": 0, "name": "California"}
+            ]
+        }
+],
+	"teams": [
+        {"tid": 0, "cid": 0, "did": 0, "region": "Calexico", "name": "Bulldogs", "abbrev": "CAL", "pop": 2.2},
+        {"tid": 1, "cid": 0, "did": 0, "region": "El Centro", "name": "Vultures", "abbrev": "CEN", "pop": 4.4},
+        {"tid": 2, "cid": 0, "did": 0, "region": "Long Beach", "name": "Lions", "abbrev": "LON", "pop": 4.3},
+        {"tid": 3, "cid": 0, "did": 0, "region": "Los Angeles", "name": "Lakers", "abbrev": "LOS", "pop": 5.4},
+        {"tid": 4, "cid": 0, "did": 0, "region": "Sacremento", "name": "Kings", "abbrev": "SAC", "pop": 8.8},
+        {"tid": 5, "cid": 0, "did": 0, "region": "San Diego", "name": "Clippers", "abbrev": "SAD", "pop": 1.6},
+        {"tid": 6, "cid": 0, "did": 0, "region": "San Francisco", "name": "Warriors", "abbrev": "SAF", "pop": 4.7},
+        {"tid": 7, "cid": 0, "did": 0, "region": "San Jose", "name": "Mustangs", "abbrev": "SAJ", "pop": 4.3}
+    ]
+}
