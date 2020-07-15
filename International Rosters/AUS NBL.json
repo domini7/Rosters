@@ -9,7 +9,7 @@
     {"key":"maxContract","value":330},
     {"key":"minContract","value":10},
     {"key":"minRosterSize","value":10},
-    {"key":"maxRosterSize","value":12},
+    {"key":"maxRosterSize","value":13},
     {"key":"minPayroll","value":720},
     {"key":"pace","value":100},
     {"key":"threePointAccuracyFactor","value": 1.0533},
