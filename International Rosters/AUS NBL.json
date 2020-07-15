@@ -10,7 +10,7 @@
     {"key":"minContract","value":10},
     {"key":"minRosterSize","value":10},
     {"key":"minRosterSize","value":12},
-    {"key":"minPayroll","value":3300},
+    {"key":"minPayroll","value":720},
     {"key":"pace","value":100},
     {"key":"threePointAccuracyFactor","value": 1.0533},
     {"key":"threePointTendencyFactor","value": 1.1},
