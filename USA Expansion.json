@@ -31,6 +31,10 @@
     {
       "key": "season",
       "value": 1790
+    },
+    {
+      "key": "startingSeason",
+      "value": 1790
     }],
 	"teams": [{
 		"abbrev": "CT",
