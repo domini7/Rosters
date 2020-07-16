@@ -1,3 +1,6 @@
+This file has a list of things I need to fix with my files to make them a bit more accurate and enjoyable
+
+
 finish all players for CBA
 do all the players for australia nbl (import all players from someone elses file, they dont mind)
 
@@ -19,22 +22,13 @@ money is too difficult to earn in international leagues
 
 all teams need colors
 
-learn how to auto generate rosters (ask nicidob? probably need to learn python first)
+learn how to auto generate rosters
 
-show africa and south america some love
-south east asia would probably like some league files, but little playerbase from SEA (who cares?)
-
-create an olympic file (already done, but it kind of sucks)
+show africa, south east asia, and south america some love
 
 FIX ALL INACCURACIES
   - some leagues dont have salary caps
   - min/max roster sizes aren't accurate in some leagues
   - foul rates are off by a bit
   - pace needs to be slightly adjusted for some leagues
-  
-Combine all international leagues into one
-  do by continent, all leagues in one is too hard to sim
-  need to make files for every international league first
-  probably should just do a continental roster file, ft the best players from each continent
-    - north america would dominate, need to be balanced
-    - need foreign player restrictions (bug dumbmatter to add feature)
+ 
