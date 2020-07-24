@@ -7,7 +7,7 @@
 	{"key":"luxuryPayroll","value":5800},
 	{"key":"luxuryTax","value":1.5},
 	{"key":"maxContract","value":1650},
-	{"key":"minContract","value":45},
+	{"key":"minContract","value":50},
 	{"key":"minPayroll","value":3300},
 	{"key":"pace","value":95},
 	{"key": "threePointAccuracyFactor","value": 1.04},
