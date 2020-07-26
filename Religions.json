@@ -1,0 +1,25 @@
+{
+    "gameAttributes": [
+        {
+        "key": "playerBioInfo",
+        "value": {
+            "default": {
+                "colleges": {
+                    "Christianity": 292,
+                    "Islam": 242,
+                    "Hinduism": 156,
+                    "Athiest": 143,
+                    "Buddhism": 62,
+                    "Folk Religion": 51,
+                    "Ethnic Religions": 31,
+                    "African Traditional relgions": 13,
+                    "Sikhism": 4,
+                    "Spiritism": 3,
+                    "Judaism": 3
+                    },
+                "fractionSkipCollege": 0
+            }
+        }
+    }
+]
+}
