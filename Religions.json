@@ -3,27 +3,36 @@
         {
         "key": "playerBioInfo",
         "value": {
-            "default": {
-                "countries": {
-                    "USA": {
-                        "fractionSkipCollege": 0
+           "countries": {
+                "USA": {
+                    "fractionSkipCollege": 0
                     },
-                    "Canada": {
-                        "fractionSkipCollege": 0
+                "Canada": {
+                    "fractionSkipCollege": 0
                     }
                 },
+            "default": {
                 "colleges": {
-                    "Christianity": 292,
-                    "Islam": 242,
-                    "Hinduism": 156,
-                    "Athiest": 143,
-                    "Buddhism": 62,
-                    "Folk Religion": 51,
-                    "Ethnic Religions": 31,
-                    "African Traditional relgions": 13,
-                    "Sikhism": 4,
-                    "Spiritism": 3,
-                    "Judaism": 3
+                    "Christianity": 1,
+                    "Islam": 1,
+                    "Hinduism": 1,
+                    "Nonreligious": 1,
+                    "Buddhism": 1,
+                    "Chinese Traditional Religion": 1,
+                    "Ethnic Religions": 1,
+                    "African Traditional Religions": 1,
+                    "Sikhism": 1,
+                    "Spiritism": 1,
+                    "Judaism": 1,
+                    "Juche": 1,
+                    "Bahai": 1,
+                    "Jainism": 1,
+                    "Shinto": 1,
+                    "Cao Dai": 1,
+                    "Zoroastsrianism": 1,
+                    "Tenrikyo": 1,
+                    "Neo-Paganism": 1,
+                    "Unitarian-Universalism": 1
                     },
                 "fractionSkipCollege": 0
             }
