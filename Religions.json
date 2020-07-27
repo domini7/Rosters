@@ -4,6 +4,14 @@
         "key": "playerBioInfo",
         "value": {
             "default": {
+                "countries": {
+                    "USA": {
+                        "fractionSkipCollege": 0
+                    },
+                    "Canada": {
+                        "fractionSkipCollege": 0
+                    }
+                },
                 "colleges": {
                     "Christianity": 292,
                     "Islam": 242,
