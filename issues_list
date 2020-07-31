@@ -1,20 +1,13 @@
 This file has a list of things I need to fix with my files to make them a bit more accurate and enjoyable
 
-clean up the Japanese B.League (manually add transparent backgrounds thru photoshop)
-fix some of the CBA logos (ugly on darkmode, need better transparency)
-
-Rewrite countries of each international league
+Japanese B.League needs transparent logos
+CBA logos ugly on dark mode
+Rewrite international leagues
 add more foreign names to all international leagues
-
 money is too difficult to earn in international leagues
-
 all teams are missing colors
-
 INACCURACIES
  some leagues dont have salary caps
  min/max roster sizes aren't accurate in some leagues
  foul rates are off by a bit
  pace needs to be slightly adjusted for some leagues
- 
-add US presidents to USA expansion file (if i do this, the whole league is cleared of generated players)
-  maybe pay an artist to draw some presidents balling out?
