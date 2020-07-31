@@ -1,0 +1,31 @@
+{
+	"gameAttributes": [
+	{"key": "numGames", "value": 10},
+	{"key": "numGamesPlayoffSeries", "value": [1,1]},
+	{"key": "salaryCap", "value": 4000},
+	{"key": "maxContract", "value": 500},
+	{"key": "minContract", "value": 50},
+	{"key": "minPayroll", "value": 2500},
+	{"key": "hardCap", "value": true},
+	{"key": "numPlayoffByes","value": 0},
+	{ "key": "confs",
+      "value": [ {"cid": 0, "name": "East Division"},
+				 {"cid": 1, "name": "West Division"}
+            ] },
+        { "key": "divs",
+          "value": [ {"did": 0, "cid": 0, "name": "East"},
+					 {"did": 1, "cid": 1, "name": "West"}
+            ]
+        }
+	],
+	"teams": [
+	{"tid": 0, "cid": 1, "did": 1, "region": "Dallas", "name": "Reneages", "abbrev": "DAL", "pop": 7.5, "imgURL": "https://sportslogohistory.com/wp-content/uploads/2019/08/dallas_renegads_2020-pres.png" },
+	{"tid": 1, "cid": 0, "did": 0, "region": "DC", "name": "Defenders", "abbrev": "DC", "pop": 6.2, "imgURL": "https://i.imgur.com/2nhLhfw.png" },
+	{"tid": 2, "cid": 1, "did": 1, "region": "Houston", "name": "Roughnecks", "abbrev": "HOU", "pop": 2.3, "imgURL": "https://upload.wikimedia.org/wikipedia/en/2/25/Houston_Roughnecks_logo.png" },
+	{"tid": 3, "cid": 1, "did": 1, "region": "Los Angeles", "name": "Wildcats", "abbrev": "LA", "pop": 13.1, "imgURL": "https://sportslogohistory.com/wp-content/uploads/2019/08/los_angeles_wildcats_2020-pres.png" },
+	{"tid": 4, "cid": 0, "did": 0, "region": "New York", "name": "Guardians", "abbrev": "NY", "pop": 18.3, "imgURL": "https://upload.wikimedia.org/wikipedia/en/2/2f/New_York_Guardians.png" },
+	{"tid": 5, "cid": 0, "did": 0, "region": "St. Louis", "name": "BattleHawks", "abbrev": "STL", "pop": 2.8, "imgURL": "https://upload.wikimedia.org/wikipedia/en/a/ae/St._Louis_BattleHawks_logo.png" },
+	{"tid": 6, "cid": 0, "did": 0, "region": "Seattle", "name": "Dragons", "abbrev": "SEA", "pop": 3.9, "imgURL": "https://upload.wikimedia.org/wikipedia/en/3/3c/Seattle_Dragons.png" },
+	{"tid": 7, "cid": 1, "did": 1, "region": "Tampa Bay", "name": "Vipers", "abbrev": "TB", "pop": 2.7, "imgURL": "https://sportslogohistory.com/wp-content/uploads/2019/08/tampa_bay_vipers_2020-pres.png" }
+	]
+}
