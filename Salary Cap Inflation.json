@@ -1,4 +1,7 @@
 {
+	"gameAttributes": [
+		{"key":"budget","value":false}
+	],
 	"scheduledEvents": [
     {
       "type": "gameAttributes",
