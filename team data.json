@@ -2,7 +2,12 @@
   "AND": {
     "imgURL": "https://i.ibb.co/Sckm3ws/and.png",
     "name": "Packers",
-    "region": "Anderson"
+    "region": "Anderson",
+    "colors": [
+      "#FFFFFF",
+      "#000080",
+      "#FFFFFF"
+    ]
   },
   "ATL": {
   	"colors": [
@@ -40,9 +45,9 @@
       "2016": {
         "imgURL": "https://i.ibb.co/cwqs7TY/atl2016.png",
         "colors": [
-      "#e03a3e",
+          "#e03a3e",
       "#C1D32F",
-      "#26282A"
+        "#26282A"
     ]
       }
     }
@@ -51,6 +56,11 @@
     "imgURL": "https://i.ibb.co/stZp3cS/bal1964.png",
     "name": "Bullets",
     "region": "Baltimore",
+    "colors": [
+      "#0000FF",
+      "#FF0000",
+      "#FFFFFF"
+    ],
     "seasons": {
       "1964": {
         "imgURL": "https://i.ibb.co/stZp3cS/bal1964.png"
@@ -72,7 +82,12 @@
   "BLB": {
     "imgURL": "https://i.ibb.co/LxQkyLy/blb.png",
     "name": "Bullets",
-    "region": "Baltimore"
+    "region": "Baltimore",
+    "colors": [
+      "#0000FF",
+      "#FF0000",
+      "#FFFFFF"
+    ]
   },
   "BOS": {
     "imgURL": "https://i.ibb.co/vdNGNgP/bos1947.png",
@@ -119,6 +134,11 @@
     "imgURL": "https://i.ibb.co/rQnYqc7/buf1971.png",
     "name": "Braves",
     "region": "Buffalo",
+    "colors": [
+      "#000000",
+      "#FFA500",
+      "#FFFFFF"
+    ]
     "seasons": {
       "1971": {
         "imgURL": "https://i.ibb.co/rQnYqc7/buf1971.png"
@@ -137,6 +157,11 @@
     "imgURL": "https://i.ibb.co/sbwBPkc/cha2005.png",
     "name": "Bobcats",
     "region": "Charlotte",
+    "colors": [
+      "#008080",
+      "#808080",
+      "#FFFFFF"
+    ]
     "seasons": {
       "2005": {
         "imgURL": "https://i.ibb.co/sbwBPkc/cha2005.png"
