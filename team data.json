@@ -399,7 +399,12 @@
   "DNN": {
     "imgURL": "https://i.ibb.co/WcS9k79/dnn.png",
     "name": "Nuggets",
-    "region": "Denver"
+    "region": "Denver",
+    "colors": [
+      "#041E42",
+      "#9D2235",
+      "#8B6F4E"
+    ]
   },
   "DTF": {
     "imgURL": "https://i.ibb.co/pj8q5YC/dtf.png",
