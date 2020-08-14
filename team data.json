@@ -164,7 +164,7 @@
 		"region": "Charlotte",
 		"colors": [
 			"#008080",
-			"#808080",
+			"#FFA500",
 			"#FFFFFF"
 		],
 		"seasons": {
@@ -244,14 +244,19 @@
 		"region": "Chicago",
 		"colors": [
 			"#f2cf9d",
-			"#f2cf9d",
-			"#FFFFFF"
+			"#FFFFFF",
+			"#f2cf9d"
 		]
 	},
 	"CIN": {
 		"imgURL": "https://i.ibb.co/ZcvBVdB/cin1959.png",
 		"name": "Royals",
 		"region": "Cincinnati",
+		"colors": [
+			"#000080",
+			"#FFFFFF",
+			"#000080"
+		],
 		"seasons": {
 			"1958": {
 				"imgURL": "https://i.ibb.co/ZcvBVdB/cin1959.png"
@@ -651,16 +656,29 @@
 		"name": "Lakers",
 		"region": "Los Angeles",
 		"colors": [
-			"#552583",
-			"#FDB927",
-			"#000000"
+			"#FFD700",
+			"#FFFFFF",
+			"#301934"
 		],
 		"seasons": {
 			"1977": {
 				"imgURL": "https://i.ibb.co/c3yDsF6/lal1977.png"
 			},
 			"2002": {
-				"imgURL": "https://i.ibb.co/TbMMKSd/lal2002.png"
+				"imgURL": "https://i.ibb.co/TbMMKSd/lal2002.png",
+				"colors": [
+			"#FFD700",
+			"#b19cd9",
+			"#FFFFFF"
+				]
+			},
+			"2018": {
+				"imgURL": "https://i.ibb.co/TbMMKSd/lal2002.png",
+				"colors": [
+			"#552583",
+			"#FDB927",
+			"#000000"
+		]
 			}
 		}
 	},
@@ -798,7 +816,7 @@
 		"region": "Milwaukee",
 		"colors": [
 			"#FF0000",
-			"#FF0000",
+			"#000000",
 			"#000000"
 		]
 	},
@@ -807,9 +825,9 @@
 		"name": "Lakers",
 		"region": "Minneapolis",
 		"colors": [
-			"#552583",
-			"#FDB927",
-			"#000000"
+			"#89cff0",
+			"#FFD700",
+			"#FFD700"
 		]
 	},
 	"NJN": {
@@ -840,6 +858,11 @@
 		"imgURL": "https://i.ibb.co/hm7MgtM/noh2003.png",
 		"name": "Hornets",
 		"region": "New Orleans",
+		"colors": [
+			"#ADD8E6",
+			"#FFFF00",
+			"#ADD8E6"
+		],
 		"seasons": {
 			"2003": {
 				"imgURL": "https://i.ibb.co/hm7MgtM/noh2003.png"
@@ -1277,7 +1300,7 @@
 		"region": "St. Louis",
 		"colors": [
 			"#996600",
-			"#996600",
+			"#000000",
 			"#000000"
 		]
 	},
@@ -1351,7 +1374,7 @@
 		"region": "Tri-Cities",
 		"colors": [
 			"#89cff0",
-			"#89cff0",
+			"#FFFFFF",
 			"#000000"
 		]
 	},
