@@ -1308,6 +1308,11 @@
 		"imgURL": "https://i.ibb.co/Cv1Vvvr/stl1956.png",
 		"name": "Hawks",
 		"region": "St. Louis",
+		"colors": [
+			"#00008B",
+			"#FFFFFF",
+			"#000000"
+		],
 		"seasons": {
 			"1956": {
 				"imgURL": "https://i.ibb.co/Cv1Vvvr/stl1956.png"
