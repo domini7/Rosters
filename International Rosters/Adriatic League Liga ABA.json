@@ -6,6 +6,7 @@
     {"key":"salaryCap","value":11000},
     {"key":"luxuryPayroll","value":12100},
     {"key": "draftType","value": "freeAgents"},
+    {"key": "numSeasonsFutureDraftPicks","value": 0},
     {"key":"maxContract","value":3300},
     {"key":"minContract","value":100},
     {"key":"minRosterSize","value":10},
