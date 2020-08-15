@@ -5,6 +5,7 @@
 	{"key": "quarterLength","value": 12},
 	{"key":"salaryCap","value":5000},
 	{"key":"luxuryPayroll","value":5800},
+	{"key":"draftType","value":"freeAgents"},
 	{"key":"luxuryTax","value":1.5},
 	{"key":"maxContract","value":1650},
 	{"key":"minContract","value":50},
