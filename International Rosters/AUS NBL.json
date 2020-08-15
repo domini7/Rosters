@@ -5,6 +5,7 @@
     {"key":"quarterLength","value": 10},
     {"key":"salaryCap","value":1100},
     {"key": "draftType","value": "freeAgents"},
+    {"key": "numSeasonsFutureDraftPicks","value": 0},
     {"key":"luxuryPayroll","value":1210},
     {"key":"maxContract","value":330},
     {"key":"minContract","value":10},
