@@ -7,6 +7,7 @@
     {"key":"luxuryPayroll","value":3100},
     {"key":"luxuryTax","value":1.5},
     {"key": "draftType","value": "freeAgents"},
+    {"key": "numSeasonsFutureDraftPicks","value": 0},
     {"key":"maxContract","value":652},
     {"key":"minContract","value":50},
     {"key":"minRosterSize","value":10},
