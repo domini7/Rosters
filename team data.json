@@ -1,9 +1,12 @@
-{"AND": {"imgURL": "https://i.ibb.co/Sckm3ws/and.png",
-	"name": "Packers",
-	"region": "Anderson",
-	"colors": ["#FFFFFF","#000080","#FFFFFF"]
+{
+	"AND": {
+		"imgURL": "https://i.ibb.co/Sckm3ws/and.png",
+		"name": "Packers",
+		"region": "Anderson",
+		"colors": ["#FFFFFF","#000080","#FFFFFF"]
 },
-"ATL": {"colors": ["#C8102E","#FFCD00","#87674F"],
+	"ATL": {
+		"colors": ["#C8102E","#FFCD00","#87674F"],
 		"imgURL": "https://i.ibb.co/MR2WyQ2/atl1969.png",
 		"name": "Hawks",
 		"region": "Atlanta",
@@ -151,7 +154,7 @@
 				"colors": ["#860038","#041E42","#FDBB30"]},
 		"2011": {"imgURL": "https://i.ibb.co/5hBpjT7/cle2011.png",
 				"colors": ["#860038","#041E42","#FDBB30"]},
-		"2017": {"imgURL": "https://i.ibb.co/b3sKtb1/cle2018.png",
+		"2018": {"imgURL": "https://i.ibb.co/b3sKtb1/cle2018.png",
 				"colors": ["#860038","#041E42","#FDBB30"]}
 		}
 	},
