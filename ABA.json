@@ -309,34 +309,13 @@
       "id": 19
 },
 {
-    "type": "gameAttributes",
-      	"season": 1976,
-      		"phase": 0,
-      			"info": {
-        			"confs": [
-          			{
-            		"cid": 0,
-            		"name": "ABA"
-          			}
-        	],
-       		 		"divs": [
-          			{
-            			"did": 0,
-            			"cid": 0,
-            			"name": "League"
-        			}
-        	]
-      			},
-      "id": 20
-},
-{
     "type": "contraction",
     	"season": 1972,
       		"phase": 4,
       			"info": {
         		"tid": 7
       			},
-    "id": 21
+    "id": 20
 },
 {
     "type": "contraction",
@@ -345,16 +324,7 @@
       			"info": {
         			"tid": 0
       			},
-    "id": 22
-},
-{
-    "type": "contraction",
-      	"season": 1975,
-      		"phase": 4,
-      			"info": {
-        		"tid": 9
-      			},
-    "id": 23
+    "id": 21
 }
 ]
 }
