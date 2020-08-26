@@ -72,7 +72,7 @@
 							"did": 0,
 							"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/San_Diego_Sails-Conquistados_logo.png/175px-San_Diego_Sails-Conquistados_logo.png",
 							"name": "Sails",
-							"pop": 1,
+							"pop": 3.317,
 							"region": "San Diego",
 							"tid": 11
 						}
@@ -89,6 +89,7 @@
         			"did": 0,
         			"tid": 8,
         			"region": "New York",
+        			"pop": 20.3,
         			"name": "Nets",
         			"colors": ["#0000FF","#FFA500","#FF0000"],
         			"imgURL": "https://sportsteamhistory.com/wp-content/uploads/2020/03/new_york_nets_1973-1977.png"
@@ -104,6 +105,7 @@
         			"did": 0,
         			"tid": 7,
         			"region": "Miami",
+        			"pop": 6.158,
         			"name": "Floridians",
         			"colors": ["#000000","#FF00FF","#0000FF"],
         			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/miami_floridians_1969-1970.png"
@@ -119,6 +121,7 @@
         			"did": 1,
         			"tid": 1,
         			"region": "Los Angeles",
+        			"pop": 13.131,
         			"name": "Stars",
         			"colors": ["#FFFFFF","#FFA500","#000000"],
         			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/los_angeles_stars_1969-1970_a.png"
@@ -134,6 +137,7 @@
         			"did": 1,
         			"tid": 10,
         			"region": "Virgina",
+        			"pop": 1.263,
         			"name": "Squires",
         			"colors": ["#FFA500","#FFFFFF","#FFA500"],
         			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/virginia_squires_1975-1976.png"
@@ -164,6 +168,7 @@
         			"did": 1,
         			"tid": 4,
         			"region": "Carolina",
+        			"pop": 2.636,
         			"name": "Cougars",
         			"colors": ["#008000","#56a0d3","#FFFFFF"],
         			"imgURL": "https://content.sportslogos.net/logos/18/272/full/5168.gif"
@@ -179,6 +184,7 @@
         			"did": 1,
         			"tid": 4,
         			"region": "St. Louis",
+        			"pop": 2.807,
         			"name": "Spirits",
         			"colors": ["#008000","#C0C0C0","#FFFFFF"],
         			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_louis_spirit_1975-1976_a.png"
@@ -194,6 +200,7 @@
         			"did": 0,
         			"tid": 1,
         			"region": "Utah",
+        			"pop": 1.222,
         			"name": "Stars",
         			"colors": ["#FF0000","#FFFFFF","#FFFFFF"],
         			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/utah_stars_1971-1976.png"
@@ -209,6 +216,7 @@
         			"did": 1,
         			"tid": 2,
         			"region": "San Antonio",
+        			"pop": 2.55,
         			"name": "Spurs",
         			"colors": ["#C4CED4","#000000","#000000"],
         			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_antonio_spurs_2017-pres.png"
@@ -224,6 +232,7 @@
         			"did": 1,
         			"tid": 9,
         			"region": "Memphis",
+        			"pop": 1.348,
         			"name": "Sounds",
         			"colors": ["#CFB53B","#FF0000","#FFFFFF"],
         			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/memphis_sounds_1974-1975.png"
