@@ -7,11 +7,12 @@
 {"key": "twoPointAccuracyFactor", "value": 0.937},
 {"key": "threePointAccuracyFactor", "value": 0.88},
 {"key": "threePointTendencyFactor", "value": 0.15},
-{"key": "salaryCap","value":25000},
-{"key": "luxuryPayroll", "value":28000},
-{"key": "maxContract", "value":8350},
-{"key": "minContract", "value":200},
-{"key": "minPayroll", "value":16500},
+{"key": "draftType", "value": "nba1990"},
+{"key": "salaryCap","value":1650},
+{"key": "luxuryPayroll", "value":2150},
+{"key": "maxContract", "value":550},
+{"key": "minContract", "value":50},
+{"key": "minPayroll", "value":1100},
 {
             "key": "confs",
             "value": [
@@ -89,6 +90,7 @@
         			"did": 0,
         			"tid": 8,
         			"region": "New York",
+        			"abbrev": "NY",
         			"pop": 20.3,
         			"name": "Nets",
         			"colors": ["#0000FF","#FFA500","#FF0000"],
@@ -105,6 +107,7 @@
         			"did": 0,
         			"tid": 7,
         			"region": "Miami",
+        			"abbrev": "MIA",
         			"pop": 6.158,
         			"name": "Floridians",
         			"colors": ["#000000","#FF00FF","#0000FF"],
@@ -121,6 +124,7 @@
         			"did": 1,
         			"tid": 1,
         			"region": "Los Angeles",
+        			"abbrev": "LA",
         			"pop": 13.131,
         			"name": "Stars",
         			"colors": ["#FFFFFF","#FFA500","#000000"],
@@ -137,6 +141,7 @@
         			"did": 1,
         			"tid": 10,
         			"region": "Virgina",
+        			"abbrev": "VI",
         			"pop": 1.263,
         			"name": "Squires",
         			"colors": ["#FFA500","#FFFFFF","#FFA500"],
@@ -153,6 +158,7 @@
         			"did": 0,
         			"tid": 0,
         			"region": "Pittsburgh",
+        			"abbrev": "PIT",
         			"name": "Condors",
         			"colors": ["#0000FF","#FFA500","#FF0000"],
         			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/pittsburgh_condor_1971-1972.png"
@@ -168,6 +174,7 @@
         			"did": 1,
         			"tid": 4,
         			"region": "Carolina",
+        			"abbrev": "CAR",
         			"pop": 2.636,
         			"name": "Cougars",
         			"colors": ["#008000","#56a0d3","#FFFFFF"],
@@ -184,6 +191,7 @@
         			"did": 1,
         			"tid": 4,
         			"region": "St. Louis",
+        			"abbrev": "STL",
         			"pop": 2.807,
         			"name": "Spirits",
         			"colors": ["#008000","#C0C0C0","#FFFFFF"],
@@ -200,6 +208,7 @@
         			"did": 0,
         			"tid": 1,
         			"region": "Utah",
+        			"abbrev": "UTA",
         			"pop": 1.222,
         			"name": "Stars",
         			"colors": ["#FF0000","#FFFFFF","#FFFFFF"],
@@ -216,6 +225,7 @@
         			"did": 1,
         			"tid": 2,
         			"region": "San Antonio",
+        			"abbrev": "SA",
         			"pop": 2.55,
         			"name": "Spurs",
         			"colors": ["#C4CED4","#000000","#000000"],
@@ -232,6 +242,7 @@
         			"did": 1,
         			"tid": 9,
         			"region": "Memphis",
+        			"abbrev": "MEM",
         			"pop": 1.348,
         			"name": "Sounds",
         			"colors": ["#CFB53B","#FF0000","#FFFFFF"],
@@ -266,6 +277,18 @@
 },
 {
     "type": "gameAttributes",
+      	"season": 1969,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 1750,
+        			"luxuryPayroll": 2250,
+        			"minPayroll": 1150,
+        			"maxContract": 600
+      			},
+      "id": 16
+},
+{
+    "type": "gameAttributes",
       	"season": 1970,
       		"phase": 0,
       			"info": {
@@ -273,7 +296,18 @@
 					"twoPointAccuracyFactor": 0.952,
 					"numGames": 84
       			},
-      "id": 16
+      "id": 17
+},
+{
+    "type": "gameAttributes",
+      	"season": 1970,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 1800,
+        			"luxuryPayroll": 2350,
+        			"minPayroll": 1200
+      			},
+      "id": 18
 },
 {
     "type": "gameAttributes",
@@ -283,7 +317,19 @@
         			"pace": 111.1,
 					"twoPointAccuracyFactor": 0.959
       			},
-      "id": 17
+      "id": 19
+},
+{
+    "type": "gameAttributes",
+      	"season": 1971,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 1900,
+        			"luxuryPayroll": 2450,
+        			"minPayroll": 1250,
+        			"maxContract": 650
+      			},
+      "id": 20
 },
 {
     "type": "gameAttributes",
@@ -293,7 +339,18 @@
         			"pace": 106.5,
 					"twoPointAccuracyFactor": 0.965
       			},
-      "id": 18
+      "id": 21
+},
+{
+    "type": "gameAttributes",
+      	"season": 1972,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2000,
+        			"luxuryPayroll": 2550,
+        			"minPayroll": 1350
+      			},
+      "id": 22
 },
 {
     "type": "gameAttributes",
@@ -303,7 +360,19 @@
         			"pace": 105.6,
 					"twoPointAccuracyFactor": 0.97
       			},
-      "id": 19
+      "id": 23
+},
+{
+    "type": "gameAttributes",
+      	"season": 1973,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2100,
+       				 "luxuryPayroll": 2650,
+        			"minPayroll": 1400,
+        			"maxContract": 700
+      			},
+      "id": 24
 },
 {
     "type": "gameAttributes",
@@ -313,7 +382,19 @@
         			"pace": 102.6,
 					"twoPointAccuracyFactor": 0.96
       			},
-      "id": 20
+      "id": 25
+},
+{
+    "type": "gameAttributes",
+      	"season": 1974,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2200,
+        			"luxuryPayroll": 2800,
+       				"minPayroll": 1450,
+        			"maxContract": 750
+      			},
+      "id": 26
 },
 {
     "type": "gameAttributes",
@@ -323,7 +404,18 @@
         			"pace": 103.1,
 					"twoPointAccuracyFactor": 0.973
       			},
-      "id": 21
+      "id": 27
+},
+{
+    "type": "gameAttributes",
+      	"season": 1975,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2300,
+        			"luxuryPayroll": 2950,
+        			"minPayroll": 1550
+      			},
+      "id": 28
 },
 {
     "type": "gameAttributes",
@@ -333,7 +425,772 @@
         			"pace": 106.9,
 					"twoPointAccuracyFactor": 0.965
       			},
-      "id": 22
-}
+      "id": 29
+},
+{
+    "type": "gameAttributes",
+      	"season": 1976,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2450,
+        			"luxuryPayroll": 3050,
+        			"minPayroll": 1650,
+        			"maxContract": 800
+      			},
+      "id": 30
+},
+{
+    "type": "gameAttributes",
+      	"season": 1977,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2550,
+        			"luxuryPayroll": 3200,
+        			"minPayroll": 1700,
+        			"maxContract": 850
+      			},
+      "id": 31
+},
+{
+    "type": "gameAttributes",
+      	"season": 1978,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2700,
+        			"luxuryPayroll": 3350,
+        			"minPayroll": 1800,
+        			"maxContract": 900
+      			},
+      "id": 32
+},
+{
+    "type": "gameAttributes",
+      	"season": 1979,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2800,
+        			"luxuryPayroll": 3550,
+        			"minPayroll": 1850,
+        			"maxContract": 950
+      			},
+      "id": 33
+},
+{
+    "type": "gameAttributes",
+      	"season": 1980,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 2950,
+        			"luxuryPayroll": 3700,
+        			"minPayroll": 1950,
+        			"maxContract": 1000
+      			},
+      "id": 34
+},
+{
+      "type": "gameAttributes",
+      "season": 1981,
+      "phase": 0,
+      "info": {
+        "pace": 101.8,
+        "threePointTendencyFactor": 0.2,
+        "twoPointAccuracyFactor": 1.008
+      },
+      "id": 35
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1981,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 3100,
+        			"luxuryPayroll": 3850,
+        			"minPayroll": 2050,
+        			"maxContract": 1050
+      			},
+      "id": 36
+},
+{
+    "type": "gameAttributes",
+      	"season": 1982,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 3250,
+       				"luxuryPayroll": 4050,
+        			"minPayroll": 2150,
+        			"maxContract": 1100
+      			},
+      "id": 37
+},
+{
+    "type": "gameAttributes",
+      	"season": 1983,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 3450,
+        			"luxuryPayroll": 4250,
+        			"minPayroll": 2300,
+        			"maxContract": 1150
+      			},
+      "id": 38
+},
+{
+    "type": "gameAttributes",
+      	"season": 1984,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 3600,
+        			"luxuryPayroll": 4700,
+        			"minPayroll": 2400,
+        			"maxContract": 1200
+      			},
+      "id": 39
+},
+{
+    "type": "gameAttributes",
+      	"season": 1985,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 4250,
+        			"luxuryPayroll": 5550,
+        			"minPayroll": 2850,
+        			"maxContract": 1400
+      			},
+      "id": 40
+},
+{
+    "type": "gameAttributes",
+      	"season": 1986,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 4950,
+        			"luxuryPayroll": 6500,
+        			"minPayroll": 3300,
+        			"maxContract": 1650
+      			},
+      "id": 41
+},
+{
+    "type": "gameAttributes",
+      	"season": 1987,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 6150,
+        			"luxuryPayroll": 8100,
+        			"minPayroll": 4100,
+        			"maxContract": 2050
+      			},
+      "id": 42
+},
+{
+      "type": "gameAttributes",
+      "season": 1988,
+      "phase": 0,
+      "info": {
+        "pace": 99.6,
+        "threePointTendencyFactor": 0.16,
+        "twoPointAccuracyFactor": 1.005
+      },
+      "id": 43
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1988,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 7250,
+        			"luxuryPayroll": 9500,
+        			"minPayroll": 4850,
+        			"maxContract": 2400
+      			},
+      "id": 45
+},
+{
+      "type": "gameAttributes",
+      "season": 1989,
+      "phase": 0,
+      "info": {
+        "pace": 100.6,
+        "threePointTendencyFactor": 0.193,
+        "threePointAccuracyFactor": 0.95,
+        "twoPointAccuracyFactor": 1.004
+      },
+      "id": 46
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1989,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 9800,
+        			"luxuryPayroll": 12850,
+        			"minPayroll": 6550,
+        			"minContract": 100,
+        			"maxContract": 3250
+      			},
+      "id": 47
+},
+{
+      "type": "gameAttributes",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "pace": 98.3,
+        "threePointTendencyFactor": 0.199,
+        "twoPointAccuracyFactor": 1.001
+      },
+      "id": 48
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1990,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 11850,
+        			"luxuryPayroll": 15550,
+        			"minPayroll": 7900,
+        			"maxContract": 3950
+      			},
+      "id": 49
+},
+{
+    "type": "gameAttributes",
+      	"season": 1991,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 12500,
+        			"luxuryPayroll": 16400,
+        			"minPayroll": 8350,
+        			"maxContract": 4150
+      			},
+      "id": 50
+},
+{
+      "type": "gameAttributes",
+      "season": 1992,
+      "phase": 0,
+      "info": {
+        "pace": 96.6,
+        "threePointTendencyFactor": 0.232,
+        "twoPointAccuracyFactor": 0.997
+      },
+      "id": 51
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1992,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 14000,
+        			"luxuryPayroll": 18350,
+        			"minPayroll": 9350,
+        			"maxContract": 4650
+      			},
+      "id": 52
+},
+{
+      "type": "gameAttributes",
+      "season": 1993,
+      "phase": 0,
+      "info": {
+        "pace": 96.8,
+        "threePointTendencyFactor": 0.274,
+        "twoPointAccuracyFactor": 1.003
+      },
+      "id": 53
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1993,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 15200,
+        			"luxuryPayroll": 19900,
+        			"minPayroll": 10150,
+        			"minContract": 150,
+        			"maxContract": 5050
+      			},
+      "id": 54
+},
+{
+      "type": "gameAttributes",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "pace": 95.1,
+        "threePointTendencyFactor": 0.31,
+        "twoPointAccuracyFactor": 0.991,
+        "draftType": "nba1994"
+      },
+      "id": 55
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1994,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 15950,
+        			"luxuryPayroll": 20950,
+        			"minPayroll": 10650,
+        			"maxContract": 5300
+      			},
+      "id": 56
+},
+{
+      "type": "gameAttributes",
+      "season": 1995,
+      "phase": 0,
+      "info": {
+        "pace": 92.9,
+        "threePointTendencyFactor": 0.485,
+        "twoPointAccuracyFactor": 1.007
+      },
+      "id": 57
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1995,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 23000,
+        			"luxuryPayroll": 30200,
+        			"minPayroll": 15350,
+        			"minContract": 200,
+        			"maxContract": 7650
+      			},
+      "id": 58
+},
+{
+      "type": "gameAttributes",
+      "season": 1996,
+      "phase": 0,
+      "info": {
+        "pace": 91.8,
+        "threePointTendencyFactor": 0.518,
+        "twoPointAccuracyFactor": 0.996
+      },
+      "id": 59
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1996,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 24350,
+        			"luxuryPayroll": 32000,
+        			"minPayroll": 16250,
+        			"maxContract": 8100
+      			},
+      "id": 60
+},
+{
+      "type": "gameAttributes",
+      "season": 1997,
+      "phase": 0,
+      "info": {
+        "pace": 90.1,
+        "threePointTendencyFactor": 0.551,
+        "twoPointAccuracyFactor": 0.985
+      },
+      "id": 61
+    },
+{
+    "type": "gameAttributes",
+      	"season": 1997,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 26900,
+        			"luxuryPayroll": 35350,
+        			"minPayroll": 17950,
+        			"maxContract": 8950
+      			},
+      "id": 62
+},
+{
+    "type": "gameAttributes",
+      	"season": 1998,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 30000,
+        			"luxuryPayroll": 39400,
+        			"minPayroll": 20000,
+        			"minContract": 250,
+        			"maxContract": 10000
+      			},
+      "id": 63
+},
+{
+    "type": "gameAttributes",
+      	"season": 1999,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 34000,
+        			"luxuryPayroll": 44650,
+        			"minPayroll": 22650,
+        			"minContract": 300,
+        			"maxContract": 11350
+      			},
+      "id": 64
+},
+{
+    "type": "gameAttributes",
+      	"season": 2000,
+      		"phase": 4,
+      			"info": {
+        			"salaryCap": 35500,
+        			"luxuryPayroll": 46600,
+        			"minPayroll": 23650,
+        			"maxContract": 11850
+      			},
+      "id": 65
+},
+{
+      "type": "gameAttributes",
+      "season": 2001,
+      "phase": 0,
+      "info": {
+        "pace": 91.3,
+        "threePointTendencyFactor": 0.443,
+        "twoPointAccuracyFactor": 0.946
+      },
+      "id": 66
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2001,
+      "phase": 4,
+      "info": {
+        "salaryCap": 42500,
+        "luxuryPayroll": 55800,
+        "minPayroll": 28350,
+        "minContract": 350,
+        "maxContract": 14150
+      },
+      "id": 67
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2002,
+      "phase": 4,
+      "info": {
+        "salaryCap": 40250,
+        "luxuryPayroll": 52900,
+        "minPayroll": 26850,
+        "maxContract": 13400
+      },
+      "id": 68
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2003,
+      "phase": 4,
+      "info": {
+        "salaryCap": 43850,
+        "luxuryPayroll": 54550,
+        "minPayroll": 29250,
+        "maxContract": 14600
+      },
+      "id": 69
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2004,
+      "phase": 0,
+      "info": {
+        "pace": 90.1,
+        "threePointTendencyFactor": 0.488,
+        "twoPointAccuracyFactor": 0.943
+      },
+      "id": 70
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2005,
+      "phase": 4,
+      "info": {
+        "salaryCap": 49500,
+        "luxuryPayroll": 61700,
+        "minPayroll": 33000,
+        "minContract": 400,
+        "maxContract": 16500
+      },
+      "id": 71
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2006,
+      "phase": 4,
+      "info": {
+        "salaryCap": 53150,
+        "luxuryPayroll": 65400,
+        "minPayroll": 35450,
+        "minContract": 450,
+        "maxContract": 17700
+      },
+      "id": 72
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2007,
+      "phase": 0,
+      "info": {
+        "pace": 91.9,
+        "threePointTendencyFactor": 0.545,
+        "twoPointAccuracyFactor": 0.995
+      },
+      "id": 73
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2007,
+      "phase": 4,
+      "info": {
+        "salaryCap": 55650,
+        "luxuryPayroll": 67850,
+        "minPayroll": 37100,
+        "maxContract": 18550
+      },
+      "id": 74
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2008,
+      "phase": 4,
+      "info": {
+        "salaryCap": 58700,
+        "luxuryPayroll": 71150,
+        "minPayroll": 39150,
+        "minContract": 500,
+        "maxContract": 19550
+      },
+      "id": 75
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2009,
+      "phase": 0,
+      "info": {
+        "pace": 91.7,
+        "threePointTendencyFactor": 0.583,
+        "twoPointAccuracyFactor": 0.995
+      },
+      "id": 76
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2009,
+      "phase": 4,
+      "info": {
+        "salaryCap": 57700,
+        "luxuryPayroll": 69900,
+        "minPayroll": 38450,
+        "maxContract": 19250
+      },
+      "id": 77
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "salaryCap": 58050,
+        "luxuryPayroll": 70300,
+        "minPayroll": 38700,
+        "maxContract": 19350
+      },
+      "id": 78
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "pace": 92.1,
+        "twoPointAccuracyFactor": 0.999
+      },
+      "id": 79
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "pace": 91.3,
+        "threePointTendencyFactor": 0.595,
+        "twoPointAccuracyFactor": 0.978
+      },
+      "id": 80
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2013,
+      "phase": 4,
+      "info": {
+        "salaryCap": 58700,
+        "luxuryPayroll": 71750,
+        "minPayroll": 39150,
+        "maxContract": 19550
+      },
+      "id": 81
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "pace": 92,
+        "threePointTendencyFactor": 0.64,
+        "twoPointAccuracyFactor": 0.991
+      },
+      "id": 82
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2014,
+      "phase": 0,
+      "info": {
+        "pace": 93.9,
+        "threePointTendencyFactor": 0.676,
+        "twoPointAccuracyFactor": 1
+      },
+      "id": 83
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2014,
+      "phase": 4,
+      "info": {
+        "salaryCap": 63050,
+        "luxuryPayroll": 76850,
+        "minPayroll": 42050,
+        "minContract": 550,
+        "maxContract": 21000
+      },
+      "id": 84
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2015,
+      "phase": 0,
+      "info": {
+        "threePointTendencyFactor": 0.76
+      },
+      "id": 85
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2015,
+      "phase": 4,
+      "info": {
+        "salaryCap": 70000,
+        "luxuryPayroll": 84750,
+        "minPayroll": 46650,
+        "minContract": 600,
+        "maxContract": 23350
+      },
+      "id": 86
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2016,
+      "phase": 0,
+      "info": {
+        "pace": 95.8,
+        "threePointTendencyFactor": 0.825
+      },
+      "id": 87
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2016,
+      "phase": 4,
+      "info": {
+        "salaryCap": 94150,
+        "luxuryPayroll": 113300,
+        "minPayroll": 62750,
+        "minContract": 800,
+        "maxContract": 31400
+      },
+      "id": 88
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2017,
+      "phase": 0,
+      "info": {
+        "pace": 96.4,
+        "threePointTendencyFactor": 0.855
+      },
+      "id": 89
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2017,
+      "phase": 4,
+      "info": {
+        "salaryCap": 99100,
+        "luxuryPayroll": 119250,
+        "minPayroll": 66050,
+        "minContract": 850,
+        "maxContract": 33050
+      },
+      "id": 90
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "pace": 97.3,
+        "threePointTendencyFactor": 0.896
+      },
+      "id": 91
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2018,
+      "phase": 4,
+      "info": {
+        "salaryCap": 101850,
+        "luxuryPayroll": 123750,
+        "minPayroll": 67900,
+        "maxContract": 33950
+      },
+      "id": 92
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "pace": 100,
+        "threePointTendencyFactor": 0.96,
+        "draftType": "nba2019"
+      },
+      "id": 93
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2019,
+      "phase": 4,
+      "info": {
+        "salaryCap": 109150,
+        "luxuryPayroll": 132650,
+        "minPayroll": 72750,
+        "minContract": 900,
+        "maxContract": 36400
+      },
+      "id": 94
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2020,
+      "phase": 0,
+      "info": {
+        "pace": 100.2,
+        "threePointTendencyFactor": 1.05
+      },
+      "id": 95
+    }
 ]
 }
