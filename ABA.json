@@ -142,8 +142,8 @@
       	"season": 1970,
       		"phase": 0,
       			"info": {
-        			"cid": 0,
-        			"did": 0,
+        			"cid": 1,
+        			"did": 1,
         			"tid": 4,
         			"region": "Carolina",
         			"name": "Cougars",
@@ -309,13 +309,34 @@
       "id": 19
 },
 {
+    "type": "gameAttributes",
+      	"season": 1976,
+      		"phase": 0,
+      			"info": {
+        			"confs": [
+          			{
+            		"cid": 0,
+            		"name": "ABA"
+          			}
+        	],
+       		 		"divs": [
+          			{
+            			"did": 0,
+            			"cid": 0,
+            			"name": "League"
+        			}
+        	]
+      			},
+      "id": 20
+},
+{
     "type": "contraction",
     	"season": 1972,
       		"phase": 4,
       			"info": {
         		"tid": 7
       			},
-    "id": 20
+    "id": 21
 },
 {
     "type": "contraction",
@@ -324,7 +345,7 @@
       			"info": {
         			"tid": 0
       			},
-    "id": 21
+    "id": 22
 },
 {
     "type": "contraction",
@@ -333,7 +354,7 @@
       			"info": {
         		"tid": 9
       			},
-    "id": 22
+    "id": 23
 }
 ]
 }
