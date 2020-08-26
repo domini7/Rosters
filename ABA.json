@@ -1,0 +1,339 @@
+{
+"gameAttributes":[
+{"key": "season", "value": 1968},
+{"key":"numGames","value": 78},
+{"key": "startingSeason", "value": 1968},
+{"key": "pace", "value":109},
+{"key": "twoPointAccuracyFactor", "value": 0.937},
+{"key": "threePointAccuracyFactor", "value": 0.88},
+{"key": "threePointTendencyFactor", "value": 0.15},
+{"key": "salaryCap","value":25000},
+{"key": "luxuryPayroll", "value":28000},
+{"key": "maxContract", "value":8350},
+{"key": "minContract", "value":200},
+{"key": "minPayroll", "value":16500},
+{
+            "key": "confs",
+            "value": [
+                {"cid": 0, "name": "Eastern Division"},
+                {"cid": 1, "name": "Western Division"}
+            ]
+        },
+        {
+            "key": "divs",
+            "value": [
+                {"did": 0, "cid": 0, "name": "Eastern Division"},
+                {"did": 1, "cid": 1, "name": "Western Division"}
+            ]
+        }
+],
+"teams": [
+	{"tid": 0, "cid": 0, "did": 0, "region": "Pittsburgh", "name": "Pipers", "abbrev": "PIT", "pop": 2.3, "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/PittburghPipersLogo1.gif", "colors": ["#FFA500", "#000080", "#FFFFFF"]},
+	{"tid": 1, "cid": 1, "did": 1, "region": "Anaheim", "name": "Amigos", "abbrev": "ANA", "pop": 0.336, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/anaheim_amigos_1967-1968.png", "colors": ["#FFFFFF", "#FFA500", "#000000"]},
+	{"tid": 2, "cid": 1, "did": 1, "region": "Dallas", "name": "Chaparrals", "abbrev": "DAL", "pop": 7.223, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/dallas_chapparals_1971-1973_a.png", "colors": ["#FFFFFF", "#FF0000", "#0000FF"]},
+	{"tid": 3, "cid": 1, "did": 1, "region": "Denver", "name": "Rockets", "abbrev": "DEN", "pop": 2.932, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/denver_rockets_1968-1971.png", "colors": ["#FF0000", "#FFFFFF", "#FFFFFF"]},
+	{"tid": 4, "cid": 1, "did": 1, "region": "Houston", "name": "Mavericks", "abbrev": "HOU", "pop": 6.997, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/houston_mavericks_1968-1969.png", "colors": ["#FFD700", "#000000", "#000000"]},
+	{"tid": 5, "cid": 0, "did": 0, "region": "Indiana", "name": "Pacers", "abbrev": "IND", "pop": 2.048, "imgURL":"https://i.imgur.com/CRlldJw.png", "colors": ["#002D62", "#FDBB30", "#BEC0C2"]},
+	{"tid": 6, "cid": 0, "did": 0, "region": "Kentucky", "name": "Colonels", "abbrev": "KEN", "pop": 1.265, "imgURL":"https://i.imgur.com/YGBH0MG.png", "colors": ["#008000", "#FFFFFF", "#FFFFFF"]},
+	{"tid": 7, "cid": 0, "did": 0, "region": "Minnesota", "name": "Muskies", "abbrev": "MIN", "pop": 3.629, "imgURL":"https://i.imgur.com/B2PTWY1.png", "colors": ["#FFD700", "#0000FF", "#0000FF"]},
+	{"tid": 8, "cid": 0, "did": 0, "region": "New Jersey", "name": "Americans", "abbrev": "NJ", "pop": 0.039, "imgURL":"https://content.sportslogos.net/logos/18/1128/full/5220.gif", "colors": ["#FF0000", "#0000FF", "#FFFFFF"]},
+	{"tid": 9, "cid": 1, "did": 1, "region": "New Orleans", "name": "Buccaneers", "abbrev": "NO", "pop": 1.27, "imgURL":"https://sportsteamhistory.com/wp-content/uploads/2020/03/new_orleans_bucs_1970.png", "colors": ["#FF0000", "#FFFFFF", "#0000FF"]},
+	{"tid": 10, "cid": 1, "did": 1, "region": "Oakland", "name": "Oaks", "abbrev": "OAK", "pop": 6.253, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/oakland_oaks_1968-1969-a.png", "colors": ["#32CD32", "#FFFF00", "#FFFFFF"]}
+],
+"scheduledEvents": [
+{
+	"type": "expansionDraft",
+		"season": 1972,
+			"phase": 4,
+				"info": {
+					"teams": [
+						{
+							"abbrev": "SAD",
+							"cid": 1,
+							"colors": ["#0000FF", "#008000", "#FFFFFF"],
+							"did": 1,
+							"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/San_Diego_Sails-Conquistados_logo.png/175px-San_Diego_Sails-Conquistados_logo.png",
+							"name": "Sails",
+							"pop": 1,
+							"region": "San Diego",
+							"tid": 11
+						}
+        			]
+      },
+    "id": 0
+},
+{
+    "type": "teamInfo",
+      	"season": 1969,
+      		"phase": 0,
+      			"info": {
+        			"cid": 0,
+        			"did": 0,
+        			"tid": 8,
+        			"region": "New York",
+        			"name": "Nets",
+        			"colors": ["#0000FF","#FFA500","#FF0000"],
+        			"imgURL": "https://sportsteamhistory.com/wp-content/uploads/2020/03/new_york_nets_1973-1977.png"
+      			},
+      "id": 1
+},
+{
+    "type": "teamInfo",
+      	"season": 1969,
+      		"phase": 0,
+      			"info": {
+        			"cid": 0,
+        			"did": 0,
+        			"tid": 7,
+        			"region": "Miami",
+        			"name": "Floridians",
+        			"colors": ["#000000","#FF00FF","#0000FF"],
+        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/miami_floridians_1969-1970.png"
+      			},
+      "id": 2
+},
+{
+    "type": "teamInfo",
+      	"season": 1969,
+      		"phase": 0,
+      			"info": {
+        			"cid": 1,
+        			"did": 1,
+        			"tid": 1,
+        			"region": "Los Angeles",
+        			"name": "Stars",
+        			"colors": ["#FFFFFF","#FFA500","#000000"],
+        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/los_angeles_stars_1969-1970_a.png"
+      			},
+      "id": 3
+},
+{
+    "type": "teamInfo",
+      	"season": 1971,
+      		"phase": 0,
+      			"info": {
+        			"cid": 1,
+        			"did": 1,
+        			"tid": 10,
+        			"region": "Virgina",
+        			"name": "Squires",
+        			"colors": ["#FFA500","#FFFFFF","#FFA500"],
+        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/virginia_squires_1975-1976.png"
+      			},
+      "id": 4
+},
+{
+    "type": "teamInfo",
+      	"season": 1971,
+      		"phase": 0,
+      			"info": {
+        			"cid": 0,
+        			"did": 0,
+        			"tid": 0,
+        			"region": "Pittsburgh",
+        			"name": "Condors",
+        			"colors": ["#0000FF","#FFA500","#FF0000"],
+        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/pittsburgh_condor_1971-1972.png"
+      			},
+      "id": 5
+},
+{
+    "type": "teamInfo",
+      	"season": 1970,
+      		"phase": 0,
+      			"info": {
+        			"cid": 1,
+        			"did": 1,
+        			"tid": 4,
+        			"region": "Carolina",
+        			"name": "Cougars",
+        			"colors": ["#008000","#56a0d3","#FFFFFF"],
+        			"imgURL": "https://content.sportslogos.net/logos/18/272/full/5168.gif"
+      			},
+      "id": 6
+},
+{
+    "type": "teamInfo",
+      	"season": 1975,
+      		"phase": 0,
+      			"info": {
+        			"cid": 1,
+        			"did": 1,
+        			"tid": 4,
+        			"region": "St. Louis",
+        			"name": "Spirits",
+        			"colors": ["#008000","#C0C0C0","#FFFFFF"],
+        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_louis_spirit_1975-1976_a.png"
+      			},
+      "id": 7
+},
+{
+    "type": "teamInfo",
+      	"season": 1971,
+      		"phase": 0,
+      			"info": {
+        			"cid": 0,
+        			"did": 0,
+        			"tid": 1,
+        			"region": "Utah",
+        			"name": "Stars",
+        			"colors": ["#FF0000","#FFFFFF","#FFFFFF"],
+        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/utah_stars_1971-1976.png"
+      			},
+      "id": 8
+},
+{
+    "type": "teamInfo",
+      	"season": 1974,
+      		"phase": 0,
+      			"info": {
+        			"cid": 1,
+        			"did": 1,
+        			"tid": 2,
+        			"region": "San Antonio",
+        			"name": "Spurs",
+        			"colors": ["#C4CED4","#000000","#000000"],
+        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_antonio_spurs_2017-pres.png"
+      			},
+      "id": 9
+},
+{
+    "type": "teamInfo",
+      	"season": 1971,
+      		"phase": 0,
+      			"info": {
+        			"cid": 1,
+        			"did": 1,
+        			"tid": 9,
+        			"region": "Memphis",
+        			"name": "Sounds",
+        			"colors": ["#CFB53B","#FF0000","#FFFFFF"],
+        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/memphis_sounds_1974-1975.png"
+      			},
+      "id": 10
+},
+{
+    "type": "teamInfo",
+      	"season": 1975,
+      		"phase": 0,
+      			"info": {
+        			"cid": 1,
+        			"did": 1,
+        			"tid": 3,
+        			"region": "Denver",
+        			"name": "Nuggets",
+        			"colors": ["#000080","#FFFF00","#FF0000"],
+        			"imgURL": "https://content.sportslogos.net/logos/6/229/full/5991.gif"
+      			},
+      "id": 11
+},
+{
+    "type": "gameAttributes",
+      	"season": 1969,
+      		"phase": 0,
+      			"info": {
+        			"pace": 109.4,
+					"twoPointAccuracyFactor": 0.942
+      			},
+      "id": 12
+},
+{
+    "type": "gameAttributes",
+      	"season": 1970,
+      		"phase": 0,
+      			"info": {
+        			"pace": 109.2,
+					"twoPointAccuracyFactor": 0.952,
+					"numGames": 84
+      			},
+      "id": 13
+},
+{
+    "type": "gameAttributes",
+      	"season": 1971,
+      		"phase": 0,
+      			"info": {
+        			"pace": 111.1,
+					"twoPointAccuracyFactor": 0.959
+      			},
+      "id": 14
+},
+{
+    "type": "gameAttributes",
+      	"season": 1972,
+      		"phase": 0,
+      			"info": {
+        			"pace": 106.5,
+					"twoPointAccuracyFactor": 0.965
+      			},
+      "id": 15
+},
+{
+    "type": "gameAttributes",
+      	"season": 1973,
+      		"phase": 0,
+      			"info": {
+        			"pace": 105.6,
+					"twoPointAccuracyFactor": 0.97
+      			},
+      "id": 16
+},
+{
+    "type": "gameAttributes",
+      	"season": 1974,
+      		"phase": 0,
+      			"info": {
+        			"pace": 102.6,
+					"twoPointAccuracyFactor": 0.96
+      			},
+      "id": 17
+},
+{
+    "type": "gameAttributes",
+      	"season": 1975,
+      		"phase": 0,
+      			"info": {
+        			"pace": 103.1,
+					"twoPointAccuracyFactor": 0.973
+      			},
+      "id": 18
+},
+{
+    "type": "gameAttributes",
+      	"season": 1976,
+      		"phase": 0,
+      			"info": {
+        			"pace": 106.9,
+					"twoPointAccuracyFactor": 0.965
+      			},
+      "id": 19
+},
+{
+    "type": "contraction",
+    	"season": 1972,
+      		"phase": 4,
+      			"info": {
+        		"tid": 7
+      			},
+    "id": 20
+},
+{
+    "type": "contraction",
+      	"season": 1972,
+      		"phase": 4,
+      			"info": {
+        			"tid": 0
+      			},
+    "id": 21
+},
+{
+    "type": "contraction",
+      	"season": 1975,
+      		"phase": 4,
+      			"info": {
+        		"tid": 9
+      			},
+    "id": 22
+}
+]
+}
