@@ -142,8 +142,8 @@
       	"season": 1970,
       		"phase": 0,
       			"info": {
-        			"cid": 1,
-        			"did": 1,
+        			"cid": 0,
+        			"did": 0,
         			"tid": 4,
         			"region": "Carolina",
         			"name": "Cougars",
