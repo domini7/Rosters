@@ -73,24 +73,24 @@
                 "fractionSkipCollege": 0.2
             },
             "frequencies": {
-                "China": 1,
-
+                "China": 2,
+                "India": 1,
                 "Iran": 1,
                 "Israel": 1,
-                "Japan": 1,
-                "Kazakhstan": 1,
-                "Russia": 1,
+                "Japan": 2,
+                "Kazakhstan": 2,
+                "Russia": 2,
                 "South Korea": 1,
-                "Turkey": 1,
+                "Turkey": 2,
                 "Pakistan": 1,
-                "Indonesia": 1,
-                "Laos": 1,
+                "Indonesia": 2,
+                "Laos": 2,
                 "Armenia": 1,
-                "Vietnam": 1,
-                "Thailand": 1,
-                "Kyrgyzstan": 1,
+                "Vietnam": 2,
+                "Thailand": 2,
+                "Kyrgyzstan": 2,
                 "Nepal": 1,
-                "Philippines": 1,
+                "Philippines": 2,
                 "Uzbekistan": 1
             }
         }
