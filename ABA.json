@@ -13,6 +13,7 @@
 {"key": "maxContract", "value":550},
 {"key": "minContract", "value":50},
 {"key": "minPayroll", "value":1100},
+{"key": "gracePeriodEnd","value": 1971},
 {
             "key": "confs",
             "value": [
