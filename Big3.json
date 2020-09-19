@@ -12,18 +12,8 @@
     {"key":"elamMinutes","value": 0},
     {"key":"elamPoints","value": 50},
     {"key":"numPlayersOnCourt","value": 3},
-    {
-            "key": "confs",
-            "value": [
-                {"cid": 0, "name": "Big3"}
-            ]
-        },
-        {
-            "key": "divs",
-            "value": [
-                {"did": 0, "cid": 0, "name": "League"}
-            ]
-        }
+    {"key": "confs","value":[{"cid": 0, "name": "Big3"}]},
+    {"key": "divs","value":[{"did": 0, "cid": 0, "name": "League"}]}
 ],
 	"teams": [
 		{
