@@ -32,7 +32,7 @@
 		"did": 0,
 		"region": "3's Company",
 		"name": "Team",
-		"abbrev": "3CO",
+		"abbrev": "TCO",
 		"pop": 1,
 		"imgURL": "https://upload.wikimedia.org/wikipedia/en/7/76/3s_Company_Logo.png",
 		"colors": ["#00008B","#FFA500","#FFFFFF"]
@@ -42,7 +42,7 @@
 		"did": 0,
 		"region": "3 Headed Monsters",
 		"name": "Team",
-		"abbrev": "3HM",
+		"abbrev": "THM",
 		"pop": 2,
 		"imgURL": "https://upload.wikimedia.org/wikipedia/en/0/02/3_Headed_Monsters.png",
 		"colors": ["#800080","#008000","#FFD700"]
