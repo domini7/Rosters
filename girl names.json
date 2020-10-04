@@ -3,19 +3,19 @@
 		"key": "playerBioInfo",
 		"value": {
 			"frequencies": {
-                "USA": 125,
-                "Canada": 10,
-                "Spain": 10,
-                "Germany": 10,
-                "China": 2,
-                "Japan": 5,
-                "Turkey": 10,
-                "Cameroon": 15,
-                "Australia": 10,
-                "Denmark": 10,
-                "Greece": 15,
-                "France": 10
-            },
+                		"USA": 125,
+                		"Canada": 10,
+                		"Spain": 10,
+                		"Germany": 10,
+                		"China": 2,
+                		"Japan": 5,
+                		"Turkey": 10,
+                		"Cameroon": 15,
+                		"Australia": 10,
+                		"Denmark": 10,
+                		"Greece": 15,
+                		"France": 10
+            		},
 			"countries": {
 				"USA": {
 					"first": {
@@ -5068,7 +5068,6 @@
 						"Newman": 1,
 						"Hall": 1,
 						"Fern": 1
-
 					}
 				}
 			}
