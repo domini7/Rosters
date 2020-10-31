@@ -1,0 +1,303 @@
+{
+	"scheduledEvents": [
+    {
+      "type": "gameAttributes",
+      "season": 2020,
+      "phase": 4,
+      "info": {
+        "salaryCap": 94500,
+        "luxuryPayroll": 105000,
+        "minPayroll": 63000,
+        "minContract": 790,
+        "maxContract": 31500
+      },
+      "id": 0
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2021,
+      "phase": 4,
+      "info": {
+        "salaryCap": 99220,
+        "luxuryPayroll": 110250,
+        "minPayroll": 66150,
+        "minContract": 830,
+        "maxContract": 33070
+      },
+      "id": 1
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2022,
+      "phase": 4,
+      "info": {
+        "salaryCap": 104190,
+        "luxuryPayroll": 115770,
+        "minPayroll": 69460,
+        "minContract": 870,
+        "maxContract": 34730
+      },
+      "id": 2
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2023,
+      "phase": 4,
+      "info": {
+        "salaryCap": 109400,
+        "luxuryPayroll": 121560,
+        "minPayroll": 72930,
+        "minContract": 910,
+        "maxContract": 36470
+      },
+      "id": 3
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2024,
+      "phase": 4,
+      "info": {
+        "salaryCap": 114870,
+        "luxuryPayroll": 127630,
+        "minPayroll": 76580,
+        "minContract": 950,
+        "maxContract": 38290
+      },
+      "id": 4
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2025,
+      "phase": 4,
+      "info": {
+        "salaryCap": 120610,
+        "luxuryPayroll": 134010,
+        "minPayroll": 80400,
+        "minContract": 1000,
+        "maxContract": 40200
+      },
+      "id": 5
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2026,
+      "phase": 4,
+      "info": {
+        "salaryCap": 126640,
+        "luxuryPayroll": 140710,
+        "minPayroll": 84430,
+        "minContract": 1050,
+        "maxContract": 42210
+      },
+      "id": 6
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2027,
+      "phase": 4,
+      "info": {
+        "salaryCap": 132980,
+        "luxuryPayroll": 147760,
+        "minPayroll": 88650,
+        "minContract": 1100,
+        "maxContract": 44330
+      },
+      "id": 7
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2028,
+      "phase": 4,
+      "info": {
+        "salaryCap": 139630,
+        "luxuryPayroll": 155140,
+        "minPayroll": 93090,
+        "minContract": 1160,
+        "maxContract": 46540
+      },
+      "id": 8
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2029,
+      "phase": 4,
+      "info": {
+        "salaryCap": 146670,
+        "luxuryPayroll": 162970,
+        "minPayroll": 97780,
+        "minContract": 1220,
+        "maxContract": 48890
+      },
+      "id": 9
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2030,
+      "phase": 4,
+      "info": {
+        "salaryCap": 153940,
+        "luxuryPayroll": 171040,
+        "minPayroll": 102630,
+        "minContract": 1330,
+        "maxContract": 51310
+      },
+      "id": 10
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2031,
+      "phase": 4,
+      "info": {
+        "salaryCap": 161630,
+        "luxuryPayroll": 179590,
+        "minPayroll": 107750,
+        "minContract": 1390,
+        "maxContract": 53870
+      },
+      "id": 11
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2032,
+      "phase": 4,
+      "info": {
+        "salaryCap": 169720,
+        "luxuryPayroll": 188580,
+        "minPayroll": 113450,
+        "minContract": 1460,
+        "maxContract": 56570
+      },
+      "id": 12
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2033,
+      "phase": 4,
+      "info": {
+        "salaryCap": 178200,
+        "luxuryPayroll": 198000,
+        "minPayroll": 118800,
+        "minContract": 1540,
+        "maxContract": 59400
+      },
+      "id": 13
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2034,
+      "phase": 4,
+      "info": {
+        "salaryCap": 187110,
+        "luxuryPayroll": 207900,
+        "minPayroll": 124740,
+        "minContract": 1610,
+        "maxContract": 62370
+      },
+      "id": 14
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2035,
+      "phase": 4,
+      "info": {
+        "salaryCap": 196470,
+        "luxuryPayroll": 218300,
+        "minPayroll": 130980,
+        "minContract": 1690,
+        "maxContract": 65490
+      },
+      "id": 15
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2036,
+      "phase": 4,
+      "info": {
+        "salaryCap": 206290,
+        "luxuryPayroll": 229210,
+        "minPayroll": 137530,
+        "minContract": 1780,
+        "maxContract": 68760
+      },
+      "id": 16
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2037,
+      "phase": 4,
+      "info": {
+        "salaryCap": 216600,
+        "luxuryPayroll": 240670,
+        "minPayroll": 144400,
+        "minContract": 1870,
+        "maxContract": 72200
+      },
+      "id": 17
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2038,
+      "phase": 4,
+      "info": {
+        "salaryCap": 227430,
+        "luxuryPayroll": 252700,
+        "minPayroll": 151620,
+        "minContract": 1960,
+        "maxContract": 75810
+      },
+      "id": 18
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2039,
+      "phase": 4,
+      "info": {
+        "salaryCap": 238800,
+        "luxuryPayroll": 265330,
+        "minPayroll": 159200,
+        "minContract": 2050,
+        "maxContract": 79600
+      },
+      "id": 19
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2040,
+      "phase": 4,
+      "info": {
+        "salaryCap": 250750,
+        "luxuryPayroll": 278610,
+        "minPayroll": 167170,
+        "minContract": 2160,
+        "maxContract": 83580
+      },
+      "id": 20
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2041,
+      "phase": 4,
+      "info": {
+        "salaryCap": 263280,
+        "luxuryPayroll": 292530,
+        "minPayroll": 175520,
+        "minContract": 2270,
+        "maxContract": 87760
+      },
+      "id": 21
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2042,
+      "phase": 4,
+      "info": {
+        "salaryCap": 276450,
+        "luxuryPayroll": 307170,
+        "minPayroll": 184300,
+        "minContract": 2380,
+        "maxContract": 92150
+      },
+      "id": 22
+    }
+]
+}
