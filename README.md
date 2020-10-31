@@ -1,5 +1,5 @@
 # Rosters
-All sorts of rosters for bbgm
+All sorts of rosters for (BasketballGM)[https://play.basketball-gm.com/]
 
 **WARNING:** Some of these can have some slight issues (ie missing colors for teams)
 
