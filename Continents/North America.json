@@ -116,14 +116,20 @@
                 }
             },
             "frequencies": {
-                "Bahamas": 6,
+                "Bahamas": 3,
                 "Canada": 15,
-                "Dominican Republic": 6,
-                "Haiti": 6,
-                "Jamaica": 6,
+                "Costa Rica": 1,
+                "Cuba": 1,
+                "Dominican Republic": 3,
+                "El Salvador": 3,
+                "Haiti": 2,
+                "Honduras": 3,
+                "Jamaica": 2,
                 "Mexico": 15,
+                "Nicaragua": 3,
+                "Panama": 3,
                 "Trinidad and Tobago": 6,
-                "USA": 40
+                "USA": 45
             }
         }
     }

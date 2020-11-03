@@ -74,6 +74,7 @@
             },
             "frequencies": {
                 "China": 2,
+                "East Timor": 1,
                 "India": 1,
                 "Iran": 1,
                 "Israel": 1,
@@ -89,7 +90,9 @@
                 "Vietnam": 2,
                 "Thailand": 2,
                 "Kyrgyzstan": 2,
+                "Macau": 0.2,
                 "Nepal": 1,
+                "North Korea": 1,
                 "Philippines": 2,
                 "Uzbekistan": 1
             }
