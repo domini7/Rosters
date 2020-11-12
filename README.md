@@ -5,7 +5,7 @@ All sorts of rosters for https://play.basketball-gm.com/
 
 team-data.json is not a league file, it's info to copy and paste to the "Team info" box in "Options"
 
-## How to load into BBGM
+## How to load a file from github into BBGM
 
 1. Click on a json file you would like to play with
 2. Click on the **"RAW"** button
