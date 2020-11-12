@@ -4,7 +4,7 @@
     {"key":"numGamesPlayoffSeries","value": [3, 5]},
     {"key":"quarterLength","value": 10},
     {"key":"salaryCap","value":1100},
-    {"key": "draftType","value": "freeAgents"},
+    {"key":"budget","value":false},
     {"key": "numSeasonsFutureDraftPicks","value": 0},
     {"key":"luxuryPayroll","value":1210},
     {"key":"maxContract","value":330},

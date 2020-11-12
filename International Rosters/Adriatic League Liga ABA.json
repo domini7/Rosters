@@ -5,8 +5,7 @@
     {"key":"quarterLength","value": 10},
     {"key":"salaryCap","value":11000},
     {"key":"luxuryPayroll","value":12100},
-    {"key": "draftType","value": "freeAgents"},
-    {"key": "numSeasonsFutureDraftPicks","value": 0},
+    {"key":"budget","value":false},
     {"key":"maxContract","value":3300},
     {"key":"minContract","value":100},
     {"key":"minRosterSize","value":10},
@@ -17,20 +16,11 @@
     {"key":"threePointTendencyFactor","value": 1.1},
     {"key":"twoPointAccuracyFactor","value": 1.075},
     {"key":"foulRateFactor","value": 1.28},
-    {
-            "key": "confs",
-            "value": [
-                {"cid": 0, "name": "Adriatic League First Division"}
-            ]
-        },
-        {
-            "key": "divs",
-            "value": [
-                {"did": 0, "cid": 0, "name": "ABA"}
-            ]
-        },
-    {
-        "key": "playerBioInfo",
+    {"key": "confs","value": [
+        {"cid": 0, "name": "Adriatic League First Division"}]},
+    {"key": "divs","value": [
+        {"did": 0, "cid": 0, "name": "ABA"}]},
+    {"key": "playerBioInfo",
         "value": {
             "countries": {
                 "Bosnia and Herzegovina": {

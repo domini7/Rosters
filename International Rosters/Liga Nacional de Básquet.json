@@ -4,6 +4,7 @@
     {"key":"numGamesPlayoffSeries","value": [3, 3, 3, 1, 1]},
     {"key":"numPlayoffByes","value": 12},
     {"key":"quarterLength","value": 10},
+    {"key":"budget","value":false},
     {"key":"salaryCap","value":1100},
     {"key":"luxuryPayroll","value":1210},
     {"key":"maxContract","value":330},
@@ -16,20 +17,11 @@
     {"key":"threePointTendencyFactor","value": 1.05},
     {"key":"twoPointAccuracyFactor","value": 1},
     {"key":"foulRateFactor","value": 1.12},
-    {
-            "key": "confs",
-            "value": [
-                {"cid": 0, "name": "Liga Nacional de Básquet"}
-            ]
-        },
-        {
-            "key": "divs",
-            "value": [
-                {"did": 0, "cid": 0, "name": "Liga A"}
-            ]
-        },
-        {
-        "key": "playerBioInfo",
+    {"key": "confs","value": [
+        {"cid": 0, "name": "Liga Nacional de Básquet"}]},
+    {"key": "divs","value": [
+        {"did": 0, "cid": 0, "name": "Liga A"}]},
+    {"key": "playerBioInfo",
         "value": {
             "countries": {
                 "Argentina": {
