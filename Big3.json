@@ -1,141 +1,152 @@
 {
-    "gameAttributes": [
-    {"key":"numGames","value": 8},
-    {"key":"numGamesPlayoffSeries","value": [1, 1]},
-    {"key":"quarterLength","value": 0},
-    {"key":"minRosterSize","value":4},
-    {"key":"maxRosterSize","value":6},
-    {"key":"injuryRate","value":0.000075},
-    {"key":"budget","value": false},
-    {"key":"equalizeRegions","value": true},
-    {"key":"elam","value": true},
-    {"key":"elamMinutes","value": 0},
-    {"key":"elamPoints","value": 50},
-    {"key":"numPlayersOnCourt","value": 3},
-    {"key": "confs","value":[{"cid": 0, "name": "Big3"}]},
-    {"key": "divs","value":[{"did": 0, "cid": 0, "name": "League"}]}
-],
+	"gameAttributes": [
+		{ "key": "numGames", "value": 8 },
+		{ "key": "numGamesPlayoffSeries", "value": [1, 1] },
+		{ "key": "quarterLength", "value": 0 },
+		{ "key": "minRosterSize", "value": 4 },
+		{ "key": "maxRosterSize", "value": 6 },
+		{ "key": "injuryRate", "value": 0.000075 },
+		{ "key": "budget", "value": false },
+		{ "key": "equalizeRegions", "value": true },
+		{ "key": "elam", "value": true },
+		{ "key": "elamMinutes", "value": 0 },
+		{ "key": "elamPoints", "value": 50 },
+		{ "key": "numPlayersOnCourt", "value": 3 },
+		{ "key": "confs", "value": [{ "cid": 0, "name": "Big3" }] },
+		{ "key": "divs", "value": [{ "did": 0, "cid": 0, "name": "League" }] }
+	],
 	"teams": [
 		{
-		"tid": 0,
-		"cid": 0,
-		"did": 0,
-		"region": "3's Company",
-		"name": "Team",
-		"abbrev": "TCO",
-		"pop": 1,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/7/76/3s_Company_Logo.png",
-		"colors": ["#00008B","#FFA500","#FFFFFF"]
-	}, {
-		"tid": 1,
-		"cid": 0,
-		"did": 0,
-		"region": "3 Headed Monsters",
-		"name": "Team",
-		"abbrev": "THM",
-		"pop": 2,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/0/02/3_Headed_Monsters.png",
-		"colors": ["#800080","#008000","#FFD700"]
-	}, {
-		"tid": 2,
-		"cid": 0,
-		"did": 0,
-		"region": "Aliens",
-		"name": "Team",
-		"abbrev": "ALI",
-		"pop": 3,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/5/50/Aliens.png",
-		"colors": ["#000000","#008000","#FFFF00"]
-	}, {
-		"tid": 3,
-		"cid": 0,
-		"did": 0,
-		"region": "Ball Hogs",
-		"name": "Team",
-		"abbrev": "BH",
-		"pop": 4,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/9/98/Ballhogs-1.png",
-		"colors": ["#008000","#FFFF00","#FFFFFF"]
-	}, {
-		"tid": 4,
-		"cid": 0,
-		"did": 0,
-		"region": "Bivouac",
-		"name": "Team",
-		"abbrev": "BIV",
-		"pop": 5,
-		"imgURL": "https://content.sportslogos.net/logos/224/6696/full/8064__bivouac-primary-2019.png",
-		"colors": ["#ffc745","#FFA500","#A52A2A"]
-	}, {
-		"tid": 5,
-		"cid": 0,
-		"did": 0,
-		"region": "Enemies",
-		"name": "Team",
-		"abbrev": "ENE",
-		"pop": 6,
-		"imgURL": "https://content.sportslogos.net/logos/224/6695/full/9200__enemies-primary-2019.png",
-		"colors": ["#000000","#FFFFFF","#FFFFFF"]
-	}, {
-		"tid": 6,
-		"cid": 0,
-		"did": 0,
-		"region": "Ghost Ballers",
-		"name": "Team",
-		"abbrev": "GB",
-		"pop": 7,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/1/11/Ghost_Ballers.png",
-		"colors": ["#800080","#FFFFFF","#000000"]
-	}, {
-		"tid": 7,
-		"cid": 0,
-		"did": 0,
-		"region": "Killer 3's",
-		"name": "Team",
-		"abbrev": "KIL",
-		"pop": 8,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/0/0f/Logo-killer.png",
-		"colors": ["#000000","#FFFF00","#FFFFFF"]
-	}, {
-		"tid": 8,
-		"cid": 0,
-		"did": 0,
-		"region": "Power",
-		"name": "Team",
-		"abbrev": "POW",
-		"pop": 9,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/7/78/Power_Logo.png",
-		"colors": ["#4169e1","#C0C0C0","#000000"]
-	}, {
-		"tid": 9,
-		"cid": 0,
-		"did": 0,
-		"region": "Trilogy",
-		"name": "Team",
-		"abbrev": "TRI",
-		"pop": 10,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/e/ea/Logo-trilogy.png",
-		"colors": ["#FF0000","#000000","#FFFFFF"]
-	}, {
-		"tid": 10,
-		"cid": 0,
-		"did": 0,
-		"region": "Tri-State",
-		"name": "Team",
-		"abbrev": "TS",
-		"pop": 11,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/0/08/Tri_State_Logo.png",
-		"colors": ["#000080","#FF0000","#FFFFFF"]
-	}, {
-		"tid": 11,
-		"cid": 0,
-		"did": 0,
-		"region": "Triplets",
-		"name": "Team",
-		"abbrev": "TRP",
-		"pop": 12,
-		"imgURL": "https://upload.wikimedia.org/wikipedia/en/5/52/Triplets.png",
-		"colors": ["#000080","4169e1","#000000"]
-	}
-]
+			"tid": 0,
+			"cid": 0,
+			"did": 0,
+			"region": "3's Company",
+			"name": "Team",
+			"abbrev": "TCO",
+			"pop": 1,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/7/76/3s_Company_Logo.png",
+			"colors": ["#00008B", "#FFA500", "#FFFFFF"]
+		},
+		{
+			"tid": 1,
+			"cid": 0,
+			"did": 0,
+			"region": "3 Headed Monsters",
+			"name": "Team",
+			"abbrev": "THM",
+			"pop": 2,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/0/02/3_Headed_Monsters.png",
+			"colors": ["#800080", "#008000", "#FFD700"]
+		},
+		{
+			"tid": 2,
+			"cid": 0,
+			"did": 0,
+			"region": "Aliens",
+			"name": "Team",
+			"abbrev": "ALI",
+			"pop": 3,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/5/50/Aliens.png",
+			"colors": ["#000000", "#008000", "#FFFF00"]
+		},
+		{
+			"tid": 3,
+			"cid": 0,
+			"did": 0,
+			"region": "Ball Hogs",
+			"name": "Team",
+			"abbrev": "BH",
+			"pop": 4,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/9/98/Ballhogs-1.png",
+			"colors": ["#008000", "#FFFF00", "#FFFFFF"]
+		},
+		{
+			"tid": 4,
+			"cid": 0,
+			"did": 0,
+			"region": "Bivouac",
+			"name": "Team",
+			"abbrev": "BIV",
+			"pop": 5,
+			"imgURL": "https://content.sportslogos.net/logos/224/6696/full/8064__bivouac-primary-2019.png",
+			"colors": ["#ffc745", "#FFA500", "#A52A2A"]
+		},
+		{
+			"tid": 5,
+			"cid": 0,
+			"did": 0,
+			"region": "Enemies",
+			"name": "Team",
+			"abbrev": "ENE",
+			"pop": 6,
+			"imgURL": "https://content.sportslogos.net/logos/224/6695/full/9200__enemies-primary-2019.png",
+			"colors": ["#000000", "#FFFFFF", "#FFFFFF"]
+		},
+		{
+			"tid": 6,
+			"cid": 0,
+			"did": 0,
+			"region": "Ghost Ballers",
+			"name": "Team",
+			"abbrev": "GB",
+			"pop": 7,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/1/11/Ghost_Ballers.png",
+			"colors": ["#800080", "#FFFFFF", "#000000"]
+		},
+		{
+			"tid": 7,
+			"cid": 0,
+			"did": 0,
+			"region": "Killer 3's",
+			"name": "Team",
+			"abbrev": "KIL",
+			"pop": 8,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/0/0f/Logo-killer.png",
+			"colors": ["#000000", "#FFFF00", "#FFFFFF"]
+		},
+		{
+			"tid": 8,
+			"cid": 0,
+			"did": 0,
+			"region": "Power",
+			"name": "Team",
+			"abbrev": "POW",
+			"pop": 9,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/7/78/Power_Logo.png",
+			"colors": ["#4169e1", "#C0C0C0", "#000000"]
+		},
+		{
+			"tid": 9,
+			"cid": 0,
+			"did": 0,
+			"region": "Trilogy",
+			"name": "Team",
+			"abbrev": "TRI",
+			"pop": 10,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/e/ea/Logo-trilogy.png",
+			"colors": ["#FF0000", "#000000", "#FFFFFF"]
+		},
+		{
+			"tid": 10,
+			"cid": 0,
+			"did": 0,
+			"region": "Tri-State",
+			"name": "Team",
+			"abbrev": "TS",
+			"pop": 11,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/0/08/Tri_State_Logo.png",
+			"colors": ["#000080", "#FF0000", "#FFFFFF"]
+		},
+		{
+			"tid": 11,
+			"cid": 0,
+			"did": 0,
+			"region": "Triplets",
+			"name": "Team",
+			"abbrev": "TRP",
+			"pop": 12,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/5/52/Triplets.png",
+			"colors": ["#000080", "4169e1", "#000000"]
+		}
+	]
 }

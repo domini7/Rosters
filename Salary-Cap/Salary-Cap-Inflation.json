@@ -1,8 +1,6 @@
 {
-	"gameAttributes": [
-		{"key":"budget","value":false}
-	],
-	"scheduledEvents": [
+  "gameAttributes": [{ "key": "budget", "value": false }],
+  "scheduledEvents": [
     {
       "type": "gameAttributes",
       "season": 2020,
@@ -1303,5 +1301,5 @@
       },
       "id": 99
     }
-]
+  ]
 }

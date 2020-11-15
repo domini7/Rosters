@@ -1,5 +1,5 @@
 {
-	"scheduledEvents": [
+  "scheduledEvents": [
     {
       "type": "gameAttributes",
       "season": 2020,
@@ -221,5 +221,5 @@
       },
       "id": 16
     }
-]
+  ]
 }

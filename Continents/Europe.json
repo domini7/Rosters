@@ -1,593 +1,639 @@
 {
     "gameAttributes": [
-    {"key":"numGamesPlayoffSeries","value": [7, 7, 7, 7, 7]},
-    {"key":"numPlayoffByes", "value": 6},
-    {
+        { "key": "numGamesPlayoffSeries", "value": [7, 7, 7, 7, 7] },
+        { "key": "numPlayoffByes", "value": 6 },
+        {
             "key": "confs",
-            "value": [
-                {"cid": 0, "name": "Europe"}
-            ]
+            "value": [{ "cid": 0, "name": "Europe" }]
         },
         {
             "key": "divs",
-            "value": [
-                {"did": 0, "cid": 0, "name": "Countries"}
-            ]
+            "value": [{ "did": 0, "cid": 0, "name": "Countries" }]
         },
         {
-        "key": "playerBioInfo",
-        "value": {
-            "default": {
-                "colleges": {
-                    "University of Oxford": 1,
-                    "University of Cambridge": 1,
-                    "The University of Edinburgh": 1,
-                    "Eidgenössische Technische Hochschule Zürich": 1,
-                    "University College London": 1,
-                    "The University of Manchester": 1,
-                    "Universitat de Barcelona": 1,
-                    "Universitetet i Oslo": 1,
-                    "Ruhr-Universität Bochum": 1,
-                    "Katholieke Universiteit Leuven": 1,
-                    "Universität Wien": 1,
-                    "Ludwig-Maximilians-Universität München": 1,
-                    "Norges teknisk-naturvitenskaplige universitet": 1,
-                    "Politecnico di Milano": 1,
-                    "Moscow State University": 1,
-                    "University of Leeds": 1,
-                    "University of Glasgow": 1,
-                    "Universidad Complutense de Madrid": 1,
-                    "Københavns Universitet": 1,
-                    "The University of Nottingham": 1,
-                    "University of Southampton": 1,
-                    "Freie Universität Berlin": 1,
-                    "Heriot-Watt University": 1,
-                    "The University of Warwick": 1,
-                    "Helsingin yliopisto": 1,
-                    "Université de Strasbourg": 1,
-                    "Universitat de València": 1,
-                    "Imperial College London": 1,
-                    "Università degli Studi di Bologna": 1,
-                    "Universiteit Gent": 1,
-                    "Kungliga Tekniska högskolan": 1,
-                    "Università degli Studi di Milano": 1,
-                    "Universidad de Granada": 1,
-                    "Lunds Universitet": 1,
-                    "Universiteit van Amsterdam": 1,
-                    "Uppsala Universitet": 1,
-                    "Université de Lorraine": 1,
-                    "Rijksuniversiteit Groningen": 1,
-                    "Aarhus Universitet": 1,
-                    "Aalto-yliopisto": 1,
-                    "Université de Genève": 1,
-                    "University of Birmingham": 1,
-                    "Masarykova univerzita": 1,
-                    "Universität Hamburg": 1,
-                    "Univerzita Karlova": 1,
-                    "Universiteit Twente": 1,
-                    "Newcastle University": 1,
-                    "Universidade do Porto": 1,
-                    "King's College London": 1,
-                    "The University of Sheffield": 1,
-                    "University of St Andrews": 1,
-                    "Lancaster University": 1,
-                    "Technische Universität Dresden": 1,
-                    "Université de Caen Normandie": 1,
-                    "The University of York": 1,
-                    "Wageningen Universiteit": 1,
-                    "Universitetet i Bergen": 1,
-                    "Universität Leipzig": 1,
-                    "Universidad Politécnica de Madrid": 1,
-                    "University of Liverpool": 1
+            "key": "playerBioInfo",
+            "value": {
+                "default": {
+                    "colleges": {
+                        "University of Oxford": 1,
+                        "University of Cambridge": 1,
+                        "The University of Edinburgh": 1,
+                        "Eidgenössische Technische Hochschule Zürich": 1,
+                        "University College London": 1,
+                        "The University of Manchester": 1,
+                        "Universitat de Barcelona": 1,
+                        "Universitetet i Oslo": 1,
+                        "Ruhr-Universität Bochum": 1,
+                        "Katholieke Universiteit Leuven": 1,
+                        "Universität Wien": 1,
+                        "Ludwig-Maximilians-Universität München": 1,
+                        "Norges teknisk-naturvitenskaplige universitet": 1,
+                        "Politecnico di Milano": 1,
+                        "Moscow State University": 1,
+                        "University of Leeds": 1,
+                        "University of Glasgow": 1,
+                        "Universidad Complutense de Madrid": 1,
+                        "Københavns Universitet": 1,
+                        "The University of Nottingham": 1,
+                        "University of Southampton": 1,
+                        "Freie Universität Berlin": 1,
+                        "Heriot-Watt University": 1,
+                        "The University of Warwick": 1,
+                        "Helsingin yliopisto": 1,
+                        "Université de Strasbourg": 1,
+                        "Universitat de València": 1,
+                        "Imperial College London": 1,
+                        "Università degli Studi di Bologna": 1,
+                        "Universiteit Gent": 1,
+                        "Kungliga Tekniska högskolan": 1,
+                        "Università degli Studi di Milano": 1,
+                        "Universidad de Granada": 1,
+                        "Lunds Universitet": 1,
+                        "Universiteit van Amsterdam": 1,
+                        "Uppsala Universitet": 1,
+                        "Université de Lorraine": 1,
+                        "Rijksuniversiteit Groningen": 1,
+                        "Aarhus Universitet": 1,
+                        "Aalto-yliopisto": 1,
+                        "Université de Genève": 1,
+                        "University of Birmingham": 1,
+                        "Masarykova univerzita": 1,
+                        "Universität Hamburg": 1,
+                        "Univerzita Karlova": 1,
+                        "Universiteit Twente": 1,
+                        "Newcastle University": 1,
+                        "Universidade do Porto": 1,
+                        "King's College London": 1,
+                        "The University of Sheffield": 1,
+                        "University of St Andrews": 1,
+                        "Lancaster University": 1,
+                        "Technische Universität Dresden": 1,
+                        "Université de Caen Normandie": 1,
+                        "The University of York": 1,
+                        "Wageningen Universiteit": 1,
+                        "Universitetet i Bergen": 1,
+                        "Universität Leipzig": 1,
+                        "Universidad Politécnica de Madrid": 1,
+                        "University of Liverpool": 1
+                    },
+                    "fractionSkipCollege": 0.35
                 },
-                "fractionSkipCollege": 0.35
-            },
-            "frequencies": {
-                "Austria": 1,
-                "Armenia": 1,
-                "Azerbaijan": 1,
-                "Belarus": 1,
-                "Belgium": 1,
-                "Bosnia and Herzegovina": 1,
-                "Bulgaria": 1,
-                "Croatia": 1,
-                "Czech Republic": 1,
-                "Denmark": 1,
-                "Estonia": 1,
-                "Finland": 1,
-                "France": 1,
-                "Georgia": 1,
-                "Germany": 1,
-                "Greece": 1,
-                "Hungary": 1,
-                "Iceland": 1,
-                "Ireland": 1,
-                "Italy": 1,
-                "Kazakhstan": 1,
-                "Kosovo": 1,
-                "Latvia": 1,
-                "Lithuania": 1,
-                "Luxembourg": 1,
-                "Moldova": 1,
-                "Montenegro": 1,
-                "Netherlands": 1,
-                "North Macedonia": 1,
-                "Norway": 1,
-                "Poland": 1,
-                "Portugal": 1,
-                "Romania": 1,
-                "Russia": 1,
-                "Serbia": 1,
-                "Slovakia": 1,
-                "Slovenia": 1,
-                "Spain": 1,
-                "Switzerland": 1,
-                "Turkey": 1,
-                "Ukraine": 1
-
+                "frequencies": {
+                    "Austria": 1,
+                    "Armenia": 1,
+                    "Azerbaijan": 1,
+                    "Belarus": 1,
+                    "Belgium": 1,
+                    "Bosnia and Herzegovina": 1,
+                    "Bulgaria": 1,
+                    "Croatia": 1,
+                    "Czech Republic": 1,
+                    "Denmark": 1,
+                    "Estonia": 1,
+                    "Finland": 1,
+                    "France": 1,
+                    "Georgia": 1,
+                    "Germany": 1,
+                    "Greece": 1,
+                    "Hungary": 1,
+                    "Iceland": 1,
+                    "Ireland": 1,
+                    "Italy": 1,
+                    "Kazakhstan": 1,
+                    "Kosovo": 1,
+                    "Latvia": 1,
+                    "Lithuania": 1,
+                    "Luxembourg": 1,
+                    "Moldova": 1,
+                    "Montenegro": 1,
+                    "Netherlands": 1,
+                    "North Macedonia": 1,
+                    "Norway": 1,
+                    "Poland": 1,
+                    "Portugal": 1,
+                    "Romania": 1,
+                    "Russia": 1,
+                    "Serbia": 1,
+                    "Slovakia": 1,
+                    "Slovenia": 1,
+                    "Spain": 1,
+                    "Switzerland": 1,
+                    "Turkey": 1,
+                    "Ukraine": 1
+                }
             }
         }
-    }
-],
-"teams": [{
-    "tid": 0,
-    "cid": 0,
-    "did": 0,
-    "region": "Albania",
-    "name": "Tirana",
-    "abbrev": "Al",
-    "pop": 2.878,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/480px-Flag_of_Albania.svg.png"
-}, {
-    "tid": 1,
-    "cid": 0,
-    "did": 0,
-    "region": "Andorra",
-    "name": "Andorra la Vella",
-    "abbrev": "AN",
-    "pop": 0.077,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/480px-Flag_of_Andorra.svg.png"
-}, {
-    "tid": 2,
-    "cid": 0,
-    "did": 0,
-    "region": "Armenia",
-    "name": "Yerevan",
-    "abbrev": "AM",
-    "pop": 2.956,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/480px-Flag_of_Armenia.svg.png"
-}, {
-    "tid": 3,
-    "cid": 0,
-    "did": 0,
-    "region": "Austria",
-    "name": "Vienna",
-    "abbrev": "AT",
-    "pop": 9.025,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/480px-Flag_of_Austria.svg.png"
-}, {
-    "tid": 4,
-    "cid": 0,
-    "did": 0,
-    "region": "Azerbaijan",
-    "name": "Baku",
-    "abbrev": "AZ",
-    "pop": 10.127,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/480px-Flag_of_Azerbaijan.svg.png"
-}, {
-    "tid": 5,
-    "cid": 0,
-    "did": 0,
-    "region": "Belarus",
-    "name": "Minsk",
-    "abbrev": "BL",
-    "pop": 9.452,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/480px-Flag_of_Belarus.svg.png"
-}, {
-    "tid": 6,
-    "cid": 0,
-    "did": 0,
-    "region": "Belgium",
-    "name": "Brussels",
-    "abbrev": "BE",
-    "pop": 11.602,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/480px-Flag_of_Belgium.svg.png"
-}, {
-    "tid": 7,
-    "cid": 0,
-    "did": 0,
-    "region": "Bosnia and Herzegovina",
-    "name": "Sarajevo",
-    "abbrev": "BH",
-    "pop": 3.275,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/480px-Flag_of_Bosnia_and_Herzegovina.svg.png"
-}, {
-    "tid": 8,
-    "cid": 0,
-    "did": 0,
-    "region": "Bulgaria",
-    "name": "Sofia",
-    "abbrev": "BG",
-    "pop": 6.943,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/480px-Flag_of_Bulgaria.svg.png"
-}, {
-    "tid": 9,
-    "cid": 0,
-    "did": 0,
-    "region": "Croatia",
-    "name": "Zagreb",
-    "abbrev": "HR",
-    "pop": 4.101,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/480px-Flag_of_Croatia.svg.png"
-}, {
-    "tid": 10,
-    "cid": 0,
-    "did": 0,
-    "region": "Cyprus",
-    "name": "Nicosia",
-    "abbrev": "CY",
-    "pop": 1.19,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/480px-Flag_of_Cyprus.svg.png"
-}, {
-    "tid": 11,
-    "cid": 0,
-    "did": 0,
-    "region": "Czech Republic",
-    "name": "Prague",
-    "abbrev": "CZ",
-    "pop": 10.715,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/480px-Flag_of_the_Czech_Republic.svg.png"
-}, {
-    "tid": 12,
-    "cid": 0,
-    "did": 0,
-    "region": "Denmark",
-    "name": "Copenhagen",
-    "abbrev": "DK",
-    "pop": 5.793,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/480px-Flag_of_Denmark.svg.png"
-}, {
-    "tid": 13,
-    "cid": 0,
-    "did": 0,
-    "region": "Estonia",
-    "name": "Tallinn",
-    "abbrev": "EE",
-    "pop": 1.328,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/480px-Flag_of_Estonia.svg.png"
-}, {
-    "tid": 14,
-    "cid": 0,
-    "did": 0,
-    "region": "Finland",
-    "name": "Helsinki",
-    "abbrev": "FI",
-    "pop": 5.542,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/480px-Flag_of_Finland.svg.png"
-}, {
-    "tid": 15,
-    "cid": 0,
-    "did": 0,
-    "region": "France",
-    "name": "Paris",
-    "abbrev": "FR",
-    "pop": 65.283,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/480px-Flag_of_France.svg.png"
-}, {
-    "tid": 16,
-    "cid": 0,
-    "did": 0,
-    "region": "Georgia",
-    "name": "Tbilisi",
-    "abbrev": "GE",
-    "pop": 3.989,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/480px-Flag_of_Georgia.svg.png"
-}, {
-    "tid": 17,
-    "cid": 0,
-    "did": 0,
-    "region": "Germany",
-    "name": "Berlin",
-    "abbrev": "GER",
-    "pop": 83.951,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/480px-Flag_of_Germany.svg.png"
-}, {
-    "tid": 18,
-    "cid": 0,
-    "did": 0,
-    "region": "Greece",
-    "name": "Athens",
-    "abbrev": "GR",
-    "pop": 10.42,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/480px-Flag_of_Greece.svg.png"
-}, {
-    "tid": 19,
-    "cid": 0,
-    "did": 0,
-    "region": "Hungary",
-    "name": "Budapest",
-    "abbrev": "HU",
-    "pop": 9.659,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/480px-Flag_of_Hungary.svg.png"
-}, {
-    "tid": 20,
-    "cid": 0,
-    "did": 0,
-    "region": "Iceland",
-    "name": "Reykjavik",
-    "abbrev": "IC",
-    "pop": 0.341,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/480px-Flag_of_Iceland.svg.png"
-}, {
-    "tid": 21,
-    "cid": 0,
-    "did": 0,
-    "region": "Ireland",
-    "name": "Dublin",
-    "abbrev": "IE",
-    "pop": 4.953,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/480px-Flag_of_Ireland.svg.png"
-}, {
-    "tid": 22,
-    "cid": 0,
-    "did": 0,
-    "region": "Italy",
-    "name": "Rome",
-    "abbrev": "IT",
-    "pop": 60.465,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/480px-Flag_of_Italy.svg.png"
-}, {
-    "tid": 23,
-    "cid": 0,
-    "did": 0,
-    "region": "Kazakhstan",
-    "name": "Nur-Sultan",
-    "abbrev": "KZ",
-    "pop": 18.809,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/480px-Flag_of_Kazakhstan.svg.png"
-}, {
-    "tid": 24,
-    "cid": 0,
-    "did": 0,
-    "region": "Kosovo",
-    "name": "Pristina",
-    "abbrev": "KS",
-    "pop": 1.798,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/480px-Flag_of_Kosovo.svg.png"
-}, {
-    "tid": 25,
-    "cid": 0,
-    "did": 0,
-    "region": "Latvia",
-    "name": "Riga",
-    "abbrev": "LV",
-    "pop": 1.883,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/480px-Flag_of_Latvia.svg.png"
-}, {
-    "tid": 26,
-    "cid": 0,
-    "did": 0,
-    "region": "Liechtenstein",
-    "name": "Vaduz",
-    "abbrev": "LE",
-    "pop": 0.038,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/480px-Flag_of_Liechtenstein.svg.png"
-}, {
-    "tid": 27,
-    "cid": 0,
-    "did": 0,
-    "region": "Lithuania",
-    "name": "Vilnius",
-    "abbrev": "LT",
-    "pop": 2.714,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/480px-Flag_of_Lithuania.svg.png"
-}, {
-    "tid": 28,
-    "cid": 0,
-    "did": 0,
-    "region": "Luxembourg",
-    "name": "Luxembourg",
-    "abbrev": "LU",
-    "pop": 0.628,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/480px-Flag_of_Luxembourg.svg.png"
-}, {
-    "tid": 29,
-    "cid": 0,
-    "did": 0,
-    "region": "Malta",
-    "name": "Valletta",
-    "abbrev": "MT",
-    "pop": 0.441,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/480px-Flag_of_Malta.svg.png"
-}, {
-    "tid": 30,
-    "cid": 0,
-    "did": 0,
-    "region": "Moldova",
-    "name": "Chisinau",
-    "abbrev": "MD",
-    "pop": 4.033,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/480px-Flag_of_Moldova.svg.png"
-}, {
-    "tid": 31,
-    "cid": 0,
-    "did": 0,
-    "region": "Monaco",
-    "name": "Monaco",
-    "abbrev": "MC",
-    "pop": 0.039,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/480px-Flag_of_Monaco.svg.png"
-}, {
-    "tid": 32,
-    "cid": 0,
-    "did": 0,
-    "region": "Montenegro",
-    "name": "Podgorica",
-    "abbrev": "MN",
-    "pop": 0.628,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/480px-Flag_of_Montenegro.svg.png"
-}, {
-    "tid": 33,
-    "cid": 0,
-    "did": 0,
-    "region": "Netherlands",
-    "name": "Amsterdam",
-    "abbrev": "NL",
-    "pop": 17.138,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/480px-Flag_of_the_Netherlands.svg.png"
-}, {
-    "tid": 34,
-    "cid": 0,
-    "did": 0,
-    "region": "North Macedonia",
-    "name": "Skopje",
-    "abbrev": "MA",
-    "pop": 2.084,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/480px-Flag_of_North_Macedonia.svg.png"
-}, {
-    "tid": 35,
-    "cid": 0,
-    "did": 0,
-    "region": "Norway",
-    "name": "Oslo",
-    "abbrev": "NO",
-    "pop": 5.424,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/480px-Flag_of_Norway.svg.png"
-}, {
-    "tid": 36,
-    "cid": 0,
-    "did": 0,
-    "region": "Poland",
-    "name": "Warsaw",
-    "abbrev": "PO",
-    "pop": 37.85,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/480px-Flag_of_Poland.svg.png"
-}, {
-    "tid": 37,
-    "cid": 0,
-    "did": 0,
-    "region": "Portugal",
-    "name": "Lisbon",
-    "abbrev": "PT",
-    "pop": 10.193,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/480px-Flag_of_Portugal.svg.png"
-}, {
-    "tid": 38,
-    "cid": 0,
-    "did": 0,
-    "region": "Romania",
-    "name": "Bucharest",
-    "abbrev": "RO",
-    "pop": 19.21,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/480px-Flag_of_Romania.svg.png"
-}, {
-    "tid": 39,
-    "cid": 0,
-    "did": 0,
-    "region": "Russia",
-    "name": "Moscow",
-    "abbrev": "RU",
-    "pop": 146.024,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/480px-Flag_of_Russia.svg.png"
-}, {
-    "tid": 40,
-    "cid": 0,
-    "did": 0,
-    "region": "San Marino",
-    "name": "San Marino",
-    "abbrev": "SM",
-    "pop": 0.033,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/480px-Flag_of_San_Marino.svg.png"
-}, {
-    "tid": 41,
-    "cid": 0,
-    "did": 0,
-    "region": "Serbia",
-    "name": "Belgrade",
-    "abbrev": "SE",
-    "pop": 8.738,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/480px-Flag_of_Serbia.svg.png"
-}, {
-    "tid": 42,
-    "cid": 0,
-    "did": 0,
-    "region": "Slovakia",
-    "name": "Bratislava",
-    "abbrev": "SK",
-    "pop": 5.461,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/480px-Flag_of_Slovakia.svg.png"
-}, {
-    "tid": 43,
-    "cid": 0,
-    "did": 0,
-    "region": "Slovenia",
-    "name": "Ljubljana",
-    "abbrev": "SI",
-    "pop": 2.079,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/480px-Flag_of_Slovenia.svg.png"
-}, {
-    "tid": 44,
-    "cid": 0,
-    "did": 0,
-    "region": "Spain",
-    "name": "Madrid",
-    "abbrev": "SP",
-    "pop": 46.785,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/480px-Flag_of_Spain.svg.png"
-}, {
-    "tid": 45,
-    "cid": 0,
-    "did": 0,
-    "region": "Sweden",
-    "name": "Stockholm",
-    "abbrev": "SE",
-    "pop": 10.108,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/480px-Flag_of_Sweden.svg.png"
-}, {
-    "tid": 46,
-    "cid": 0,
-    "did": 0,
-    "region": "Switzerland",
-    "name": "Bern",
-    "abbrev": "SZ",
-    "pop": 8.664,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/480px-Flag_of_Switzerland.svg.png"
-}, {
-    "tid": 47,
-    "cid": 0,
-    "did": 0,
-    "region": "Turkey",
-    "name": "Ankara",
-    "abbrev": "TU",
-    "pop": 84.644,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/480px-Flag_of_Turkey.svg.png"
-}, {
-    "tid": 48,
-    "cid": 0,
-    "did": 0,
-    "region": "Ukraine",
-    "name": "Kyiv",
-    "abbrev": "UKR",
-    "pop": 43.717,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/480px-Flag_of_Ukraine.svg.png"
-}, {
-    "tid": 49,
-    "cid": 0,
-    "did": 0,
-    "region": "United Kingdom",
-    "name": "London",
-    "abbrev": "UK",
-    "pop": 67.96,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/480px-Flag_of_the_United_Kingdom.svg.png"
-}, {
-    "tid": 50,
-    "cid": 0,
-    "did": 0,
-    "region": "Vatican City",
-    "name": "Vatican City",
-    "abbrev": "VA",
-    "pop": 0.000797,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/480px-Flag_of_the_Vatican_City.svg.png"
-}
-]
+    ],
+    "teams": [
+        {
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Albania",
+            "name": "Tirana",
+            "abbrev": "Al",
+            "pop": 2.878,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/480px-Flag_of_Albania.svg.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "Andorra",
+            "name": "Andorra la Vella",
+            "abbrev": "AN",
+            "pop": 0.077,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/480px-Flag_of_Andorra.svg.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Armenia",
+            "name": "Yerevan",
+            "abbrev": "AM",
+            "pop": 2.956,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/480px-Flag_of_Armenia.svg.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "Austria",
+            "name": "Vienna",
+            "abbrev": "AT",
+            "pop": 9.025,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/480px-Flag_of_Austria.svg.png"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "Azerbaijan",
+            "name": "Baku",
+            "abbrev": "AZ",
+            "pop": 10.127,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/480px-Flag_of_Azerbaijan.svg.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Belarus",
+            "name": "Minsk",
+            "abbrev": "BL",
+            "pop": 9.452,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/480px-Flag_of_Belarus.svg.png"
+        },
+        {
+            "tid": 6,
+            "cid": 0,
+            "did": 0,
+            "region": "Belgium",
+            "name": "Brussels",
+            "abbrev": "BE",
+            "pop": 11.602,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/480px-Flag_of_Belgium.svg.png"
+        },
+        {
+            "tid": 7,
+            "cid": 0,
+            "did": 0,
+            "region": "Bosnia and Herzegovina",
+            "name": "Sarajevo",
+            "abbrev": "BH",
+            "pop": 3.275,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/480px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+        },
+        {
+            "tid": 8,
+            "cid": 0,
+            "did": 0,
+            "region": "Bulgaria",
+            "name": "Sofia",
+            "abbrev": "BG",
+            "pop": 6.943,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/480px-Flag_of_Bulgaria.svg.png"
+        },
+        {
+            "tid": 9,
+            "cid": 0,
+            "did": 0,
+            "region": "Croatia",
+            "name": "Zagreb",
+            "abbrev": "HR",
+            "pop": 4.101,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/480px-Flag_of_Croatia.svg.png"
+        },
+        {
+            "tid": 10,
+            "cid": 0,
+            "did": 0,
+            "region": "Cyprus",
+            "name": "Nicosia",
+            "abbrev": "CY",
+            "pop": 1.19,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/480px-Flag_of_Cyprus.svg.png"
+        },
+        {
+            "tid": 11,
+            "cid": 0,
+            "did": 0,
+            "region": "Czech Republic",
+            "name": "Prague",
+            "abbrev": "CZ",
+            "pop": 10.715,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/480px-Flag_of_the_Czech_Republic.svg.png"
+        },
+        {
+            "tid": 12,
+            "cid": 0,
+            "did": 0,
+            "region": "Denmark",
+            "name": "Copenhagen",
+            "abbrev": "DK",
+            "pop": 5.793,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/480px-Flag_of_Denmark.svg.png"
+        },
+        {
+            "tid": 13,
+            "cid": 0,
+            "did": 0,
+            "region": "Estonia",
+            "name": "Tallinn",
+            "abbrev": "EE",
+            "pop": 1.328,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/480px-Flag_of_Estonia.svg.png"
+        },
+        {
+            "tid": 14,
+            "cid": 0,
+            "did": 0,
+            "region": "Finland",
+            "name": "Helsinki",
+            "abbrev": "FI",
+            "pop": 5.542,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/480px-Flag_of_Finland.svg.png"
+        },
+        {
+            "tid": 15,
+            "cid": 0,
+            "did": 0,
+            "region": "France",
+            "name": "Paris",
+            "abbrev": "FR",
+            "pop": 65.283,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/480px-Flag_of_France.svg.png"
+        },
+        {
+            "tid": 16,
+            "cid": 0,
+            "did": 0,
+            "region": "Georgia",
+            "name": "Tbilisi",
+            "abbrev": "GE",
+            "pop": 3.989,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/480px-Flag_of_Georgia.svg.png"
+        },
+        {
+            "tid": 17,
+            "cid": 0,
+            "did": 0,
+            "region": "Germany",
+            "name": "Berlin",
+            "abbrev": "GER",
+            "pop": 83.951,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/480px-Flag_of_Germany.svg.png"
+        },
+        {
+            "tid": 18,
+            "cid": 0,
+            "did": 0,
+            "region": "Greece",
+            "name": "Athens",
+            "abbrev": "GR",
+            "pop": 10.42,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/480px-Flag_of_Greece.svg.png"
+        },
+        {
+            "tid": 19,
+            "cid": 0,
+            "did": 0,
+            "region": "Hungary",
+            "name": "Budapest",
+            "abbrev": "HU",
+            "pop": 9.659,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/480px-Flag_of_Hungary.svg.png"
+        },
+        {
+            "tid": 20,
+            "cid": 0,
+            "did": 0,
+            "region": "Iceland",
+            "name": "Reykjavik",
+            "abbrev": "IC",
+            "pop": 0.341,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/480px-Flag_of_Iceland.svg.png"
+        },
+        {
+            "tid": 21,
+            "cid": 0,
+            "did": 0,
+            "region": "Ireland",
+            "name": "Dublin",
+            "abbrev": "IE",
+            "pop": 4.953,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/480px-Flag_of_Ireland.svg.png"
+        },
+        {
+            "tid": 22,
+            "cid": 0,
+            "did": 0,
+            "region": "Italy",
+            "name": "Rome",
+            "abbrev": "IT",
+            "pop": 60.465,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/480px-Flag_of_Italy.svg.png"
+        },
+        {
+            "tid": 23,
+            "cid": 0,
+            "did": 0,
+            "region": "Kazakhstan",
+            "name": "Nur-Sultan",
+            "abbrev": "KZ",
+            "pop": 18.809,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/480px-Flag_of_Kazakhstan.svg.png"
+        },
+        {
+            "tid": 24,
+            "cid": 0,
+            "did": 0,
+            "region": "Kosovo",
+            "name": "Pristina",
+            "abbrev": "KS",
+            "pop": 1.798,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/480px-Flag_of_Kosovo.svg.png"
+        },
+        {
+            "tid": 25,
+            "cid": 0,
+            "did": 0,
+            "region": "Latvia",
+            "name": "Riga",
+            "abbrev": "LV",
+            "pop": 1.883,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/480px-Flag_of_Latvia.svg.png"
+        },
+        {
+            "tid": 26,
+            "cid": 0,
+            "did": 0,
+            "region": "Liechtenstein",
+            "name": "Vaduz",
+            "abbrev": "LE",
+            "pop": 0.038,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/480px-Flag_of_Liechtenstein.svg.png"
+        },
+        {
+            "tid": 27,
+            "cid": 0,
+            "did": 0,
+            "region": "Lithuania",
+            "name": "Vilnius",
+            "abbrev": "LT",
+            "pop": 2.714,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/480px-Flag_of_Lithuania.svg.png"
+        },
+        {
+            "tid": 28,
+            "cid": 0,
+            "did": 0,
+            "region": "Luxembourg",
+            "name": "Luxembourg",
+            "abbrev": "LU",
+            "pop": 0.628,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/480px-Flag_of_Luxembourg.svg.png"
+        },
+        {
+            "tid": 29,
+            "cid": 0,
+            "did": 0,
+            "region": "Malta",
+            "name": "Valletta",
+            "abbrev": "MT",
+            "pop": 0.441,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/480px-Flag_of_Malta.svg.png"
+        },
+        {
+            "tid": 30,
+            "cid": 0,
+            "did": 0,
+            "region": "Moldova",
+            "name": "Chisinau",
+            "abbrev": "MD",
+            "pop": 4.033,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/480px-Flag_of_Moldova.svg.png"
+        },
+        {
+            "tid": 31,
+            "cid": 0,
+            "did": 0,
+            "region": "Monaco",
+            "name": "Monaco",
+            "abbrev": "MC",
+            "pop": 0.039,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/480px-Flag_of_Monaco.svg.png"
+        },
+        {
+            "tid": 32,
+            "cid": 0,
+            "did": 0,
+            "region": "Montenegro",
+            "name": "Podgorica",
+            "abbrev": "MN",
+            "pop": 0.628,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/480px-Flag_of_Montenegro.svg.png"
+        },
+        {
+            "tid": 33,
+            "cid": 0,
+            "did": 0,
+            "region": "Netherlands",
+            "name": "Amsterdam",
+            "abbrev": "NL",
+            "pop": 17.138,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/480px-Flag_of_the_Netherlands.svg.png"
+        },
+        {
+            "tid": 34,
+            "cid": 0,
+            "did": 0,
+            "region": "North Macedonia",
+            "name": "Skopje",
+            "abbrev": "MA",
+            "pop": 2.084,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/480px-Flag_of_North_Macedonia.svg.png"
+        },
+        {
+            "tid": 35,
+            "cid": 0,
+            "did": 0,
+            "region": "Norway",
+            "name": "Oslo",
+            "abbrev": "NO",
+            "pop": 5.424,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/480px-Flag_of_Norway.svg.png"
+        },
+        {
+            "tid": 36,
+            "cid": 0,
+            "did": 0,
+            "region": "Poland",
+            "name": "Warsaw",
+            "abbrev": "PO",
+            "pop": 37.85,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/480px-Flag_of_Poland.svg.png"
+        },
+        {
+            "tid": 37,
+            "cid": 0,
+            "did": 0,
+            "region": "Portugal",
+            "name": "Lisbon",
+            "abbrev": "PT",
+            "pop": 10.193,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/480px-Flag_of_Portugal.svg.png"
+        },
+        {
+            "tid": 38,
+            "cid": 0,
+            "did": 0,
+            "region": "Romania",
+            "name": "Bucharest",
+            "abbrev": "RO",
+            "pop": 19.21,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/480px-Flag_of_Romania.svg.png"
+        },
+        {
+            "tid": 39,
+            "cid": 0,
+            "did": 0,
+            "region": "Russia",
+            "name": "Moscow",
+            "abbrev": "RU",
+            "pop": 146.024,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/480px-Flag_of_Russia.svg.png"
+        },
+        {
+            "tid": 40,
+            "cid": 0,
+            "did": 0,
+            "region": "San Marino",
+            "name": "San Marino",
+            "abbrev": "SM",
+            "pop": 0.033,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/480px-Flag_of_San_Marino.svg.png"
+        },
+        {
+            "tid": 41,
+            "cid": 0,
+            "did": 0,
+            "region": "Serbia",
+            "name": "Belgrade",
+            "abbrev": "SE",
+            "pop": 8.738,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/480px-Flag_of_Serbia.svg.png"
+        },
+        {
+            "tid": 42,
+            "cid": 0,
+            "did": 0,
+            "region": "Slovakia",
+            "name": "Bratislava",
+            "abbrev": "SK",
+            "pop": 5.461,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/480px-Flag_of_Slovakia.svg.png"
+        },
+        {
+            "tid": 43,
+            "cid": 0,
+            "did": 0,
+            "region": "Slovenia",
+            "name": "Ljubljana",
+            "abbrev": "SI",
+            "pop": 2.079,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/480px-Flag_of_Slovenia.svg.png"
+        },
+        {
+            "tid": 44,
+            "cid": 0,
+            "did": 0,
+            "region": "Spain",
+            "name": "Madrid",
+            "abbrev": "SP",
+            "pop": 46.785,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/480px-Flag_of_Spain.svg.png"
+        },
+        {
+            "tid": 45,
+            "cid": 0,
+            "did": 0,
+            "region": "Sweden",
+            "name": "Stockholm",
+            "abbrev": "SE",
+            "pop": 10.108,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/480px-Flag_of_Sweden.svg.png"
+        },
+        {
+            "tid": 46,
+            "cid": 0,
+            "did": 0,
+            "region": "Switzerland",
+            "name": "Bern",
+            "abbrev": "SZ",
+            "pop": 8.664,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/480px-Flag_of_Switzerland.svg.png"
+        },
+        {
+            "tid": 47,
+            "cid": 0,
+            "did": 0,
+            "region": "Turkey",
+            "name": "Ankara",
+            "abbrev": "TU",
+            "pop": 84.644,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/480px-Flag_of_Turkey.svg.png"
+        },
+        {
+            "tid": 48,
+            "cid": 0,
+            "did": 0,
+            "region": "Ukraine",
+            "name": "Kyiv",
+            "abbrev": "UKR",
+            "pop": 43.717,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/480px-Flag_of_Ukraine.svg.png"
+        },
+        {
+            "tid": 49,
+            "cid": 0,
+            "did": 0,
+            "region": "United Kingdom",
+            "name": "London",
+            "abbrev": "UK",
+            "pop": 67.96,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/480px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        {
+            "tid": 50,
+            "cid": 0,
+            "did": 0,
+            "region": "Vatican City",
+            "name": "Vatican City",
+            "abbrev": "VA",
+            "pop": 0.000797,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/480px-Flag_of_the_Vatican_City.svg.png"
+        }
+    ]
 }

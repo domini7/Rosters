@@ -1,199 +1,207 @@
 {
     "gameAttributes": [
-    {"key":"numGamesPlayoffSeries","value": [7, 7, 7]},
-    {"key":"numPlayoffByes", "value": 2},
-    {
+        { "key": "numGamesPlayoffSeries", "value": [7, 7, 7] },
+        { "key": "numPlayoffByes", "value": 2 },
+        {
             "key": "confs",
-            "value": [
-                {"cid": 0, "name": "South America"}
-            ]
+            "value": [{ "cid": 0, "name": "South America" }]
         },
         {
             "key": "divs",
-            "value": [
-                {"did": 0, "cid": 0, "name": "Countries"}
-            ]
+            "value": [{ "did": 0, "cid": 0, "name": "Countries" }]
         },
         {
-        "key": "playerBioInfo",
-        "value": {
-            "default": {
-                "colleges": {
-                    "Universidade de São Paulo": 1,
-                    "Universidad de Buenos Aires": 1,
-                    "Universidade Federal de Santa Catarina": 1,
-                    "Universidade Federal do Rio de Janeiro": 1,
-                    "Universidad de Chile": 1,
-                    "Universidade Estadual de Campinas": 1,
-                    "Universidade Federal do Rio Grande do Sul": 1,
-                    "Universidad Nacional de Colombia": 1,
-                    "Universidade Federal de Minas Gerais": 1,
-                    "Universidade Estácio de Sá": 1,
-                    "Universidade de Brasília": 1,
-                    "Universidade Estadual Paulista": 1,
-                    "Universidad Nacional de La Plata": 1,
-                    "Universidade Federal do Paraná": 1,
-                    "Pontificia Universidad Católica de Chile": 1,
-                    "Pontificia Universidad Católica del Perú": 1,
-                    "Pontifícia Universidade Católica do Rio de Janeiro": 1,
-                    "Universidade Federal Fluminense": 1,
-                    "Universidad Nacional de Córdoba": 1,
-                    "Universidade Federal da Bahia": 1,
-                    "Universidad Tecnológica Nacional": 1,
-                    "Universidad de Antioquía": 1,
-                    "Universidade Paulista": 1,
-                    "Universidade Federal do Ceará": 1,
-                    "Pontifícia Universidade Católica de São Paulo": 1,
-                    "Universidade Federal do Rio Grande do Norte": 1,
-                    "Universidade Cruzeiro do Sul": 1,
-                    "Pontificia Universidad Javeriana": 1,
-                    "Universidade Federal de Goiás": 1,
-                    "Universidad Nacional Mayor de San Marcos": 1,
-                    "Universidade Federal de Juiz de Fora": 1,
-                    "Universidade Federal da Paraíba": 1,
-                    "Universidade Federal de Uberlândia": 1,
-                    "Universidad de Los Andes": 1,
-                    "Universidade Estadual de Maringá": 1,
-                    "Universidad de Concepción": 1,
-                    "Universidad Nacional de Cuyo": 1,
-                    "Universidad ICESI": 1,
-                    "Universidad Nacional de Rosario": 1,
-                    "Universidade Federal de São Carlos": 1,
-                    "Universidade Federal do Amazonas": 1,
-                    "Universidad de los Andes, Colombia": 1,
-                    "Universidad de Piura": 1,
-                    "Universidade Federal do Piauí": 1,
-                    "Universidad de Palermo": 1,
-                    "Universidade Federal do Pará": 1,
-                    "Universidade Presbiteriana Mackenzie": 1,
-                    "Universidad EAFIT": 1,
-                    "Universidad del Norte": 1,
-                    "Universidade Federal de Lavras": 1
+            "key": "playerBioInfo",
+            "value": {
+                "default": {
+                    "colleges": {
+                        "Universidade de São Paulo": 1,
+                        "Universidad de Buenos Aires": 1,
+                        "Universidade Federal de Santa Catarina": 1,
+                        "Universidade Federal do Rio de Janeiro": 1,
+                        "Universidad de Chile": 1,
+                        "Universidade Estadual de Campinas": 1,
+                        "Universidade Federal do Rio Grande do Sul": 1,
+                        "Universidad Nacional de Colombia": 1,
+                        "Universidade Federal de Minas Gerais": 1,
+                        "Universidade Estácio de Sá": 1,
+                        "Universidade de Brasília": 1,
+                        "Universidade Estadual Paulista": 1,
+                        "Universidad Nacional de La Plata": 1,
+                        "Universidade Federal do Paraná": 1,
+                        "Pontificia Universidad Católica de Chile": 1,
+                        "Pontificia Universidad Católica del Perú": 1,
+                        "Pontifícia Universidade Católica do Rio de Janeiro": 1,
+                        "Universidade Federal Fluminense": 1,
+                        "Universidad Nacional de Córdoba": 1,
+                        "Universidade Federal da Bahia": 1,
+                        "Universidad Tecnológica Nacional": 1,
+                        "Universidad de Antioquía": 1,
+                        "Universidade Paulista": 1,
+                        "Universidade Federal do Ceará": 1,
+                        "Pontifícia Universidade Católica de São Paulo": 1,
+                        "Universidade Federal do Rio Grande do Norte": 1,
+                        "Universidade Cruzeiro do Sul": 1,
+                        "Pontificia Universidad Javeriana": 1,
+                        "Universidade Federal de Goiás": 1,
+                        "Universidad Nacional Mayor de San Marcos": 1,
+                        "Universidade Federal de Juiz de Fora": 1,
+                        "Universidade Federal da Paraíba": 1,
+                        "Universidade Federal de Uberlândia": 1,
+                        "Universidad de Los Andes": 1,
+                        "Universidade Estadual de Maringá": 1,
+                        "Universidad de Concepción": 1,
+                        "Universidad Nacional de Cuyo": 1,
+                        "Universidad ICESI": 1,
+                        "Universidad Nacional de Rosario": 1,
+                        "Universidade Federal de São Carlos": 1,
+                        "Universidade Federal do Amazonas": 1,
+                        "Universidad de los Andes, Colombia": 1,
+                        "Universidad de Piura": 1,
+                        "Universidade Federal do Piauí": 1,
+                        "Universidad de Palermo": 1,
+                        "Universidade Federal do Pará": 1,
+                        "Universidade Presbiteriana Mackenzie": 1,
+                        "Universidad EAFIT": 1,
+                        "Universidad del Norte": 1,
+                        "Universidade Federal de Lavras": 1
+                    },
+                    "fractionSkipCollege": 0.35
                 },
-                "fractionSkipCollege": 0.35
-            },
-            "frequencies": {
-                "Argentina": 2,
-                "Brazil": 3,
-                "Bolivia": 1,
-                "Chile": 1,
-                "Colombia": 1,
-                "Equador": 1,
-                "Uruguay": 1,
-                "Peru": 1,
-                "Venezuela": 1
-
+                "frequencies": {
+                    "Argentina": 2,
+                    "Brazil": 3,
+                    "Bolivia": 1,
+                    "Chile": 1,
+                    "Colombia": 1,
+                    "Equador": 1,
+                    "Uruguay": 1,
+                    "Peru": 1,
+                    "Venezuela": 1
+                }
             }
         }
-    }
-],
-"teams": [{
-    "tid": 0,
-    "cid": 0,
-    "did": 0,
-    "region": "Argentina",
-    "name": "Buenos Aires",
-    "abbrev": "AR",
-    "pop": 45.23,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
-}, {
-    "tid": 1,
-    "cid": 0,
-    "did": 0,
-    "region": "Bolivia",
-    "name": "Sucre",
-    "abbrev": "BO",
-    "pop": 11.685,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/1920px-Bandera_de_Bolivia_%28Estado%29.svg.png"
-}, {
-    "tid": 2,
-    "cid": 0,
-    "did": 0,
-    "region": "Brazil",
-    "name": "Brasilia",
-    "abbrev": "BR",
-    "pop": 212.74,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1080px-Flag_of_Brazil.svg.png"
-}, {
-    "tid": 3,
-    "cid": 0,
-    "did": 0,
-    "region": "Chile",
-    "name": "Santiago",
-    "abbrev": "CH",
-    "pop": 19.191,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1920px-Flag_of_Chile.svg.png"
-}, {
-    "tid": 4,
-    "cid": 0,
-    "did": 0,
-    "region": "Colombia",
-    "name": "Bogota",
-    "abbrev": "CO",
-    "pop": 51.069,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1920px-Flag_of_Colombia.svg.png"
-}, {
-    "tid": 5,
-    "cid": 0,
-    "did": 0,
-    "region": "Ecuador",
-    "name": "Quito",
-    "abbrev": "EC",
-    "pop": 17.686,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1920px-Flag_of_Ecuador.svg.png"
-}, {
-    "tid": 6,
-    "cid": 0,
-    "did": 0,
-    "region": "Guyana",
-    "name": "Georgetown",
-    "abbrev": "GY",
-    "pop": 0.786,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1920px-Flag_of_Guyana.svg.png"
-}, {
-    "tid": 7,
-    "cid": 0,
-    "did": 0,
-    "region": "Paraguay",
-    "name": "Asunción",
-    "abbrev": "PA",
-    "pop": 7.139,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1920px-Flag_of_Paraguay.svg.png"
-}, {
-    "tid": 8,
-    "cid": 0,
-    "did": 0,
-    "region": "Peru",
-    "name": "Lima",
-    "abbrev": "PE",
-    "pop": 33.073,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1920px-Flag_of_Peru.svg.png"
-}, {
-    "tid": 9,
-    "cid": 0,
-    "did": 0,
-    "region": "Suriname",
-    "name": "Paramaribo",
-    "abbrev": "SU",
-    "pop": 0.587,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1920px-Flag_of_Suriname.svg.png"
-}, {
-    "tid": 10,
-    "cid": 0,
-    "did": 0,
-    "region": "Uruguay",
-    "name": "Montevideo",
-    "abbrev": "UR",
-    "pop": 3.475,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1920px-Flag_of_Uruguay.svg.png"
-}, {
-    "tid": 11,
-    "cid": 0,
-    "did": 0,
-    "region": "Venezuela",
-    "name": "Caracas",
-    "abbrev": "VE",
-    "pop": 28.126,
-    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/1200px-Flag_of_Venezuela_%28state%29.svg.png"
-}]
+    ],
+    "teams": [
+        {
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Argentina",
+            "name": "Buenos Aires",
+            "abbrev": "AR",
+            "pop": 45.23,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "Bolivia",
+            "name": "Sucre",
+            "abbrev": "BO",
+            "pop": 11.685,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/1920px-Bandera_de_Bolivia_%28Estado%29.svg.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Brazil",
+            "name": "Brasilia",
+            "abbrev": "BR",
+            "pop": 212.74,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1080px-Flag_of_Brazil.svg.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "Chile",
+            "name": "Santiago",
+            "abbrev": "CH",
+            "pop": 19.191,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1920px-Flag_of_Chile.svg.png"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "Colombia",
+            "name": "Bogota",
+            "abbrev": "CO",
+            "pop": 51.069,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1920px-Flag_of_Colombia.svg.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Ecuador",
+            "name": "Quito",
+            "abbrev": "EC",
+            "pop": 17.686,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1920px-Flag_of_Ecuador.svg.png"
+        },
+        {
+            "tid": 6,
+            "cid": 0,
+            "did": 0,
+            "region": "Guyana",
+            "name": "Georgetown",
+            "abbrev": "GY",
+            "pop": 0.786,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1920px-Flag_of_Guyana.svg.png"
+        },
+        {
+            "tid": 7,
+            "cid": 0,
+            "did": 0,
+            "region": "Paraguay",
+            "name": "Asunción",
+            "abbrev": "PA",
+            "pop": 7.139,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1920px-Flag_of_Paraguay.svg.png"
+        },
+        {
+            "tid": 8,
+            "cid": 0,
+            "did": 0,
+            "region": "Peru",
+            "name": "Lima",
+            "abbrev": "PE",
+            "pop": 33.073,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1920px-Flag_of_Peru.svg.png"
+        },
+        {
+            "tid": 9,
+            "cid": 0,
+            "did": 0,
+            "region": "Suriname",
+            "name": "Paramaribo",
+            "abbrev": "SU",
+            "pop": 0.587,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1920px-Flag_of_Suriname.svg.png"
+        },
+        {
+            "tid": 10,
+            "cid": 0,
+            "did": 0,
+            "region": "Uruguay",
+            "name": "Montevideo",
+            "abbrev": "UR",
+            "pop": 3.475,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1920px-Flag_of_Uruguay.svg.png"
+        },
+        {
+            "tid": 11,
+            "cid": 0,
+            "did": 0,
+            "region": "Venezuela",
+            "name": "Caracas",
+            "abbrev": "VE",
+            "pop": 28.126,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/1200px-Flag_of_Venezuela_%28state%29.svg.png"
+        }
+    ]
 }

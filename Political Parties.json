@@ -1,27 +1,27 @@
 {
     "gameAttributes": [
         {
-        "key": "playerBioInfo",
-        "value": {
-           "countries": {
-                "USA": {
-                    "fractionSkipCollege": 0
+            "key": "playerBioInfo",
+            "value": {
+                "countries": {
+                    "USA": {
+                        "fractionSkipCollege": 0
                     },
-                "Canada": {
-                    "fractionSkipCollege": 0
+                    "Canada": {
+                        "fractionSkipCollege": 0
                     }
                 },
-            "default": {
-                "colleges": {
-                    "Democratic Party": 44,
-                    "Republican Party": 42,
-                    "Libertarian Party": 6,
-                    "Green Party": 5,
-                    "Constitution Party": 3
+                "default": {
+                    "colleges": {
+                        "Democratic Party": 44,
+                        "Republican Party": 42,
+                        "Libertarian Party": 6,
+                        "Green Party": 5,
+                        "Constitution Party": 3
                     },
-                "fractionSkipCollege": 0
+                    "fractionSkipCollege": 0
+                }
             }
         }
-    }
-]
+    ]
 }

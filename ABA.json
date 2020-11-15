@@ -1,494 +1,604 @@
 {
-"gameAttributes":[
-{"key": "season", "value": 1968},
-{"key":"numGames","value": 78},
-{"key": "startingSeason", "value": 1968},
-{"key": "pace", "value":109},
-{"key": "twoPointAccuracyFactor", "value": 0.937},
-{"key": "threePointAccuracyFactor", "value": 0.88},
-{"key": "threePointTendencyFactor", "value": 0.15},
-{"key": "draftType", "value": "nba1990"},
-{"key": "salaryCap","value":1650},
-{"key": "luxuryPayroll", "value":2150},
-{"key": "maxContract", "value":550},
-{"key": "minContract", "value":50},
-{"key": "minPayroll", "value":1100},
-{"key": "gracePeriodEnd","value": 1971},
-{
-            "key": "confs",
-            "value": [
-                {"cid": 0, "name": "Eastern Division"},
-                {"cid": 1, "name": "Western Division"}
-            ]
-        },
-        {
-            "key": "divs",
-            "value": [
-                {"did": 0, "cid": 0, "name": "Eastern Division"},
-                {"did": 1, "cid": 1, "name": "Western Division"}
-            ]
-        }
-],
-"teams": [
-	{"tid": 0, "cid": 0, "did": 0, "region": "Pittsburgh", "name": "Pipers", "abbrev": "PIT", "pop": 2.3, "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/PittburghPipersLogo1.gif", "colors": ["#FFA500", "#000080", "#FFFFFF"]},
-	{"tid": 1, "cid": 1, "did": 1, "region": "Anaheim", "name": "Amigos", "abbrev": "ANA", "pop": 0.336, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/anaheim_amigos_1967-1968.png", "colors": ["#FFFFFF", "#FFA500", "#000000"]},
-	{"tid": 2, "cid": 1, "did": 1, "region": "Dallas", "name": "Chaparrals", "abbrev": "DAL", "pop": 7.223, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/dallas_chapparals_1971-1973_a.png", "colors": ["#FFFFFF", "#FF0000", "#0000FF"]},
-	{"tid": 3, "cid": 1, "did": 1, "region": "Denver", "name": "Rockets", "abbrev": "DEN", "pop": 2.932, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/denver_rockets_1968-1971.png", "colors": ["#FF0000", "#FFFFFF", "#FFFFFF"]},
-	{"tid": 4, "cid": 1, "did": 1, "region": "Houston", "name": "Mavericks", "abbrev": "HOU", "pop": 6.997, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/houston_mavericks_1968-1969.png", "colors": ["#FFD700", "#000000", "#000000"]},
-	{"tid": 5, "cid": 0, "did": 0, "region": "Indiana", "name": "Pacers", "abbrev": "IND", "pop": 2.048, "imgURL":"https://i.imgur.com/CRlldJw.png", "colors": ["#002D62", "#FDBB30", "#BEC0C2"]},
-	{"tid": 6, "cid": 0, "did": 0, "region": "Kentucky", "name": "Colonels", "abbrev": "KEN", "pop": 1.265, "imgURL":"https://i.imgur.com/YGBH0MG.png", "colors": ["#008000", "#FFFFFF", "#FFFFFF"]},
-	{"tid": 7, "cid": 0, "did": 0, "region": "Minnesota", "name": "Muskies", "abbrev": "MIN", "pop": 3.629, "imgURL":"https://i.imgur.com/B2PTWY1.png", "colors": ["#FFD700", "#0000FF", "#0000FF"]},
-	{"tid": 8, "cid": 0, "did": 0, "region": "New Jersey", "name": "Americans", "abbrev": "NJ", "pop": 0.039, "imgURL":"https://content.sportslogos.net/logos/18/1128/full/5220.gif", "colors": ["#FF0000", "#0000FF", "#FFFFFF"]},
-	{"tid": 9, "cid": 1, "did": 1, "region": "New Orleans", "name": "Buccaneers", "abbrev": "NO", "pop": 1.27, "imgURL":"https://sportsteamhistory.com/wp-content/uploads/2020/03/new_orleans_bucs_1970.png", "colors": ["#FF0000", "#FFFFFF", "#0000FF"]},
-	{"tid": 10, "cid": 1, "did": 1, "region": "Oakland", "name": "Oaks", "abbrev": "OAK", "pop": 6.253, "imgURL":"https://sportslogohistory.com/wp-content/uploads/2018/02/oakland_oaks_1968-1969-a.png", "colors": ["#32CD32", "#FFFF00", "#FFFFFF"]}
-],
-"scheduledEvents": [
-{
-    "type": "contraction",
-    	"season": 1972,
-      		"phase": 4,
-      			"info": {
-        		"tid": 7
-      			},
-    "id": 1
-},
-{
-    "type": "contraction",
-      	"season": 1972,
-      		"phase": 4,
-      			"info": {
-        			"tid": 0
-      			},
-    "id": 2
-},
-{
-	"type": "expansionDraft",
-		"season": 1972,
-			"phase": 4,
-				"info": {
-					"teams": [
-						{
-							"abbrev": "SAD",
-							"cid": 0,
-							"colors": ["#0000FF", "#008000", "#FFFFFF"],
-							"did": 0,
-							"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/San_Diego_Sails-Conquistados_logo.png/175px-San_Diego_Sails-Conquistados_logo.png",
-							"name": "Sails",
-							"pop": 3.317,
-							"region": "San Diego",
-							"tid": 11
-						}
-        			]
+  "gameAttributes": [
+    { "key": "season", "value": 1968 },
+    { "key": "numGames", "value": 78 },
+    { "key": "startingSeason", "value": 1968 },
+    { "key": "pace", "value": 109 },
+    { "key": "twoPointAccuracyFactor", "value": 0.937 },
+    { "key": "threePointAccuracyFactor", "value": 0.88 },
+    { "key": "threePointTendencyFactor", "value": 0.15 },
+    { "key": "draftType", "value": "nba1990" },
+    { "key": "salaryCap", "value": 1650 },
+    { "key": "luxuryPayroll", "value": 2150 },
+    { "key": "maxContract", "value": 550 },
+    { "key": "minContract", "value": 50 },
+    { "key": "minPayroll", "value": 1100 },
+    { "key": "gracePeriodEnd", "value": 1971 },
+    {
+      "key": "confs",
+      "value": [
+        { "cid": 0, "name": "Eastern Division" },
+        { "cid": 1, "name": "Western Division" }
+      ]
+    },
+    {
+      "key": "divs",
+      "value": [
+        { "did": 0, "cid": 0, "name": "Eastern Division" },
+        { "did": 1, "cid": 1, "name": "Western Division" }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 0,
+      "region": "Pittsburgh",
+      "name": "Pipers",
+      "abbrev": "PIT",
+      "pop": 2.3,
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/PittburghPipersLogo1.gif",
+      "colors": ["#FFA500", "#000080", "#FFFFFF"]
+    },
+    {
+      "tid": 1,
+      "cid": 1,
+      "did": 1,
+      "region": "Anaheim",
+      "name": "Amigos",
+      "abbrev": "ANA",
+      "pop": 0.336,
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/anaheim_amigos_1967-1968.png",
+      "colors": ["#FFFFFF", "#FFA500", "#000000"]
+    },
+    {
+      "tid": 2,
+      "cid": 1,
+      "did": 1,
+      "region": "Dallas",
+      "name": "Chaparrals",
+      "abbrev": "DAL",
+      "pop": 7.223,
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/dallas_chapparals_1971-1973_a.png",
+      "colors": ["#FFFFFF", "#FF0000", "#0000FF"]
+    },
+    {
+      "tid": 3,
+      "cid": 1,
+      "did": 1,
+      "region": "Denver",
+      "name": "Rockets",
+      "abbrev": "DEN",
+      "pop": 2.932,
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/denver_rockets_1968-1971.png",
+      "colors": ["#FF0000", "#FFFFFF", "#FFFFFF"]
+    },
+    {
+      "tid": 4,
+      "cid": 1,
+      "did": 1,
+      "region": "Houston",
+      "name": "Mavericks",
+      "abbrev": "HOU",
+      "pop": 6.997,
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/houston_mavericks_1968-1969.png",
+      "colors": ["#FFD700", "#000000", "#000000"]
+    },
+    {
+      "tid": 5,
+      "cid": 0,
+      "did": 0,
+      "region": "Indiana",
+      "name": "Pacers",
+      "abbrev": "IND",
+      "pop": 2.048,
+      "imgURL": "https://i.imgur.com/CRlldJw.png",
+      "colors": ["#002D62", "#FDBB30", "#BEC0C2"]
+    },
+    {
+      "tid": 6,
+      "cid": 0,
+      "did": 0,
+      "region": "Kentucky",
+      "name": "Colonels",
+      "abbrev": "KEN",
+      "pop": 1.265,
+      "imgURL": "https://i.imgur.com/YGBH0MG.png",
+      "colors": ["#008000", "#FFFFFF", "#FFFFFF"]
+    },
+    {
+      "tid": 7,
+      "cid": 0,
+      "did": 0,
+      "region": "Minnesota",
+      "name": "Muskies",
+      "abbrev": "MIN",
+      "pop": 3.629,
+      "imgURL": "https://i.imgur.com/B2PTWY1.png",
+      "colors": ["#FFD700", "#0000FF", "#0000FF"]
+    },
+    {
+      "tid": 8,
+      "cid": 0,
+      "did": 0,
+      "region": "New Jersey",
+      "name": "Americans",
+      "abbrev": "NJ",
+      "pop": 0.039,
+      "imgURL": "https://content.sportslogos.net/logos/18/1128/full/5220.gif",
+      "colors": ["#FF0000", "#0000FF", "#FFFFFF"]
+    },
+    {
+      "tid": 9,
+      "cid": 1,
+      "did": 1,
+      "region": "New Orleans",
+      "name": "Buccaneers",
+      "abbrev": "NO",
+      "pop": 1.27,
+      "imgURL": "https://sportsteamhistory.com/wp-content/uploads/2020/03/new_orleans_bucs_1970.png",
+      "colors": ["#FF0000", "#FFFFFF", "#0000FF"]
+    },
+    {
+      "tid": 10,
+      "cid": 1,
+      "did": 1,
+      "region": "Oakland",
+      "name": "Oaks",
+      "abbrev": "OAK",
+      "pop": 6.253,
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/oakland_oaks_1968-1969-a.png",
+      "colors": ["#32CD32", "#FFFF00", "#FFFFFF"]
+    }
+  ],
+  "scheduledEvents": [
+    {
+      "type": "contraction",
+      "season": 1972,
+      "phase": 4,
+      "info": {
+        "tid": 7
       },
-    "id": 3
-},
-{
-    "type": "teamInfo",
-      	"season": 1969,
-      		"phase": 0,
-      			"info": {
-        			"cid": 0,
-        			"did": 0,
-        			"tid": 8,
-        			"region": "New York",
-        			"abbrev": "NY",
-        			"pop": 20.3,
-        			"name": "Nets",
-        			"colors": ["#0000FF","#FFA500","#FF0000"],
-        			"imgURL": "https://sportsteamhistory.com/wp-content/uploads/2020/03/new_york_nets_1973-1977.png"
-      			},
+      "id": 1
+    },
+    {
+      "type": "contraction",
+      "season": 1972,
+      "phase": 4,
+      "info": {
+        "tid": 0
+      },
+      "id": 2
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1972,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "abbrev": "SAD",
+            "cid": 0,
+            "colors": ["#0000FF", "#008000", "#FFFFFF"],
+            "did": 0,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/San_Diego_Sails-Conquistados_logo.png/175px-San_Diego_Sails-Conquistados_logo.png",
+            "name": "Sails",
+            "pop": 3.317,
+            "region": "San Diego",
+            "tid": 11
+          }
+        ]
+      },
+      "id": 3
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 8,
+        "region": "New York",
+        "abbrev": "NY",
+        "pop": 20.3,
+        "name": "Nets",
+        "colors": ["#0000FF", "#FFA500", "#FF0000"],
+        "imgURL": "https://sportsteamhistory.com/wp-content/uploads/2020/03/new_york_nets_1973-1977.png"
+      },
       "id": 4
-},
-{
-    "type": "teamInfo",
-      	"season": 1969,
-      		"phase": 0,
-      			"info": {
-        			"cid": 0,
-        			"did": 0,
-        			"tid": 7,
-        			"region": "Miami",
-        			"abbrev": "MIA",
-        			"pop": 6.158,
-        			"name": "Floridians",
-        			"colors": ["#000000","#FF00FF","#0000FF"],
-        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/miami_floridians_1969-1970.png"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 7,
+        "region": "Miami",
+        "abbrev": "MIA",
+        "pop": 6.158,
+        "name": "Floridians",
+        "colors": ["#000000", "#FF00FF", "#0000FF"],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/miami_floridians_1969-1970.png"
+      },
       "id": 5
-},
-{
-    "type": "teamInfo",
-      	"season": 1969,
-      		"phase": 0,
-      			"info": {
-        			"cid": 1,
-        			"did": 1,
-        			"tid": 1,
-        			"region": "Los Angeles",
-        			"abbrev": "LA",
-        			"pop": 13.131,
-        			"name": "Stars",
-        			"colors": ["#FFFFFF","#FFA500","#000000"],
-        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/los_angeles_stars_1969-1970_a.png"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 1,
+        "region": "Los Angeles",
+        "abbrev": "LA",
+        "pop": 13.131,
+        "name": "Stars",
+        "colors": ["#FFFFFF", "#FFA500", "#000000"],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/los_angeles_stars_1969-1970_a.png"
+      },
       "id": 6
-},
-{
-    "type": "teamInfo",
-      	"season": 1971,
-      		"phase": 0,
-      			"info": {
-        			"cid": 1,
-        			"did": 1,
-        			"tid": 10,
-        			"region": "Virgina",
-        			"abbrev": "VI",
-        			"pop": 1.263,
-        			"name": "Squires",
-        			"colors": ["#FFA500","#FFFFFF","#FFA500"],
-        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/virginia_squires_1975-1976.png"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1971,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 10,
+        "region": "Virgina",
+        "abbrev": "VI",
+        "pop": 1.263,
+        "name": "Squires",
+        "colors": ["#FFA500", "#FFFFFF", "#FFA500"],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/virginia_squires_1975-1976.png"
+      },
       "id": 7
-},
-{
-    "type": "teamInfo",
-      	"season": 1971,
-      		"phase": 0,
-      			"info": {
-        			"cid": 0,
-        			"did": 0,
-        			"tid": 0,
-        			"region": "Pittsburgh",
-        			"abbrev": "PIT",
-        			"name": "Condors",
-        			"colors": ["#0000FF","#FFA500","#FF0000"],
-        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/pittsburgh_condor_1971-1972.png"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1971,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 0,
+        "region": "Pittsburgh",
+        "abbrev": "PIT",
+        "name": "Condors",
+        "colors": ["#0000FF", "#FFA500", "#FF0000"],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/pittsburgh_condor_1971-1972.png"
+      },
       "id": 8
-},
-{
-    "type": "teamInfo",
-      	"season": 1970,
-      		"phase": 0,
-      			"info": {
-        			"cid": 1,
-        			"did": 1,
-        			"tid": 4,
-        			"region": "Carolina",
-        			"abbrev": "CAR",
-        			"pop": 2.636,
-        			"name": "Cougars",
-        			"colors": ["#008000","#56a0d3","#FFFFFF"],
-        			"imgURL": "https://content.sportslogos.net/logos/18/272/full/5168.gif"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1970,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 4,
+        "region": "Carolina",
+        "abbrev": "CAR",
+        "pop": 2.636,
+        "name": "Cougars",
+        "colors": ["#008000", "#56a0d3", "#FFFFFF"],
+        "imgURL": "https://content.sportslogos.net/logos/18/272/full/5168.gif"
+      },
       "id": 9
-},
-{
-    "type": "teamInfo",
-      	"season": 1975,
-      		"phase": 0,
-      			"info": {
-        			"cid": 1,
-        			"did": 1,
-        			"tid": 4,
-        			"region": "St. Louis",
-        			"abbrev": "STL",
-        			"pop": 2.807,
-        			"name": "Spirits",
-        			"colors": ["#008000","#C0C0C0","#FFFFFF"],
-        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_louis_spirit_1975-1976_a.png"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1975,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 4,
+        "region": "St. Louis",
+        "abbrev": "STL",
+        "pop": 2.807,
+        "name": "Spirits",
+        "colors": ["#008000", "#C0C0C0", "#FFFFFF"],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_louis_spirit_1975-1976_a.png"
+      },
       "id": 10
-},
-{
-    "type": "teamInfo",
-      	"season": 1971,
-      		"phase": 0,
-      			"info": {
-        			"cid": 0,
-        			"did": 0,
-        			"tid": 1,
-        			"region": "Utah",
-        			"abbrev": "UTA",
-        			"pop": 1.222,
-        			"name": "Stars",
-        			"colors": ["#FF0000","#FFFFFF","#FFFFFF"],
-        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/utah_stars_1971-1976.png"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1971,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 1,
+        "region": "Utah",
+        "abbrev": "UTA",
+        "pop": 1.222,
+        "name": "Stars",
+        "colors": ["#FF0000", "#FFFFFF", "#FFFFFF"],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/utah_stars_1971-1976.png"
+      },
       "id": 11
-},
-{
-    "type": "teamInfo",
-      	"season": 1974,
-      		"phase": 0,
-      			"info": {
-        			"cid": 1,
-        			"did": 1,
-        			"tid": 2,
-        			"region": "San Antonio",
-        			"abbrev": "SA",
-        			"pop": 2.55,
-        			"name": "Spurs",
-        			"colors": ["#C4CED4","#000000","#000000"],
-        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_antonio_spurs_2017-pres.png"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1974,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 2,
+        "region": "San Antonio",
+        "abbrev": "SA",
+        "pop": 2.55,
+        "name": "Spurs",
+        "colors": ["#C4CED4", "#000000", "#000000"],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_antonio_spurs_2017-pres.png"
+      },
       "id": 12
-},
-{
-    "type": "teamInfo",
-      	"season": 1971,
-      		"phase": 0,
-      			"info": {
-        			"cid": 1,
-        			"did": 1,
-        			"tid": 9,
-        			"region": "Memphis",
-        			"abbrev": "MEM",
-        			"pop": 1.348,
-        			"name": "Sounds",
-        			"colors": ["#CFB53B","#FF0000","#FFFFFF"],
-        			"imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/memphis_sounds_1974-1975.png"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1971,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 9,
+        "region": "Memphis",
+        "abbrev": "MEM",
+        "pop": 1.348,
+        "name": "Sounds",
+        "colors": ["#CFB53B", "#FF0000", "#FFFFFF"],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/memphis_sounds_1974-1975.png"
+      },
       "id": 13
-},
-{
-    "type": "teamInfo",
-      	"season": 1975,
-      		"phase": 0,
-      			"info": {
-        			"cid": 1,
-        			"did": 1,
-        			"tid": 3,
-        			"region": "Denver",
-        			"name": "Nuggets",
-        			"colors": ["#000080","#FFFF00","#FF0000"],
-        			"imgURL": "https://content.sportslogos.net/logos/6/229/full/5991.gif"
-      			},
+    },
+    {
+      "type": "teamInfo",
+      "season": 1975,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 3,
+        "region": "Denver",
+        "name": "Nuggets",
+        "colors": ["#000080", "#FFFF00", "#FF0000"],
+        "imgURL": "https://content.sportslogos.net/logos/6/229/full/5991.gif"
+      },
       "id": 14
-},
-{
-    "type": "gameAttributes",
-      	"season": 1969,
-      		"phase": 0,
-      			"info": {
-        			"pace": 109.4,
-					"twoPointAccuracyFactor": 0.942
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "pace": 109.4,
+        "twoPointAccuracyFactor": 0.942
+      },
       "id": 15
-},
-{
-    "type": "gameAttributes",
-      	"season": 1969,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 1750,
-        			"luxuryPayroll": 2250,
-        			"minPayroll": 1150,
-        			"maxContract": 600
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1969,
+      "phase": 4,
+      "info": {
+        "salaryCap": 1750,
+        "luxuryPayroll": 2250,
+        "minPayroll": 1150,
+        "maxContract": 600
+      },
       "id": 16
-},
-{
-    "type": "gameAttributes",
-      	"season": 1970,
-      		"phase": 0,
-      			"info": {
-        			"pace": 109.2,
-					"twoPointAccuracyFactor": 0.952,
-					"numGames": 84
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1970,
+      "phase": 0,
+      "info": {
+        "pace": 109.2,
+        "twoPointAccuracyFactor": 0.952,
+        "numGames": 84
+      },
       "id": 17
-},
-{
-    "type": "gameAttributes",
-      	"season": 1970,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 1800,
-        			"luxuryPayroll": 2350,
-        			"minPayroll": 1200
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1970,
+      "phase": 4,
+      "info": {
+        "salaryCap": 1800,
+        "luxuryPayroll": 2350,
+        "minPayroll": 1200
+      },
       "id": 18
-},
-{
-    "type": "gameAttributes",
-      	"season": 1971,
-      		"phase": 0,
-      			"info": {
-        			"pace": 111.1,
-					"twoPointAccuracyFactor": 0.959
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1971,
+      "phase": 0,
+      "info": {
+        "pace": 111.1,
+        "twoPointAccuracyFactor": 0.959
+      },
       "id": 19
-},
-{
-    "type": "gameAttributes",
-      	"season": 1971,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 1900,
-        			"luxuryPayroll": 2450,
-        			"minPayroll": 1250,
-        			"maxContract": 650
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1971,
+      "phase": 4,
+      "info": {
+        "salaryCap": 1900,
+        "luxuryPayroll": 2450,
+        "minPayroll": 1250,
+        "maxContract": 650
+      },
       "id": 20
-},
-{
-    "type": "gameAttributes",
-      	"season": 1972,
-      		"phase": 0,
-      			"info": {
-        			"pace": 106.5,
-					"twoPointAccuracyFactor": 0.965
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1972,
+      "phase": 0,
+      "info": {
+        "pace": 106.5,
+        "twoPointAccuracyFactor": 0.965
+      },
       "id": 21
-},
-{
-    "type": "gameAttributes",
-      	"season": 1972,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2000,
-        			"luxuryPayroll": 2550,
-        			"minPayroll": 1350
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1972,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2000,
+        "luxuryPayroll": 2550,
+        "minPayroll": 1350
+      },
       "id": 22
-},
-{
-    "type": "gameAttributes",
-      	"season": 1973,
-      		"phase": 0,
-      			"info": {
-        			"pace": 105.6,
-					"twoPointAccuracyFactor": 0.97
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1973,
+      "phase": 0,
+      "info": {
+        "pace": 105.6,
+        "twoPointAccuracyFactor": 0.97
+      },
       "id": 23
-},
-{
-    "type": "gameAttributes",
-      	"season": 1973,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2100,
-       				 "luxuryPayroll": 2650,
-        			"minPayroll": 1400,
-        			"maxContract": 700
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1973,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2100,
+        "luxuryPayroll": 2650,
+        "minPayroll": 1400,
+        "maxContract": 700
+      },
       "id": 24
-},
-{
-    "type": "gameAttributes",
-      	"season": 1974,
-      		"phase": 0,
-      			"info": {
-        			"pace": 102.6,
-					"twoPointAccuracyFactor": 0.96
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1974,
+      "phase": 0,
+      "info": {
+        "pace": 102.6,
+        "twoPointAccuracyFactor": 0.96
+      },
       "id": 25
-},
-{
-    "type": "gameAttributes",
-      	"season": 1974,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2200,
-        			"luxuryPayroll": 2800,
-       				"minPayroll": 1450,
-        			"maxContract": 750
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1974,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2200,
+        "luxuryPayroll": 2800,
+        "minPayroll": 1450,
+        "maxContract": 750
+      },
       "id": 26
-},
-{
-    "type": "gameAttributes",
-      	"season": 1975,
-      		"phase": 0,
-      			"info": {
-        			"pace": 103.1,
-					"twoPointAccuracyFactor": 0.973
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1975,
+      "phase": 0,
+      "info": {
+        "pace": 103.1,
+        "twoPointAccuracyFactor": 0.973
+      },
       "id": 27
-},
-{
-    "type": "gameAttributes",
-      	"season": 1975,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2300,
-        			"luxuryPayroll": 2950,
-        			"minPayroll": 1550
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1975,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2300,
+        "luxuryPayroll": 2950,
+        "minPayroll": 1550
+      },
       "id": 28
-},
-{
-    "type": "gameAttributes",
-      	"season": 1976,
-      		"phase": 0,
-      			"info": {
-        			"pace": 106.9,
-					"twoPointAccuracyFactor": 0.965
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1976,
+      "phase": 0,
+      "info": {
+        "pace": 106.9,
+        "twoPointAccuracyFactor": 0.965
+      },
       "id": 29
-},
-{
-    "type": "gameAttributes",
-      	"season": 1976,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2450,
-        			"luxuryPayroll": 3050,
-        			"minPayroll": 1650,
-        			"maxContract": 800
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1976,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2450,
+        "luxuryPayroll": 3050,
+        "minPayroll": 1650,
+        "maxContract": 800
+      },
       "id": 30
-},
-{
-    "type": "gameAttributes",
-      	"season": 1977,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2550,
-        			"luxuryPayroll": 3200,
-        			"minPayroll": 1700,
-        			"maxContract": 850
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1977,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2550,
+        "luxuryPayroll": 3200,
+        "minPayroll": 1700,
+        "maxContract": 850
+      },
       "id": 31
-},
-{
-    "type": "gameAttributes",
-      	"season": 1978,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2700,
-        			"luxuryPayroll": 3350,
-        			"minPayroll": 1800,
-        			"maxContract": 900
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1978,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2700,
+        "luxuryPayroll": 3350,
+        "minPayroll": 1800,
+        "maxContract": 900
+      },
       "id": 32
-},
-{
-    "type": "gameAttributes",
-      	"season": 1979,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2800,
-        			"luxuryPayroll": 3550,
-        			"minPayroll": 1850,
-        			"maxContract": 950
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1979,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2800,
+        "luxuryPayroll": 3550,
+        "minPayroll": 1850,
+        "maxContract": 950
+      },
       "id": 33
-},
-{
-    "type": "gameAttributes",
-      	"season": 1980,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 2950,
-        			"luxuryPayroll": 3700,
-        			"minPayroll": 1950,
-        			"maxContract": 1000
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1980,
+      "phase": 4,
+      "info": {
+        "salaryCap": 2950,
+        "luxuryPayroll": 3700,
+        "minPayroll": 1950,
+        "maxContract": 1000
+      },
       "id": 34
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1981,
       "phase": 0,
@@ -499,91 +609,91 @@
       },
       "id": 35
     },
-{
-    "type": "gameAttributes",
-      	"season": 1981,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 3100,
-        			"luxuryPayroll": 3850,
-        			"minPayroll": 2050,
-        			"maxContract": 1050
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1981,
+      "phase": 4,
+      "info": {
+        "salaryCap": 3100,
+        "luxuryPayroll": 3850,
+        "minPayroll": 2050,
+        "maxContract": 1050
+      },
       "id": 36
-},
-{
-    "type": "gameAttributes",
-      	"season": 1982,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 3250,
-       				"luxuryPayroll": 4050,
-        			"minPayroll": 2150,
-        			"maxContract": 1100
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1982,
+      "phase": 4,
+      "info": {
+        "salaryCap": 3250,
+        "luxuryPayroll": 4050,
+        "minPayroll": 2150,
+        "maxContract": 1100
+      },
       "id": 37
-},
-{
-    "type": "gameAttributes",
-      	"season": 1983,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 3450,
-        			"luxuryPayroll": 4250,
-        			"minPayroll": 2300,
-        			"maxContract": 1150
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1983,
+      "phase": 4,
+      "info": {
+        "salaryCap": 3450,
+        "luxuryPayroll": 4250,
+        "minPayroll": 2300,
+        "maxContract": 1150
+      },
       "id": 38
-},
-{
-    "type": "gameAttributes",
-      	"season": 1984,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 3600,
-        			"luxuryPayroll": 4700,
-        			"minPayroll": 2400,
-        			"maxContract": 1200
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1984,
+      "phase": 4,
+      "info": {
+        "salaryCap": 3600,
+        "luxuryPayroll": 4700,
+        "minPayroll": 2400,
+        "maxContract": 1200
+      },
       "id": 39
-},
-{
-    "type": "gameAttributes",
-      	"season": 1985,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 4250,
-        			"luxuryPayroll": 5550,
-        			"minPayroll": 2850,
-        			"maxContract": 1400
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1985,
+      "phase": 4,
+      "info": {
+        "salaryCap": 4250,
+        "luxuryPayroll": 5550,
+        "minPayroll": 2850,
+        "maxContract": 1400
+      },
       "id": 40
-},
-{
-    "type": "gameAttributes",
-      	"season": 1986,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 4950,
-        			"luxuryPayroll": 6500,
-        			"minPayroll": 3300,
-        			"maxContract": 1650
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1986,
+      "phase": 4,
+      "info": {
+        "salaryCap": 4950,
+        "luxuryPayroll": 6500,
+        "minPayroll": 3300,
+        "maxContract": 1650
+      },
       "id": 41
-},
-{
-    "type": "gameAttributes",
-      	"season": 1987,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 6150,
-        			"luxuryPayroll": 8100,
-        			"minPayroll": 4100,
-        			"maxContract": 2050
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1987,
+      "phase": 4,
+      "info": {
+        "salaryCap": 6150,
+        "luxuryPayroll": 8100,
+        "minPayroll": 4100,
+        "maxContract": 2050
+      },
       "id": 42
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1988,
       "phase": 0,
@@ -594,19 +704,19 @@
       },
       "id": 43
     },
-{
-    "type": "gameAttributes",
-      	"season": 1988,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 7250,
-        			"luxuryPayroll": 9500,
-        			"minPayroll": 4850,
-        			"maxContract": 2400
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1988,
+      "phase": 4,
+      "info": {
+        "salaryCap": 7250,
+        "luxuryPayroll": 9500,
+        "minPayroll": 4850,
+        "maxContract": 2400
+      },
       "id": 45
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1989,
       "phase": 0,
@@ -618,20 +728,20 @@
       },
       "id": 46
     },
-{
-    "type": "gameAttributes",
-      	"season": 1989,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 9800,
-        			"luxuryPayroll": 12850,
-        			"minPayroll": 6550,
-        			"minContract": 100,
-        			"maxContract": 3250
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1989,
+      "phase": 4,
+      "info": {
+        "salaryCap": 9800,
+        "luxuryPayroll": 12850,
+        "minPayroll": 6550,
+        "minContract": 100,
+        "maxContract": 3250
+      },
       "id": 47
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1990,
       "phase": 0,
@@ -642,31 +752,31 @@
       },
       "id": 48
     },
-{
-    "type": "gameAttributes",
-      	"season": 1990,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 11850,
-        			"luxuryPayroll": 15550,
-        			"minPayroll": 7900,
-        			"maxContract": 3950
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1990,
+      "phase": 4,
+      "info": {
+        "salaryCap": 11850,
+        "luxuryPayroll": 15550,
+        "minPayroll": 7900,
+        "maxContract": 3950
+      },
       "id": 49
-},
-{
-    "type": "gameAttributes",
-      	"season": 1991,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 12500,
-        			"luxuryPayroll": 16400,
-        			"minPayroll": 8350,
-        			"maxContract": 4150
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1991,
+      "phase": 4,
+      "info": {
+        "salaryCap": 12500,
+        "luxuryPayroll": 16400,
+        "minPayroll": 8350,
+        "maxContract": 4150
+      },
       "id": 50
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1992,
       "phase": 0,
@@ -677,19 +787,19 @@
       },
       "id": 51
     },
-{
-    "type": "gameAttributes",
-      	"season": 1992,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 14000,
-        			"luxuryPayroll": 18350,
-        			"minPayroll": 9350,
-        			"maxContract": 4650
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1992,
+      "phase": 4,
+      "info": {
+        "salaryCap": 14000,
+        "luxuryPayroll": 18350,
+        "minPayroll": 9350,
+        "maxContract": 4650
+      },
       "id": 52
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1993,
       "phase": 0,
@@ -700,20 +810,20 @@
       },
       "id": 53
     },
-{
-    "type": "gameAttributes",
-      	"season": 1993,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 15200,
-        			"luxuryPayroll": 19900,
-        			"minPayroll": 10150,
-        			"minContract": 150,
-        			"maxContract": 5050
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1993,
+      "phase": 4,
+      "info": {
+        "salaryCap": 15200,
+        "luxuryPayroll": 19900,
+        "minPayroll": 10150,
+        "minContract": 150,
+        "maxContract": 5050
+      },
       "id": 54
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1994,
       "phase": 0,
@@ -725,19 +835,19 @@
       },
       "id": 55
     },
-{
-    "type": "gameAttributes",
-      	"season": 1994,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 15950,
-        			"luxuryPayroll": 20950,
-        			"minPayroll": 10650,
-        			"maxContract": 5300
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1994,
+      "phase": 4,
+      "info": {
+        "salaryCap": 15950,
+        "luxuryPayroll": 20950,
+        "minPayroll": 10650,
+        "maxContract": 5300
+      },
       "id": 56
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1995,
       "phase": 0,
@@ -748,20 +858,20 @@
       },
       "id": 57
     },
-{
-    "type": "gameAttributes",
-      	"season": 1995,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 23000,
-        			"luxuryPayroll": 30200,
-        			"minPayroll": 15350,
-        			"minContract": 200,
-        			"maxContract": 7650
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1995,
+      "phase": 4,
+      "info": {
+        "salaryCap": 23000,
+        "luxuryPayroll": 30200,
+        "minPayroll": 15350,
+        "minContract": 200,
+        "maxContract": 7650
+      },
       "id": 58
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1996,
       "phase": 0,
@@ -772,19 +882,19 @@
       },
       "id": 59
     },
-{
-    "type": "gameAttributes",
-      	"season": 1996,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 24350,
-        			"luxuryPayroll": 32000,
-        			"minPayroll": 16250,
-        			"maxContract": 8100
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1996,
+      "phase": 4,
+      "info": {
+        "salaryCap": 24350,
+        "luxuryPayroll": 32000,
+        "minPayroll": 16250,
+        "maxContract": 8100
+      },
       "id": 60
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 1997,
       "phase": 0,
@@ -795,57 +905,57 @@
       },
       "id": 61
     },
-{
-    "type": "gameAttributes",
-      	"season": 1997,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 26900,
-        			"luxuryPayroll": 35350,
-        			"minPayroll": 17950,
-        			"maxContract": 8950
-      			},
+    {
+      "type": "gameAttributes",
+      "season": 1997,
+      "phase": 4,
+      "info": {
+        "salaryCap": 26900,
+        "luxuryPayroll": 35350,
+        "minPayroll": 17950,
+        "maxContract": 8950
+      },
       "id": 62
-},
-{
-    "type": "gameAttributes",
-      	"season": 1998,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 30000,
-        			"luxuryPayroll": 39400,
-        			"minPayroll": 20000,
-        			"minContract": 250,
-        			"maxContract": 10000
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1998,
+      "phase": 4,
+      "info": {
+        "salaryCap": 30000,
+        "luxuryPayroll": 39400,
+        "minPayroll": 20000,
+        "minContract": 250,
+        "maxContract": 10000
+      },
       "id": 63
-},
-{
-    "type": "gameAttributes",
-      	"season": 1999,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 34000,
-        			"luxuryPayroll": 44650,
-        			"minPayroll": 22650,
-        			"minContract": 300,
-        			"maxContract": 11350
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1999,
+      "phase": 4,
+      "info": {
+        "salaryCap": 34000,
+        "luxuryPayroll": 44650,
+        "minPayroll": 22650,
+        "minContract": 300,
+        "maxContract": 11350
+      },
       "id": 64
-},
-{
-    "type": "gameAttributes",
-      	"season": 2000,
-      		"phase": 4,
-      			"info": {
-        			"salaryCap": 35500,
-        			"luxuryPayroll": 46600,
-        			"minPayroll": 23650,
-        			"maxContract": 11850
-      			},
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2000,
+      "phase": 4,
+      "info": {
+        "salaryCap": 35500,
+        "luxuryPayroll": 46600,
+        "minPayroll": 23650,
+        "maxContract": 11850
+      },
       "id": 65
-},
-{
+    },
+    {
       "type": "gameAttributes",
       "season": 2001,
       "phase": 0,
@@ -1193,5 +1303,5 @@
       },
       "id": 95
     }
-]
+  ]
 }
