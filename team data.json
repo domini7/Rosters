@@ -736,6 +736,10 @@
 			"2016": {
 				"imgURL": "https://i.ibb.co/7XtpXhq/tor2016.png",
 				"colors": ["#ce1141", "#000000", "#A1A1A4"]
+			},
+			"2021": {
+				"imgURL": "https://i.ibb.co/mvkjqL1/tor2021.png",
+				"colors": ["#ce1141", "#000000", "#A1A1A4"]
 			}
 		}
 	},
