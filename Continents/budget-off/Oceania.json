@@ -1,0 +1,222 @@
+{
+    "gameAttributes": [
+        { "key": "budget", "value": false },
+        { "key": "numGamesPlayoffSeries", "value": [7, 7, 7] },
+        {
+            "key": "confs",
+            "value": [{ "cid": 0, "name": "Oceania" }]
+        },
+        {
+            "key": "divs",
+            "value": [{ "did": 0, "cid": 0, "name": "Countries" }]
+        },
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "default": {
+                    "colleges": {
+                        "University of New South Wales": 1,
+                        "University of Melbourne": 1,
+                        "University of Sydney": 1,
+                        "University of Queensland": 1,
+                        "Australian National University": 1,
+                        "Monash University": 1,
+                        "University of Adelaide": 1,
+                        "University of Auckland": 1,
+                        "RMIT University": 1,
+                        "Deakin University": 1,
+                        "University of Western Australia": 1,
+                        "University of Technology Sydney": 1,
+                        "Macquarie University": 1,
+                        "Curtin University": 1,
+                        "Western Sydney University": 1,
+                        "Griffith University": 1,
+                        "University of Wollongong": 1,
+                        "University of Newcastle": 1,
+                        "Swinburne University of Technology": 1,
+                        "University of Canterbury": 1,
+                        "University of South Australia": 1,
+                        "La Trobe University": 1,
+                        "Massey University": 1,
+                        "University of Otago": 1,
+                        "University of Tasmania": 1,
+                        "Charles Sturt University": 1,
+                        "Flinders University": 1,
+                        "Victoria University": 1,
+                        "University of New England": 1,
+                        "Edith Cowan University": 1,
+                        "Murdoch University": 1,
+                        "Victoria University of Wellington": 1,
+                        "University of Waikato": 1,
+                        "University of Canberra": 1,
+                        "Auckland University of Technology": 1,
+                        "Federation University Australia": 1,
+                        "University of Southern Queensland": 1,
+                        "Southern Cross University": 1,
+                        "Queensland University of Technology": 1,
+                        "Central Queensland University": 1,
+                        "Australian Catholic University": 1,
+                        "Charles Darwin University": 1,
+                        "Bond University": 1,
+                        "University of the Sunshine Coast": 1,
+                        "University of Notre Dame Australia": 1,
+                        "Lincoln University": 1,
+                        "University of the South Pacific": 1,
+                        "Torrens University Australia": 1,
+                        "University of Guam": 1,
+                        "James Cook University": 1
+                    },
+                    "fractionSkipCollege": 0.124
+                },
+                "frequencies": {
+                    "Australia": 5,
+                    "New Zealand": 1,
+                    "Papua New Guinea": 1,
+                    "Samoa": 1
+                }
+            }
+        }
+    ],
+    "teams": [
+        {
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Australia",
+            "name": "Canberra",
+            "abbrev": "AS",
+            "pop": 25.631,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/480px-Flag_of_Australia_%28converted%29.svg.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "F.S. Micronesia",
+            "name": "Palikir",
+            "abbrev": "FSM",
+            "pop": 0.103,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/480px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Fiji",
+            "name": "Suva",
+            "abbrev": "FJ",
+            "pop": 0.896,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/480px-Flag_of_Fiji.svg.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "Kiribati",
+            "name": "Tarawa",
+            "abbrev": "KI",
+            "pop": 0.12,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/480px-Flag_of_Kiribati.svg.png"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "Marshall Islands",
+            "name": "Majuro",
+            "abbrev": "MI",
+            "pop": 0.055,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/480px-Flag_of_the_Marshall_Islands.svg.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Nauru",
+            "name": "Yaren District",
+            "abbrev": "NA",
+            "pop": 0.01,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/480px-Flag_of_Nauru.svg.png"
+        },
+        {
+            "tid": 6,
+            "cid": 0,
+            "did": 0,
+            "region": "New Zealand",
+            "name": "Wellington",
+            "abbrev": "NZ",
+            "pop": 4.795,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/480px-Flag_of_New_Zealand.svg.png"
+        },
+        {
+            "tid": 7,
+            "cid": 0,
+            "did": 0,
+            "region": "Palau",
+            "name": "Ngerulmud",
+            "abbrev": "PA",
+            "pop": 0.021,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/480px-Flag_of_Palau.svg.png"
+        },
+        {
+            "tid": 8,
+            "cid": 0,
+            "did": 0,
+            "region": "Papua New Guinea",
+            "name": "Port Moresby",
+            "abbrev": "PN",
+            "pop": 8.558,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/480px-Flag_of_Papua_New_Guinea.svg.png"
+        },
+        {
+            "tid": 9,
+            "cid": 0,
+            "did": 0,
+            "region": "Samoa",
+            "name": "Apia",
+            "abbrev": "SA",
+            "pop": 0.199,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/480px-Flag_of_Samoa.svg.png"
+        },
+        {
+            "tid": 10,
+            "cid": 0,
+            "did": 0,
+            "region": "Solomon Islands",
+            "name": "Honiara",
+            "abbrev": "SO",
+            "pop": 0.667,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/480px-Flag_of_the_Solomon_Islands.svg.png"
+        },
+        {
+            "tid": 11,
+            "cid": 0,
+            "did": 0,
+            "region": "Tonga",
+            "name": "Nukuʻalofa",
+            "abbrev": "TO",
+            "pop": 0.1,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/480px-Flag_of_Tonga.svg.png"
+        },
+        {
+            "tid": 12,
+            "cid": 0,
+            "did": 0,
+            "region": "Tuvalu",
+            "name": "Funafuti",
+            "abbrev": "TV",
+            "pop": 0.01,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/480px-Flag_of_Tuvalu.svg.png"
+        },
+        {
+            "tid": 13,
+            "cid": 0,
+            "did": 0,
+            "region": "Vanuatu",
+            "name": "Port Vila",
+            "abbrev": "VA",
+            "pop": 0.304,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Vanuatu_%28official%29.svg/480px-Flag_of_Vanuatu_%28official%29.svg.png"
+        }
+    ]
+}

@@ -1,0 +1,366 @@
+{
+    "gameAttributes": [
+        { "key": "budget", "value": false },
+        { "key": "numGamesPlayoffSeries", "value": [7, 7, 7, 7] },
+        { "key": "numPlayoffByes", "value": 4 },
+        {
+            "key": "confs",
+            "value": [{ "cid": 0, "name": "North America" }]
+        },
+        {
+            "key": "divs",
+            "value": [{ "did": 0, "cid": 0, "name": "Countries" }]
+        },
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "countries": {
+                    "Bahamas": {
+                        "colleges": {
+                            "Bahamas Baptist Community Colleges": 1,
+                            "Bahamas Institute of Business & Technology": 1,
+                            "Cherub College": 1,
+                            "Eugene Dupuch Law School": 1,
+                            "Institute Of Business & Commerce": 1,
+                            "Omega College": 1,
+                            "Southern College": 1,
+                            "University of the Bahamas": 1,
+                            "University of the West Indies": 1,
+                            "Galilee College": 1
+                        },
+                        "fractionSkipCollege": 0.01
+                    },
+                    "Canada": {
+                        "colleges": {
+                            "University of Alberta": 1,
+                            "Capilano University": 1,
+                            "Brandon University": 1,
+                            "Mount Allison University": 1,
+                            "Memorial University of Newfoundland": 1,
+                            "Acadia University": 1,
+                            "Algoma University": 1,
+                            "University of Prince Edward Island": 1,
+                            "Bishop's University": 1
+                        },
+                        "fractionSkipCollege": 0.01
+                    },
+                    "Dominican Republic": {
+                        "colleges": {
+                            "Universidad Abierta Para Adultos": 1,
+                            "Universidad Adventista Dominicana": 1,
+                            "Universidad Agroforestal Fernando Arturo de Meriño": 1,
+                            "Universidad Interamericana": 1
+                        },
+                        "fractionSkipCollege": 0.01
+                    },
+                    "Haiti": {
+                        "colleges": {
+                            "Université Publique de l'Artibonite aux Gonaïves": 1,
+                            "Université Autonome Charlemagne Peralte": 1,
+                            "École Supérieure Catholique de Droit de Jérémie": 1,
+                            "Université Chrétienne du Nord d'Haïti": 1,
+                            "Université Américaine des Sciences Modernes d'Haïti": 1
+                        },
+                        "fractionSkipCollege": 0.01
+                    },
+                    "Jamaica": {
+                        "colleges": {
+                            "American Institute Of Management Science": 1,
+                            "B&B University College": 1,
+                            "Caribbean Aerospace College": 1,
+                            "Royale College": 1,
+                            "University of the West Indies at Mona": 1
+                        },
+                        "fractionSkipCollege": 0.01
+                    },
+                    "Mexico": {
+                        "colleges": {
+                            "Universidad Anahuac": 1,
+                            "Universidad de las Américas Puebla": 1,
+                            "Universidad Autónoma de Nuevo León": 1,
+                            "Universidad de Guadalajara": 1,
+                            "Instituto Tecnológico Autonomo de México": 1,
+                            "Universidad Iberoamericana": 1,
+                            "Universidad Autónoma Metropolitana": 1,
+                            "Instituto Politécnico Nacional": 1,
+                            "Tecnológico de Monterrey": 1,
+                            "Universidad Nacional Autónoma de México": 1
+                        },
+                        "fractionSkipCollege": 0.01
+                    },
+                    "Trinidad and Tobago": {
+                        "colleges": {
+                            "University of the Southern Caribbean": 1,
+                            "University of Trinidad and Tobago": 1,
+                            "University of the West Indies at St. Augustine": 1
+                        },
+                        "fractionSkipCollege": 0.01
+                    },
+                    "USA": {
+                        "colleges": {
+                            "Kentucky": 1,
+                            "North Carolina": 1,
+                            "Duke": 1,
+                            "Villanova": 1,
+                            "Kansas": 1,
+                            "UCLA": 1,
+                            "Connecticut": 1,
+                            "Indiana": 1,
+                            "Louisville": 1,
+                            "Florida": 1
+                        },
+                        "fractionSkipCollege": 0.01
+                    }
+                },
+                "frequencies": {
+                    "Bahamas": 3,
+                    "Canada": 15,
+                    "Costa Rica": 1,
+                    "Cuba": 1,
+                    "Dominican Republic": 3,
+                    "El Salvador": 3,
+                    "Haiti": 2,
+                    "Honduras": 3,
+                    "Jamaica": 2,
+                    "Mexico": 15,
+                    "Nicaragua": 3,
+                    "Panama": 3,
+                    "Trinidad and Tobago": 6,
+                    "USA": 45
+                }
+            }
+        }
+    ],
+    "teams": [
+        {
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Antigua and Barbuda",
+            "name": "Saint John's",
+            "abbrev": "AG",
+            "pop": 0.096,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "Bahamas",
+            "name": "Nassau",
+            "abbrev": "BS",
+            "pop": 0.385,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1200px-Flag_of_the_Bahamas.svg.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Barbados",
+            "name": "Bridgetown",
+            "abbrev": "BB",
+            "pop": 0.286,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/193px-Flag_of_Barbados.svg.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "Belize",
+            "name": "Belmopan",
+            "abbrev": "BZ",
+            "pop": 0.383,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1200px-Flag_of_Belize.svg.png"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "Canada",
+            "name": "Ottawa",
+            "abbrev": "CA",
+            "pop": 37.59,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Costa Rica",
+            "name": "San José",
+            "abbrev": "CR",
+            "pop": 4.999,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/255px-Flag_of_Costa_Rica_%28state%29.svg.png"
+        },
+        {
+            "tid": 6,
+            "cid": 0,
+            "did": 0,
+            "region": "Cuba",
+            "name": "Havana",
+            "abbrev": "CU",
+            "pop": 11.34,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1200px-Flag_of_Cuba.svg.png"
+        },
+        {
+            "tid": 7,
+            "cid": 0,
+            "did": 0,
+            "region": "Dominica",
+            "name": "Roseau",
+            "abbrev": "DM",
+            "pop": 0.071,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg"
+        },
+        {
+            "tid": 8,
+            "cid": 0,
+            "did": 0,
+            "region": "Dominican Republic",
+            "name": "Santo Domingo",
+            "abbrev": "DO",
+            "pop": 10.63,
+            "imgURL": "https://www.nationalflags.shop/WebRoot/vilkasfi01/Shops/2014080403/53E6/2F53/CBB9/F4D2/881F/0A28/100B/04F1/Flag_of_the_Dominican_Republic_ml.png"
+        },
+        {
+            "tid": 9,
+            "cid": 0,
+            "did": 0,
+            "region": "El Salvador",
+            "name": "San Salvador",
+            "abbrev": "SV",
+            "pop": 6.421,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1920px-Flag_of_El_Salvador.svg.png"
+        },
+        {
+            "tid": 10,
+            "cid": 0,
+            "did": 0,
+            "region": "Grenada",
+            "name": "Sain George's",
+            "abbrev": "GD",
+            "pop": 0.111,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1200px-Flag_of_Grenada.svg.png"
+        },
+        {
+            "tid": 11,
+            "cid": 0,
+            "did": 0,
+            "region": "Guatemala",
+            "name": "Guatemala City",
+            "abbrev": "GT",
+            "pop": 17.25,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg"
+        },
+        {
+            "tid": 12,
+            "cid": 0,
+            "did": 0,
+            "region": "Haiti",
+            "name": "Port-au-Prince",
+            "abbrev": "HT",
+            "pop": 11.12,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1200px-Flag_of_Haiti.svg.png"
+        },
+        {
+            "tid": 13,
+            "cid": 0,
+            "did": 0,
+            "region": "Honduras",
+            "name": "Tegucigalpa",
+            "abbrev": "HN",
+            "pop": 9.588,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Honduras_%28darker_variant%29.svg"
+        },
+        {
+            "tid": 14,
+            "cid": 0,
+            "did": 0,
+            "region": "Jamaica",
+            "name": "Kingston",
+            "abbrev": "JM",
+            "pop": 2.935,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg"
+        },
+        {
+            "tid": 15,
+            "cid": 0,
+            "did": 0,
+            "region": "Mexico",
+            "name": "Mexico City",
+            "abbrev": "MX",
+            "pop": 126.2,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1920px-Flag_of_Mexico.svg.png"
+        },
+        {
+            "tid": 16,
+            "cid": 0,
+            "did": 0,
+            "region": "Nicaragua",
+            "name": "Managua",
+            "abbrev": "NI",
+            "pop": 6.466,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
+        },
+        {
+            "tid": 17,
+            "cid": 0,
+            "did": 0,
+            "region": "Panama",
+            "name": "Panama City",
+            "abbrev": "PA",
+            "pop": 4.177,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png"
+        },
+        {
+            "tid": 18,
+            "cid": 0,
+            "did": 0,
+            "region": "Saint Kitts and Nevis",
+            "name": "Basseterre",
+            "abbrev": "KN",
+            "pop": 0.0522,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/750px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
+        },
+        {
+            "tid": 19,
+            "cid": 0,
+            "did": 0,
+            "region": "Saint Lucia",
+            "name": "Castries",
+            "abbrev": "LC",
+            "pop": 0.181,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg"
+        },
+        {
+            "tid": 20,
+            "cid": 0,
+            "did": 0,
+            "region": "Saint Vincent",
+            "name": "Kingstown",
+            "abbrev": "VC",
+            "pop": 0.11,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/255px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
+        },
+        {
+            "tid": 21,
+            "cid": 0,
+            "did": 0,
+            "region": "Trinidad and Tobago",
+            "name": "Port of Spain",
+            "abbrev": "TT",
+            "pop": 1.39,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg"
+        },
+        {
+            "tid": 22,
+            "cid": 0,
+            "did": 0,
+            "region": "United States of America",
+            "name": "Washington, D.C.",
+            "abbrev": "US",
+            "pop": 328.2,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        }
+    ]
+}

@@ -1,0 +1,601 @@
+{
+	"gameAttributes": [
+        { "key": "budget", "value": false },
+		{ "key": "numGamesPlayoffSeries", "value": [7, 7, 7, 7, 7] },
+		{ "key": "numPlayoffByes", "value": 6 },
+		{
+			"key": "confs",
+			"value": [{ "cid": 0, "name": "Asia" }]
+		},
+		{
+			"key": "divs",
+			"value": [{ "did": 0, "cid": 0, "name": "Countries" }]
+		},
+		{
+			"key": "playerBioInfo",
+			"value": {
+				"default": {
+					"colleges": {
+						"Shanghai Jiao Tong University": 1,
+						"Fudan University": 1,
+						"Guangxi University": 1,
+						"King Saud University": 1,
+						"National University of Singapore": 1,
+						"Tsinghua University": 1,
+						"University of Tehran": 1,
+						"The University of Tokyo": 1,
+						"Peking University": 1,
+						"Anadolu Üniversitesi": 1,
+						"Nanyang Technological University": 1,
+						"Zhejiang University": 1,
+						"The University of Hong Kong": 1,
+						"The Chinese University of Hong Kong": 1,
+						"National Taiwan University": 1,
+						"Kyoto University": 1,
+						"University of Science and Technology of China": 1,
+						"Wuhan University": 1,
+						"Universitas Gadjah Mada": 1,
+						"Seoul National University": 1,
+						"Keio University": 1,
+						"Xiamen University": 1,
+						"Renmin University of China": 1,
+						"Universitas Indonesia": 1,
+						"Xi'an Jiaotong University": 1,
+						"Nanjing University": 1,
+						"Azerbaycan Dövlet Iqtisad Universiteti": 1,
+						"The Hong Kong University of Science and Technology": 1,
+						"Universitas Pendidikan Indonesia": 1,
+						"University of Delhi": 1,
+						"Indian Institute of Technology Kanpur": 1,
+						"Beijing Normal University": 1,
+						"Tongji University": 1,
+						"Huazhong University of Science and Technology": 1,
+						"Beihang University": 1,
+						"Indian Institute of Technology Bombay": 1,
+						"East China Normal University": 1,
+						"Indian Institute of Technology Delhi": 1,
+						"Beijing Jiaotong University": 1,
+						"Universiti Teknologi MARA": 1,
+						"King AbdulAziz University": 1,
+						"Shenzhen University": 1,
+						"Tel Aviv University": 1,
+						"City University of Hong Kong": 1,
+						"Dalian University of Technology": 1,
+						"Osaka University": 1,
+						"Kasetsart University": 1,
+						"Universiti Malaya": 1,
+						"Beijing Institute of Technology": 1,
+						"Hebrew University of Jerusalem": 1
+					},
+					"fractionSkipCollege": 0.2
+				},
+				"frequencies": {
+					"China": 2,
+					"East Timor": 1,
+					"India": 1,
+					"Iran": 1,
+					"Israel": 1,
+					"Japan": 2,
+					"Kazakhstan": 2,
+					"Russia": 2,
+					"South Korea": 1,
+					"Turkey": 2,
+					"Pakistan": 1,
+					"Indonesia": 2,
+					"Laos": 2,
+					"Armenia": 1,
+					"Vietnam": 2,
+					"Thailand": 2,
+					"Kyrgyzstan": 2,
+					"Macau": 0.2,
+					"Nepal": 1,
+					"North Korea": 1,
+					"Philippines": 2,
+					"Uzbekistan": 1
+				}
+			}
+		}
+	],
+	"teams": [
+		{
+			"tid": 0,
+			"cid": 0,
+			"did": 0,
+			"region": "Afghanistan",
+			"name": "Kabul",
+			"abbrev": "AF",
+			"pop": 37.171,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/480px-Flag_of_Afghanistan.svg.png"
+		},
+		{
+			"tid": 1,
+			"cid": 0,
+			"did": 0,
+			"region": "Armenia",
+			"name": "Yerevan",
+			"abbrev": "AM",
+			"pop": 2.951,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/480px-Flag_of_Armenia.svg.png"
+		},
+		{
+			"tid": 2,
+			"cid": 0,
+			"did": 0,
+			"region": "Azerbaijan",
+			"name": "Baku",
+			"abbrev": "AZ",
+			"pop": 9.949,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/480px-Flag_of_Azerbaijan.svg.png"
+		},
+		{
+			"tid": 3,
+			"cid": 0,
+			"did": 0,
+			"region": "Bahrain",
+			"name": "Manama",
+			"abbrev": "BI",
+			"pop": 1.569,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/480px-Flag_of_Bahrain.svg.png"
+		},
+		{
+			"tid": 4,
+			"cid": 0,
+			"did": 0,
+			"region": "Bangladesh",
+			"name": "Dhaka",
+			"abbrev": "BA",
+			"pop": 161.376,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/480px-Flag_of_Bangladesh.svg.png"
+		},
+		{
+			"tid": 5,
+			"cid": 0,
+			"did": 0,
+			"region": "Bhutan",
+			"name": "Thimphu",
+			"abbrev": "BH",
+			"pop": 0.754,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/480px-Flag_of_Bhutan.svg.png"
+		},
+		{
+			"tid": 6,
+			"cid": 0,
+			"did": 0,
+			"region": "Brunei",
+			"name": "Bandar Seri Begawan",
+			"abbrev": "BN",
+			"pop": 0.428,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/480px-Flag_of_Brunei.svg.png"
+		},
+		{
+			"tid": 7,
+			"cid": 0,
+			"did": 0,
+			"region": "Cambodia",
+			"name": "Phnom Penh",
+			"abbrev": "CM",
+			"pop": 16.249,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/480px-Flag_of_Cambodia.svg.png"
+		},
+		{
+			"tid": 8,
+			"cid": 0,
+			"did": 0,
+			"region": "China",
+			"name": "Beijing",
+			"abbrev": "CH",
+			"pop": 1427.647,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/480px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+		},
+		{
+			"tid": 9,
+			"cid": 0,
+			"did": 0,
+			"region": "Cyprus",
+			"name": "Nicosia",
+			"abbrev": "CY",
+			"pop": 1.189,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/480px-Flag_of_Cyprus.svg.png"
+		},
+		{
+			"tid": 10,
+			"cid": 0,
+			"did": 0,
+			"region": "Georgia",
+			"name": "Tbilisi",
+			"abbrev": "GE",
+			"pop": 1.267,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/480px-Flag_of_Georgia.svg.png"
+		},
+		{
+			"tid": 11,
+			"cid": 0,
+			"did": 0,
+			"region": "India",
+			"name": "New Delhi",
+			"abbrev": "IN",
+			"pop": 1.353,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/480px-Flag_of_India.svg.png"
+		},
+		{
+			"tid": 12,
+			"cid": 0,
+			"did": 0,
+			"region": "Indonesia",
+			"name": "Jakarta",
+			"abbrev": "ID",
+			"pop": 267.67,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/480px-Flag_of_Indonesia.svg.png"
+		},
+		{
+			"tid": 13,
+			"cid": 0,
+			"did": 0,
+			"region": "Iran",
+			"name": "Tehran",
+			"abbrev": "IR",
+			"pop": 81.8,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/480px-Flag_of_Iran.svg.png"
+		},
+		{
+			"tid": 14,
+			"cid": 0,
+			"did": 0,
+			"region": "Iraq",
+			"name": "Baghdad",
+			"abbrev": "IQ",
+			"pop": 38.433,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/480px-Flag_of_Iraq.svg.png"
+		},
+		{
+			"tid": 15,
+			"cid": 0,
+			"did": 0,
+			"region": "Israel",
+			"name": "Jerusalem",
+			"abbrev": "IS",
+			"pop": 8.381,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/480px-Flag_of_Israel.svg.png"
+		},
+		{
+			"tid": 16,
+			"cid": 0,
+			"did": 0,
+			"region": "Japan",
+			"name": "Tokyo",
+			"abbrev": "JA",
+			"pop": 127.202,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/480px-Flag_of_Japan.svg.png"
+		},
+		{
+			"tid": 17,
+			"cid": 0,
+			"did": 0,
+			"region": "Jordan",
+			"name": "Amman",
+			"abbrev": "JO",
+			"pop": 9.965,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/480px-Flag_of_Jordan.svg.png"
+		},
+		{
+			"tid": 18,
+			"cid": 0,
+			"did": 0,
+			"region": "Kazakhstan",
+			"name": "Nur-Sultan",
+			"abbrev": "KZ",
+			"pop": 18.319,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/480px-Flag_of_Kazakhstan.svg.png"
+		},
+		{
+			"tid": 19,
+			"cid": 0,
+			"did": 0,
+			"region": "Kuwait",
+			"name": "Kuwait City",
+			"abbrev": "KU",
+			"pop": 4.137,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/480px-Flag_of_Kuwait.svg.png"
+		},
+		{
+			"tid": 20,
+			"cid": 0,
+			"did": 0,
+			"region": "Kyrgyzstan",
+			"name": "Bishkek",
+			"abbrev": "KY",
+			"pop": 6.304,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/480px-Flag_of_Kyrgyzstan.svg.png"
+		},
+		{
+			"tid": 21,
+			"cid": 0,
+			"did": 0,
+			"region": "Laos",
+			"name": "Vientiane",
+			"abbrev": "LA",
+			"pop": 7.061,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/480px-Flag_of_Laos.svg.png"
+		},
+		{
+			"tid": 22,
+			"cid": 0,
+			"did": 0,
+			"region": "Lebanon",
+			"name": "Beirut",
+			"abbrev": "LE",
+			"pop": 6.859,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/480px-Flag_of_Lebanon.svg.png"
+		},
+		{
+			"tid": 23,
+			"cid": 0,
+			"did": 0,
+			"region": "Malaysia",
+			"name": "Kuala Lumpur",
+			"abbrev": "MA",
+			"pop": 31.528,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/480px-Flag_of_Malaysia.svg.png"
+		},
+		{
+			"tid": 24,
+			"cid": 0,
+			"did": 0,
+			"region": "Maldives",
+			"name": "Male",
+			"abbrev": "ML",
+			"pop": 0.515,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/480px-Flag_of_Maldives.svg.png"
+		},
+		{
+			"tid": 25,
+			"cid": 0,
+			"did": 0,
+			"region": "Mongolia",
+			"name": "Ulaanbaatar",
+			"abbrev": "MO",
+			"pop": 3.17,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/480px-Flag_of_Mongolia.svg.png"
+		},
+		{
+			"tid": 26,
+			"cid": 0,
+			"did": 0,
+			"region": "Myanmar",
+			"name": "Naypyidaw",
+			"abbrev": "MM",
+			"pop": 53.708,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/480px-Flag_of_Myanmar.svg.png"
+		},
+		{
+			"tid": 27,
+			"cid": 0,
+			"did": 0,
+			"region": "Nepal",
+			"name": "Kathmandu",
+			"abbrev": "NE",
+			"pop": 28.095,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png"
+		},
+		{
+			"tid": 28,
+			"cid": 0,
+			"did": 0,
+			"region": "North Korea",
+			"name": "Pyongyang",
+			"abbrev": "DPRK",
+			"pop": 25.549,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/480px-Flag_of_North_Korea.svg.png"
+		},
+		{
+			"tid": 29,
+			"cid": 0,
+			"did": 0,
+			"region": "Oman",
+			"name": "Muscat",
+			"abbrev": "OM",
+			"pop": 4.829,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/480px-Flag_of_Oman.svg.png"
+		},
+		{
+			"tid": 30,
+			"cid": 0,
+			"did": 0,
+			"region": "Pakistan",
+			"name": "Islamabad",
+			"abbrev": "PK",
+			"pop": 211.103,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/480px-Flag_of_Pakistan.svg.png"
+		},
+		{
+			"tid": 31,
+			"cid": 0,
+			"did": 0,
+			"region": "Palestine",
+			"name": "Jerusalem",
+			"abbrev": "PS",
+			"pop": 4.862,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/480px-Flag_of_Palestine.svg.png"
+		},
+		{
+			"tid": 32,
+			"cid": 0,
+			"did": 0,
+			"region": "Philippines",
+			"name": "Manila",
+			"abbrev": "PH",
+			"pop": 106.651,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/480px-Flag_of_the_Philippines.svg.png"
+		},
+		{
+			"tid": 33,
+			"cid": 0,
+			"did": 0,
+			"region": "Qatar",
+			"name": "Doha",
+			"abbrev": "QA",
+			"pop": 2.781,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/480px-Flag_of_Qatar.svg.png"
+		},
+		{
+			"tid": 34,
+			"cid": 0,
+			"did": 0,
+			"region": "Russia",
+			"name": "Moscow",
+			"abbrev": "RU",
+			"pop": 145.734,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/480px-Flag_of_Russia.svg.png"
+		},
+		{
+			"tid": 35,
+			"cid": 0,
+			"did": 0,
+			"region": "Saudi Arabia ",
+			"name": "Riyadh",
+			"abbrev": "SB",
+			"pop": 33.702,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/480px-Flag_of_Saudi_Arabia.svg.png"
+		},
+		{
+			"tid": 36,
+			"cid": 0,
+			"did": 0,
+			"region": "Singapore",
+			"name": "Singapore",
+			"abbrev": "SG",
+			"pop": 5.757,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/480px-Flag_of_Singapore.svg.png"
+		},
+		{
+			"tid": 37,
+			"cid": 0,
+			"did": 0,
+			"region": "South Korea ",
+			"name": "Seoul",
+			"abbrev": "KOR",
+			"pop": 51.171,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/480px-Flag_of_South_Korea.svg.png"
+		},
+		{
+			"tid": 38,
+			"cid": 0,
+			"did": 0,
+			"region": "Sri Lanka ",
+			"name": "Sri Jayawardenepura Kotte",
+			"abbrev": "SR",
+			"pop": 21.228,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/480px-Flag_of_Sri_Lanka.svg.png"
+		},
+		{
+			"tid": 39,
+			"cid": 0,
+			"did": 0,
+			"region": "Syria",
+			"name": "Damascus",
+			"abbrev": "SY",
+			"pop": 16.945,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1024px-Flag_of_Syria.svg.png"
+		},
+		{
+			"tid": 40,
+			"cid": 0,
+			"did": 0,
+			"region": "Taiwan",
+			"name": "Taipei",
+			"abbrev": "TW",
+			"pop": 23.726,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/480px-Flag_of_the_Republic_of_China.svg.png"
+		},
+		{
+			"tid": 41,
+			"cid": 0,
+			"did": 0,
+			"region": "Tajikistan",
+			"name": "Dushanbe",
+			"abbrev": "TS",
+			"pop": 9.1,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/480px-Flag_of_Tajikistan.svg.png"
+		},
+		{
+			"tid": 42,
+			"cid": 0,
+			"did": 0,
+			"region": "Thailand",
+			"name": "Bangkok",
+			"abbrev": "TH",
+			"pop": 69.428,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/480px-Flag_of_Thailand.svg.png"
+		},
+		{
+			"tid": 43,
+			"cid": 0,
+			"did": 0,
+			"region": "Timor-Leste ",
+			"name": "Dili",
+			"abbrev": "TL",
+			"pop": 1.267,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/480px-Flag_of_East_Timor.svg.png"
+		},
+		{
+			"tid": 44,
+			"cid": 0,
+			"did": 0,
+			"region": "Turkey",
+			"name": "Ankara",
+			"abbrev": "TU",
+			"pop": 82.34,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/480px-Flag_of_Turkey.svg.png"
+		},
+		{
+			"tid": 45,
+			"cid": 0,
+			"did": 0,
+			"region": "Turkmenistan",
+			"name": "Ashgabat",
+			"abbrev": "TK",
+			"pop": 5.85,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/480px-Flag_of_Turkmenistan.svg.png"
+		},
+		{
+			"tid": 46,
+			"cid": 0,
+			"did": 0,
+			"region": "United Arab Emirates ",
+			"name": "Abu Dhabi",
+			"abbrev": "UA",
+			"pop": 9.63,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/480px-Flag_of_the_United_Arab_Emirates.svg.png"
+		},
+		{
+			"tid": 47,
+			"cid": 0,
+			"did": 0,
+			"region": "Uzbekistan",
+			"name": "Tashkent",
+			"abbrev": "UZ",
+			"pop": 32.476,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/480px-Flag_of_Uzbekistan.svg.png"
+		},
+		{
+			"tid": 48,
+			"cid": 0,
+			"did": 0,
+			"region": "Vietnam",
+			"name": "Hanoi",
+			"abbrev": "VT",
+			"pop": 95.545,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/480px-Flag_of_Vietnam.svg.png"
+		},
+		{
+			"tid": 49,
+			"cid": 0,
+			"did": 0,
+			"region": "Yemen",
+			"name": "Sana'a",
+			"abbrev": "YE",
+			"pop": 28.498,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/480px-Flag_of_Yemen.svg.png"
+		}
+	]
+}
