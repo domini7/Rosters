@@ -1,0 +1,161 @@
+{
+    "gameAttributes": [
+        { "key": "numGames", "value": 34 },
+        { "key": "numGamesPlayoffSeries", "value": [1, 1, 1] },
+        { "key": "quarterLength", "value": 10 },
+        {
+            "key": "confs",
+            "value": [{ "cid": 0, "name": "Southland Conference" }]
+        },
+        {
+            "key": "divs",
+            "value": [{ "did": 0, "cid": 0, "name": "Southland" }]
+        },
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "countries": {
+                    "USA": {
+                        "fractionSkipCollege": 1
+                    },
+                    "Canada": {
+                        "fractionSkipCollege": 1
+                    }
+                },
+                "fractionSkipCollege": 1
+            }
+        }
+    ],
+    "teams": [
+        {
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Sam Houston State",
+            "name": "Bearkats",
+            "abbrev": "SH",
+            "pop": 6.4,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/SHSU_athletics_logo.svg/1200px-SHSU_athletics_logo.svg.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "Abilene Christian",
+            "name": "Wildcats",
+            "abbrev": "AC",
+            "pop": 6.6,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Abilene_Christian_Wildcats_logo.svg/1200px-Abilene_Christian_Wildcats_logo.svg.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Lamar",
+            "name": "Cardinals",
+            "abbrev": "LMR",
+            "pop": 7.5,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Lamar_Cardinals_logo.svg/1200px-Lamar_Cardinals_logo.svg.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "New Orleans",
+            "name": "Privateers",
+            "abbrev": "NO",
+            "pop": 7.1,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/New_Orleans_Privateers_logo.svg/1200px-New_Orleans_Privateers_logo.svg.png"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "Southeastern Louisiana",
+            "name": "Lions",
+            "abbrev": "SL",
+            "pop": 2.5,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Southeastern_Louisiana_Lions_logo.svg/1200px-Southeastern_Louisiana_Lions_logo.svg.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Texas A&M-Corpus Christi",
+            "name": "Islanders",
+            "abbrev": "TCC",
+            "pop": 6.8,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Texas_A%26M%E2%80%93Corpus_Christi_Islanders_logo.svg/1200px-Texas_A%26M%E2%80%93Corpus_Christi_Islanders_logo.svg.png"
+        },
+        {
+            "tid": 6,
+            "cid": 0,
+            "did": 0,
+            "region": "Central Arkansas",
+            "name": "Bears",
+            "abbrev": "CA",
+            "pop": 1.7,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Central_Arkansas_Athletics_logo.svg/1200px-Central_Arkansas_Athletics_logo.svg.png"
+        },
+        {
+            "tid": 7,
+            "cid": 0,
+            "did": 0,
+            "region": "Houston Baptist",
+            "name": "Huskies",
+            "abbrev": "HB",
+            "pop": 6.35,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Houston_Baptist_Huskies_logo.svg/1200px-Houston_Baptist_Huskies_logo.svg.png"
+        },
+        {
+            "tid": 8,
+            "cid": 0,
+            "did": 0,
+            "region": "Stephen F. Austin",
+            "name": "Lumberjacks",
+            "abbrev": "SFA",
+            "pop": 3.8,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Stephen_F._Austin_Athletics_wordmark.svg/1200px-Stephen_F._Austin_Athletics_wordmark.svg.png"
+        },
+        {
+            "tid": 9,
+            "cid": 0,
+            "did": 0,
+            "region": "Nicholls State",
+            "name": "Colonels",
+            "abbrev": "NCS",
+            "pop": 6.75,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Nicholls_State_Colonels_logo.svg/1200px-Nicholls_State_Colonels_logo.svg.png"
+        },
+        {
+            "tid": 10,
+            "cid": 0,
+            "did": 0,
+            "region": "Northwestern State",
+            "name": "Demons",
+            "abbrev": "NSU",
+            "pop": 1.45,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Northwestern_State_Demons_logo.svg/1200px-Northwestern_State_Demons_logo.svg.png"
+        },
+        {
+            "tid": 11,
+            "cid": 0,
+            "did": 0,
+            "region": "McNeese State",
+            "name": "Cowboys",
+            "abbrev": "MSU",
+            "pop": 2.25,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/McNeese_State_Athletics_logo.svg/1200px-McNeese_State_Athletics_logo.svg.png"
+        },
+        {
+            "tid": 12,
+            "cid": 0,
+            "did": 0,
+            "region": "Incarnate Word",
+            "name": "Cardinals",
+            "abbrev": "UIW",
+            "pop": 2.14,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Incarnate_Word_Cardinals_logo.svg/1200px-Incarnate_Word_Cardinals_logo.svg.png"
+        }
+    ]
+}
