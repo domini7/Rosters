@@ -1,0 +1,173 @@
+{
+    "gameAttributes": [
+        { "key": "numGames", "value": 34 },
+        { "key": "numGamesPlayoffSeries", "value": [1, 1, 1, 1] },
+        { "key": "quarterLength", "value": 10 },
+        { "key": "numPlayoffByes", "value": 4 },
+        { "key": "budget", "value": false },
+        {
+            "key": "confs",
+            "value": [{ "cid": 0, "name": "Big Ten Conference" }]
+        },
+        {
+            "key": "divs",
+            "value": [{ "did": 0, "cid": 0, "name": "Big Ten" }]
+        },
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "countries": {
+                    "USA": {
+                        "fractionSkipCollege": 1
+                    },
+                    "Canada": {
+                        "fractionSkipCollege": 1
+                    }
+                },
+                "fractionSkipCollege": 1
+            }
+        }
+    ],
+    "teams": [
+        {
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Illinois",
+            "name": "Fighting Illini",
+            "abbrev": "ILL",
+            "pop": 6.5,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Illinois_Fighting_Illini_logo.svg/1200px-Illinois_Fighting_Illini_logo.svg.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "Indiana",
+            "name": "Hoosiers",
+            "abbrev": "IND",
+            "pop": 6.1,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indiana_Hoosiers_logo.svg/1200px-Indiana_Hoosiers_logo.svg.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Iowa",
+            "name": "Hawkeyes",
+            "abbrev": "IOW",
+            "pop": 7.8,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Iowa_Hawkeyes_logo.svg/1200px-Iowa_Hawkeyes_logo.svg.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "Maryland",
+            "name": "Terrapins",
+            "abbrev": "ML",
+            "pop": 3.1,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maryland_Terrapins_logo.svg/1200px-Maryland_Terrapins_logo.svg.png"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "Michigan",
+            "name": "Wolverines",
+            "abbrev": "MU",
+            "pop": 8.8,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Michigan_Wolverines_Logo.svg/1280px-Michigan_Wolverines_Logo.svg.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Michigan State",
+            "name": "Spartans",
+            "abbrev": "MSU",
+            "pop": 2.1,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Michigan_State_Athletics_logo.svg/1200px-Michigan_State_Athletics_logo.svg.png"
+        },
+        {
+            "tid": 6,
+            "cid": 0,
+            "did": 0,
+            "region": "Minnesota",
+            "name": "Golden Gophers",
+            "abbrev": "MIN",
+            "pop": 7.8,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Minnesota_Golden_Gophers_logo.svg/1200px-Minnesota_Golden_Gophers_logo.svg.png"
+        },
+        {
+            "tid": 7,
+            "cid": 0,
+            "did": 0,
+            "region": "Nebraska",
+            "name": "Cornhuskers",
+            "abbrev": "NEB",
+            "pop": 1.7,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nebraska_Cornhuskers_logo.svg/1200px-Nebraska_Cornhuskers_logo.svg.png"
+        },
+        {
+            "tid": 8,
+            "cid": 0,
+            "did": 0,
+            "region": "Ohio State",
+            "name": "Buckeyes",
+            "abbrev": "OSU",
+            "pop": 10.1,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/1200px-Ohio_State_Buckeyes_logo.svg.png"
+        },
+        {
+            "tid": 9,
+            "cid": 0,
+            "did": 0,
+            "region": "Purdue",
+            "name": "Boilermakers",
+            "abbrev": "PU",
+            "pop": 4.8,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Purdue_Boilermakers_logo.svg/1200px-Purdue_Boilermakers_logo.svg.png"
+        },
+        {
+            "tid": 10,
+            "cid": 0,
+            "did": 0,
+            "region": "Rutgers",
+            "name": "Scarlet Knights",
+            "abbrev": "RU",
+            "pop": 9.9,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1200px-Rutgers_Scarlet_Knights_logo.svg.png"
+        },
+        {
+            "tid": 11,
+            "cid": 0,
+            "did": 0,
+            "region": "Wisconsin",
+            "name": "Badgers",
+            "abbrev": "WU",
+            "pop": 7.7,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wisconsin_Badgers_logo.svg/1200px-Wisconsin_Badgers_logo.svg.png"
+        },
+        {
+            "tid": 12,
+            "cid": 0,
+            "did": 0,
+            "region": "Northwestern",
+            "name": "Wildcats",
+            "abbrev": "NWU",
+            "pop": 1.8,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Northwestern_wildcats_CMKY_80_100_0_0.svg"
+        },
+        {
+            "tid": 13,
+            "cid": 0,
+            "did": 0,
+            "region": "Penn State",
+            "name": "Nittany Lions",
+            "abbrev": "PSU",
+            "pop": 3.7,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Penn_State_Nittany_Lions_logo.svg/1200px-Penn_State_Nittany_Lions_logo.svg.png"
+        }
+    ]
+}
