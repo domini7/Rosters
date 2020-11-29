@@ -1,0 +1,182 @@
+{
+	"gameAttributes": [
+		{ "key": "numGames", "value": 34 },
+		{ "key": "numGamesPlayoffSeries", "value": [1, 1, 1, 1] },
+		{ "key": "quarterLength", "value": 10 },
+		{ "key": "numPlayoffByes", "value": 2 },
+		{
+			"key": "confs",
+			"value": [{ "cid": 0, "name": "Atlantic Coast Conference" }]
+		},
+		{
+			"key": "divs",
+			"value": [{ "did": 0, "cid": 0, "name": "Atlantic Coast" }]
+		},
+		{
+			"key": "playerBioInfo",
+			"value": {
+				"countries": {
+					"USA": {
+						"fractionSkipCollege": 1
+					},
+					"Canada": {
+						"fractionSkipCollege": 1
+					}
+				},
+				"fractionSkipCollege": 1
+			}
+		}
+	],
+	"teams": [
+		{
+			"tid": 0,
+			"cid": 0,
+			"did": 0,
+			"region": "Boston College",
+			"name": "Eagles",
+			"abbrev": "BC",
+			"pop": 5.1,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png"
+		},
+		{
+			"tid": 1,
+			"cid": 0,
+			"did": 0,
+			"region": "Clemson",
+			"name": "Tigers",
+			"abbrev": "CLEM",
+			"pop": 4.8,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png"
+		},
+		{
+			"tid": 2,
+			"cid": 0,
+			"did": 0,
+			"region": "Duke",
+			"name": "Blue Devils",
+			"abbrev": "DUKE",
+			"pop": 4.7,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+		},
+		{
+			"tid": 3,
+			"cid": 0,
+			"did": 0,
+			"region": "Florida State",
+			"name": "Seminoles",
+			"abbrev": "FSU",
+			"pop": 6.6,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png"
+		},
+		{
+			"tid": 4,
+			"cid": 0,
+			"did": 0,
+			"region": "Georgia Tech",
+			"name": "Yellow Jackets",
+			"abbrev": "GT",
+			"pop": 5.05,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png"
+		},
+		{
+			"tid": 5,
+			"cid": 0,
+			"did": 0,
+			"region": "Louisville",
+			"name": "Cardinals",
+			"abbrev": "LOU",
+			"pop": 2.9,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+		},
+		{
+			"tid": 6,
+			"cid": 0,
+			"did": 0,
+			"region": "Miami",
+			"name": "Hurricanes",
+			"abbrev": "MIA",
+			"pop": 3.7,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
+		},
+		{
+			"tid": 7,
+			"cid": 0,
+			"did": 0,
+			"region": "North Carolina",
+			"name": "Tar Heels",
+			"abbrev": "UNC",
+			"pop": 4.9,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+		},
+		{
+			"tid": 8,
+			"cid": 0,
+			"did": 0,
+			"region": "North Carolina State",
+			"name": "Wolfpack",
+			"abbrev": "NC",
+			"pop": 6.16,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png"
+		},
+		{
+			"tid": 9,
+			"cid": 0,
+			"did": 0,
+			"region": "Notre Dame",
+			"name": "Fighting Irish",
+			"abbrev": "ND",
+			"pop": 6.35,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png"
+		},
+		{
+			"tid": 10,
+			"cid": 0,
+			"did": 0,
+			"region": "Pittsburgh",
+			"name": "Panthers",
+			"abbrev": "PITT",
+			"pop": 1.14,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png"
+		},
+		{
+			"tid": 11,
+			"cid": 0,
+			"did": 0,
+			"region": "Syracuse",
+			"name": "Orange",
+			"abbrev": "SYR",
+			"pop": 1.68,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png"
+		},
+		{
+			"tid": 12,
+			"cid": 0,
+			"did": 0,
+			"region": "Virginia",
+			"name": "Cavaliers",
+			"abbrev": "UVA",
+			"pop": 5.45,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png"
+		},
+		{
+			"tid": 13,
+			"cid": 0,
+			"did": 0,
+			"region": "Virginia Tech",
+			"name": "Hokies",
+			"abbrev": "VT",
+			"pop": 2.69,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png"
+		},
+		{
+			"tid": 14,
+			"cid": 0,
+			"did": 0,
+			"region": "Wake Forest",
+			"name": "Demon Deacons",
+			"abbrev": "WAKE",
+			"pop": 3.12,
+			"imgURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
+		}
+	]
+}
