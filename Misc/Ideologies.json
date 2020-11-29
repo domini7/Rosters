@@ -1,0 +1,44 @@
+{
+    "gameAttributes": [
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "countries": {
+                    "USA": {
+                        "fractionSkipCollege": 0
+                    },
+                    "Canada": {
+                        "fractionSkipCollege": 0
+                    }
+                },
+                "default": {
+                    "colleges": {
+                        "Anarchism": 1,
+                        "Capatilism": 1,
+                        "Communism": 1,
+                        "Conservatism": 1,
+                        "Environmentalism": 1,
+                        "Fascism": 1,
+                        "Liberalism": 1,
+                        "Nationalism": 1,
+                        "Identity politics": 1,
+                        "Theology": 1,
+                        "Socialism": 1,
+                        "Corporatism": 1,
+                        "Democracy": 1,
+                        "Libertarianism": 1,
+                        "Populism": 1,
+                        "Progressivism": 1,
+                        "Tribalism": 1,
+                        "Totalitarianism": 1,
+                        "Colonialism": 1,
+                        "Despotism": 1,
+                        "Distributism": 1,
+                        "Feudalism": 1
+                    },
+                    "fractionSkipCollege": 0
+                }
+            }
+        }
+    ]
+}

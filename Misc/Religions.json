@@ -1,0 +1,42 @@
+{
+    "gameAttributes": [
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "countries": {
+                    "USA": {
+                        "fractionSkipCollege": 0
+                    },
+                    "Canada": {
+                        "fractionSkipCollege": 0
+                    }
+                },
+                "default": {
+                    "colleges": {
+                        "Christianity": 1,
+                        "Islam": 1,
+                        "Hinduism": 1,
+                        "Nonreligious": 1,
+                        "Buddhism": 1,
+                        "Chinese Traditional Religion": 1,
+                        "Ethnic Religions": 1,
+                        "African Traditional Religions": 1,
+                        "Sikhism": 1,
+                        "Spiritism": 1,
+                        "Judaism": 1,
+                        "Juche": 1,
+                        "Bahai": 1,
+                        "Jainism": 1,
+                        "Shinto": 1,
+                        "Cao Dai": 1,
+                        "Zoroastsrianism": 1,
+                        "Tenrikyo": 1,
+                        "Neo-Paganism": 1,
+                        "Unitarian-Universalism": 1
+                    },
+                    "fractionSkipCollege": 0
+                }
+            }
+        }
+    ]
+}

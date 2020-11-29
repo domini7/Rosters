@@ -1,0 +1,9 @@
+{
+  "gameAttributes": [
+  {"key": "salaryCap", "value": 5000},
+  {"key": "minPayroll", "value": 3000},
+  {"key": "maxContract", "value": 2000},
+  {"key": "minContract", "value": 50},
+  {"key": "luxuryPayroll","value":5800}
+  ]
+}
