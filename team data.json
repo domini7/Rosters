@@ -349,7 +349,7 @@
 		"imgURL": "https://i.ibb.co/c3yDsF6/lal1977.png",
 		"name": "Lakers",
 		"region": "Los Angeles",
-		"colors": ["#FFD700", "#FFFFFF", "#301934"],
+		"colors": ["#E6C300", "#FFFFFF", "#301934"],
 		"seasons": {
 			"1977": { "imgURL": "https://i.ibb.co/c3yDsF6/lal1977.png" },
 			"2002": {
