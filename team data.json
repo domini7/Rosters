@@ -95,14 +95,10 @@
 	},
 	"CHH": {
 		"abbrev": "CHH",
-		"imgURL": "https://i.ibb.co/5vLPQ82/chh1989.png",
+		"imgURL": "https://i.ibb.co/fMPCZQD/chh1990.png",
 		"name": "Hornets",
 		"region": "Charlotte",
-		"colors": ["#00778B", "#280071", "#F9423A"],
-		"seasons": {
-			"1989": { "imgURL": "https://i.ibb.co/5vLPQ82/chh1989.png" },
-			"1990": { "imgURL": "https://i.ibb.co/fMPCZQD/chh1990.png" }
-		}
+		"colors": ["#00778B", "#280071", "#F9423A"]
 	},
 	"CHI": {
 		"imgURL": "https://i.ibb.co/mb6GKg3/chi.png",
