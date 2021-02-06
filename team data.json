@@ -256,14 +256,13 @@
 		"colors": ["#C0C0C0", "#FF0000", "#FFFFFF"]
 	},
 	"GSW": {
-		"abbrev": "GSW",
 		"imgURL": "https://i.ibb.co/QmMHQSG/gsw1972.png",
 		"name": "Warriors",
 		"region": "Golden State",
 		"colors": ["#002F6C", "#FFCD00", "#FFFFFF"],
 		"seasons": {
 			"1972": { "imgURL": "https://i.ibb.co/QmMHQSG/gsw1972.png" },
-			"1976": { "imgURL": "https://i.ibb.co/0KhjYbX/gsw1976.png" },
+			"1976": { "imgURL": "https://i.ibb.co/M6mjPDF/gsw1976.png" },
 			"1998": {
 				"imgURL": "https://i.ibb.co/BjtThbQ/gsw1998.png",
 				"colors": ["#041E42", "#BE3A34", "#FFA300"]
@@ -337,12 +336,11 @@
 		"colors": ["#FF0000", "#0000FF", "#000000"]
 	},
 	"LAC": {
-		"imgURL": "https://i.ibb.co/0YDsDfd/lac1985.png",
+		"imgURL": "https://i.ibb.co/fYdKZCH/lac1985.png",
 		"name": "Clippers",
 		"region": "Los Angeles",
 		"colors": ["#c8102E", "#1d428a", "#BEC0C2"],
 		"seasons": {
-			"1985": { "imgURL": "https://i.ibb.co/0YDsDfd/lac1985.png" },
 			"2011": { "imgURL": "https://i.ibb.co/gm7B3vm/lac2011.png" },
 			"2016": { "imgURL": "https://i.ibb.co/DDnxBCR/lac2016.png" }
 		}
@@ -612,7 +610,7 @@
 		"colors": ["#000080", "#FFFFFF", "#FFFFFF"]
 	},
 	"SAC": {
-		"imgURL": "https://i.ibb.co/f8Kz2Cv/sac1986.png",
+		"imgURL": "https://i.ibb.co/swMGgX6/sac1986.png",
 		"name": "Kings",
 		"region": "Sacramento",
 		"colors": ["#542e91", "#c4ced4", "#000000"],
@@ -757,7 +755,10 @@
 		"region": "Utah",
 		"colors": ["#753BBD", "#00A9E0", "#006272"],
 		"seasons": {
-			"1980": { "imgURL": "https://i.ibb.co/Pm2Pnzs/uta1980.png" },
+			"1980": {
+				"imgURL": "https://i.ibb.co/Pm2Pnzs/uta1980.png",
+				"colors": ["#572C5F", "#FFC72C", "#046A38"]
+			},
 			"1997": { "imgURL": "https://i.ibb.co/qn3Wff2/uta1997.png" },
 			"2005": {
 				"imgURL": "https://i.ibb.co/bQRz6R6/uta2005.png",
