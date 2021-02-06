@@ -554,7 +554,7 @@
 		"imgURL": "https://i.ibb.co/Yt94Nv8/pho1969.png",
 		"name": "Suns",
 		"region": "Phoenix",
-		"colors": ["#FF6900", "#FE5000", "#EF3340"],
+		"colors": ["#FF6900", "#000000", "#EF3340"],
 		"seasons": {
 			"1969": { "imgURL": "https://i.ibb.co/Yt94Nv8/pho1969.png" },
 			"1993": { "imgURL": "https://i.ibb.co/n1QPYt5/pho1993.png" },
