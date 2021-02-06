@@ -60,8 +60,7 @@
 		}
 	},
 	"BRK": {
-		"abbrev": "BKN",
-		"imgURL": "https://i.ibb.co/nPjv0z6/brk.png",
+		"imgURL": "https://i.ibb.co/mXdMc4d/brk2013.png",
 		"name": "Nets",
 		"region": "Brooklyn",
 		"colors": ["#000000", "#FFFFFF", "#FFFFFF"]
@@ -101,7 +100,7 @@
 		"colors": ["#00778B", "#280071", "#F9423A"]
 	},
 	"CHI": {
-		"imgURL": "https://i.ibb.co/mb6GKg3/chi.png",
+		"imgURL": "https://i.ibb.co/09vdYRs/chi1967.png",
 		"name": "Bulls",
 		"region": "Chicago",
 		"colors": ["#CE1141", "#000000", "#FFFFFF"]
@@ -185,7 +184,7 @@
 				"colors": ["#00538C", "#002B5e", "#B8C4CA"]
 			},
 			"2018": {
-				"imgURL": "https://i.ibb.co/1MWTccx/dal2018.png",
+				"imgURL": "https://i.ibb.co/nrqv0DR/dal2018.png",
 				"colors": ["#00538C", "#002B5e", "#B8C4CA"]
 			}
 		}
@@ -197,7 +196,10 @@
 		"colors": ["#041E42", "#9D2235", "#8B6F4E"],
 		"seasons": {
 			"1977": { "imgURL": "https://i.ibb.co/9VGgW5L/den1977.png" },
-			"1982": { "imgURL": "https://i.ibb.co/59BXLJC/den1982.png" },
+			"1982": {
+				"imgURL": "https://i.ibb.co/PZW4zFn/den1982.png",
+				"colors": ["#0C4088", "#FFF700", "#FFF700"]
+			},
 			"1994": { "imgURL": "https://i.ibb.co/8XM9VgV/den1994.png" },
 			"2004": {
 				"imgURL": "https://i.ibb.co/3d6t9tv/den2004.png",
@@ -271,7 +273,7 @@
 				"colors": ["#006BB6", "#FDB927", "#26282A"]
 			},
 			"2020": {
-				"imgURL": "https://i.ibb.co/T2sYKSR/gsw2020.png",
+				"imgURL": "https://i.ibb.co/4sT3ZN4/gsw2020.png",
 				"colors": ["#1D428A", "#ffc72c", "#26282A"]
 			}
 		}
@@ -342,7 +344,7 @@
 		"seasons": {
 			"1985": { "imgURL": "https://i.ibb.co/0YDsDfd/lac1985.png" },
 			"2011": { "imgURL": "https://i.ibb.co/gm7B3vm/lac2011.png" },
-			"2016": { "imgURL": "https://i.ibb.co/2yVYKv5/lac2016.png" }
+			"2016": { "imgURL": "https://i.ibb.co/DDnxBCR/lac2016.png" }
 		}
 	},
 	"LAL": {
@@ -371,7 +373,7 @@
 			"2002": { "imgURL": "https://i.ibb.co/pvqq5Zv/mem2002.png" },
 			"2005": { "imgURL": "https://i.ibb.co/XFm2tGN/mem2005.png" },
 			"2018": {
-				"imgURL": "https://i.ibb.co/X4tsf50/mem2018.png",
+				"imgURL": "https://i.ibb.co/9TGGjhN/mem2018.png",
 				"colors": ["#5D76A9", "#12173F", "#F5B112"]
 			}
 		}
@@ -384,7 +386,7 @@
 		"seasons": {
 			"1988": { "imgURL": "https://i.ibb.co/kMSb1dp/mia1988.png" },
 			"2000": {
-				"imgURL": "https://i.ibb.co/bRTqSj4/mia2000.png",
+				"imgURL": "https://i.ibb.co/NZVWTxw/mia2000.png",
 				"colors": ["#98002E", "#F9A01B", "#000000"]
 			}
 		}
@@ -476,7 +478,7 @@
 		"colors": ["#753BBD", "#00A9E0", "#006272"]
 	},
 	"NOP": {
-		"imgURL": "https://i.ibb.co/BZvsCMP/nop.png",
+		"imgURL": "https://i.ibb.co/34Rpnks/NOP.png",
 		"name": "Pelicans",
 		"region": "New Orleans",
 		"colors": ["#0C2340", "#C8102E", "#85714D"]
@@ -499,7 +501,7 @@
 				"colors": ["#006BB6", "#F58426", "#BEC0C2"]
 			},
 			"2012": {
-				"imgURL": "https://i.ibb.co/mFnP4jD/nyk2012.png",
+				"imgURL": "https://i.ibb.co/M9whP0G/nyk2012.png",
 				"colors": ["#006BB6", "#F58426", "#BEC0C2"]
 			}
 		}
@@ -511,7 +513,7 @@
 		"colors": ["#FF0000", "#FFFFFF", "#0000FF"]
 	},
 	"OKC": {
-		"imgURL": "https://i.ibb.co/zf9n9F1/okc.png",
+		"imgURL": "https://i.ibb.co/HL8yM00/okc2009.png",
 		"name": "Thunder",
 		"region": "Oklahoma City",
 		"colors": ["#007ac1", "#ef3b24", "#002D62"]
@@ -524,7 +526,7 @@
 		"seasons": {
 			"1990": { "imgURL": "https://i.ibb.co/3Wyz1TD/orl1990.png" },
 			"2001": { "imgURL": "https://i.ibb.co/DC5Jbx6/orl2001.png" },
-			"2011": { "imgURL": "https://i.ibb.co/4ZRFJRN/orl2011.png" }
+			"2011": { "imgURL": "https://i.ibb.co/zQ13zDt/orl2011.png" }
 		}
 	},
 	"PHI": {
@@ -534,7 +536,7 @@
 		"colors": ["#002F6C", "#D50032", "#FFFFFF"],
 		"seasons": {
 			"1964": { "imgURL": "https://i.ibb.co/bgqpZ87/phi1964.png" },
-			"1978": { "imgURL": "https://i.ibb.co/5Tq51qz/phi1978.png" },
+			"1977": { "imgURL": "https://i.ibb.co/pPyzvT6/phi1977.png" },
 			"1998": {
 				"imgURL": "https://i.ibb.co/gtn83VM/phi1998.png",
 				"colors": ["#006bb6", "#D50032", "#BB9754"]
@@ -550,7 +552,6 @@
 		}
 	},
 	"PHO": {
-		"abbrev": "PHX",
 		"imgURL": "https://i.ibb.co/Yt94Nv8/pho1969.png",
 		"name": "Suns",
 		"region": "Phoenix",
@@ -563,13 +564,12 @@
 				"colors": ["#1d1160", "#e56020", "#000000"]
 			},
 			"2014": {
-				"imgURL": "https://i.ibb.co/NsZ78w4/pho2014.png",
+				"imgURL": "https://i.ibb.co/YfhGTd9/pho2014.png",
 				"colors": ["#1d1160", "#e56020", "#000000"]
 			}
 		}
 	},
 	"PHW": {
-		"abbrev": "PHW",
 		"imgURL": "https://i.ibb.co/68j9rbL/phw1947.png",
 		"name": "Warriors",
 		"region": "Philadelphia",
@@ -637,7 +637,7 @@
 				"colors": ["#8a8d8f", "#000000", "#EF426F"]
 			},
 			"2003": { "imgURL": "https://i.ibb.co/QcZsVCs/sas2003.png" },
-			"2018": { "imgURL": "https://i.ibb.co/tKZC31Z/sas2018.png" }
+			"2018": { "imgURL": "https://i.ibb.co/0fCVjpQ/sas2018.png" }
 		}
 	},
 	"SDC": {
@@ -768,7 +768,7 @@
 				"colors": ["#002B5C", "#00471B", "#F9A01B"]
 			},
 			"2017": {
-				"imgURL": "https://i.ibb.co/LCjtwHd/uta2017.png",
+				"imgURL": "https://i.ibb.co/DCwgC3X/uta2017.png",
 				"colors": ["#002B5C", "#00471B", "#F9A01B"]
 			}
 		}
