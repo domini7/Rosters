@@ -462,7 +462,7 @@
 		"imgURL": "https://i.ibb.co/hm7MgtM/noh2003.png",
 		"name": "Hornets",
 		"region": "New Orleans",
-		"colors": ["#ADD8E6", "#FFFF00", "#ADD8E6"],
+		"colors": ["#1b7bf7", "#ffea00", "#ffffff"],
 		"seasons": {
 			"2003": { "imgURL": "https://i.ibb.co/hm7MgtM/noh2003.png" },
 			"2009": { "imgURL": "https://i.ibb.co/LPJKL4V/noh2009.png" }
