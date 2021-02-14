@@ -1,0 +1,5170 @@
+{
+	"version": 42,
+	"gameAttributes": [
+		{
+			"key": "numGamesPlayoffSeries",
+			"value": [7, 7, 7]
+		},
+		{
+			"key": "numPlayoffByes",
+			"value": 2
+		},
+		{
+			"key": "confs",
+			"value": [
+				{
+					"cid": 0,
+					"name": "BBGM Discord"
+				}
+			]
+		},
+		{
+			"key": "divs",
+			"value": [
+				{
+					"did": 0,
+					"cid": 0,
+					"name": "BBGM"
+				}
+			]
+		}
+	],
+	"players": [
+		{
+			"name": "Doobie Mugi",
+			"ratings": [
+				{
+					"stre": 70,
+					"spd": 79,
+					"jmp": 82,
+					"endu": 84,
+					"ins": 77,
+					"dnk": 87,
+					"ft": 77,
+					"fg": 71,
+					"tp": 77,
+					"oiq": 74,
+					"diq": 70,
+					"drb": 82,
+					"pss": 75,
+					"reb": 64,
+					"hgt": 35
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Nicidob",
+			"ratings": [
+				{
+					"stre": 87,
+					"spd": 90,
+					"jmp": 83,
+					"endu": 84,
+					"ins": 73,
+					"dnk": 75,
+					"ft": 82,
+					"fg": 79,
+					"tp": 71,
+					"oiq": 80,
+					"diq": 60,
+					"drb": 67,
+					"pss": 61,
+					"reb": 49,
+					"hgt": 25
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Alexnoob",
+			"ratings": [
+				{
+					"stre": 65,
+					"spd": 75,
+					"jmp": 79,
+					"endu": 72,
+					"ins": 38,
+					"dnk": 43,
+					"ft": 66,
+					"fg": 62,
+					"tp": 56,
+					"oiq": 64,
+					"diq": 52,
+					"drb": 64,
+					"pss": 65,
+					"reb": 55,
+					"hgt": 89
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Grim Reaper",
+			"ratings": [
+				{
+					"stre": 68,
+					"spd": 78,
+					"jmp": 86,
+					"endu": 68,
+					"ins": 53,
+					"dnk": 51,
+					"ft": 74,
+					"fg": 73,
+					"tp": 81,
+					"oiq": 63,
+					"diq": 71,
+					"drb": 92,
+					"pss": 84,
+					"reb": 65,
+					"hgt": 30
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "ClevelandFan",
+			"ratings": [
+				{
+					"stre": 83,
+					"spd": 57,
+					"jmp": 54,
+					"endu": 90,
+					"ins": 73,
+					"dnk": 87,
+					"ft": 50,
+					"fg": 55,
+					"tp": 55,
+					"oiq": 67,
+					"diq": 66,
+					"drb": 59,
+					"pss": 58,
+					"reb": 72,
+					"hgt": 40
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "MugiBot",
+			"ratings": [
+				{
+					"stre": 63,
+					"spd": 62,
+					"jmp": 47,
+					"endu": 49,
+					"ins": 56,
+					"dnk": 56,
+					"ft": 78,
+					"fg": 80,
+					"tp": 84,
+					"oiq": 69,
+					"diq": 64,
+					"drb": 85,
+					"pss": 82,
+					"reb": 61,
+					"hgt": 28
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Dumbmatter",
+			"ratings": [
+				{
+					"stre": 70,
+					"spd": 51,
+					"jmp": 50,
+					"endu": 56,
+					"ins": 70,
+					"dnk": 60,
+					"ft": 49,
+					"fg": 58,
+					"tp": 51,
+					"oiq": 64,
+					"diq": 72,
+					"drb": 55,
+					"pss": 57,
+					"reb": 74,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "LionKing101",
+			"ratings": [
+				{
+					"stre": 87,
+					"spd": 59,
+					"jmp": 55,
+					"endu": 66,
+					"ins": 100,
+					"dnk": 72,
+					"ft": 52,
+					"fg": 52,
+					"tp": 45,
+					"oiq": 61,
+					"diq": 55,
+					"drb": 55,
+					"pss": 52,
+					"reb": 63,
+					"hgt": 56
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "LowBudgetExistence",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 85,
+					"jmp": 79,
+					"endu": 60,
+					"ins": 30,
+					"dnk": 60,
+					"ft": 78,
+					"fg": 66,
+					"tp": 63,
+					"oiq": 60,
+					"diq": 52,
+					"drb": 74,
+					"pss": 70,
+					"reb": 52,
+					"hgt": 30
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Woj",
+			"ratings": [
+				{
+					"stre": 59,
+					"spd": 86,
+					"jmp": 74,
+					"endu": 51,
+					"ins": 56,
+					"dnk": 67,
+					"ft": 69,
+					"fg": 63,
+					"tp": 68,
+					"oiq": 49,
+					"diq": 53,
+					"drb": 62,
+					"pss": 54,
+					"reb": 50,
+					"hgt": 39
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Alphy",
+			"ratings": [
+				{
+					"stre": 60,
+					"spd": 41,
+					"jmp": 44,
+					"endu": 61,
+					"ins": 63,
+					"dnk": 56,
+					"ft": 50,
+					"fg": 49,
+					"tp": 41,
+					"oiq": 65,
+					"diq": 78,
+					"drb": 61,
+					"pss": 63,
+					"reb": 73,
+					"hgt": 50
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jicem",
+			"ratings": [
+				{
+					"stre": 62,
+					"spd": 69,
+					"jmp": 62,
+					"endu": 49,
+					"ins": 38,
+					"dnk": 58,
+					"ft": 58,
+					"fg": 53,
+					"tp": 63,
+					"oiq": 53,
+					"diq": 56,
+					"drb": 69,
+					"pss": 58,
+					"reb": 58,
+					"hgt": 48
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Fry Bandit",
+			"ratings": [
+				{
+					"stre": 63,
+					"spd": 63,
+					"jmp": 57,
+					"endu": 74,
+					"ins": 39,
+					"dnk": 52,
+					"ft": 71,
+					"fg": 66,
+					"tp": 63,
+					"oiq": 53,
+					"diq": 54,
+					"drb": 52,
+					"pss": 49,
+					"reb": 46,
+					"hgt": 54
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "GradyMcTracy",
+			"ratings": [
+				{
+					"stre": 51,
+					"spd": 63,
+					"jmp": 52,
+					"endu": 81,
+					"ins": 37,
+					"dnk": 37,
+					"ft": 55,
+					"fg": 48,
+					"tp": 48,
+					"oiq": 61,
+					"diq": 49,
+					"drb": 87,
+					"pss": 85,
+					"reb": 61,
+					"hgt": 37
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Ran-dumb_Person",
+			"ratings": [
+				{
+					"stre": 61,
+					"spd": 60,
+					"jmp": 54,
+					"endu": 78,
+					"ins": 43,
+					"dnk": 67,
+					"ft": 61,
+					"fg": 74,
+					"tp": 57,
+					"oiq": 59,
+					"diq": 56,
+					"drb": 67,
+					"pss": 60,
+					"reb": 45,
+					"hgt": 38
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Trusted",
+			"ratings": [
+				{
+					"stre": 61,
+					"spd": 59,
+					"jmp": 55,
+					"endu": 54,
+					"ins": 58,
+					"dnk": 61,
+					"ft": 65,
+					"fg": 66,
+					"tp": 62,
+					"oiq": 65,
+					"diq": 44,
+					"drb": 52,
+					"pss": 48,
+					"reb": 41,
+					"hgt": 57
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Mattable",
+			"ratings": [
+				{
+					"stre": 80,
+					"spd": 74,
+					"jmp": 74,
+					"endu": 39,
+					"ins": 32,
+					"dnk": 66,
+					"ft": 62,
+					"fg": 61,
+					"tp": 56,
+					"oiq": 53,
+					"diq": 47,
+					"drb": 50,
+					"pss": 41,
+					"reb": 49,
+					"hgt": 50
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "PowerSteam",
+			"ratings": [
+				{
+					"stre": 76,
+					"spd": 30,
+					"jmp": 29,
+					"endu": 43,
+					"ins": 62,
+					"dnk": 61,
+					"ft": 54,
+					"fg": 50,
+					"tp": 56,
+					"oiq": 64,
+					"diq": 66,
+					"drb": 55,
+					"pss": 49,
+					"reb": 63,
+					"hgt": 65
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Goat_Status_19",
+			"ratings": [
+				{
+					"stre": 57,
+					"spd": 84,
+					"jmp": 81,
+					"endu": 46,
+					"ins": 40,
+					"dnk": 37,
+					"ft": 64,
+					"fg": 52,
+					"tp": 57,
+					"oiq": 44,
+					"diq": 48,
+					"drb": 66,
+					"pss": 75,
+					"reb": 50,
+					"hgt": 33
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Lewie100",
+			"ratings": [
+				{
+					"stre": 50,
+					"spd": 76,
+					"jmp": 74,
+					"endu": 31,
+					"ins": 30,
+					"dnk": 39,
+					"ft": 59,
+					"fg": 54,
+					"tp": 59,
+					"oiq": 49,
+					"diq": 49,
+					"drb": 64,
+					"pss": 66,
+					"reb": 53,
+					"hgt": 52
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "FeaturingDark",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 38,
+					"jmp": 39,
+					"endu": 61,
+					"ins": 63,
+					"dnk": 59,
+					"ft": 51,
+					"fg": 57,
+					"tp": 51,
+					"oiq": 48,
+					"diq": 74,
+					"drb": 61,
+					"pss": 61,
+					"reb": 71,
+					"hgt": 54
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Eris",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 55,
+					"jmp": 49,
+					"endu": 66,
+					"ins": 61,
+					"dnk": 49,
+					"ft": 63,
+					"fg": 58,
+					"tp": 62,
+					"oiq": 63,
+					"diq": 59,
+					"drb": 74,
+					"pss": 52,
+					"reb": 60,
+					"hgt": 38
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Kevin Durant",
+			"ratings": [
+				{
+					"stre": 50,
+					"spd": 82,
+					"jmp": 75,
+					"endu": 60,
+					"ins": 27,
+					"dnk": 40,
+					"ft": 67,
+					"fg": 56,
+					"tp": 54,
+					"oiq": 58,
+					"diq": 47,
+					"drb": 73,
+					"pss": 84,
+					"reb": 54,
+					"hgt": 18
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "The_Slojoe",
+			"ratings": [
+				{
+					"stre": 65,
+					"spd": 54,
+					"jmp": 51,
+					"endu": 55,
+					"ins": 67,
+					"dnk": 63,
+					"ft": 28,
+					"fg": 28,
+					"tp": 30,
+					"oiq": 46,
+					"diq": 64,
+					"drb": 46,
+					"pss": 49,
+					"reb": 70,
+					"hgt": 65
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Austin63867",
+			"ratings": [
+				{
+					"stre": 67,
+					"spd": 53,
+					"jmp": 44,
+					"endu": 60,
+					"ins": 53,
+					"dnk": 63,
+					"ft": 37,
+					"fg": 37,
+					"tp": 35,
+					"oiq": 53,
+					"diq": 55,
+					"drb": 49,
+					"pss": 44,
+					"reb": 69,
+					"hgt": 64
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Smug Gorrila",
+			"ratings": [
+				{
+					"stre": 59,
+					"spd": 36,
+					"jmp": 42,
+					"endu": 64,
+					"ins": 65,
+					"dnk": 59,
+					"ft": 50,
+					"fg": 44,
+					"tp": 46,
+					"oiq": 55,
+					"diq": 69,
+					"drb": 51,
+					"pss": 45,
+					"reb": 67,
+					"hgt": 60
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Young Simba",
+			"ratings": [
+				{
+					"stre": 49,
+					"spd": 45,
+					"jmp": 31,
+					"endu": 36,
+					"ins": 57,
+					"dnk": 68,
+					"ft": 57,
+					"fg": 61,
+					"tp": 69,
+					"oiq": 60,
+					"diq": 64,
+					"drb": 60,
+					"pss": 57,
+					"reb": 53,
+					"hgt": 53
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Atomic Delirium",
+			"ratings": [
+				{
+					"stre": 58,
+					"spd": 56,
+					"jmp": 53,
+					"endu": 57,
+					"ins": 55,
+					"dnk": 64,
+					"ft": 58,
+					"fg": 65,
+					"tp": 64,
+					"oiq": 63,
+					"diq": 42,
+					"drb": 52,
+					"pss": 49,
+					"reb": 48,
+					"hgt": 50
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Simulation Central",
+			"ratings": [
+				{
+					"stre": 54,
+					"spd": 36,
+					"jmp": 40,
+					"endu": 49,
+					"ins": 54,
+					"dnk": 50,
+					"ft": 42,
+					"fg": 37,
+					"tp": 26,
+					"oiq": 54,
+					"diq": 51,
+					"drb": 51,
+					"pss": 47,
+					"reb": 63,
+					"hgt": 93
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "ILiKeLaZeRz",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 55,
+					"jmp": 52,
+					"endu": 46,
+					"ins": 47,
+					"dnk": 58,
+					"ft": 70,
+					"fg": 47,
+					"tp": 56,
+					"oiq": 51,
+					"diq": 56,
+					"drb": 66,
+					"pss": 55,
+					"reb": 53,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Random Deranged Bird",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 50,
+					"jmp": 49,
+					"endu": 47,
+					"ins": 51,
+					"dnk": 60,
+					"ft": 49,
+					"fg": 60,
+					"tp": 59,
+					"oiq": 49,
+					"diq": 52,
+					"drb": 62,
+					"pss": 60,
+					"reb": 59,
+					"hgt": 57
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Pistons",
+			"ratings": [
+				{
+					"stre": 67,
+					"spd": 47,
+					"jmp": 43,
+					"endu": 41,
+					"ins": 70,
+					"dnk": 58,
+					"ft": 57,
+					"fg": 61,
+					"tp": 64,
+					"oiq": 61,
+					"diq": 58,
+					"drb": 50,
+					"pss": 51,
+					"reb": 53,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Kosciuszko",
+			"ratings": [
+				{
+					"stre": 57,
+					"spd": 66,
+					"jmp": 68,
+					"endu": 52,
+					"ins": 35,
+					"dnk": 55,
+					"ft": 46,
+					"fg": 39,
+					"tp": 38,
+					"oiq": 45,
+					"diq": 53,
+					"drb": 71,
+					"pss": 52,
+					"reb": 52,
+					"hgt": 51
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "JadenIsCool30",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 52,
+					"jmp": 55,
+					"endu": 55,
+					"ins": 47,
+					"dnk": 63,
+					"ft": 43,
+					"fg": 39,
+					"tp": 53,
+					"oiq": 38,
+					"diq": 53,
+					"drb": 52,
+					"pss": 56,
+					"reb": 78,
+					"hgt": 62
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "EMONEY12",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 35,
+					"jmp": 30,
+					"endu": 47,
+					"ins": 51,
+					"dnk": 36,
+					"ft": 38,
+					"fg": 40,
+					"tp": 47,
+					"oiq": 58,
+					"diq": 64,
+					"drb": 64,
+					"pss": 54,
+					"reb": 74,
+					"hgt": 64
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Reina",
+			"ratings": [
+				{
+					"stre": 65,
+					"spd": 80,
+					"jmp": 89,
+					"endu": 45,
+					"ins": 49,
+					"dnk": 43,
+					"ft": 54,
+					"fg": 35,
+					"tp": 48,
+					"oiq": 44,
+					"diq": 56,
+					"drb": 58,
+					"pss": 56,
+					"reb": 42,
+					"hgt": 23
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jlebron13",
+			"ratings": [
+				{
+					"stre": 61,
+					"spd": 53,
+					"jmp": 46,
+					"endu": 58,
+					"ins": 76,
+					"dnk": 72,
+					"ft": 47,
+					"fg": 44,
+					"tp": 37,
+					"oiq": 46,
+					"diq": 55,
+					"drb": 44,
+					"pss": 45,
+					"reb": 56,
+					"hgt": 61
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Wagalien",
+			"ratings": [
+				{
+					"stre": 49,
+					"spd": 67,
+					"jmp": 61,
+					"endu": 48,
+					"ins": 47,
+					"dnk": 37,
+					"ft": 60,
+					"fg": 65,
+					"tp": 56,
+					"oiq": 46,
+					"diq": 56,
+					"drb": 74,
+					"pss": 73,
+					"reb": 59,
+					"hgt": 27
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "YTS",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 77,
+					"jmp": 86,
+					"endu": 40,
+					"ins": 36,
+					"dnk": 58,
+					"ft": 39,
+					"fg": 37,
+					"tp": 36,
+					"oiq": 47,
+					"diq": 47,
+					"drb": 51,
+					"pss": 55,
+					"reb": 44,
+					"hgt": 52
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Champ1432",
+			"ratings": [
+				{
+					"stre": 36,
+					"spd": 72,
+					"jmp": 59,
+					"endu": 37,
+					"ins": 36,
+					"dnk": 33,
+					"ft": 58,
+					"fg": 47,
+					"tp": 53,
+					"oiq": 45,
+					"diq": 38,
+					"drb": 49,
+					"pss": 62,
+					"reb": 40,
+					"hgt": 68
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Xndrew05",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 72,
+					"jmp": 76,
+					"endu": 43,
+					"ins": 40,
+					"dnk": 39,
+					"ft": 42,
+					"fg": 45,
+					"tp": 45,
+					"oiq": 52,
+					"diq": 50,
+					"drb": 73,
+					"pss": 66,
+					"reb": 53,
+					"hgt": 28
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "DefinitelySober",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 66,
+					"jmp": 58,
+					"endu": 62,
+					"ins": 41,
+					"dnk": 66,
+					"ft": 48,
+					"fg": 48,
+					"tp": 42,
+					"oiq": 39,
+					"diq": 57,
+					"drb": 71,
+					"pss": 51,
+					"reb": 50,
+					"hgt": 38
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Durian",
+			"ratings": [
+				{
+					"stre": 62,
+					"spd": 50,
+					"jmp": 45,
+					"endu": 63,
+					"ins": 52,
+					"dnk": 60,
+					"ft": 68,
+					"fg": 57,
+					"tp": 60,
+					"oiq": 51,
+					"diq": 59,
+					"drb": 40,
+					"pss": 34,
+					"reb": 36,
+					"hgt": 45
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Tracy",
+			"ratings": [
+				{
+					"stre": 76,
+					"spd": 51,
+					"jmp": 39,
+					"endu": 61,
+					"ins": 83,
+					"dnk": 74,
+					"ft": 43,
+					"fg": 46,
+					"tp": 46,
+					"oiq": 58,
+					"diq": 49,
+					"drb": 56,
+					"pss": 53,
+					"reb": 78,
+					"hgt": 34
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Val",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 71,
+					"jmp": 68,
+					"endu": 40,
+					"ins": 27,
+					"dnk": 37,
+					"ft": 54,
+					"fg": 44,
+					"tp": 54,
+					"oiq": 32,
+					"diq": 34,
+					"drb": 56,
+					"pss": 45,
+					"reb": 33,
+					"hgt": 31
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "DAME",
+			"ratings": [
+				{
+					"stre": 50,
+					"spd": 65,
+					"jmp": 66,
+					"endu": 51,
+					"ins": 37,
+					"dnk": 32,
+					"ft": 58,
+					"fg": 63,
+					"tp": 56,
+					"oiq": 43,
+					"diq": 41,
+					"drb": 53,
+					"pss": 53,
+					"reb": 42,
+					"hgt": 51
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Go_Terence_Davis",
+			"ratings": [
+				{
+					"stre": 66,
+					"spd": 50,
+					"jmp": 48,
+					"endu": 44,
+					"ins": 53,
+					"dnk": 59,
+					"ft": 40,
+					"fg": 37,
+					"tp": 40,
+					"oiq": 47,
+					"diq": 49,
+					"drb": 42,
+					"pss": 46,
+					"reb": 63,
+					"hgt": 64
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Beerus Be Insane Tho",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 72,
+					"jmp": 72,
+					"endu": 57,
+					"ins": 42,
+					"dnk": 65,
+					"ft": 59,
+					"fg": 61,
+					"tp": 53,
+					"oiq": 40,
+					"diq": 39,
+					"drb": 48,
+					"pss": 41,
+					"reb": 44,
+					"hgt": 48
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "SelfMadeStealth",
+			"ratings": [
+				{
+					"stre": 52,
+					"spd": 75,
+					"jmp": 67,
+					"endu": 34,
+					"ins": 42,
+					"dnk": 60,
+					"ft": 46,
+					"fg": 45,
+					"tp": 53,
+					"oiq": 47,
+					"diq": 47,
+					"drb": 57,
+					"pss": 53,
+					"reb": 56,
+					"hgt": 40
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Balloon",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 62,
+					"jmp": 63,
+					"endu": 49,
+					"ins": 38,
+					"dnk": 46,
+					"ft": 36,
+					"fg": 34,
+					"tp": 28,
+					"oiq": 49,
+					"diq": 46,
+					"drb": 54,
+					"pss": 40,
+					"reb": 48,
+					"hgt": 71
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "TheRealGWood",
+			"ratings": [
+				{
+					"stre": 58,
+					"spd": 51,
+					"jmp": 51,
+					"endu": 63,
+					"ins": 62,
+					"dnk": 58,
+					"ft": 43,
+					"fg": 59,
+					"tp": 48,
+					"oiq": 35,
+					"diq": 69,
+					"drb": 56,
+					"pss": 54,
+					"reb": 71,
+					"hgt": 36
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Spiderchicken9",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 42,
+					"jmp": 37,
+					"endu": 40,
+					"ins": 75,
+					"dnk": 54,
+					"ft": 46,
+					"fg": 37,
+					"tp": 40,
+					"oiq": 54,
+					"diq": 60,
+					"drb": 52,
+					"pss": 58,
+					"reb": 66,
+					"hgt": 56
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Syebana",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 63,
+					"jmp": 67,
+					"endu": 38,
+					"ins": 42,
+					"dnk": 33,
+					"ft": 60,
+					"fg": 59,
+					"tp": 62,
+					"oiq": 46,
+					"diq": 48,
+					"drb": 73,
+					"pss": 71,
+					"reb": 45,
+					"hgt": 32
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Orioles2014",
+			"ratings": [
+				{
+					"stre": 48,
+					"spd": 64,
+					"jmp": 59,
+					"endu": 35,
+					"ins": 37,
+					"dnk": 51,
+					"ft": 51,
+					"fg": 59,
+					"tp": 57,
+					"oiq": 47,
+					"diq": 37,
+					"drb": 55,
+					"pss": 47,
+					"reb": 45,
+					"hgt": 55
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Black Flag Max",
+			"ratings": [
+				{
+					"stre": 62,
+					"spd": 73,
+					"jmp": 70,
+					"endu": 42,
+					"ins": 33,
+					"dnk": 57,
+					"ft": 52,
+					"fg": 42,
+					"tp": 45,
+					"oiq": 43,
+					"diq": 45,
+					"drb": 56,
+					"pss": 41,
+					"reb": 51,
+					"hgt": 39
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "DaGOAT101",
+			"ratings": [
+				{
+					"stre": 54,
+					"spd": 58,
+					"jmp": 39,
+					"endu": 60,
+					"ins": 62,
+					"dnk": 59,
+					"ft": 37,
+					"fg": 31,
+					"tp": 37,
+					"oiq": 43,
+					"diq": 41,
+					"drb": 44,
+					"pss": 39,
+					"reb": 60,
+					"hgt": 73
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Adam Silver",
+			"ratings": [
+				{
+					"stre": 60,
+					"spd": 72,
+					"jmp": 77,
+					"endu": 60,
+					"ins": 50,
+					"dnk": 40,
+					"ft": 54,
+					"fg": 53,
+					"tp": 52,
+					"oiq": 50,
+					"diq": 41,
+					"drb": 42,
+					"pss": 52,
+					"reb": 34,
+					"hgt": 29
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Blocks",
+			"ratings": [
+				{
+					"stre": 51,
+					"spd": 49,
+					"jmp": 57,
+					"endu": 39,
+					"ins": 44,
+					"dnk": 50,
+					"ft": 53,
+					"fg": 48,
+					"tp": 44,
+					"oiq": 51,
+					"diq": 39,
+					"drb": 61,
+					"pss": 48,
+					"reb": 52,
+					"hgt": 60
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Boimenred",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 54,
+					"jmp": 53,
+					"endu": 33,
+					"ins": 34,
+					"dnk": 53,
+					"ft": 48,
+					"fg": 43,
+					"tp": 46,
+					"oiq": 54,
+					"diq": 51,
+					"drb": 57,
+					"pss": 54,
+					"reb": 56,
+					"hgt": 47
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "JayBee",
+			"ratings": [
+				{
+					"stre": 31,
+					"spd": 58,
+					"jmp": 53,
+					"endu": 42,
+					"ins": 33,
+					"dnk": 29,
+					"ft": 58,
+					"fg": 59,
+					"tp": 69,
+					"oiq": 54,
+					"diq": 46,
+					"drb": 64,
+					"pss": 77,
+					"reb": 50,
+					"hgt": 33
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "OC_Hespera",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 63,
+					"jmp": 59,
+					"endu": 56,
+					"ins": 45,
+					"dnk": 61,
+					"ft": 57,
+					"fg": 60,
+					"tp": 53,
+					"oiq": 34,
+					"diq": 35,
+					"drb": 42,
+					"pss": 43,
+					"reb": 36,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "KC24",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 58,
+					"jmp": 46,
+					"endu": 42,
+					"ins": 39,
+					"dnk": 41,
+					"ft": 43,
+					"fg": 53,
+					"tp": 53,
+					"oiq": 39,
+					"diq": 55,
+					"drb": 45,
+					"pss": 48,
+					"reb": 45,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Capalot",
+			"ratings": [
+				{
+					"stre": 62,
+					"spd": 50,
+					"jmp": 39,
+					"endu": 46,
+					"ins": 55,
+					"dnk": 57,
+					"ft": 28,
+					"fg": 32,
+					"tp": 36,
+					"oiq": 54,
+					"diq": 43,
+					"drb": 37,
+					"pss": 32,
+					"reb": 48,
+					"hgt": 71
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "SirLameGame",
+			"ratings": [
+				{
+					"stre": 68,
+					"spd": 31,
+					"jmp": 19,
+					"endu": 34,
+					"ins": 55,
+					"dnk": 75,
+					"ft": 55,
+					"fg": 63,
+					"tp": 56,
+					"oiq": 59,
+					"diq": 48,
+					"drb": 43,
+					"pss": 40,
+					"reb": 59,
+					"hgt": 63
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Ben JAM'in",
+			"ratings": [
+				{
+					"stre": 67,
+					"spd": 51,
+					"jmp": 47,
+					"endu": 30,
+					"ins": 75,
+					"dnk": 59,
+					"ft": 31,
+					"fg": 32,
+					"tp": 31,
+					"oiq": 41,
+					"diq": 52,
+					"drb": 50,
+					"pss": 44,
+					"reb": 64,
+					"hgt": 59
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "AOBOY",
+			"ratings": [
+				{
+					"stre": 58,
+					"spd": 43,
+					"jmp": 39,
+					"endu": 39,
+					"ins": 57,
+					"dnk": 52,
+					"ft": 36,
+					"fg": 40,
+					"tp": 39,
+					"oiq": 42,
+					"diq": 50,
+					"drb": 46,
+					"pss": 46,
+					"reb": 56,
+					"hgt": 69
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "KIRT",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 63,
+					"jmp": 50,
+					"endu": 41,
+					"ins": 33,
+					"dnk": 42,
+					"ft": 55,
+					"fg": 54,
+					"tp": 55,
+					"oiq": 44,
+					"diq": 45,
+					"drb": 53,
+					"pss": 47,
+					"reb": 44,
+					"hgt": 50
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "CF Rip Kobe Bryant",
+			"ratings": [
+				{
+					"stre": 38,
+					"spd": 42,
+					"jmp": 29,
+					"endu": 44,
+					"ins": 39,
+					"dnk": 48,
+					"ft": 56,
+					"fg": 54,
+					"tp": 72,
+					"oiq": 44,
+					"diq": 54,
+					"drb": 54,
+					"pss": 54,
+					"reb": 55,
+					"hgt": 54
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "CaptainCucker",
+			"ratings": [
+				{
+					"stre": 57,
+					"spd": 44,
+					"jmp": 48,
+					"endu": 49,
+					"ins": 53,
+					"dnk": 58,
+					"ft": 42,
+					"fg": 43,
+					"tp": 44,
+					"oiq": 37,
+					"diq": 47,
+					"drb": 42,
+					"pss": 44,
+					"reb": 56,
+					"hgt": 64
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Lebby",
+			"ratings": [
+				{
+					"stre": 66,
+					"spd": 56,
+					"jmp": 43,
+					"endu": 42,
+					"ins": 66,
+					"dnk": 62,
+					"ft": 49,
+					"fg": 48,
+					"tp": 49,
+					"oiq": 34,
+					"diq": 42,
+					"drb": 36,
+					"pss": 38,
+					"reb": 46,
+					"hgt": 62
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Chaoss",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 66,
+					"jmp": 67,
+					"endu": 32,
+					"ins": 37,
+					"dnk": 55,
+					"ft": 53,
+					"fg": 53,
+					"tp": 48,
+					"oiq": 50,
+					"diq": 44,
+					"drb": 60,
+					"pss": 41,
+					"reb": 47,
+					"hgt": 40
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Brilliant Defensive Mind",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 64,
+					"jmp": 57,
+					"endu": 53,
+					"ins": 39,
+					"dnk": 58,
+					"ft": 48,
+					"fg": 43,
+					"tp": 50,
+					"oiq": 46,
+					"diq": 48,
+					"drb": 53,
+					"pss": 50,
+					"reb": 47,
+					"hgt": 35
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Samurai315",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 53,
+					"jmp": 61,
+					"endu": 48,
+					"ins": 30,
+					"dnk": 53,
+					"ft": 44,
+					"fg": 49,
+					"tp": 47,
+					"oiq": 49,
+					"diq": 43,
+					"drb": 49,
+					"pss": 45,
+					"reb": 44,
+					"hgt": 47
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Blessed",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 26,
+					"jmp": 17,
+					"endu": 27,
+					"ins": 51,
+					"dnk": 53,
+					"ft": 36,
+					"fg": 43,
+					"tp": 42,
+					"oiq": 45,
+					"diq": 68,
+					"drb": 56,
+					"pss": 45,
+					"reb": 66,
+					"hgt": 69
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Triumph",
+			"ratings": [
+				{
+					"stre": 32,
+					"spd": 38,
+					"jmp": 32,
+					"endu": 32,
+					"ins": 29,
+					"dnk": 40,
+					"ft": 63,
+					"fg": 67,
+					"tp": 68,
+					"oiq": 62,
+					"diq": 50,
+					"drb": 60,
+					"pss": 66,
+					"reb": 45,
+					"hgt": 45
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Kiminimumu",
+			"ratings": [
+				{
+					"stre": 69,
+					"spd": 44,
+					"jmp": 49,
+					"endu": 40,
+					"ins": 45,
+					"dnk": 59,
+					"ft": 55,
+					"fg": 45,
+					"tp": 42,
+					"oiq": 45,
+					"diq": 45,
+					"drb": 36,
+					"pss": 34,
+					"reb": 45,
+					"hgt": 63
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Gladiator404",
+			"ratings": [
+				{
+					"stre": 50,
+					"spd": 55,
+					"jmp": 60,
+					"endu": 39,
+					"ins": 25,
+					"dnk": 48,
+					"ft": 44,
+					"fg": 43,
+					"tp": 38,
+					"oiq": 47,
+					"diq": 39,
+					"drb": 57,
+					"pss": 46,
+					"reb": 46,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Kojak",
+			"ratings": [
+				{
+					"stre": 44,
+					"spd": 40,
+					"jmp": 23,
+					"endu": 37,
+					"ins": 50,
+					"dnk": 41,
+					"ft": 69,
+					"fg": 64,
+					"tp": 56,
+					"oiq": 54,
+					"diq": 59,
+					"drb": 68,
+					"pss": 56,
+					"reb": 53,
+					"hgt": 38
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Roobi",
+			"ratings": [
+				{
+					"stre": 57,
+					"spd": 68,
+					"jmp": 54,
+					"endu": 32,
+					"ins": 30,
+					"dnk": 43,
+					"ft": 51,
+					"fg": 49,
+					"tp": 55,
+					"oiq": 39,
+					"diq": 42,
+					"drb": 69,
+					"pss": 62,
+					"reb": 45,
+					"hgt": 33
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "42theanswer",
+			"ratings": [
+				{
+					"stre": 52,
+					"spd": 69,
+					"jmp": 59,
+					"endu": 42,
+					"ins": 38,
+					"dnk": 57,
+					"ft": 45,
+					"fg": 42,
+					"tp": 43,
+					"oiq": 38,
+					"diq": 44,
+					"drb": 54,
+					"pss": 50,
+					"reb": 48,
+					"hgt": 38
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "YoungBurgerPatty",
+			"ratings": [
+				{
+					"stre": 48,
+					"spd": 61,
+					"jmp": 68,
+					"endu": 49,
+					"ins": 55,
+					"dnk": 51,
+					"ft": 50,
+					"fg": 58,
+					"tp": 47,
+					"oiq": 46,
+					"diq": 49,
+					"drb": 38,
+					"pss": 32,
+					"reb": 35,
+					"hgt": 40
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Baby Drake",
+			"ratings": [
+				{
+					"stre": 59,
+					"spd": 36,
+					"jmp": 26,
+					"endu": 51,
+					"ins": 43,
+					"dnk": 46,
+					"ft": 18,
+					"fg": 17,
+					"tp": 22,
+					"oiq": 49,
+					"diq": 55,
+					"drb": 48,
+					"pss": 48,
+					"reb": 65,
+					"hgt": 66
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Aton837",
+			"ratings": [
+				{
+					"stre": 44,
+					"spd": 55,
+					"jmp": 56,
+					"endu": 42,
+					"ins": 41,
+					"dnk": 49,
+					"ft": 62,
+					"fg": 56,
+					"tp": 60,
+					"oiq": 40,
+					"diq": 44,
+					"drb": 61,
+					"pss": 48,
+					"reb": 49,
+					"hgt": 41
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Wahoo",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 51,
+					"jmp": 37,
+					"endu": 35,
+					"ins": 46,
+					"dnk": 47,
+					"ft": 70,
+					"fg": 61,
+					"tp": 61,
+					"oiq": 48,
+					"diq": 39,
+					"drb": 61,
+					"pss": 39,
+					"reb": 43,
+					"hgt": 53
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Dargamak",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 72,
+					"jmp": 82,
+					"endu": 41,
+					"ins": 28,
+					"dnk": 33,
+					"ft": 39,
+					"fg": 50,
+					"tp": 45,
+					"oiq": 37,
+					"diq": 40,
+					"drb": 66,
+					"pss": 58,
+					"reb": 46,
+					"hgt": 31
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Kotov",
+			"ratings": [
+				{
+					"stre": 50,
+					"spd": 43,
+					"jmp": 44,
+					"endu": 27,
+					"ins": 44,
+					"dnk": 54,
+					"ft": 31,
+					"fg": 24,
+					"tp": 24,
+					"oiq": 45,
+					"diq": 53,
+					"drb": 52,
+					"pss": 44,
+					"reb": 61,
+					"hgt": 66
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Everest",
+			"ratings": [
+				{
+					"stre": 67,
+					"spd": 59,
+					"jmp": 51,
+					"endu": 37,
+					"ins": 66,
+					"dnk": 51,
+					"ft": 36,
+					"fg": 36,
+					"tp": 40,
+					"oiq": 39,
+					"diq": 36,
+					"drb": 49,
+					"pss": 50,
+					"reb": 64,
+					"hgt": 49
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jz13",
+			"ratings": [
+				{
+					"stre": 42,
+					"spd": 46,
+					"jmp": 54,
+					"endu": 46,
+					"ins": 42,
+					"dnk": 50,
+					"ft": 58,
+					"fg": 68,
+					"tp": 69,
+					"oiq": 38,
+					"diq": 48,
+					"drb": 63,
+					"pss": 48,
+					"reb": 57,
+					"hgt": 36
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Uncle Bobby",
+			"ratings": [
+				{
+					"stre": 44,
+					"spd": 55,
+					"jmp": 54,
+					"endu": 48,
+					"ins": 33,
+					"dnk": 31,
+					"ft": 56,
+					"fg": 53,
+					"tp": 57,
+					"oiq": 55,
+					"diq": 38,
+					"drb": 58,
+					"pss": 66,
+					"reb": 49,
+					"hgt": 31
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Loading",
+			"ratings": [
+				{
+					"stre": 64,
+					"spd": 33,
+					"jmp": 40,
+					"endu": 49,
+					"ins": 67,
+					"dnk": 55,
+					"ft": 43,
+					"fg": 42,
+					"tp": 37,
+					"oiq": 50,
+					"diq": 60,
+					"drb": 44,
+					"pss": 47,
+					"reb": 77,
+					"hgt": 39
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Robbyhead",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 65,
+					"jmp": 54,
+					"endu": 39,
+					"ins": 21,
+					"dnk": 36,
+					"ft": 43,
+					"fg": 38,
+					"tp": 41,
+					"oiq": 51,
+					"diq": 52,
+					"drb": 51,
+					"pss": 67,
+					"reb": 37,
+					"hgt": 28
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Skanda",
+			"ratings": [
+				{
+					"stre": 64,
+					"spd": 37,
+					"jmp": 30,
+					"endu": 41,
+					"ins": 56,
+					"dnk": 50,
+					"ft": 43,
+					"fg": 34,
+					"tp": 35,
+					"oiq": 43,
+					"diq": 43,
+					"drb": 52,
+					"pss": 59,
+					"reb": 65,
+					"hgt": 62
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Beal Waston",
+			"ratings": [
+				{
+					"stre": 48,
+					"spd": 21,
+					"jmp": 15,
+					"endu": 40,
+					"ins": 54,
+					"dnk": 47,
+					"ft": 29,
+					"fg": 33,
+					"tp": 32,
+					"oiq": 47,
+					"diq": 67,
+					"drb": 50,
+					"pss": 58,
+					"reb": 71,
+					"hgt": 65
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "CheapsculptureTAG",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 26,
+					"jmp": 9,
+					"endu": 28,
+					"ins": 47,
+					"dnk": 56,
+					"ft": 44,
+					"fg": 32,
+					"tp": 39,
+					"oiq": 45,
+					"diq": 53,
+					"drb": 39,
+					"pss": 38,
+					"reb": 51,
+					"hgt": 86
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Barrett50cal780",
+			"ratings": [
+				{
+					"stre": 54,
+					"spd": 35,
+					"jmp": 33,
+					"endu": 46,
+					"ins": 49,
+					"dnk": 61,
+					"ft": 38,
+					"fg": 38,
+					"tp": 39,
+					"oiq": 54,
+					"diq": 50,
+					"drb": 47,
+					"pss": 49,
+					"reb": 72,
+					"hgt": 50
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Bacon",
+			"ratings": [
+				{
+					"stre": 36,
+					"spd": 48,
+					"jmp": 40,
+					"endu": 48,
+					"ins": 49,
+					"dnk": 41,
+					"ft": 40,
+					"fg": 50,
+					"tp": 42,
+					"oiq": 49,
+					"diq": 50,
+					"drb": 54,
+					"pss": 53,
+					"reb": 53,
+					"hgt": 48
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Kaleed",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 65,
+					"jmp": 70,
+					"endu": 26,
+					"ins": 31,
+					"dnk": 34,
+					"ft": 46,
+					"fg": 46,
+					"tp": 47,
+					"oiq": 45,
+					"diq": 39,
+					"drb": 79,
+					"pss": 69,
+					"reb": 43,
+					"hgt": 30
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Louie Montana",
+			"ratings": [
+				{
+					"stre": 72,
+					"spd": 48,
+					"jmp": 53,
+					"endu": 47,
+					"ins": 34,
+					"dnk": 54,
+					"ft": 28,
+					"fg": 32,
+					"tp": 32,
+					"oiq": 37,
+					"diq": 53,
+					"drb": 52,
+					"pss": 53,
+					"reb": 74,
+					"hgt": 37
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "RWBYaddict",
+			"ratings": [
+				{
+					"stre": 48,
+					"spd": 31,
+					"jmp": 29,
+					"endu": 38,
+					"ins": 64,
+					"dnk": 54,
+					"ft": 51,
+					"fg": 47,
+					"tp": 48,
+					"oiq": 41,
+					"diq": 52,
+					"drb": 52,
+					"pss": 48,
+					"reb": 56,
+					"hgt": 62
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Just A Dog",
+			"ratings": [
+				{
+					"stre": 50,
+					"spd": 34,
+					"jmp": 36,
+					"endu": 33,
+					"ins": 48,
+					"dnk": 48,
+					"ft": 35,
+					"fg": 36,
+					"tp": 28,
+					"oiq": 44,
+					"diq": 55,
+					"drb": 55,
+					"pss": 50,
+					"reb": 71,
+					"hgt": 62
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Ilovewaffles29",
+			"ratings": [
+				{
+					"stre": 44,
+					"spd": 49,
+					"jmp": 43,
+					"endu": 37,
+					"ins": 33,
+					"dnk": 48,
+					"ft": 50,
+					"fg": 59,
+					"tp": 50,
+					"oiq": 46,
+					"diq": 49,
+					"drb": 59,
+					"pss": 47,
+					"reb": 46,
+					"hgt": 43
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jake",
+			"ratings": [
+				{
+					"stre": 31,
+					"spd": 17,
+					"jmp": 9,
+					"endu": 33,
+					"ins": 46,
+					"dnk": 46,
+					"ft": 51,
+					"fg": 60,
+					"tp": 64,
+					"oiq": 63,
+					"diq": 57,
+					"drb": 62,
+					"pss": 56,
+					"reb": 47,
+					"hgt": 53
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "AStupidWerewolf",
+			"ratings": [
+				{
+					"stre": 58,
+					"spd": 37,
+					"jmp": 21,
+					"endu": 39,
+					"ins": 63,
+					"dnk": 66,
+					"ft": 54,
+					"fg": 49,
+					"tp": 37,
+					"oiq": 32,
+					"diq": 56,
+					"drb": 52,
+					"pss": 44,
+					"reb": 59,
+					"hgt": 62
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "ArcAngelX",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 56,
+					"jmp": 40,
+					"endu": 31,
+					"ins": 35,
+					"dnk": 52,
+					"ft": 50,
+					"fg": 57,
+					"tp": 61,
+					"oiq": 49,
+					"diq": 44,
+					"drb": 47,
+					"pss": 46,
+					"reb": 47,
+					"hgt": 41
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Bunta",
+			"ratings": [
+				{
+					"stre": 51,
+					"spd": 45,
+					"jmp": 48,
+					"endu": 55,
+					"ins": 40,
+					"dnk": 54,
+					"ft": 40,
+					"fg": 35,
+					"tp": 31,
+					"oiq": 42,
+					"diq": 52,
+					"drb": 56,
+					"pss": 48,
+					"reb": 46,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Thicc",
+			"ratings": [
+				{
+					"stre": 64,
+					"spd": 32,
+					"jmp": 29,
+					"endu": 43,
+					"ins": 70,
+					"dnk": 42,
+					"ft": 41,
+					"fg": 40,
+					"tp": 46,
+					"oiq": 34,
+					"diq": 55,
+					"drb": 43,
+					"pss": 40,
+					"reb": 62,
+					"hgt": 63
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Shady5416",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 71,
+					"jmp": 72,
+					"endu": 54,
+					"ins": 21,
+					"dnk": 55,
+					"ft": 46,
+					"fg": 46,
+					"tp": 52,
+					"oiq": 39,
+					"diq": 36,
+					"drb": 37,
+					"pss": 29,
+					"reb": 30,
+					"hgt": 45
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Cumnugget",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 63,
+					"jmp": 37,
+					"endu": 41,
+					"ins": 46,
+					"dnk": 53,
+					"ft": 43,
+					"fg": 39,
+					"tp": 37,
+					"oiq": 43,
+					"diq": 44,
+					"drb": 37,
+					"pss": 36,
+					"reb": 34,
+					"hgt": 56
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Ckl2112",
+			"ratings": [
+				{
+					"stre": 51,
+					"spd": 55,
+					"jmp": 48,
+					"endu": 48,
+					"ins": 44,
+					"dnk": 64,
+					"ft": 40,
+					"fg": 46,
+					"tp": 52,
+					"oiq": 42,
+					"diq": 37,
+					"drb": 61,
+					"pss": 48,
+					"reb": 43,
+					"hgt": 40
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "=)",
+			"ratings": [
+				{
+					"stre": 37,
+					"spd": 53,
+					"jmp": 54,
+					"endu": 30,
+					"ins": 31,
+					"dnk": 51,
+					"ft": 55,
+					"fg": 52,
+					"tp": 56,
+					"oiq": 44,
+					"diq": 37,
+					"drb": 61,
+					"pss": 39,
+					"reb": 51,
+					"hgt": 50
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "BlockboyMC",
+			"ratings": [
+				{
+					"stre": 51,
+					"spd": 49,
+					"jmp": 51,
+					"endu": 46,
+					"ins": 28,
+					"dnk": 49,
+					"ft": 54,
+					"fg": 57,
+					"tp": 54,
+					"oiq": 35,
+					"diq": 42,
+					"drb": 47,
+					"pss": 37,
+					"reb": 39,
+					"hgt": 52
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Melo",
+			"ratings": [
+				{
+					"stre": 44,
+					"spd": 57,
+					"jmp": 56,
+					"endu": 27,
+					"ins": 40,
+					"dnk": 38,
+					"ft": 53,
+					"fg": 49,
+					"tp": 46,
+					"oiq": 39,
+					"diq": 41,
+					"drb": 57,
+					"pss": 43,
+					"reb": 51,
+					"hgt": 52
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "ACoke121",
+			"ratings": [
+				{
+					"stre": 47,
+					"spd": 30,
+					"jmp": 29,
+					"endu": 27,
+					"ins": 74,
+					"dnk": 43,
+					"ft": 30,
+					"fg": 37,
+					"tp": 39,
+					"oiq": 41,
+					"diq": 52,
+					"drb": 48,
+					"pss": 60,
+					"reb": 75,
+					"hgt": 66
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Nt",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 47,
+					"jmp": 45,
+					"endu": 40,
+					"ins": 35,
+					"dnk": 48,
+					"ft": 29,
+					"fg": 33,
+					"tp": 37,
+					"oiq": 45,
+					"diq": 39,
+					"drb": 45,
+					"pss": 43,
+					"reb": 54,
+					"hgt": 60
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "YaBoiSimon",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 41,
+					"jmp": 42,
+					"endu": 36,
+					"ins": 46,
+					"dnk": 47,
+					"ft": 41,
+					"fg": 39,
+					"tp": 28,
+					"oiq": 45,
+					"diq": 49,
+					"drb": 49,
+					"pss": 43,
+					"reb": 65,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Tim-Duncan21",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 53,
+					"jmp": 50,
+					"endu": 43,
+					"ins": 26,
+					"dnk": 41,
+					"ft": 59,
+					"fg": 49,
+					"tp": 54,
+					"oiq": 39,
+					"diq": 47,
+					"drb": 45,
+					"pss": 45,
+					"reb": 46,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Hollow",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 22,
+					"jmp": 23,
+					"endu": 32,
+					"ins": 53,
+					"dnk": 35,
+					"ft": 35,
+					"fg": 32,
+					"tp": 37,
+					"oiq": 43,
+					"diq": 52,
+					"drb": 42,
+					"pss": 47,
+					"reb": 60,
+					"hgt": 84
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Optimalbeast13",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 39,
+					"jmp": 43,
+					"endu": 44,
+					"ins": 65,
+					"dnk": 63,
+					"ft": 42,
+					"fg": 35,
+					"tp": 36,
+					"oiq": 42,
+					"diq": 44,
+					"drb": 46,
+					"pss": 46,
+					"reb": 58,
+					"hgt": 54
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "StevenConrad",
+			"ratings": [
+				{
+					"stre": 55,
+					"spd": 42,
+					"jmp": 39,
+					"endu": 51,
+					"ins": 43,
+					"dnk": 44,
+					"ft": 34,
+					"fg": 39,
+					"tp": 36,
+					"oiq": 53,
+					"diq": 49,
+					"drb": 50,
+					"pss": 46,
+					"reb": 42,
+					"hgt": 43
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "SuperSaiyan15",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 37,
+					"jmp": 15,
+					"endu": 36,
+					"ins": 40,
+					"dnk": 41,
+					"ft": 37,
+					"fg": 43,
+					"tp": 43,
+					"oiq": 57,
+					"diq": 45,
+					"drb": 69,
+					"pss": 51,
+					"reb": 55,
+					"hgt": 52
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Slax",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 60,
+					"jmp": 35,
+					"endu": 51,
+					"ins": 39,
+					"dnk": 66,
+					"ft": 42,
+					"fg": 48,
+					"tp": 50,
+					"oiq": 37,
+					"diq": 36,
+					"drb": 55,
+					"pss": 47,
+					"reb": 48,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "BKinney",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 71,
+					"jmp": 69,
+					"endu": 35,
+					"ins": 28,
+					"dnk": 42,
+					"ft": 39,
+					"fg": 43,
+					"tp": 48,
+					"oiq": 30,
+					"diq": 32,
+					"drb": 50,
+					"pss": 41,
+					"reb": 42,
+					"hgt": 53
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "RMTGoat",
+			"ratings": [
+				{
+					"stre": 37,
+					"spd": 61,
+					"jmp": 49,
+					"endu": 45,
+					"ins": 19,
+					"dnk": 53,
+					"ft": 45,
+					"fg": 41,
+					"tp": 37,
+					"oiq": 37,
+					"diq": 45,
+					"drb": 57,
+					"pss": 45,
+					"reb": 48,
+					"hgt": 47
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Fowad",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 65,
+					"jmp": 75,
+					"endu": 35,
+					"ins": 45,
+					"dnk": 35,
+					"ft": 57,
+					"fg": 65,
+					"tp": 58,
+					"oiq": 45,
+					"diq": 31,
+					"drb": 50,
+					"pss": 56,
+					"reb": 38,
+					"hgt": 30
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Localmomhere",
+			"ratings": [
+				{
+					"stre": 55,
+					"spd": 45,
+					"jmp": 44,
+					"endu": 34,
+					"ins": 54,
+					"dnk": 53,
+					"ft": 20,
+					"fg": 25,
+					"tp": 22,
+					"oiq": 37,
+					"diq": 48,
+					"drb": 49,
+					"pss": 43,
+					"reb": 62,
+					"hgt": 64
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "AarKnife Goat",
+			"ratings": [
+				{
+					"stre": 38,
+					"spd": 57,
+					"jmp": 68,
+					"endu": 31,
+					"ins": 24,
+					"dnk": 41,
+					"ft": 44,
+					"fg": 51,
+					"tp": 41,
+					"oiq": 42,
+					"diq": 51,
+					"drb": 46,
+					"pss": 42,
+					"reb": 37,
+					"hgt": 41
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "AJ",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 64,
+					"jmp": 56,
+					"endu": 36,
+					"ins": 35,
+					"dnk": 47,
+					"ft": 27,
+					"fg": 33,
+					"tp": 29,
+					"oiq": 43,
+					"diq": 46,
+					"drb": 48,
+					"pss": 38,
+					"reb": 40,
+					"hgt": 49
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Freddie",
+			"ratings": [
+				{
+					"stre": 28,
+					"spd": 42,
+					"jmp": 27,
+					"endu": 18,
+					"ins": 40,
+					"dnk": 33,
+					"ft": 59,
+					"fg": 65,
+					"tp": 67,
+					"oiq": 45,
+					"diq": 44,
+					"drb": 78,
+					"pss": 72,
+					"reb": 56,
+					"hgt": 41
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Lil Nas X G.O.A.T.",
+			"ratings": [
+				{
+					"stre": 55,
+					"spd": 31,
+					"jmp": 27,
+					"endu": 47,
+					"ins": 55,
+					"dnk": 57,
+					"ft": 22,
+					"fg": 34,
+					"tp": 32,
+					"oiq": 39,
+					"diq": 54,
+					"drb": 56,
+					"pss": 39,
+					"reb": 57,
+					"hgt": 60
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Gregg Brown",
+			"ratings": [
+				{
+					"stre": 51,
+					"spd": 61,
+					"jmp": 58,
+					"endu": 50,
+					"ins": 35,
+					"dnk": 37,
+					"ft": 51,
+					"fg": 59,
+					"tp": 54,
+					"oiq": 45,
+					"diq": 44,
+					"drb": 48,
+					"pss": 45,
+					"reb": 32,
+					"hgt": 24
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Pikebarramuskgarstur",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 31,
+					"jmp": 41,
+					"endu": 33,
+					"ins": 59,
+					"dnk": 44,
+					"ft": 30,
+					"fg": 29,
+					"tp": 31,
+					"oiq": 48,
+					"diq": 51,
+					"drb": 47,
+					"pss": 47,
+					"reb": 67,
+					"hgt": 63
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Vipper",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 77,
+					"jmp": 66,
+					"endu": 38,
+					"ins": 21,
+					"dnk": 52,
+					"ft": 31,
+					"fg": 36,
+					"tp": 32,
+					"oiq": 33,
+					"diq": 30,
+					"drb": 43,
+					"pss": 42,
+					"reb": 31,
+					"hgt": 48
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "CREATxR",
+			"ratings": [
+				{
+					"stre": 52,
+					"spd": 45,
+					"jmp": 46,
+					"endu": 41,
+					"ins": 48,
+					"dnk": 51,
+					"ft": 25,
+					"fg": 21,
+					"tp": 20,
+					"oiq": 37,
+					"diq": 44,
+					"drb": 46,
+					"pss": 43,
+					"reb": 54,
+					"hgt": 66
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Mateja",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 44,
+					"jmp": 41,
+					"endu": 33,
+					"ins": 48,
+					"dnk": 51,
+					"ft": 40,
+					"fg": 32,
+					"tp": 41,
+					"oiq": 32,
+					"diq": 48,
+					"drb": 37,
+					"pss": 40,
+					"reb": 53,
+					"hgt": 62
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jpu",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 64,
+					"jmp": 61,
+					"endu": 39,
+					"ins": 37,
+					"dnk": 60,
+					"ft": 49,
+					"fg": 64,
+					"tp": 62,
+					"oiq": 46,
+					"diq": 45,
+					"drb": 41,
+					"pss": 35,
+					"reb": 33,
+					"hgt": 17
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Daniel",
+			"ratings": [
+				{
+					"stre": 65,
+					"spd": 32,
+					"jmp": 36,
+					"endu": 53,
+					"ins": 64,
+					"dnk": 45,
+					"ft": 27,
+					"fg": 30,
+					"tp": 34,
+					"oiq": 50,
+					"diq": 54,
+					"drb": 46,
+					"pss": 42,
+					"reb": 57,
+					"hgt": 39
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "lam_chop19",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 1,
+					"jmp": 0,
+					"endu": 16,
+					"ins": 63,
+					"dnk": 52,
+					"ft": 79,
+					"fg": 68,
+					"tp": 75,
+					"oiq": 64,
+					"diq": 69,
+					"drb": 53,
+					"pss": 72,
+					"reb": 50,
+					"hgt": 32
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Peabody Express",
+			"ratings": [
+				{
+					"stre": 36,
+					"spd": 6,
+					"jmp": 0,
+					"endu": 12,
+					"ins": 69,
+					"dnk": 43,
+					"ft": 31,
+					"fg": 40,
+					"tp": 41,
+					"oiq": 51,
+					"diq": 65,
+					"drb": 62,
+					"pss": 59,
+					"reb": 68,
+					"hgt": 70
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Shep",
+			"ratings": [
+				{
+					"stre": 53,
+					"spd": 23,
+					"jmp": 21,
+					"endu": 37,
+					"ins": 65,
+					"dnk": 42,
+					"ft": 39,
+					"fg": 36,
+					"tp": 36,
+					"oiq": 42,
+					"diq": 52,
+					"drb": 52,
+					"pss": 42,
+					"reb": 66,
+					"hgt": 66
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jomosensual",
+			"ratings": [
+				{
+					"stre": 57,
+					"spd": 45,
+					"jmp": 39,
+					"endu": 28,
+					"ins": 50,
+					"dnk": 38,
+					"ft": 30,
+					"fg": 26,
+					"tp": 27,
+					"oiq": 43,
+					"diq": 46,
+					"drb": 51,
+					"pss": 47,
+					"reb": 62,
+					"hgt": 54
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Chief",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 76,
+					"jmp": 69,
+					"endu": 57,
+					"ins": 42,
+					"dnk": 37,
+					"ft": 60,
+					"fg": 54,
+					"tp": 60,
+					"oiq": 32,
+					"diq": 26,
+					"drb": 35,
+					"pss": 47,
+					"reb": 30,
+					"hgt": 34
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Flame4Game",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 44,
+					"jmp": 44,
+					"endu": 47,
+					"ins": 29,
+					"dnk": 42,
+					"ft": 54,
+					"fg": 48,
+					"tp": 53,
+					"oiq": 41,
+					"diq": 36,
+					"drb": 45,
+					"pss": 33,
+					"reb": 38,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Eddy",
+			"ratings": [
+				{
+					"stre": 58,
+					"spd": 52,
+					"jmp": 46,
+					"endu": 36,
+					"ins": 41,
+					"dnk": 57,
+					"ft": 15,
+					"fg": 17,
+					"tp": 21,
+					"oiq": 41,
+					"diq": 54,
+					"drb": 43,
+					"pss": 45,
+					"reb": 67,
+					"hgt": 41
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Yum",
+			"ratings": [
+				{
+					"stre": 48,
+					"spd": 60,
+					"jmp": 62,
+					"endu": 29,
+					"ins": 36,
+					"dnk": 52,
+					"ft": 46,
+					"fg": 41,
+					"tp": 41,
+					"oiq": 40,
+					"diq": 34,
+					"drb": 55,
+					"pss": 51,
+					"reb": 45,
+					"hgt": 41
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Tilt",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 59,
+					"jmp": 60,
+					"endu": 38,
+					"ins": 28,
+					"dnk": 36,
+					"ft": 49,
+					"fg": 45,
+					"tp": 50,
+					"oiq": 30,
+					"diq": 34,
+					"drb": 54,
+					"pss": 41,
+					"reb": 38,
+					"hgt": 52
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "SpaceCarrot",
+			"ratings": [
+				{
+					"stre": 42,
+					"spd": 69,
+					"jmp": 70,
+					"endu": 37,
+					"ins": 25,
+					"dnk": 42,
+					"ft": 49,
+					"fg": 44,
+					"tp": 43,
+					"oiq": 28,
+					"diq": 38,
+					"drb": 54,
+					"pss": 43,
+					"reb": 36,
+					"hgt": 41
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jgriff",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 52,
+					"jmp": 54,
+					"endu": 27,
+					"ins": 32,
+					"dnk": 44,
+					"ft": 48,
+					"fg": 50,
+					"tp": 36,
+					"oiq": 41,
+					"diq": 44,
+					"drb": 51,
+					"pss": 55,
+					"reb": 41,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "HappySunsFan",
+			"ratings": [
+				{
+					"stre": 31,
+					"spd": 17,
+					"jmp": 0,
+					"endu": 5,
+					"ins": 44,
+					"dnk": 48,
+					"ft": 59,
+					"fg": 65,
+					"tp": 57,
+					"oiq": 57,
+					"diq": 62,
+					"drb": 62,
+					"pss": 60,
+					"reb": 52,
+					"hgt": 51
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "JeffyPaul",
+			"ratings": [
+				{
+					"stre": 50,
+					"spd": 30,
+					"jmp": 19,
+					"endu": 46,
+					"ins": 50,
+					"dnk": 38,
+					"ft": 41,
+					"fg": 32,
+					"tp": 43,
+					"oiq": 43,
+					"diq": 41,
+					"drb": 43,
+					"pss": 37,
+					"reb": 46,
+					"hgt": 71
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Dicky Mcgeezaks",
+			"ratings": [
+				{
+					"stre": 41,
+					"spd": 36,
+					"jmp": 40,
+					"endu": 39,
+					"ins": 32,
+					"dnk": 52,
+					"ft": 51,
+					"fg": 55,
+					"tp": 58,
+					"oiq": 46,
+					"diq": 47,
+					"drb": 35,
+					"pss": 33,
+					"reb": 40,
+					"hgt": 52
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "OxfyzKND",
+			"ratings": [
+				{
+					"stre": 61,
+					"spd": 33,
+					"jmp": 27,
+					"endu": 35,
+					"ins": 51,
+					"dnk": 60,
+					"ft": 30,
+					"fg": 41,
+					"tp": 44,
+					"oiq": 39,
+					"diq": 39,
+					"drb": 55,
+					"pss": 50,
+					"reb": 77,
+					"hgt": 56
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "KingLexgoat223",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 63,
+					"jmp": 70,
+					"endu": 47,
+					"ins": 26,
+					"dnk": 26,
+					"ft": 47,
+					"fg": 53,
+					"tp": 53,
+					"oiq": 43,
+					"diq": 41,
+					"drb": 63,
+					"pss": 66,
+					"reb": 39,
+					"hgt": 10
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Khalil",
+			"ratings": [
+				{
+					"stre": 55,
+					"spd": 62,
+					"jmp": 55,
+					"endu": 53,
+					"ins": 32,
+					"dnk": 44,
+					"ft": 46,
+					"fg": 37,
+					"tp": 52,
+					"oiq": 42,
+					"diq": 29,
+					"drb": 51,
+					"pss": 53,
+					"reb": 33,
+					"hgt": 29
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Carl-bot",
+			"ratings": [
+				{
+					"stre": 47,
+					"spd": 33,
+					"jmp": 29,
+					"endu": 32,
+					"ins": 47,
+					"dnk": 39,
+					"ft": 30,
+					"fg": 25,
+					"tp": 32,
+					"oiq": 42,
+					"diq": 45,
+					"drb": 37,
+					"pss": 37,
+					"reb": 60,
+					"hgt": 75
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Njdcat",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 47,
+					"jmp": 44,
+					"endu": 35,
+					"ins": 45,
+					"dnk": 41,
+					"ft": 54,
+					"fg": 44,
+					"tp": 53,
+					"oiq": 40,
+					"diq": 37,
+					"drb": 50,
+					"pss": 36,
+					"reb": 40,
+					"hgt": 56
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Kingnuz",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 35,
+					"jmp": 31,
+					"endu": 42,
+					"ins": 39,
+					"dnk": 34,
+					"ft": 28,
+					"fg": 32,
+					"tp": 30,
+					"oiq": 44,
+					"diq": 55,
+					"drb": 47,
+					"pss": 42,
+					"reb": 52,
+					"hgt": 56
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Marcus",
+			"ratings": [
+				{
+					"stre": 32,
+					"spd": 51,
+					"jmp": 46,
+					"endu": 32,
+					"ins": 22,
+					"dnk": 50,
+					"ft": 44,
+					"fg": 49,
+					"tp": 40,
+					"oiq": 34,
+					"diq": 43,
+					"drb": 61,
+					"pss": 53,
+					"reb": 49,
+					"hgt": 51
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Gene",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 62,
+					"jmp": 53,
+					"endu": 37,
+					"ins": 28,
+					"dnk": 40,
+					"ft": 42,
+					"fg": 50,
+					"tp": 47,
+					"oiq": 36,
+					"diq": 34,
+					"drb": 52,
+					"pss": 46,
+					"reb": 45,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Julian - Trailer Boy",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 63,
+					"jmp": 70,
+					"endu": 41,
+					"ins": 24,
+					"dnk": 45,
+					"ft": 40,
+					"fg": 38,
+					"tp": 35,
+					"oiq": 36,
+					"diq": 37,
+					"drb": 50,
+					"pss": 46,
+					"reb": 45,
+					"hgt": 36
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Summer",
+			"ratings": [
+				{
+					"stre": 31,
+					"spd": 47,
+					"jmp": 44,
+					"endu": 21,
+					"ins": 27,
+					"dnk": 40,
+					"ft": 52,
+					"fg": 49,
+					"tp": 48,
+					"oiq": 42,
+					"diq": 43,
+					"drb": 53,
+					"pss": 47,
+					"reb": 48,
+					"hgt": 51
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Morg",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 71,
+					"jmp": 68,
+					"endu": 40,
+					"ins": 27,
+					"dnk": 37,
+					"ft": 54,
+					"fg": 44,
+					"tp": 54,
+					"oiq": 32,
+					"diq": 34,
+					"drb": 56,
+					"pss": 45,
+					"reb": 33,
+					"hgt": 31
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "MJ",
+			"ratings": [
+				{
+					"stre": 36,
+					"spd": 60,
+					"jmp": 77,
+					"endu": 40,
+					"ins": 27,
+					"dnk": 37,
+					"ft": 48,
+					"fg": 49,
+					"tp": 55,
+					"oiq": 41,
+					"diq": 33,
+					"drb": 55,
+					"pss": 62,
+					"reb": 36,
+					"hgt": 23
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Kingben214",
+			"ratings": [
+				{
+					"stre": 27,
+					"spd": 41,
+					"jmp": 48,
+					"endu": 25,
+					"ins": 41,
+					"dnk": 36,
+					"ft": 43,
+					"fg": 39,
+					"tp": 34,
+					"oiq": 47,
+					"diq": 43,
+					"drb": 56,
+					"pss": 50,
+					"reb": 48,
+					"hgt": 56
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Steven Vincent Buscemi",
+			"ratings": [
+				{
+					"stre": 36,
+					"spd": 44,
+					"jmp": 45,
+					"endu": 27,
+					"ins": 38,
+					"dnk": 41,
+					"ft": 49,
+					"fg": 49,
+					"tp": 46,
+					"oiq": 36,
+					"diq": 47,
+					"drb": 47,
+					"pss": 35,
+					"reb": 32,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "BoiledEggRoll",
+			"ratings": [
+				{
+					"stre": 41,
+					"spd": 48,
+					"jmp": 46,
+					"endu": 37,
+					"ins": 27,
+					"dnk": 47,
+					"ft": 53,
+					"fg": 41,
+					"tp": 44,
+					"oiq": 52,
+					"diq": 41,
+					"drb": 46,
+					"pss": 32,
+					"reb": 38,
+					"hgt": 39
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Mo",
+			"ratings": [
+				{
+					"stre": 36,
+					"spd": 37,
+					"jmp": 38,
+					"endu": 36,
+					"ins": 31,
+					"dnk": 43,
+					"ft": 58,
+					"fg": 58,
+					"tp": 52,
+					"oiq": 39,
+					"diq": 50,
+					"drb": 40,
+					"pss": 36,
+					"reb": 32,
+					"hgt": 53
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "ChocolateSoda",
+			"ratings": [
+				{
+					"stre": 38,
+					"spd": 67,
+					"jmp": 62,
+					"endu": 36,
+					"ins": 17,
+					"dnk": 45,
+					"ft": 31,
+					"fg": 35,
+					"tp": 34,
+					"oiq": 35,
+					"diq": 37,
+					"drb": 42,
+					"pss": 38,
+					"reb": 30,
+					"hgt": 48
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "JackAttack9105",
+			"ratings": [
+				{
+					"stre": 38,
+					"spd": 64,
+					"jmp": 62,
+					"endu": 19,
+					"ins": 24,
+					"dnk": 37,
+					"ft": 43,
+					"fg": 47,
+					"tp": 40,
+					"oiq": 27,
+					"diq": 32,
+					"drb": 56,
+					"pss": 42,
+					"reb": 47,
+					"hgt": 55
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Mestizhoe",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 40,
+					"jmp": 35,
+					"endu": 30,
+					"ins": 54,
+					"dnk": 45,
+					"ft": 18,
+					"fg": 18,
+					"tp": 13,
+					"oiq": 38,
+					"diq": 44,
+					"drb": 42,
+					"pss": 38,
+					"reb": 46,
+					"hgt": 74
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Ryan Lol",
+			"ratings": [
+				{
+					"stre": 38,
+					"spd": 56,
+					"jmp": 53,
+					"endu": 47,
+					"ins": 20,
+					"dnk": 46,
+					"ft": 41,
+					"fg": 40,
+					"tp": 48,
+					"oiq": 37,
+					"diq": 42,
+					"drb": 43,
+					"pss": 36,
+					"reb": 39,
+					"hgt": 38
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Enzo",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 56,
+					"jmp": 56,
+					"endu": 41,
+					"ins": 25,
+					"dnk": 47,
+					"ft": 29,
+					"fg": 39,
+					"tp": 34,
+					"oiq": 33,
+					"diq": 41,
+					"drb": 57,
+					"pss": 39,
+					"reb": 40,
+					"hgt": 43
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Conantroutmann",
+			"ratings": [
+				{
+					"stre": 42,
+					"spd": 58,
+					"jmp": 59,
+					"endu": 40,
+					"ins": 25,
+					"dnk": 40,
+					"ft": 48,
+					"fg": 51,
+					"tp": 37,
+					"oiq": 46,
+					"diq": 46,
+					"drb": 49,
+					"pss": 49,
+					"reb": 36,
+					"hgt": 21
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Monte",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 38,
+					"jmp": 43,
+					"endu": 32,
+					"ins": 43,
+					"dnk": 50,
+					"ft": 18,
+					"fg": 36,
+					"tp": 25,
+					"oiq": 40,
+					"diq": 42,
+					"drb": 44,
+					"pss": 41,
+					"reb": 58,
+					"hgt": 63
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Artemus2021",
+			"ratings": [
+				{
+					"stre": 36,
+					"spd": 49,
+					"jmp": 44,
+					"endu": 58,
+					"ins": 38,
+					"dnk": 29,
+					"ft": 54,
+					"fg": 74,
+					"tp": 61,
+					"oiq": 41,
+					"diq": 41,
+					"drb": 52,
+					"pss": 50,
+					"reb": 42,
+					"hgt": 22
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Cubzlover84",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 56,
+					"jmp": 49,
+					"endu": 33,
+					"ins": 20,
+					"dnk": 33,
+					"ft": 42,
+					"fg": 48,
+					"tp": 52,
+					"oiq": 49,
+					"diq": 32,
+					"drb": 48,
+					"pss": 38,
+					"reb": 35,
+					"hgt": 39
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Bob Ross",
+			"ratings": [
+				{
+					"stre": 41,
+					"spd": 64,
+					"jmp": 61,
+					"endu": 28,
+					"ins": 28,
+					"dnk": 48,
+					"ft": 41,
+					"fg": 46,
+					"tp": 43,
+					"oiq": 37,
+					"diq": 31,
+					"drb": 43,
+					"pss": 38,
+					"reb": 39,
+					"hgt": 42
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "TarikAtakan",
+			"ratings": [
+				{
+					"stre": 38,
+					"spd": 54,
+					"jmp": 61,
+					"endu": 48,
+					"ins": 28,
+					"dnk": 52,
+					"ft": 58,
+					"fg": 45,
+					"tp": 47,
+					"oiq": 26,
+					"diq": 30,
+					"drb": 36,
+					"pss": 29,
+					"reb": 29,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Koolfly",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 57,
+					"jmp": 56,
+					"endu": 21,
+					"ins": 16,
+					"dnk": 40,
+					"ft": 46,
+					"fg": 42,
+					"tp": 45,
+					"oiq": 38,
+					"diq": 33,
+					"drb": 46,
+					"pss": 37,
+					"reb": 37,
+					"hgt": 47
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "MystBZ",
+			"ratings": [
+				{
+					"stre": 57,
+					"spd": 45,
+					"jmp": 43,
+					"endu": 29,
+					"ins": 46,
+					"dnk": 47,
+					"ft": 27,
+					"fg": 26,
+					"tp": 26,
+					"oiq": 23,
+					"diq": 31,
+					"drb": 32,
+					"pss": 42,
+					"reb": 54,
+					"hgt": 76
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Napalm",
+			"ratings": [
+				{
+					"stre": 37,
+					"spd": 58,
+					"jmp": 67,
+					"endu": 32,
+					"ins": 27,
+					"dnk": 51,
+					"ft": 37,
+					"fg": 39,
+					"tp": 40,
+					"oiq": 37,
+					"diq": 35,
+					"drb": 35,
+					"pss": 33,
+					"reb": 36,
+					"hgt": 44
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Davest",
+			"ratings": [
+				{
+					"stre": 37,
+					"spd": 57,
+					"jmp": 51,
+					"endu": 38,
+					"ins": 28,
+					"dnk": 52,
+					"ft": 22,
+					"fg": 24,
+					"tp": 30,
+					"oiq": 31,
+					"diq": 31,
+					"drb": 41,
+					"pss": 35,
+					"reb": 37,
+					"hgt": 57
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Darkhour",
+			"ratings": [
+				{
+					"stre": 47,
+					"spd": 53,
+					"jmp": 51,
+					"endu": 38,
+					"ins": 32,
+					"dnk": 47,
+					"ft": 49,
+					"fg": 52,
+					"tp": 53,
+					"oiq": 31,
+					"diq": 34,
+					"drb": 42,
+					"pss": 39,
+					"reb": 35,
+					"hgt": 37
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jesuspiece",
+			"ratings": [
+				{
+					"stre": 50,
+					"spd": 36,
+					"jmp": 43,
+					"endu": 29,
+					"ins": 30,
+					"dnk": 48,
+					"ft": 25,
+					"fg": 32,
+					"tp": 26,
+					"oiq": 42,
+					"diq": 44,
+					"drb": 44,
+					"pss": 48,
+					"reb": 67,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Mishaudu100",
+			"ratings": [
+				{
+					"stre": 33,
+					"spd": 47,
+					"jmp": 44,
+					"endu": 39,
+					"ins": 31,
+					"dnk": 20,
+					"ft": 56,
+					"fg": 59,
+					"tp": 57,
+					"oiq": 43,
+					"diq": 38,
+					"drb": 48,
+					"pss": 48,
+					"reb": 45,
+					"hgt": 32
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Taz",
+			"ratings": [
+				{
+					"stre": 38,
+					"spd": 46,
+					"jmp": 52,
+					"endu": 30,
+					"ins": 35,
+					"dnk": 46,
+					"ft": 30,
+					"fg": 37,
+					"tp": 34,
+					"oiq": 33,
+					"diq": 38,
+					"drb": 41,
+					"pss": 34,
+					"reb": 39,
+					"hgt": 58
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Halfstack",
+			"ratings": [
+				{
+					"stre": 40,
+					"spd": 64,
+					"jmp": 53,
+					"endu": 22,
+					"ins": 29,
+					"dnk": 47,
+					"ft": 40,
+					"fg": 37,
+					"tp": 38,
+					"oiq": 31,
+					"diq": 26,
+					"drb": 35,
+					"pss": 37,
+					"reb": 35,
+					"hgt": 53
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "BRUH",
+			"ratings": [
+				{
+					"stre": 38,
+					"spd": 62,
+					"jmp": 61,
+					"endu": 29,
+					"ins": 18,
+					"dnk": 38,
+					"ft": 31,
+					"fg": 35,
+					"tp": 42,
+					"oiq": 32,
+					"diq": 32,
+					"drb": 49,
+					"pss": 31,
+					"reb": 33,
+					"hgt": 44
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Ben",
+			"ratings": [
+				{
+					"stre": 45,
+					"spd": 39,
+					"jmp": 45,
+					"endu": 31,
+					"ins": 48,
+					"dnk": 53,
+					"ft": 28,
+					"fg": 32,
+					"tp": 33,
+					"oiq": 29,
+					"diq": 34,
+					"drb": 40,
+					"pss": 38,
+					"reb": 56,
+					"hgt": 60
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Stxven",
+			"ratings": [
+				{
+					"stre": 41,
+					"spd": 35,
+					"jmp": 38,
+					"endu": 45,
+					"ins": 30,
+					"dnk": 43,
+					"ft": 32,
+					"fg": 31,
+					"tp": 27,
+					"oiq": 37,
+					"diq": 28,
+					"drb": 36,
+					"pss": 41,
+					"reb": 50,
+					"hgt": 67
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jaymoney2021",
+			"ratings": [
+				{
+					"stre": 37,
+					"spd": 69,
+					"jmp": 73,
+					"endu": 34,
+					"ins": 26,
+					"dnk": 50,
+					"ft": 41,
+					"fg": 40,
+					"tp": 36,
+					"oiq": 29,
+					"diq": 33,
+					"drb": 34,
+					"pss": 32,
+					"reb": 28,
+					"hgt": 38
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Fingal",
+			"ratings": [
+				{
+					"stre": 49,
+					"spd": 63,
+					"jmp": 60,
+					"endu": 15,
+					"ins": 29,
+					"dnk": 37,
+					"ft": 42,
+					"fg": 42,
+					"tp": 42,
+					"oiq": 30,
+					"diq": 33,
+					"drb": 39,
+					"pss": 36,
+					"reb": 34,
+					"hgt": 40
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Two Gurley’s One Kupp",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 67,
+					"jmp": 72,
+					"endu": 24,
+					"ins": 27,
+					"dnk": 55,
+					"ft": 36,
+					"fg": 39,
+					"tp": 30,
+					"oiq": 29,
+					"diq": 27,
+					"drb": 38,
+					"pss": 37,
+					"reb": 39,
+					"hgt": 42
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "ΚOΕΝ",
+			"ratings": [
+				{
+					"stre": 35,
+					"spd": 37,
+					"jmp": 32,
+					"endu": 31,
+					"ins": 49,
+					"dnk": 34,
+					"ft": 14,
+					"fg": 20,
+					"tp": 15,
+					"oiq": 33,
+					"diq": 40,
+					"drb": 43,
+					"pss": 43,
+					"reb": 63,
+					"hgt": 67
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Nemolee.exe",
+			"ratings": [
+				{
+					"stre": 37,
+					"spd": 63,
+					"jmp": 64,
+					"endu": 32,
+					"ins": 32,
+					"dnk": 25,
+					"ft": 50,
+					"fg": 44,
+					"tp": 57,
+					"oiq": 33,
+					"diq": 34,
+					"drb": 50,
+					"pss": 45,
+					"reb": 32,
+					"hgt": 19
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Everyone",
+			"ratings": [
+				{
+					"stre": 43,
+					"spd": 57,
+					"jmp": 61,
+					"endu": 34,
+					"ins": 23,
+					"dnk": 38,
+					"ft": 35,
+					"fg": 30,
+					"tp": 24,
+					"oiq": 38,
+					"diq": 35,
+					"drb": 45,
+					"pss": 39,
+					"reb": 42,
+					"hgt": 34
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Baby 50 Cent",
+			"ratings": [
+				{
+					"stre": 54,
+					"spd": 49,
+					"jmp": 40,
+					"endu": 38,
+					"ins": 34,
+					"dnk": 37,
+					"ft": 19,
+					"fg": 19,
+					"tp": 17,
+					"oiq": 33,
+					"diq": 39,
+					"drb": 31,
+					"pss": 29,
+					"reb": 45,
+					"hgt": 57
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jack Barraud",
+			"ratings": [
+				{
+					"stre": 29,
+					"spd": 53,
+					"jmp": 40,
+					"endu": 16,
+					"ins": 23,
+					"dnk": 41,
+					"ft": 36,
+					"fg": 44,
+					"tp": 38,
+					"oiq": 37,
+					"diq": 32,
+					"drb": 46,
+					"pss": 40,
+					"reb": 41,
+					"hgt": 52
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Oliverlmao",
+			"ratings": [
+				{
+					"stre": 37,
+					"spd": 60,
+					"jmp": 63,
+					"endu": 29,
+					"ins": 22,
+					"dnk": 32,
+					"ft": 36,
+					"fg": 33,
+					"tp": 29,
+					"oiq": 32,
+					"diq": 37,
+					"drb": 51,
+					"pss": 45,
+					"reb": 46,
+					"hgt": 29
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jacketh",
+			"ratings": [
+				{
+					"stre": 36,
+					"spd": 52,
+					"jmp": 56,
+					"endu": 28,
+					"ins": 29,
+					"dnk": 46,
+					"ft": 39,
+					"fg": 46,
+					"tp": 48,
+					"oiq": 22,
+					"diq": 20,
+					"drb": 37,
+					"pss": 38,
+					"reb": 34,
+					"hgt": 57
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Drake",
+			"ratings": [
+				{
+					"stre": 32,
+					"spd": 44,
+					"jmp": 49,
+					"endu": 29,
+					"ins": 27,
+					"dnk": 29,
+					"ft": 42,
+					"fg": 43,
+					"tp": 33,
+					"oiq": 31,
+					"diq": 37,
+					"drb": 43,
+					"pss": 42,
+					"reb": 40,
+					"hgt": 46
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Joshuaw1124",
+			"ratings": [
+				{
+					"stre": 26,
+					"spd": 41,
+					"jmp": 35,
+					"endu": 19,
+					"ins": 34,
+					"dnk": 29,
+					"ft": 41,
+					"fg": 33,
+					"tp": 44,
+					"oiq": 34,
+					"diq": 39,
+					"drb": 47,
+					"pss": 47,
+					"reb": 47,
+					"hgt": 49
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "NotJayy",
+			"ratings": [
+				{
+					"stre": 27,
+					"spd": 52,
+					"jmp": 47,
+					"endu": 46,
+					"ins": 21,
+					"dnk": 36,
+					"ft": 28,
+					"fg": 36,
+					"tp": 35,
+					"oiq": 30,
+					"diq": 29,
+					"drb": 40,
+					"pss": 39,
+					"reb": 41,
+					"hgt": 49
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Harv",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 58,
+					"jmp": 57,
+					"endu": 22,
+					"ins": 19,
+					"dnk": 40,
+					"ft": 48,
+					"fg": 35,
+					"tp": 37,
+					"oiq": 24,
+					"diq": 27,
+					"drb": 36,
+					"pss": 31,
+					"reb": 36,
+					"hgt": 50
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Moussa",
+			"ratings": [
+				{
+					"stre": 41,
+					"spd": 65,
+					"jmp": 68,
+					"endu": 18,
+					"ins": 11,
+					"dnk": 47,
+					"ft": 34,
+					"fg": 41,
+					"tp": 50,
+					"oiq": 23,
+					"diq": 18,
+					"drb": 31,
+					"pss": 25,
+					"reb": 24,
+					"hgt": 49
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Stanners",
+			"ratings": [
+				{
+					"stre": 35,
+					"spd": 62,
+					"jmp": 66,
+					"endu": 24,
+					"ins": 25,
+					"dnk": 29,
+					"ft": 40,
+					"fg": 44,
+					"tp": 47,
+					"oiq": 29,
+					"diq": 30,
+					"drb": 48,
+					"pss": 52,
+					"reb": 34,
+					"hgt": 22
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Pats",
+			"ratings": [
+				{
+					"stre": 31,
+					"spd": 47,
+					"jmp": 48,
+					"endu": 28,
+					"ins": 38,
+					"dnk": 38,
+					"ft": 50,
+					"fg": 51,
+					"tp": 47,
+					"oiq": 27,
+					"diq": 35,
+					"drb": 36,
+					"pss": 29,
+					"reb": 30,
+					"hgt": 47
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Jeff Loldee",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 41,
+					"jmp": 46,
+					"endu": 28,
+					"ins": 49,
+					"dnk": 45,
+					"ft": 28,
+					"fg": 32,
+					"tp": 34,
+					"oiq": 28,
+					"diq": 29,
+					"drb": 28,
+					"pss": 35,
+					"reb": 41,
+					"hgt": 60
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Ninjasean56",
+			"ratings": [
+				{
+					"stre": 46,
+					"spd": 57,
+					"jmp": 58,
+					"endu": 33,
+					"ins": 19,
+					"dnk": 45,
+					"ft": 42,
+					"fg": 36,
+					"tp": 39,
+					"oiq": 28,
+					"diq": 27,
+					"drb": 33,
+					"pss": 23,
+					"reb": 23,
+					"hgt": 42
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "MarcerMercer",
+			"ratings": [
+				{
+					"stre": 42,
+					"spd": 32,
+					"jmp": 32,
+					"endu": 33,
+					"ins": 33,
+					"dnk": 39,
+					"ft": 31,
+					"fg": 40,
+					"tp": 36,
+					"oiq": 28,
+					"diq": 35,
+					"drb": 35,
+					"pss": 36,
+					"reb": 45,
+					"hgt": 54
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Light",
+			"ratings": [
+				{
+					"stre": 26,
+					"spd": 44,
+					"jmp": 47,
+					"endu": 22,
+					"ins": 25,
+					"dnk": 30,
+					"ft": 29,
+					"fg": 32,
+					"tp": 32,
+					"oiq": 40,
+					"diq": 24,
+					"drb": 49,
+					"pss": 37,
+					"reb": 38,
+					"hgt": 55
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Notchriss",
+			"ratings": [
+				{
+					"stre": 35,
+					"spd": 64,
+					"jmp": 70,
+					"endu": 23,
+					"ins": 14,
+					"dnk": 39,
+					"ft": 39,
+					"fg": 36,
+					"tp": 44,
+					"oiq": 25,
+					"diq": 24,
+					"drb": 30,
+					"pss": 32,
+					"reb": 30,
+					"hgt": 40
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Hunnit",
+			"ratings": [
+				{
+					"stre": 35,
+					"spd": 53,
+					"jmp": 55,
+					"endu": 23,
+					"ins": 35,
+					"dnk": 40,
+					"ft": 34,
+					"fg": 36,
+					"tp": 38,
+					"oiq": 28,
+					"diq": 26,
+					"drb": 47,
+					"pss": 42,
+					"reb": 40,
+					"hgt": 35
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Harv",
+			"ratings": [
+				{
+					"stre": 31,
+					"spd": 49,
+					"jmp": 47,
+					"endu": 30,
+					"ins": 27,
+					"dnk": 29,
+					"ft": 44,
+					"fg": 48,
+					"tp": 43,
+					"oiq": 27,
+					"diq": 32,
+					"drb": 36,
+					"pss": 28,
+					"reb": 33,
+					"hgt": 45
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Moussa",
+			"ratings": [
+				{
+					"stre": 32,
+					"spd": 48,
+					"jmp": 45,
+					"endu": 15,
+					"ins": 20,
+					"dnk": 39,
+					"ft": 24,
+					"fg": 32,
+					"tp": 26,
+					"oiq": 29,
+					"diq": 25,
+					"drb": 48,
+					"pss": 40,
+					"reb": 35,
+					"hgt": 53
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Mysterio",
+			"ratings": [
+				{
+					"stre": 39,
+					"spd": 51,
+					"jmp": 59,
+					"endu": 21,
+					"ins": 22,
+					"dnk": 48,
+					"ft": 36,
+					"fg": 39,
+					"tp": 29,
+					"oiq": 22,
+					"diq": 21,
+					"drb": 42,
+					"pss": 29,
+					"reb": 32,
+					"hgt": 50
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Baby Dr. Dre",
+			"ratings": [
+				{
+					"stre": 32,
+					"spd": 28,
+					"jmp": 27,
+					"endu": 19,
+					"ins": 52,
+					"dnk": 26,
+					"ft": 38,
+					"fg": 33,
+					"tp": 33,
+					"oiq": 34,
+					"diq": 43,
+					"drb": 34,
+					"pss": 45,
+					"reb": 52,
+					"hgt": 42
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "Marcopolo325",
+			"ratings": [
+				{
+					"stre": 56,
+					"spd": 37,
+					"jmp": 43,
+					"endu": 12,
+					"ins": 24,
+					"dnk": 35,
+					"ft": 25,
+					"fg": 20,
+					"tp": 24,
+					"oiq": 17,
+					"diq": 23,
+					"drb": 37,
+					"pss": 35,
+					"reb": 53,
+					"hgt": 60
+				}
+			],
+			"tid": 0
+		},
+		{
+			"name": "MoeyMelon",
+			"ratings": [
+				{
+					"stre": 31,
+					"spd": 44,
+					"jmp": 40,
+					"endu": 27,
+					"ins": 24,
+					"dnk": 23,
+					"ft": 27,
+					"fg": 23,
+					"tp": 25,
+					"oiq": 27,
+					"diq": 23,
+					"drb": 34,
+					"pss": 27,
+					"reb": 27,
+					"hgt": 53
+				}
+			],
+			"tid": 0
+		}
+	],
+	"teams": [
+		{
+			"tid": 0,
+			"cid": 0,
+			"did": 0,
+			"region": "Atlanta",
+			"name": "Gold Club",
+			"abbrev": "ATL",
+			"pop": 5.3,
+			"imgURL": "/img/logos/ATL.png"
+		},
+		{
+			"tid": 1,
+			"cid": 0,
+			"did": 0,
+			"region": "Baltimore",
+			"name": "Crabs",
+			"abbrev": "BAL",
+			"pop": 2.7,
+			"imgURL": "/img/logos/BAL.png"
+		},
+		{
+			"tid": 2,
+			"cid": 0,
+			"did": 0,
+			"region": "Boston",
+			"name": "Massacre",
+			"abbrev": "BOS",
+			"pop": 7.3,
+			"imgURL": "/img/logos/BOS.png"
+		},
+		{
+			"tid": 3,
+			"cid": 0,
+			"did": 0,
+			"region": "Chicago",
+			"name": "Whirlwinds",
+			"abbrev": "CHI",
+			"pop": 9.1,
+			"imgURL": "/img/logos/CHI.png"
+		},
+		{
+			"tid": 4,
+			"cid": 0,
+			"did": 0,
+			"region": "Cincinnati",
+			"name": "Riots",
+			"abbrev": "CIN",
+			"pop": 1.6,
+			"imgURL": "/img/logos/CIN.png"
+		},
+		{
+			"tid": 5,
+			"cid": 0,
+			"did": 0,
+			"region": "Cleveland",
+			"name": "Curses",
+			"abbrev": "CLE",
+			"pop": 1.7,
+			"imgURL": "/img/logos/CLE.png"
+		},
+		{
+			"tid": 6,
+			"cid": 0,
+			"did": 0,
+			"region": "Miami",
+			"name": "Cyclones",
+			"abbrev": "MIA",
+			"pop": 6.1,
+			"imgURL": "/img/logos/MIA.png"
+		},
+		{
+			"tid": 7,
+			"cid": 0,
+			"did": 0,
+			"region": "Montreal",
+			"name": "Mounties",
+			"abbrev": "MON",
+			"pop": 3.5,
+			"imgURL": "/img/logos/MON.png"
+		},
+		{
+			"tid": 8,
+			"cid": 0,
+			"did": 0,
+			"region": "New York",
+			"name": "Bankers",
+			"abbrev": "NYC",
+			"pop": 21.5,
+			"imgURL": "/img/logos/NYC.png"
+		},
+		{
+			"tid": 9,
+			"cid": 0,
+			"did": 0,
+			"region": "Philadelphia",
+			"name": "Cheesesteaks",
+			"abbrev": "PHI",
+			"pop": 5.5,
+			"imgURL": "/img/logos/PHI.png"
+		},
+		{
+			"tid": 10,
+			"cid": 0,
+			"did": 0,
+			"region": "Tampa",
+			"name": "Turtles",
+			"abbrev": "TPA",
+			"pop": 2.7,
+			"imgURL": "/img/logos/TPA.png"
+		},
+		{
+			"tid": 11,
+			"cid": 0,
+			"did": 0,
+			"region": "Detroit",
+			"name": "Muscle",
+			"abbrev": "DET",
+			"pop": 4,
+			"imgURL": "/img/logos/DET.png"
+		}
+	]
+}
