@@ -8,6 +8,7 @@
 	],
 	"players": [
 		{
+			"imgURL": "https://i.imgur.com/JbQP9Zp.jpg",
 			"name": "Doobie Mugi",
 			"ratings": [
 				{
@@ -123,6 +124,7 @@
 			"tid": 0
 		},
 		{
+			"imgURL": "https://i.imgur.com/PtCc2iO.jpg",
 			"name": "MugiBot",
 			"ratings": [
 				{
