@@ -1,36 +1,14 @@
 {
 	"version": 42,
 	"gameAttributes": [
-		{
-			"key": "numGamesPlayoffSeries",
-			"value": [7, 7, 7]
-		},
-		{
-			"key": "numPlayoffByes",
-			"value": 2
-		},
-		{
-			"key": "confs",
-			"value": [
-				{
-					"cid": 0,
-					"name": "BBGM Discord"
-				}
-			]
-		},
-		{
-			"key": "divs",
-			"value": [
-				{
-					"did": 0,
-					"cid": 0,
-					"name": "BBGM"
-				}
-			]
-		}
+		{ "key": "numGamesPlayoffSeries", "value": [7, 7, 7] },
+		{ "key": "confs", "value": [{ "cid": 0, "name": "BBGM Discord" }] },
+		{ "key": "divs", "value": [{ "did": 0, "cid": 0, "name": "BBGM" }] },
+		{ "key": "maxRosterSize", "value": 12 }
 	],
 	"players": [
 		{
+			"imgURL": "https://i.imgur.com/JbQP9Zp.jpg",
 			"name": "Doobie Mugi",
 			"ratings": [
 				{
@@ -166,7 +144,8 @@
 					"hgt": 28
 				}
 			],
-			"tid": 0
+			"tid": 0,
+			"imgURL": "https://i.imgur.com/PtCc2iO.jpg"
 		},
 		{
 			"name": "Dumbmatter",
@@ -5165,6 +5144,66 @@
 			"abbrev": "DET",
 			"pop": 4,
 			"imgURL": "/img/logos/DET.png"
+		},
+		{
+			"tid": 12,
+			"cid": 0,
+			"did": 0,
+			"region": "Los Angeles",
+			"name": "Lowriders",
+			"abbrev": "LAL",
+			"pop": 15.6,
+			"imgURL": "/img/logos/LA.png"
+		},
+		{
+			"tid": 13,
+			"cid": 0,
+			"did": 0,
+			"region": "Dallas",
+			"name": "Snipers",
+			"abbrev": "DAL",
+			"pop": 6.6,
+			"imgURL": "/img/logos/DAL.png"
+		},
+		{
+			"tid": 14,
+			"cid": 0,
+			"did": 0,
+			"region": "San Diego",
+			"name": "Pandas",
+			"abbrev": "SD",
+			"pop": 4.7,
+			"imgURL": "/img/logos/SD.png"
+		},
+		{
+			"tid": 15,
+			"cid": 0,
+			"did": 0,
+			"region": "San Antonio",
+			"name": "Churros",
+			"abbrev": "SA",
+			"pop": 2,
+			"imgURL": "/img/logos/SA.png"
+		},
+		{
+			"tid": 16,
+			"cid": 0,
+			"did": 0,
+			"region": "Mexico City",
+			"name": "Aztecs",
+			"abbrev": "MXC",
+			"pop": 20.5,
+			"imgURL": "/img/logos/MXC.png"
+		},
+		{
+			"tid": 17,
+			"cid": 0,
+			"did": 0,
+			"region": "Los Angeles",
+			"name": "Earthquakes",
+			"abbrev": "LAE",
+			"pop": 15.61,
+			"imgURL": "/img/logos/LAE.png"
 		}
 	]
 }
