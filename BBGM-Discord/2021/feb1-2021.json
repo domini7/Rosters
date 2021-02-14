@@ -8,7 +8,6 @@
 	],
 	"players": [
 		{
-			"imgURL": "https://i.imgur.com/JbQP9Zp.jpg",
 			"name": "Doobie Mugi",
 			"ratings": [
 				{
@@ -144,8 +143,7 @@
 					"hgt": 28
 				}
 			],
-			"tid": 0,
-			"imgURL": "https://i.imgur.com/PtCc2iO.jpg"
+			"tid": 0
 		},
 		{
 			"name": "Dumbmatter",
