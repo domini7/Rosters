@@ -1,48 +1,13 @@
 {
 	"gameAttributes": [
-		{
-			"key": "minPayroll",
-			"value": 30000
-		},
-		{
-			"key": "numGamesPlayoffSeries",
-			"value": [7, 7, 7]
-		},
-		{
-			"key": "numPlayoffByes",
-			"value": 0
-		},
-		{
-			"key": "gracePeriodEnd",
-			"value": 1792
-		},
-		{
-			"key": "confs",
-			"value": [
-				{
-					"cid": 0,
-					"name": "USA"
-				}
-			]
-		},
-		{
-			"key": "divs",
-			"value": [
-				{
-					"did": 0,
-					"cid": 0,
-					"name": "States"
-				}
-			]
-		},
-		{
-			"key": "season",
-			"value": 1790
-		},
-		{
-			"key": "startingSeason",
-			"value": 1790
-		}
+		{ "key": "minPayroll", "value": 30000 },
+		{ "key": "numGamesPlayoffSeries", "value": [7, 7, 7] },
+		{ "key": "numPlayoffByes", "value": 0 },
+		{ "key": "gracePeriodEnd", "value": 1792 },
+		{ "key": "confs", "value": [{ "cid": 0, "name": "USA" }] },
+		{ "key": "divs", "value": [{ "did": 0, "cid": 0, "name": "States" }] },
+		{ "key": "season", "value": 1790 },
+		{ "key": "startingSeason", "value": 1790 }
 	],
 	"teams": [
 		{
