@@ -3,6 +3,7 @@
 		{ "key": "numGames", "value": 8 },
 		{ "key": "numGamesPlayoffSeries", "value": [1, 1] },
 		{ "key": "quarterLength", "value": 0 },
+		{ "key": "numPeriods", "value": 1},
 		{ "key": "minRosterSize", "value": 4 },
 		{ "key": "maxRosterSize", "value": 6 },
 		{ "key": "injuryRate", "value": 0.000075 },
