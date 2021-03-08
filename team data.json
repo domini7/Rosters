@@ -256,6 +256,7 @@
 		"colors": ["#C0C0C0", "#FF0000", "#FFFFFF"]
 	},
 	"GSW": {
+		"abbrev": "GSW",
 		"imgURL": "https://i.ibb.co/QmMHQSG/gsw1972.png",
 		"name": "Warriors",
 		"region": "Golden State",
