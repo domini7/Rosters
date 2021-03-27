@@ -9,6 +9,12 @@
 		{ "key": "forceRetireAge", "value": 22 },
 		{ "key": "numPlayoffByes", "value": 2 },
 		{ "key": "pace", "value": 84 },
+		{ "key": "numSeasonsFutureDraftPicks", "value": 0 },
+        { "key": "challengeNoTrades", "value": true },
+        { "key": "aiTradeFactor", "value": 0 },
+        { "key": "rookieContractLengths", "value": [4] },
+        { "key": "minPayroll", "value": 1 },
+        { "key": "numDraftRounds", "value": 3},
         { "key": "budget", "value": false },
 		{
 			"key": "confs",

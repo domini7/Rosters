@@ -8,6 +8,12 @@
         { "key": "draftAge", "value": [18,18] },
         { "key": "forceRetireAge", "value": 22 },
         { "key": "pace", "value": 84 },
+        { "key": "numSeasonsFutureDraftPicks", "value": 0 },
+        { "key": "challengeNoTrades", "value": true },
+        { "key": "aiTradeFactor", "value": 0 },
+        { "key": "rookieContractLengths", "value": [4] },
+        { "key": "minPayroll", "value": 1 },
+        { "key": "numDraftRounds", "value": 3},
         {
             "key": "confs",
             "value": [{ "cid": 0, "name": "Southland Conference" }]
