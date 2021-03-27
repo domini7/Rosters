@@ -9,7 +9,7 @@
         { "key": "draftAge", "value": [18,18] },
         { "key": "forceRetireAge", "value": 22 },
         { "key": "numPlayoffByes", "value": 4 },
-        { "key": "pace", "value": 84 },
+        { "key": "pace", "value": 90 },
         { "key": "numSeasonsFutureDraftPicks", "value": 0 },
         { "key": "challengeNoTrades", "value": true },
         { "key": "equalizeRegions", "value": true },
