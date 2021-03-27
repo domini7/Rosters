@@ -6,7 +6,7 @@
         { "key": "numPeriods", "value": 2 },
         { "key": "foulsUntilBonus", "value": [7, 7, 7] },
         { "key": "foulsNeededToFoulOut", "value": 5 },
-        { "key": "draftAge", "value": [18, 18] },
+        { "key": "draftAges", "value": [18, 18] },
         { "key": "forceRetireAge", "value": 22 },
         { "key": "pace", "value": 90 },
         { "key": "numSeasonsFutureDraftPicks", "value": 0 },
