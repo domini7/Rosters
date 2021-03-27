@@ -7,6 +7,7 @@
         { "key": "foulsUntilBonus", "value": [7,7,7] },
         { "key": "draftAge", "value": [18,18] },
         { "key": "forceRetireAge", "value": 22 },
+        { "key": "pace", "value": 84 },
         {
             "key": "confs",
             "value": [{ "cid": 0, "name": "Southland Conference" }]

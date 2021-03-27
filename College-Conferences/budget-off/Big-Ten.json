@@ -8,6 +8,7 @@
         { "key": "draftAge", "value": [18,18] },
         { "key": "forceRetireAge", "value": 22 },
         { "key": "numPlayoffByes", "value": 4 },
+        { "key": "pace", "value": 84 },
         { "key": "budget", "value": false },
         {
             "key": "confs",
