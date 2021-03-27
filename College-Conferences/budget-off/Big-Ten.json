@@ -2,7 +2,11 @@
     "gameAttributes": [
         { "key": "numGames", "value": 34 },
         { "key": "numGamesPlayoffSeries", "value": [1, 1, 1, 1] },
-        { "key": "quarterLength", "value": 10 },
+        { "key": "quarterLength", "value": 20 },
+        { "key": "numPeriods", "value": 2 },
+        { "key": "foulsUntilBonus", "value": [7,7,7] },
+        { "key": "draftAge", "value": [18,18] },
+        { "key": "forceRetireAge", "value": 22 },
         { "key": "numPlayoffByes", "value": 4 },
         { "key": "budget", "value": false },
         {
