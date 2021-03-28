@@ -14,6 +14,7 @@
 		{ "key": "challengeNoTrades", "value": true },
 		{ "key": "equalizeRegions", "value": true },
 		{ "key": "aiTradeFactor", "value": 0 },
+		{ "key": "tradeDeadline", "value": 0 },
 		{ "key": "rookieContractLengths", "value": [4] },
 		{ "key": "minPayroll", "value": 1 },
 		{ "key": "budget", "value": false },
