@@ -17,6 +17,8 @@
 		{ "key": "tradeDeadline", "value": 0 },
 		{ "key": "rookieContractLengths", "value": [4] },
 		{ "key": "minPayroll", "value": 1 },
+		{ "key": "minContractLength", "value": 4 },
+		{ "key": "maxContractLength", "value": 4 },
 		{
 			"key": "confs",
 			"value": [{ "cid": 0, "name": "Atlantic Coast Conference" }]
