@@ -4,50 +4,6 @@
         { "key": "numGamesPlayoffSeries", "value": [3, 5] },
         { "key": "quarterLength", "value": 10 },
         { "key": "salaryCap", "value": 1100 },
-        { "key": "budget", "value": false },
-        { "key": "luxuryPayroll", "value": 1210 },
-        { "key": "maxContract", "value": 330 },
-        { "key": "minContract", "value": 10 },
-        { "key": "minRosterSize", "value": 10 },
-        { "key": "maxRosterSize", "value": 13 },
-        { "key": "minPayroll", "value": 720 },
-        { "key": "pace", "value": 100 },
-        { "key": "threePointAccuracyFactor", "value": 1.0533 },
-        { "key": "threePointTendencyFactor", "value": 1.1 },
-        { "key": "twoPointAccuracyFactor", "value": 1.046 },
-        { "key": "foulRateFactor", "value": 1.217 },
-        {
-            "key": "confs",
-            "value": [{ "cid": 0, "name": "National Basketball League" }]
-        },
-        {
-            "key": "divs",
-            "value": [{ "did": 0, "cid": 0, "name": "Australia" }]
-        },
-        {
-            "key": "playerBioInfo",
-            "value": {
-                "countries": {
-                    "USA": {
-                        "fractionSkipCollege": 0.98
-                    }
-                },
-                "frequencies": {
-                    "Australia": 10,
-                    "New Zealand": 1,
-                    "Papua New Guinea": 2,
-                    "Samoa": 2
-                }
-            }
-        }
-    ],
-    "teams": [
-        {{
-    "gameAttributes": [
-        { "key": "numGames", "value": 28 },
-        { "key": "numGamesPlayoffSeries", "value": [3, 5] },
-        { "key": "quarterLength", "value": 10 },
-        { "key": "salaryCap", "value": 1100 },
         { "key": "luxuryPayroll", "value": 1210 },
         { "key": "maxContract", "value": 330 },
         { "key": "minContract", "value": 10 },
@@ -194,7 +150,7 @@
 			"stadiumCapacity": 10500,
 			"colors": ["#00007f", "#ffffff", "#0000ff"]
         },
-	{
+		{
             "tid": 9,
             "cid": 0,
             "did": 0,
@@ -207,4 +163,171 @@
 			"colors": ["#005000", "#009900", "#ffff00"]
         }
     ]
+}
+
+{
+	"gameAttributes": [
+		{ "key": "numGames", "value": 28 },
+		{ "key": "numGamesPlayoffSeries", "value": [3, 5] },
+		{ "key": "quarterLength", "value": 10 },
+		{ "key": "salaryCap", "value": 1100 },
+		{ "key": "luxuryPayroll", "value": 1210 },
+		{ "key": "maxContract", "value": 330 },
+		{ "key": "minContract", "value": 10 },
+		{ "key": "minRosterSize", "value": 10 },
+		{ "key": "maxRosterSize", "value": 13 },
+		{ "key": "minPayroll", "value": 720 },
+		{ "key": "pace", "value": 100 },
+		{ "key": "threePointAccuracyFactor", "value": 1.0533 },
+		{ "key": "threePointTendencyFactor", "value": 1.1 },
+		{ "key": "twoPointAccuracyFactor", "value": 1.046 },
+		{ "key": "foulRateFactor", "value": 1.217 },
+		{
+			"key": "confs",
+			"value": [{ "cid": 0, "name": "National Basketball League" }]
+		},
+		{
+			"key": "divs",
+			"value": [{ "did": 0, "cid": 0, "name": "Australia" }]
+		},
+		{
+			"key": "playerBioInfo",
+			"value": {
+				"countries": {
+					"USA": {
+						"fractionSkipCollege": 0.98
+					}
+				},
+				"frequencies": {
+					"Australia": 10,
+					"New Zealand": 1,
+					"Papua New Guinea": 2,
+					"Samoa": 2
+				}
+			}
+		}
+	],
+	"teams": [
+		{
+			"tid": 0,
+			"cid": 0,
+			"did": 0,
+			"region": "Adelaide",
+			"name": "36ers",
+			"abbrev": "ADE",
+			"pop": 1.3,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Adelaide_36ers_logo.svg/1280px-Adelaide_36ers_logo.svg.png",
+			"stadiumCapacity": 11300,
+			"colors": ["#00007f", "#ff0000", "#ffffff"]
+		},
+		{
+			"tid": 1,
+			"cid": 0,
+			"did": 0,
+			"region": "Brisbane",
+			"name": "Bullets",
+			"abbrev": "BRI",
+			"pop": 2.5,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Brisbane_Bullets_logo.svg/1920px-Brisbane_Bullets_logo.svg.png",
+			"stadiumCapacity": 5000,
+			"colors": ["#00007f", "#ffd900", "#00007f"]
+		},
+		{
+			"tid": 2,
+			"cid": 0,
+			"did": 0,
+			"region": "Cairns",
+			"name": "Taipans",
+			"abbrev": "CAI",
+			"pop": 0.15,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Cairns_Taipans_logo.svg/1920px-Cairns_Taipans_logo.svg.png",
+			"stadiumCapacity": 5300,
+			"colors": ["#ffaa00", "#00007f", "#ffffff"]
+		},
+		{
+			"tid": 3,
+			"cid": 0,
+			"did": 0,
+			"region": "Illawarra",
+			"name": "Hawks",
+			"abbrev": "ILL",
+			"pop": 0.3,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/f/f8/Illawarra_Hawks.png",
+			"stadiumCapacity": 6000,
+			"colors": ["#ff0000", "#000000", "#ffffff"]
+		},
+		{
+			"tid": 4,
+			"cid": 0,
+			"did": 0,
+			"region": "New Zealand",
+			"name": "Breakers",
+			"abbrev": "NZE",
+			"pop": 1.6,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/6/6d/New_Zealand_Breakers_logo.svg",
+			"stadiumCapacity": 9300,
+			"colors": ["#ffffff", "#00aaff", "#ffffff"]
+			
+		},
+		{
+			"tid": 5,
+			"cid": 0,
+			"did": 0,
+			"region": "Perth",
+			"name": "Wildcats",
+			"abbrev": "PER",
+			"pop": 2.1,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Perth_Wildcats_logo.svg/800px-Perth_Wildcats_logo.svg.png",
+			"stadiumCapacity": 15500,
+			"colors": ["#ff0000", "#ffffff", "#ff0000"]
+		},
+		{
+			"tid": 6,
+			"cid": 0,
+			"did": 0,
+			"region": "South East Melbourne",
+			"name": "Phoenix",
+			"abbrev": "MEP",
+			"pop": 5.1,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/South_East_Melbourne_Phoenix_logo.svg/1920px-South_East_Melbourne_Phoenix_logo.svg.png",
+			"stadiumCapacity": 10500,
+			"colors": ["#ffffff", "#00ff00", "#aaaaaa"]
+		},
+		{
+			"tid": 7,
+			"cid": 0,
+			"did": 0,
+			"region": "Sydney",
+			"name": "Kings",
+			"abbrev": "SYD",
+			"pop": 5.3,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Sydney_Kings_logo.svg/2560px-Sydney_Kings_logo.svg.png",
+			"stadiumCapacity": 18200,
+			"colors": ["#aa00ff", "#ffd900", "#ffffff"]
+		},
+		{
+			"tid": 8,
+			"cid": 0,
+			"did": 0,
+			"region": "Melbourne",
+			"name": "United",
+			"abbrev": "MEU",
+			"pop": 5.1,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Melbourne_United_logo.svg/1024px-Melbourne_United_logo.svg.png",
+			"stadiumCapacity": 10500,
+			"colors": ["#00007f", "#ffffff", "#0000ff"]
+		},
+		{
+			"tid": 9,
+			"cid": 0,
+			"did": 0,
+			"region": "Tasmanian",
+			"name": "JackJumpers",
+			"abbrev": "TAS",
+			"pop": 0.54,
+			"imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Tasmania_JackJumpers_Logo.svg/276px-Tasmania_JackJumpers_Logo.svg.png",
+			"stadiumCapacity": 5000,
+			"colors": ["#005000", "#009900", "#ffff00"]
+		}
+	]
 }
