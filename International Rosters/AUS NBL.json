@@ -1,46 +1,37 @@
 {
-	"gameAttributes": [
-		{ "key": "numGames", "value": 28 },
-		{ "key": "numGamesPlayoffSeries", "value": [3, 5] },
-		{ "key": "quarterLength", "value": 10 },
-		{ "key": "salaryCap", "value": 1100 },
-		{ "key": "budget", "value": false },
-		{ "key": "luxuryPayroll", "value": 1210 },
-		{ "key": "maxContract", "value": 330 },
-		{ "key": "minContract", "value": 10 },
-		{ "key": "minRosterSize", "value": 10 },
-		{ "key": "maxRosterSize", "value": 13 },
-		{ "key": "minPayroll", "value": 720 },
-		{ "key": "pace", "value": 100 },
-		{ "key": "threePointAccuracyFactor", "value": 1.0533 },
-		{ "key": "threePointTendencyFactor", "value": 1.1 },
-		{ "key": "twoPointAccuracyFactor", "value": 1.046 },
-		{ "key": "foulRateFactor", "value": 1.217 },
-		{
-			"key": "confs",
-			"value": [{ "cid": 0, "name": "National Basketball League" }]
-		},
-		{
-			"key": "divs",
-			"value": [{ "did": 0, "cid": 0, "name": "Australia" }]
-		},
-		{
-			"key": "playerBioInfo",
-			"value": {
-				"countries": {
-					"USA": {
-						"fractionSkipCollege": 0.98
-					}
-				},
-				"frequencies": {
-					"Australia": 10,
-					"New Zealand": 1,
-					"Papua New Guinea": 2,
-					"Samoa": 2
+	"gameAttributes": {
+		"numGames": 28,
+		"numGamesPlayoffSeries": [3, 5],
+		"quarterLength": 10,
+		"salaryCap": 1100,
+		"budget": false,
+		"luxuryPayroll": 1210,
+		"maxContract": 330,
+		"minContract": 10,
+		"minRosterSize": 10,
+		"maxRosterSize": 13,
+		"minPayroll": 720,
+		"pace": 100,
+		"threePointAccuracyFactor": 1.0533,
+		"threePointTendencyFactor": 1.1,
+		"twoPointAccuracyFactor": 1.046,
+		"foulRateFactor": 1.217,
+		"confs": [{ "cid": 0, "name": "National Basketball League" }],
+		"divs": [{ "did": 0, "cid": 0, "name": "Australia" }],
+		"playerBioInfo": {
+			"countries": {
+				"USA": {
+					"fractionSkipCollege": 0.98
 				}
+			},
+			"frequencies": {
+				"Australia": 10,
+				"New Zealand": 1,
+				"Papua New Guinea": 2,
+				"Samoa": 2
 			}
 		}
-	],
+	},
 	"teams": [
 		{
 			"tid": 0,
