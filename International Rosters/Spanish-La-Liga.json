@@ -1,0 +1,211 @@
+{
+    "gameAttributes": [
+        { "key": "numGames", "value": 34 },
+        { "key": "numGamesPlayoffSeries", "value": [5, 5, 5] },
+        { "key": "quarterLength", "value": 10 },
+        { "key": "salaryCap", "value": 3000 },
+        { "key": "luxuryPayroll", "value": 1210 },
+        { "key": "luxuryTax", "value": 1.5 },
+        { "key": "maxContract", "value": 1000 },
+        { "key": "minContract", "value": 70 },
+        { "key": "minPayroll", "value": 2000 },
+        { "key": "pace", "value": 95 },
+        { "key": "threePointAccuracyFactor", "value": 1.042 },
+        { "key": "threePointTendencyFactor", "value": 0.984 },
+        { "key": "twoPointAccuracyFactor", "value": 1.046 },
+        { "key": "foulRateFactor", "value": 1.232 },
+        { "key": "confs", "value": [{ "cid": 0, "name": "Liga ACB" }] },
+        { "key": "divs", "value": [{ "did": 0, "cid": 0, "name": "Spanish" }] },
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "frequencies": {
+                    "Spain": 19,
+                    "Portugal": 1
+                }
+            }
+        }
+    ],
+    "teams": [
+        {
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Barcelona",
+            "name": "Barça",
+            "abbrev": "BAR",
+            "pop": 1.6,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/FC_Barcelona_B%C3%A0squet_logo.svg/800px-FC_Barcelona_B%C3%A0squet_logo.svg.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "Manresa",
+            "name": "Baxi Manresa",
+            "abbrev": "MAN",
+            "pop": 0.0762,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/d/d3/Basquet-manresa.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Zaragoza",
+            "name": "Casadermont Zaragoza",
+            "abbrev": "ZAR",
+            "pop": 0.666,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "Badalona",
+            "name": "Club Joventut",
+            "abbrev": "BAD",
+            "pop": 0.21,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/2/23/Joventut_Badalona_logo.png"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "Seville",
+            "name": "Coosur Real Betis",
+            "abbrev": "SEV",
+            "pop": 1.519,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1280px-Real_betis_logo.svg.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Las Palmas",
+            "name": "Herbalife Gran Canaria",
+            "abbrev": "LAP",
+            "pop": 0.378,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/CB_Gran_Canaria_logo.svg/1024px-CB_Gran_Canaria_logo.svg.png"
+        },
+        {
+            "tid": 6,
+            "cid": 0,
+            "did": 0,
+            "region": "Iberostar",
+            "name": "Tenerife",
+            "abbrev": "IBE",
+            "pop": 0.155,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/cf/Logo_of_CB_1939_Canarias.png"
+        },
+        {
+            "tid": 7,
+            "cid": 0,
+            "did": 0,
+            "region": "Vitoria-Gasteiz",
+            "name": "Kirolbet Baskonia",
+            "abbrev": "VIG",
+            "pop": 0.249,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/6/6a/Saski_Baskonia.png"
+        },
+        {
+            "tid": 8,
+            "cid": 0,
+            "did": 0,
+            "region": "Monbus",
+            "name": "Santiago de Compostela",
+            "abbrev": "MON",
+            "pop": 0.096,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/d/dc/Logo-obradoiro.jpg"
+        },
+        {
+            "tid": 9,
+            "cid": 0,
+            "did": 0,
+            "region": "Fuenlabrada",
+            "name": "Montakit Fuenlabrada",
+            "abbrev": "FUE",
+            "pop": 0.193,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/5/54/Logo_of_Baloncesto_Fuenlabrada.png"
+        },
+        {
+            "tid": 10,
+            "cid": 0,
+            "did": 0,
+            "region": "Andorra la Vella",
+            "name": "MoraBanc",
+            "abbrev": "AND",
+            "pop": 0.022,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BC_Andorra_logo.svg/800px-BC_Andorra_logo.svg.png"
+        },
+        {
+            "tid": 11,
+            "cid": 0,
+            "did": 0,
+            "region": "Madrid",
+            "name": "Movistar Estudiantes",
+            "abbrev": "MME",
+            "pop": 6.6,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/5/5f/Logo_of_CB_Estudiantes.png"
+        },
+        {
+            "tid": 12,
+            "cid": 0,
+            "did": 0,
+            "region": "Madrid",
+            "name": "Real",
+            "abbrev": "MRE",
+            "pop": 6.6,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Real_Madrid_Baloncesto_logo.svg/800px-Real_Madrid_Baloncesto_logo.svg.png"
+        },
+        {
+            "tid": 13,
+            "cid": 0,
+            "did": 0,
+            "region": "Bilbao",
+            "name": "RETAbet Basket",
+            "abbrev": "BIL",
+            "pop": 1.037,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Bilbao_Basket_logo.svg/1024px-Bilbao_Basket_logo.svg.png"
+        },
+        {
+            "tid": 14,
+            "cid": 0,
+            "did": 0,
+            "region": "Burgos",
+            "name": "San Pablo",
+            "abbrev": "BUR",
+            "pop": 0.2,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/f/f1/San_Pablo_Burgos.png"
+        },
+        {
+            "tid": 15,
+            "cid": 0,
+            "did": 0,
+            "region": "Murcia",
+            "name": "UCAM",
+            "abbrev": "MUR",
+            "pop": 0.502,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/CB_Murcia_logo.svg/800px-CB_Murcia_logo.svg.png"
+        },
+        {
+            "tid": 16,
+            "cid": 0,
+            "did": 0,
+            "region": "Málaga",
+            "name": "Unicaja",
+            "abbrev": "MAL",
+            "pop": 0.967,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/4/41/CB_Unicaja_Logo.png"
+        },
+        {
+            "tid": 17,
+            "cid": 0,
+            "did": 0,
+            "region": "Valencia",
+            "name": "Basket",
+            "abbrev": "VAL",
+            "pop": 2.522,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Valencia_Basket_logo.svg/1920px-Valencia_Basket_logo.svg.png"
+        }
+    ]
+}

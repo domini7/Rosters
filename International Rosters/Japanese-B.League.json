@@ -1,0 +1,236 @@
+{
+    "gameAttributes": [
+        { "key": "numGames", "value": 60 },
+        { "key": "numGamesPlayoffSeries", "value": [3, 3, 1] },
+        { "key": "quarterLength", "value": 10 },
+        { "key": "salaryCap", "value": 2500 },
+        { "key": "luxuryPayroll", "value": 3100 },
+        { "key": "luxuryTax", "value": 1.5 },
+        { "key": "maxContract", "value": 652 },
+        { "key": "minContract", "value": 50 },
+        { "key": "minRosterSize", "value": 10 },
+        { "key": "maxRosterSize", "value": 15 },
+        { "key": "minPayroll", "value": 1500 },
+        { "key": "pace", "value": 88 },
+        { "key": "threePointAccuracyFactor", "value": 0.98 },
+        { "key": "threePointTendencyFactor", "value": 0.98 },
+        { "key": "twoPointAccuracyFactor", "value": 1.046 },
+        { "key": "foulRateFactor", "value": 1.09 },
+        {
+            "key": "confs",
+            "value": [
+                { "cid": 0, "name": "East Conference" },
+                { "cid": 1, "name": "Cental Conference" },
+                { "cid": 2, "name": "West Conference" }
+            ]
+        },
+        {
+            "key": "divs",
+            "value": [
+                { "did": 0, "cid": 0, "name": "East" },
+                { "did": 1, "cid": 1, "name": "Central" },
+                { "did": 2, "cid": 2, "name": "West" }
+            ]
+        },
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "countries": {
+                    "USA": {
+                        "fractionSkipCollege": 1
+                    }
+                },
+                "frequencies": {
+                    "Japan": 150,
+                    "China": 5,
+                    "South Korea": 1,
+                    "Vietnam": 2,
+                    "Indonesia": 3,
+                    "USA": 1
+                }
+            }
+        }
+    ],
+    "teams": [
+        {
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Akita",
+            "name": "Northern Happinets",
+            "abbrev": "AKI",
+            "pop": 0.305,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/b/b9/Akita_Northern_Happinets_logo.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "Tokyo",
+            "name": "Alvark",
+            "abbrev": "TOK",
+            "pop": 37.468,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/0/07/Alvark_Tokyo_logo.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Funabashi",
+            "name": "Chiba Jets",
+            "abbrev": "FUN",
+            "pop": 0.623,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/cb/Chiba_Jets.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "Hokkaido",
+            "name": "Levanga",
+            "abbrev": "HOK",
+            "pop": 1.97,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/b/b5/Levanga_Hokkaido.jpg"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "Shibuya",
+            "name": "Sun Rockers",
+            "abbrev": "SHI",
+            "pop": 0.221,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/9/9e/Hitachi_Sunrockers.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Utsunomiya",
+            "name": "Brex",
+            "abbrev": "UTS",
+            "pop": 1.103,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/3/31/Utsunomiyabrex.png"
+        },
+        {
+            "tid": 6,
+            "cid": 1,
+            "did": 1,
+            "region": "Kawasaki",
+            "name": "Brave Thunders",
+            "abbrev": "KAW",
+            "pop": 1.531,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/e/e7/Kawasaki_Brave_Thunders_logo.jpg"
+        },
+        {
+            "tid": 7,
+            "cid": 1,
+            "did": 1,
+            "region": "Niigata",
+            "name": "Albirex BB",
+            "abbrev": "NI",
+            "pop": 0.271,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/7/7b/AlbirexBB.png"
+        },
+        {
+            "tid": 8,
+            "cid": 1,
+            "did": 1,
+            "region": "Toyohashi",
+            "name": "San-en NeoPhoenix",
+            "abbrev": "TOY",
+            "pop": 0.377,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/cc/SAN-EN_NeoPhoenix.jpg"
+        },
+        {
+            "tid": 9,
+            "cid": 1,
+            "did": 1,
+            "region": "Kariya",
+            "name": "SeaHorses Mikawa",
+            "abbrev": "KAR",
+            "pop": 0.153,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/1/1c/SeaHorses_Mikawa_logo.jpg"
+        },
+        {
+            "tid": 10,
+            "cid": 1,
+            "did": 1,
+            "region": "Toyama",
+            "name": "Grouses",
+            "abbrev": "TYA",
+            "pop": 1.066,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/b/b7/Toyama_logo.jpg"
+        },
+        {
+            "tid": 11,
+            "cid": 1,
+            "did": 1,
+            "region": "Yokohama",
+            "name": "B-Corsairs",
+            "abbrev": "YOK",
+            "pop": 3.732,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/6/67/Yokohama_B-Corsairs_logo.jpg"
+        },
+        {
+            "tid": 12,
+            "cid": 2,
+            "did": 2,
+            "region": "Kyoto",
+            "name": "Hannaryz",
+            "abbrev": "KYO",
+            "pop": 1.47,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/a/af/Kyoto_Hannaryz_logo.png"
+        },
+        {
+            "tid": 13,
+            "cid": 2,
+            "did": 2,
+            "region": "Nagoya",
+            "name": "Diamond Dolphins",
+            "abbrev": "NAG",
+            "pop": 2.327,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/7/79/Nagoya_Diamond_Dolphins.png"
+        },
+        {
+            "tid": 14,
+            "cid": 2,
+            "did": 2,
+            "region": "Osaka",
+            "name": "Evessa",
+            "abbrev": "OSA",
+            "pop": 19.302,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/1/19/Osaka_Evessa_logo.png"
+        },
+        {
+            "tid": 15,
+            "cid": 2,
+            "did": 2,
+            "region": "Okinawa",
+            "name": "Ryukyu Golden Kings",
+            "abbrev": "OKI",
+            "pop": 0.138,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/3/35/Ryukyu_Golden_Kings_logo_19.png"
+        },
+        {
+            "tid": 16,
+            "cid": 2,
+            "did": 2,
+            "region": "Ōtsu",
+            "name": "Lakestars",
+            "abbrev": "ŌTS",
+            "pop": 0.341,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/9/93/Shiga_Lakestars_logo.png"
+        },
+        {
+            "tid": 17,
+            "cid": 2,
+            "did": 2,
+            "region": "Shimane",
+            "name": "Susanoo Magic",
+            "abbrev": "SSM",
+            "pop": 0.205,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/ca/Susanoo_Magic_logo.jpg"
+        }
+    ]
+}
