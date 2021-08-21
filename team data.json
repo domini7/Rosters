@@ -24,7 +24,8 @@
 				"imgURL": "https://i.ibb.co/gZqcz36/atl1996.png",
 				"imgURLSmall": "https://i.imgur.com/OU0lp6f.png" },
 			"2008": {
-				"imgURL": "https://i.ibb.co/HTvxbFG/atl2008.png",
+				"imgURL": "https://i.imgur.com/ZNYnFOt.png",
+				"imgURLSmall": "https://i.imgur.com/bWZVwuP.png",
 				"colors": ["#e03a3e", "#C1D32F", "#26282A"]
 			},
 			"2016": {
@@ -105,7 +106,9 @@
 		"colors": ["#008080", "#FFA500", "#FFFFFF"],
 		"seasons": {
 			"2005": { "imgURL": "https://i.ibb.co/sbwBPkc/cha2005.png" },
-			"2009": { "imgURL": "https://i.ibb.co/bgT3MdP/cha2009.png" },
+			"2009": {
+				"imgURL": "https://i.ibb.co/bgT3MdP/cha2009.png",
+				"imgURL": "https://i.imgur.com/kiaGxty.png" },
 			"2013": { "imgURL": "https://i.ibb.co/HHXZy5v/cha2013.png" }
 		}
 	},
@@ -177,6 +180,7 @@
 			},
 			"2011": {
 				"imgURL": "https://i.ibb.co/5hBpjT7/cle2011.png",
+				"imgURLSmall": "https://i.imgur.com/VXYRGJ5.png",
 				"colors": ["#860038", "#041E42", "#FDBB30"]
 			},
 			"2018": {
@@ -193,12 +197,15 @@
 		"colors": ["#FFA500", "#FFFFFF", "#0000FF"]
 	},
 	"DAL": {
-		"imgURL": "https://i.ibb.co/7WtByGJ/dal1981.png",
+		"imgURL": "https://i.imgur.com/onl5325.png",
+		"imgURLSmall": "https://i.ibb.co/7WtByGJ/dal1981.png",
 		"name": "Mavericks",
 		"region": "Dallas",
 		"colors": ["#002855", "#00843D", "#FFFFFF"],
 		"seasons": {
-			"1981": { "imgURL": "https://i.ibb.co/7WtByGJ/dal1981.png" },
+			"1981": { 
+				"imgURL": "https://i.imgur.com/onl5325.png",
+				"imgURLSmall": "https://i.ibb.co/7WtByGJ/dal1981.png" },
 			"1994": {
 				"imgURL": "https://i.imgur.com/3gFYWmc.png",
 				"imgURLSmall": "https://i.ibb.co/4Rjb5MM/dal1994.png" },
@@ -260,6 +267,7 @@
 				"imgURLSmall": "https://i.imgur.com/LhaHMPH.png" },
 			"2006": {
 				"imgURL": "https://i.ibb.co/FJ8yCLC/det2006.png",
+				"imgURLSmall": "https://i.imgur.com/9K75oJk.png",
 				"colors": ["#D50032", "#003DA5", "#041E42"]
 			},
 			"2018": {
@@ -328,7 +336,8 @@
 				"colors": ["#041E42", "#2C7AA1", "#BA0C2F"]
 			},
 			"2004": {
-				"imgURL": "https://i.ibb.co/8B1sSFL/hou2004.png",
+				"imgURL": "https://i.imgur.com/xKSlvFo.png",
+				"imgURLSmall": "https://i.ibb.co/8B1sSFL/hou2004.png",
 				"colors": ["#CE1141", "#000000", "#C4CED4"]
 			},
 			"2020": {
@@ -348,7 +357,9 @@
 			"1991": {
 				"imgURL": "https://i.imgur.com/bga5d2C.png",
 				"imgURLSmall": "https://i.imgur.com/xsFGpXM.png" },
-			"2006": { "imgURL": "https://i.ibb.co/h2SLwLS/ind2006.png" },
+			"2006": {
+				"imgURL": "https://i.imgur.com/EzI4oZC.png",
+				"imgURLSmall": "https://i.imgur.com/g0l7iWq.png" },
 			"2018": {
 				"imgURL": "https://i.ibb.co/5cZHSvM/ind2018.png",
 				"imgURLSmall": "https://i.imgur.com/kb9F5EN.png" }
@@ -465,6 +476,7 @@
 			},
 			"2007": {
 				"imgURL": "https://i.ibb.co/m5w3zh8/mil2007.png",
+				"imgURLSmall": "https://i.imgur.com/QmfBn7p.png",
 				"colors": ["#AC1a2f", "#274e37", "#95999d"]
 			},
 			"2016": {
@@ -571,6 +583,7 @@
 				"imgURLSmall": "https://i.imgur.com/3dJz4UI.png" },
 			"1996": {
 				"imgURL": "https://i.ibb.co/WtghM23/nyk1996.png",
+				"imgURLSmall": "https://i.imgur.com/6Ni2BlX.png",
 				"colors": ["#006BB6", "#F58426", "#BEC0C2"]
 			},
 			"2012": {
@@ -629,6 +642,7 @@
 			},
 			"2010": {
 				"imgURL": "https://i.ibb.co/74k5HBY/phi2010.png",
+				"imgURLSmall": "https://i.ibb.co/pPyzvT6/phi1977.png",
 				"colors": ["#006bb6", "#ed174c", "#002B5C"]
 			},
 			"2016": {
@@ -732,12 +746,12 @@
 		}
 	},
 	"SAS": {
-		"imgURL": "https://i.ibb.co/44zP71s/sas1977.png",
+		"imgURL": "https://i.imgur.com/nmTndNU.png",
 		"name": "Spurs",
 		"region": "San Antonio",
 		"colors": ["#c4ced4", "#000000", "#FFFFFF"],
 		"seasons": {
-			"1977": { "imgURL": "https://i.ibb.co/44zP71s/sas1977.png" },
+			"1977": { "imgURL": "https://i.imgur.com/nmTndNU.png" },
 			"1990": {
 				"imgURL": "https://i.ibb.co/YZWsVDJ/sas1990.png",
 				"imgURLSmall": "https://i.imgur.com/PWVrIQh.png",
@@ -840,6 +854,7 @@
 			"1996": { "imgURL": "https://i.ibb.co/4SYfcv3/tor1996.png" },
 			"2009": {
 				"imgURL": "https://i.ibb.co/RD42Krp/tor2009.png",
+				"imgURLSmall": "https://i.imgur.com/k6UOTP7.png",
 				"colors": ["#ce1141", "#000000", "#A1A1A4"]
 			},
 			"2016": {
@@ -866,13 +881,15 @@
 		"colors": ["#89cff0", "#FFFFFF", "#000000"]
 	},
 	"UTA": {
-		"imgURL": "https://i.ibb.co/Pm2Pnzs/uta1980.png",
+		"imgURL": "https://i.imgur.com/Lu0cdvQ.png",
+		"imgURLSmall": "https://i.imgur.com/pBaFzX7.png",
 		"name": "Jazz",
 		"region": "Utah",
 		"colors": ["#572c5f", "#ffc72c", "#046a38"],
 		"seasons": {
 			"1980": {
-				"imgURL": "https://i.ibb.co/Pm2Pnzs/uta1980.png",
+				"imgURL": "https://i.imgur.com/Lu0cdvQ.png",
+				"imgURLSmall": "https://i.imgur.com/pBaFzX7.png",
 				"colors": ["#572c5f", "#ffc72c", "#046a38"]
 			},
 			"1997": {
@@ -911,7 +928,9 @@
 			"1998": {
 				"imgURL": "https://i.imgur.com/g7DHfj1.png",
 				"imgURLSmall": "https://i.imgur.com/EUPml6Q.png" },
-			"2008": { "imgURL": "https://i.ibb.co/X8Ygn2L/was2008.png" },
+			"2008": {
+				"imgURL": "https://i.imgur.com/uxcYCDH.png",
+				"imgURLSmall": "https://i.ibb.co/X8Ygn2L/was2008.png" },
 			"2012": { "imgURL": "https://i.ibb.co/dcTW8hV/was2012.png" },
 			"2016": {
 				"imgURL": "https://i.ibb.co/K6rZgm4/was2016.png",
@@ -925,12 +944,12 @@
 		"colors": ["#FFDF00", "#89cff0", "#FFFFFF"]
 	},
 	"WSB": {
-		"imgURL": "https://i.ibb.co/Dw2vqVN/wsb1975.png",
+		"imgURL": "https://i.imgur.com/o1eJEIi.png",
 		"name": "Bullets",
 		"region": "Washington",
 		"colors": ["#002B5C", "#e31837", "#C4CED4"],
 		"seasons": {
-			"1975": { "imgURL": "https://i.ibb.co/Dw2vqVN/wsb1975.png" },
+			"1975": { "imgURL": "https://i.imgur.com/o1eJEIi.png" },
 			"1988": { 
 				"imgURL": "https://i.imgur.com/jo3NUCO.png",
 				"colors": ["#d50032", "#003da5", "#ffffff"] }
