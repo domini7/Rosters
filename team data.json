@@ -26,7 +26,7 @@
 			"2008": {
 				"imgURL": "https://i.imgur.com/ZNYnFOt.png",
 				"imgURLSmall": "https://i.imgur.com/bWZVwuP.png",
-				"colors": ["#e03a3e", "#C1D32F", "#26282A"]
+				"colors": ["#0c2340", "#ffffff", "#c8102e"]
 			},
 			"2016": {
 				"imgURL": "https://i.ibb.co/cwqs7TY/atl2016.png",
@@ -242,6 +242,7 @@
 			},
 			"2009": {
 				"imgURL": "https://i.ibb.co/yNyk75c/den2009.png",
+				"imgURLSmall": "https://i.imgur.com/Htmec3l.png",
 				"colors": ["#00285E", "#418FDE", "#FDB927"]
 			},
 			"2019": {
@@ -313,6 +314,7 @@
 			},
 			"2011": {
 				"imgURL": "https://i.ibb.co/V9wRMC1/gsw2011.png",
+				"imgURLSmall": "https://i.imgur.com/UzLguZY.png",
 				"colors": ["#006BB6", "#FDB927", "#26282A"]
 			},
 			"2020": {
@@ -419,7 +421,7 @@
 			"2018": {
 				"imgURL": "https://i.ibb.co/TbMMKSd/lal2002.png",
 				"imgURLSmall": "https://i.imgur.com/Xwr5PFQ.png",
-				"colors": ["#552583", "#FDB927", "#000000"]
+				"colors": ["#ffc72c", "#582c83", "#582c83"]
 			}
 		}
 	},
@@ -435,6 +437,7 @@
 				"imgURLSmall": "https://i.imgur.com/JUUJZNu.png" },
 			"2005": {
 				"imgURL": "https://i.ibb.co/XFm2tGN/mem2005.png",
+				"imgURLSmall": "https://i.imgur.com/lVNmzZe.png",
 				"colors": ["#0c2340", "#7d9cc0", "#ffc72c"] },
 			"2018": {
 				"imgURL": "https://i.imgur.com/8A1a3zw.png",
@@ -477,7 +480,7 @@
 			"2007": {
 				"imgURL": "https://i.ibb.co/m5w3zh8/mil2007.png",
 				"imgURLSmall": "https://i.imgur.com/QmfBn7p.png",
-				"colors": ["#AC1a2f", "#274e37", "#95999d"]
+				"colors": ["#2c5234", "#ffffff", "#a6192e"]
 			},
 			"2016": {
 				"imgURL": "https://i.ibb.co/Mp15xCq/mil2016.png",
@@ -501,6 +504,7 @@
 			},
 			"2009": {
 				"imgURL": "https://i.ibb.co/540CTMm/min2009.png",
+				"imgURLSmall": "https://i.imgur.com/aUgU9T8.png",
 				"colors": ["#236192", "#ffffff", "#009739"]
 			},
 			"2018": {
@@ -604,7 +608,7 @@
 		"imgURLSmall": "https://i.imgur.com/ifBY6ON.png",
 		"name": "Thunder",
 		"region": "Oklahoma City",
-		"colors": ["#007ac1", "#ef3b24", "#002D62"]
+		"colors": ["#0072ce", "#ffffff", "#ee2737"]
 	},
 	"ORL": {
 		"imgURL": "https://i.ibb.co/3Wyz1TD/orl1990.png",
@@ -643,7 +647,7 @@
 			"2010": {
 				"imgURL": "https://i.ibb.co/74k5HBY/phi2010.png",
 				"imgURLSmall": "https://i.ibb.co/pPyzvT6/phi1977.png",
-				"colors": ["#006bb6", "#ed174c", "#002B5C"]
+				"colors": ["#d50032", "#ffffff", "#003da5"]
 			},
 			"2016": {
 				"imgURL": "https://i.ibb.co/R2g6nkB/phi2016.png",
@@ -707,11 +711,17 @@
 			"2003": { 
 				"imgURL": "https://i.imgur.com/704NUce.png",
 				"imgURLSmall": "https://i.ibb.co/8sxKyYC/por2003.png" },
-			"2004": { "imgURL": "https://i.ibb.co/N6zFdkL/por2004.png" },
-			"2005": { "imgURL": "https://i.ibb.co/VxPZw3V/por2005.png" },
+			"2004": { 
+				"imgURL": "https://i.ibb.co/N6zFdkL/por2004.png",
+				"imgURLSmall": "https://i.ibb.co/8sxKyYC/por2003.png" },
+			"2005": { 
+				"imgURL": "https://i.ibb.co/VxPZw3V/por2005.png",
+				"imgURLSmall": "https://i.ibb.co/8sxKyYC/por2003.png",
+				"colors": ["#010101", "#ffffff", "#c8102e"] },
 			"2018": {
 				"imgURL": "https://i.imgur.com/IfjmjFJ.png",
-				"imgURLSmall": "https://i.imgur.com/u1iRngy.png" }
+				"imgURLSmall": "https://i.imgur.com/u1iRngy.png",
+				"colors": ["#010101", "#ffffff", "#c8102e"] }
 		}
 	},
 	"PRO": {
@@ -759,10 +769,12 @@
 			},
 			"2003": {
 				"imgURL": "https://i.ibb.co/QcZsVCs/sas2003.png",
-				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png" },
+				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png",
+				"colors": ["#010101", "#ffffff", "#cdd6db"] },
 			"2018": {
 				"imgURL": "https://i.imgur.com/yXLRt2y.png",
-				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png" }
+				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png",
+				"colors": ["#010101", "#ffffff", "#cdd6db"] }
 		}
 	},
 	"SDC": {
@@ -836,7 +848,10 @@
 		"colors": ["#00008B", "#FFFFFF", "#000000"],
 		"seasons": {
 			"1956": { "imgURL": "https://i.ibb.co/Cv1Vvvr/stl1956.png" },
-			"1958": { "imgURL": "https://i.ibb.co/mSz49hh/stl1958.png" }
+			"1958": {
+				"imgURL": "https://i.ibb.co/mSz49hh/stl1958.png",
+				"imgURLSmall":"https://i.imgur.com/gJHN1qc.png",
+				"colors":["#c8102e", "#ffffff", "#002f6c"] }
 		}
 	},
 	"SYR": {
@@ -903,12 +918,13 @@
 			},
 			"2011": {
 				"imgURL": "https://i.ibb.co/PgF77W8/uta2011.png",
-				"colors": ["#002B5C", "#00471B", "#F9A01B"]
+				"imgURLSmall": "https://i.imgur.com/Fpp41Ai.png",
+				"colors": ["#0a2f50", "#ffb321", "#ffb321"]
 			},
 			"2017": {
 				"imgURL": "https://i.imgur.com/H3ZIR44.png",
 				"imgURLSmall": "https://i.imgur.com/MUB0Jcx.png",
-				"colors": ["#002B5C", "#00471B", "#F9A01B"]
+				"colors": ["#0a2f50", "#ffb321", "#ffb321"]
 			}
 		}
 	},
@@ -931,7 +947,9 @@
 			"2008": {
 				"imgURL": "https://i.imgur.com/uxcYCDH.png",
 				"imgURLSmall": "https://i.ibb.co/X8Ygn2L/was2008.png" },
-			"2012": { "imgURL": "https://i.ibb.co/dcTW8hV/was2012.png" },
+			"2012": { 
+				"imgURL": "https://i.imgur.com/tO4KVj9.png",
+				"imgURLSmall": "https://i.imgur.com/G2OVJTM.png" },
 			"2016": {
 				"imgURL": "https://i.ibb.co/K6rZgm4/was2016.png",
 				"imgURLSmall": "https://i.imgur.com/xwDq8vp.png"}
