@@ -22,7 +22,6 @@
 				"imgURLSmall": "https://i.imgur.com/H5yeFsz.png",
 				"colors": ["#c8102e", "#ffffff", "#fafbfb"] },
 			"1998": {
-				"imgURL": "https://i.ibb.co/gZqcz36/atl1996.png",
 				"imgURLSmall": "https://i.imgur.com/OU0lp6f.png",
 				"colors": ["#c8102e", "#ffffff", "#fafbfb"] },
 			"2008": {
@@ -65,7 +64,7 @@
 		"imgURL": "https://i.ibb.co/vdNGNgP/bos1947.png",
 		"name": "Celtics",
 		"region": "Boston",
-		"colors": ["#007A33", "#BA9653", "#963821"],
+		"colors": ["#007a33", "#ffffff", "#ffffff"],
 		"seasons": {
 			"1947": { "imgURL": "https://i.ibb.co/vdNGNgP/bos1947.png" },
 			"1951": { "imgURL": "https://i.ibb.co/d5T2N2m/bos1951.png" },
@@ -74,8 +73,7 @@
 			"1977": { "imgURL": "https://i.ibb.co/sv4n0CR/bos1977.png" },
 			"1997": {
 				"imgURL": "https://i.ibb.co/FVBSdzj/bos1997.png",
-				"imgURLSmall": "https://i.imgur.com/Jts3BXK.png",
-				"colors": ["#007a33", "#ffffff", "#ffffff"] }
+				"imgURLSmall": "https://i.imgur.com/Jts3BXK.png" }
 		}
 	},
 	"BRK": {
@@ -234,6 +232,7 @@
 			"1977": { "imgURL": "https://i.ibb.co/9VGgW5L/den1977.png" },
 			"1982": {
 				"imgURL": "https://i.ibb.co/PZW4zFn/den1982.png",
+				"imgURLSmall": "https://i.imgur.com/Fr78pVI.png",
 				"colors": ["#041e42", "#ffffff", "#046a38"]
 			},
 			"1994": {
@@ -266,7 +265,9 @@
 			"1958": { "imgURL": "https://i.ibb.co/q7yyk1z/det1958.png" },
 			"1972": { "imgURL": "https://i.ibb.co/dPNQXmC/det1972.png" },
 			"1976": { "imgURL": "https://i.ibb.co/kDsfzn5/det1976.png" },
-			"1980": { "imgURL": "https://i.ibb.co/CwMRLbn/det1980.png" },
+			"1980": { 
+				"imgURL": "https://i.ibb.co/CwMRLbn/det1980.png",
+				"colors": ["#003da5", "#d50032", "#ffffff"] },
 			"1997": {
 				"imgURL": "https://i.ibb.co/f1cc1CT/det1997.png",
 				"imgURLSmall": "https://i.imgur.com/pH7NHj4.png",
@@ -339,7 +340,9 @@
 		"colors": ["#BA0C2F", "#000000", "#FFC72C"],
 		"seasons": {
 			"1972": { "imgURL": "https://i.ibb.co/CBf9Y3y/hou1972.png" },
-			"1973": { "imgURL": "https://i.ibb.co/86TvtNF/hou1973.png" },
+			"1973": { 
+				"imgURL": "https://i.ibb.co/86TvtNF/hou1973.png",
+				"colors": ["#ba0c2f", "#ffffff", "#ffc72c"] },
 			"1996": {
 				"imgURL": "https://i.ibb.co/1KvsR4Z/hou1996.png",
 				"imgURLSmall": "https://i.imgur.com/Snq7hv9.png",
@@ -460,7 +463,7 @@
 		"imgURLSmall": "https://i.imgur.com/H3zhapI.png",
 		"name": "Heat",
 		"region": "Miami",
-		"colors": ["#BA0C2F", "#FEDD00", "#000000"],
+		"colors": ["#010101", "#ffffff", "#ba0c2f"],
 		"seasons": {
 			"1988": {
 				"imgURL": "https://i.imgur.com/22xPMMf.png",
@@ -480,6 +483,9 @@
 		"seasons": {
 			"1969": {
 				"imgURL": "https://i.ibb.co/fMW90hT/mil1969.png"
+			},
+			"1979": {
+				"imgURLSmall": "https://i.imgur.com/D3fwX2X.png"
 			},
 			"1994": {
 				"imgURL": "https://i.ibb.co/XFg1hCx/mil1994.png",
@@ -584,12 +590,17 @@
 		"imgURL": "https://i.ibb.co/9ny8pH1/nyk1947.png",
 		"name": "Knicks",
 		"region": "New York",
-		"colors": ["#0072CE", "#FE5000", "#8A8D8F"],
+		"colors": ["#003da5", "#e35205", "#ffffff"],
 		"seasons": {
 			"1947": { "imgURL": "https://i.ibb.co/9ny8pH1/nyk1947.png" },
 			"1965": { "imgURL": "https://i.ibb.co/ZLKtfyk/nyk1965.png" },
-			"1980": { "imgURL": "https://i.ibb.co/dkdkD2S/nyk1980.png" },
-			"1984": { "imgURL": "https://i.ibb.co/gVNfJzh/nyk1984.png" },
+			"1968": { "imgURLSmall": "https://i.ibb.co/ZLKtfyk/nyk1965.png" },
+			"1980": {
+				"imgURL": "https://i.ibb.co/dkdkD2S/nyk1980.png",
+				"imgURLSmall": "https://i.imgur.com/IOGCqw7.png" },
+			"1984": {
+				"imgURL": "https://i.ibb.co/gVNfJzh/nyk1984.png",
+				"imgURLSmall": "https://i.imgur.com/IOGCqw7.png" },
 			"1990": { "imgURL": "https://i.ibb.co/vY5Ssnn/nyk1990.png" },
 			"1993": {
 				"imgURL": "https://i.ibb.co/3TRkM4t/nyk1993.png",
@@ -669,9 +680,12 @@
 		"imgURL": "https://i.imgur.com/MWnKsW8.png",
 		"name": "Suns",
 		"region": "Phoenix",
-		"colors": ["#FF6900", "#000000", "#EF3340"],
+		"colors": ["#702f8a", "#fa4616", "#ffffff"],
 		"seasons": {
-			"1969": { "imgURL": "https://i.imgur.com/MWnKsW8.png" },
+			"1969": {
+				"imgURL": "https://i.imgur.com/MWnKsW8.png",
+				"imgURLSmall": "https://i.imgur.com/34fARsB.png"
+			},
 			"1993": {
 				"imgURL": "https://i.ibb.co/n1QPYt5/pho1993.png",
 				"imgURLSmall": "https://i.imgur.com/YungQG0.png",
@@ -746,13 +760,13 @@
 		"colors": ["#000080", "#FFFFFF", "#FFFFFF"]
 	},
 	"SAC": {
-		"imgURL": "https://i.ibb.co/swMGgX6/sac1986.png",
+		"imgURL": "https://i.imgur.com/Hyf98Du.png",
 		"name": "Kings",
 		"region": "Sacramento",
 		"colors": ["#542e91", "#c4ced4", "#000000"],
 		"seasons": {
 			"1986": {
-				"imgURL": "https://i.ibb.co/f8Kz2Cv/sac1986.png",
+				"imgURL": "https://i.imgur.com/Hyf98Du.png",
 				"imgURLSmall": "https://i.imgur.com/w7NTIxf.png" },
 			"1995": {
 				"imgURL": "https://i.ibb.co/rpKvJh9/sac1995.png",
@@ -813,6 +827,7 @@
 			"1972": { "imgURL": "https://i.ibb.co/2vY4PPQ/sea1972.png" },
 			"1976": {
 				"imgURL": "https://i.ibb.co/pZSZFzM/sea1976.png",
+				"imgURLSmall": "https://i.imgur.com/SCSQUHD.png",
 				"colors": ["#046a3c", "#fcbe14", "#FFFFFF"]
 			},
 			"1996": {
