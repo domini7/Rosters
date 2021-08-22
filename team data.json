@@ -19,10 +19,12 @@
 				"imgURLSmall": "https://i.ibb.co/3m1yMXh/atl1973.png" },
 			"1996": {
 				"imgURL": "https://i.ibb.co/gZqcz36/atl1996.png",
-				"imgURLSmall": "https://i.imgur.com/H5yeFsz.png" },
+				"imgURLSmall": "https://i.imgur.com/H5yeFsz.png",
+				"colors": ["#c8102e", "#ffffff", "#fafbfb"] },
 			"1998": {
 				"imgURL": "https://i.ibb.co/gZqcz36/atl1996.png",
-				"imgURLSmall": "https://i.imgur.com/OU0lp6f.png" },
+				"imgURLSmall": "https://i.imgur.com/OU0lp6f.png",
+				"colors": ["#c8102e", "#ffffff", "#fafbfb"] },
 			"2008": {
 				"imgURL": "https://i.imgur.com/ZNYnFOt.png",
 				"imgURLSmall": "https://i.imgur.com/bWZVwuP.png",
@@ -172,6 +174,7 @@
 			"1984": { "imgURL": "https://i.ibb.co/z7zvmQx/cle1984.png" },
 			"1995": {
 				"imgURL": "https://i.ibb.co/z6z89y0/cle1995.png",
+				"imgURLSmall": "https://i.imgur.com/ZvhgmdW.png",
 				"colors": ["#010101", "#e35205", "#5c88da"]
 			},
 			"2004": {
@@ -208,7 +211,8 @@
 				"imgURLSmall": "https://i.ibb.co/7WtByGJ/dal1981.png" },
 			"1994": {
 				"imgURL": "https://i.imgur.com/3gFYWmc.png",
-				"imgURLSmall": "https://i.ibb.co/4Rjb5MM/dal1994.png" },
+				"imgURLSmall": "https://i.ibb.co/4Rjb5MM/dal1994.png",
+				"colors": ["#002855", "#ffffff", "#00843d"] },
 			"2002": {
 				"imgURL": "https://i.ibb.co/kmfrYFC/dal2002.png",
 				"imgURLSmall": "https://i.imgur.com/mD5QrJK.png",
@@ -234,6 +238,7 @@
 			},
 			"1994": {
 				"imgURL": "https://i.ibb.co/8XM9VgV/den1994.png",
+				"imgURLSmall": "https://i.imgur.com/XI8AhiJ.png",
 				"colors": ["#041e42", "#c79969", "#9d2235"]
 			},
 			"2004": {
@@ -262,7 +267,10 @@
 			"1972": { "imgURL": "https://i.ibb.co/dPNQXmC/det1972.png" },
 			"1976": { "imgURL": "https://i.ibb.co/kDsfzn5/det1976.png" },
 			"1980": { "imgURL": "https://i.ibb.co/CwMRLbn/det1980.png" },
-			"1997": { "imgURL": "https://i.ibb.co/f1cc1CT/det1997.png" },
+			"1997": {
+				"imgURL": "https://i.ibb.co/f1cc1CT/det1997.png",
+				"imgURLSmall": "https://i.imgur.com/pH7NHj4.png",
+				"colors": ["#006271", "#ffffff", "#ffa400"] },
 			"2002": {
 				"imgURL": "https://i.ibb.co/0cmFqkq/det2002.png",
 				"imgURLSmall": "https://i.imgur.com/LhaHMPH.png" },
@@ -398,7 +406,8 @@
 		"colors": ["#d50032", "#ffffff", "#003da5"],
 		"seasons": {
 			"1991": {
-				"imgURL": "https://i.ibb.co/fYdKZCH/lac1985.png" },
+				"imgURL": "https://i.ibb.co/fYdKZCH/lac1985.png",
+				"imgURLSmall": "https://i.imgur.com/J5AWKqF.png" },
 			"2011": {
 				"imgURL": "https://i.ibb.co/gm7B3vm/lac2011.png",
 				"imgURLSmall": "https://i.imgur.com/Q8q6Ebm.png" },
@@ -657,12 +666,12 @@
 		}
 	},
 	"PHO": {
-		"imgURL": "https://i.ibb.co/Yt94Nv8/pho1969.png",
+		"imgURL": "https://i.imgur.com/MWnKsW8.png",
 		"name": "Suns",
 		"region": "Phoenix",
 		"colors": ["#FF6900", "#000000", "#EF3340"],
 		"seasons": {
-			"1969": { "imgURL": "https://i.ibb.co/Yt94Nv8/pho1969.png" },
+			"1969": { "imgURL": "https://i.imgur.com/MWnKsW8.png" },
 			"1993": {
 				"imgURL": "https://i.ibb.co/n1QPYt5/pho1993.png",
 				"imgURLSmall": "https://i.imgur.com/YungQG0.png",
@@ -813,7 +822,7 @@
 			},
 			"2002": {
 				"imgURL": "https://i.ibb.co/GRhRGpp/sea2002.png",
-				"imgURLSmall":"https://i.imgur.com/ze6GeTC.png",
+				"imgURLSmall": "https://i.imgur.com/ze6GeTC.png",
 				"colors": ["#00653a", "#ffc200", "#FFFFFF"]
 			}
 		}
@@ -850,7 +859,7 @@
 			"1956": { "imgURL": "https://i.ibb.co/Cv1Vvvr/stl1956.png" },
 			"1958": {
 				"imgURL": "https://i.ibb.co/mSz49hh/stl1958.png",
-				"imgURLSmall":"https://i.imgur.com/gJHN1qc.png",
+				"imgURLSmall": "https://i.imgur.com/gJHN1qc.png",
 				"colors":["#c8102e", "#ffffff", "#002f6c"] }
 		}
 	},
@@ -866,7 +875,9 @@
 		"region": "Toronto",
 		"colors": ["#753BBD", "#ffffff", "#ba0c2f"],
 		"seasons": {
-			"1996": { "imgURL": "https://i.ibb.co/4SYfcv3/tor1996.png" },
+			"1996": {
+				"imgURL": "https://i.ibb.co/4SYfcv3/tor1996.png",
+				"imgURLSmall": "https://i.imgur.com/ZUPwzNy.png" },
 			"2009": {
 				"imgURL": "https://i.ibb.co/RD42Krp/tor2009.png",
 				"imgURLSmall": "https://i.imgur.com/k6UOTP7.png",
