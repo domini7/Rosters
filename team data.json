@@ -48,8 +48,8 @@
 		"colors": ["#0000FF", "#FF0000", "#FFFFFF"],
 		"seasons": {
 			"1964": { "imgURL": "https://i.ibb.co/stZp3cS/bal1964.png" },
-			"1970": { "imgURL": "https://i.ibb.co/DCByTVL/bal1970.png" },
-			"1971": { "imgURL": "https://i.ibb.co/T0Nn64p/bal1971.png" },
+			"1969": { "imgURL": "https://i.imgur.com/g2AI5gc.png" },
+			"1970": { "imgURL": "https://i.ibb.co/T0Nn64p/bal1971.png" },
 			"1972": { "imgURL": "https://i.ibb.co/KxwrBLb/bal1972.png" },
 			"1973": { "imgURL": "https://i.ibb.co/bLPHZxK/bal1973.png" }
 		}
@@ -61,15 +61,15 @@
 		"colors": ["#0000FF", "#FF0000", "#FFFFFF"]
 	},
 	"BOS": {
-		"imgURL": "https://i.ibb.co/vdNGNgP/bos1947.png",
+		"imgURL": "https://i.imgur.com/H94UWlD.png",
 		"name": "Celtics",
 		"region": "Boston",
 		"colors": ["#007a33", "#ffffff", "#ffffff"],
 		"seasons": {
-			"1947": { "imgURL": "https://i.ibb.co/vdNGNgP/bos1947.png" },
+			"1947": { "imgURL": "https://i.imgur.com/H94UWlD.png" },
 			"1951": { "imgURL": "https://i.ibb.co/d5T2N2m/bos1951.png" },
 			"1961": { "imgURL": "https://i.ibb.co/gMJ6fCK/bos1961.png" },
-			"1969": { "imgURL": "https://i.ibb.co/rk0JZRH/bos1969.png" },
+			"1969": { "imgURL": "https://i.imgur.com/FfbLfgd.png" },
 			"1977": { "imgURL": "https://i.ibb.co/sv4n0CR/bos1977.png" },
 			"1997": {
 				"imgURL": "https://i.ibb.co/FVBSdzj/bos1997.png",
@@ -135,13 +135,14 @@
 		"colors": ["#1d1160", "#00788C", "#A1A1A4"]
 	},
 	"CHP": {
-		"imgURL": "https://i.ibb.co/515tgLF/chp.png",
+		"imgURL": "https://i.imgur.com/CirXlth.png",
 		"name": "Packers",
 		"region": "Chicago",
 		"colors": ["#A52A2A", "#f2cf9d", "#FFFFFF"]
 	},
 	"CHS": {
-		"imgURL": "https://i.ibb.co/s3bCWYp/chs.png",
+		"imgURL": "https://i.imgur.com/Tr9ECO9.png",
+		"imgURLSmall": "https://i.imgur.com/ZHb6ft9.png",
 		"name": "Stags",
 		"region": "Chicago",
 		"colors": ["#FFFFFF", "#FF0000", "#0000FF"]
@@ -158,7 +159,9 @@
 		"region": "Cincinnati",
 		"colors": ["#000080", "#FFFFFF", "#000080"],
 		"seasons": {
-			"1958": { "imgURL": "https://i.ibb.co/ZcvBVdB/cin1959.png" },
+			"1958": { 
+				"imgURL": "https://i.ibb.co/ZcvBVdB/cin1959.png",
+				"imgURLSmall": "https://i.imgur.com/6bLHhxn.png" },
 			"1972": { "imgURL": "https://i.ibb.co/s23zvPt/cin1972.png" }
 		}
 	},
@@ -260,7 +263,7 @@
 		"imgURL": "https://i.ibb.co/q7yyk1z/det1958.png",
 		"name": "Pistons",
 		"region": "Detroit",
-		"colors": ["#9D2235", "#FFA300", "#006272"],
+		"colors": ["#002f6c", "#d50032", "#ffffff"],
 		"seasons": {
 			"1958": { "imgURL": "https://i.ibb.co/q7yyk1z/det1958.png" },
 			"1972": { "imgURL": "https://i.ibb.co/dPNQXmC/det1972.png" },
@@ -300,7 +303,8 @@
 		"colors": ["#FFFF00", "#A52A2A", "#000000"]
 	},
 	"FTW": {
-		"imgURL": "https://i.ibb.co/Q8zS8Rq/ftw.png",
+		"imgURL": "https://i.imgur.com/PPk2Bo8.png",
+		"imgURLSmall": "https://i.ibb.co/Q8zS8Rq/ftw.png",
 		"name": "Pistons",
 		"region": "Fort Wayne",
 		"colors": ["#C0C0C0", "#FF0000", "#FFFFFF"]
@@ -531,10 +535,10 @@
 	},
 	"MLH": {
 		"abbrev": "MLH",
-		"imgURL": "https://i.ibb.co/frWDGRF/mlh.png",
+		"imgURL": "https://i.imgur.com/sdYJszK.png",
 		"name": "Hawks",
 		"region": "Milwaukee",
-		"colors": ["#FF0000", "#000000", "#000000"]
+		"colors": ["#003da5", "#ffffff", "#003da5"]
 	},
 	"MNL": {
 		"imgURL": "https://i.ibb.co/sCMnkxb/mnl.png",
@@ -593,8 +597,11 @@
 		"colors": ["#003da5", "#e35205", "#ffffff"],
 		"seasons": {
 			"1947": { "imgURL": "https://i.ibb.co/9ny8pH1/nyk1947.png" },
-			"1965": { "imgURL": "https://i.ibb.co/ZLKtfyk/nyk1965.png" },
-			"1968": { "imgURLSmall": "https://i.ibb.co/ZLKtfyk/nyk1965.png" },
+			"1965": {
+				"imgURL": "https://i.ibb.co/ZLKtfyk/nyk1965.png" },
+			"1968": {
+				"imgURL": "https://i.ibb.co/ZLKtfyk/nyk1965.png",
+				"imgURLSmall": "https://i.imgur.com/IOGCqw7.png" },
 			"1980": {
 				"imgURL": "https://i.ibb.co/dkdkD2S/nyk1980.png",
 				"imgURLSmall": "https://i.imgur.com/IOGCqw7.png" },
@@ -649,12 +656,12 @@
 		}
 	},
 	"PHI": {
-		"imgURL": "https://i.ibb.co/bgqpZ87/phi1964.png",
+		"imgURL": "https://i.imgur.com/RFOQQ7d.png",
 		"name": "76ers",
 		"region": "Philadelphia",
 		"colors": ["#002F6C", "#D50032", "#FFFFFF"],
 		"seasons": {
-			"1964": { "imgURL": "https://i.ibb.co/bgqpZ87/phi1964.png" },
+			"1964": { "imgURL": "https://i.imgur.com/RFOQQ7d.png" },
 			"1977": {
 				"imgURL": "https://i.ibb.co/pPyzvT6/phi1977.png",
 				"colors": ["#d50032", "#ffffff", "#002f6c"]
@@ -714,7 +721,7 @@
 		}
 	},
 	"PIT": {
-		"imgURL": "https://i.ibb.co/C6mTjkt/pit.png",
+		"imgURL": "https://i.imgur.com/0m2D31l.png",
 		"name": "Ironmen",
 		"region": "Pittsburgh",
 		"colors": ["#996600", "#FFFFFF", "#FF0000"]
@@ -748,10 +755,11 @@
 		}
 	},
 	"PRO": {
-		"imgURL": "https://i.ibb.co/WW02MYC/pro.png",
+		"imgURL": "https://i.imgur.com/dRLWgIm.png",
+		"imgURLSmall": "https://i.imgur.com/oAWvTaS.png",
 		"name": "Steamrollers",
 		"region": "Providence",
-		"colors": ["#FF0000", "#996600", "#FFFFFF"]
+		"colors": ["#d50032", "#010101", "#FFFFFF"]
 	},
 	"ROC": {
 		"imgURL": "https://i.ibb.co/ZX11FkD/roc.png",
@@ -817,12 +825,14 @@
 		"colors": ["#008000", "#FFA500", "#0000FF"]
 	},
 	"SEA": {
-		"imgURL": "https://i.ibb.co/W3kQjYq/sea1968.png",
+		"imgURL": "https://i.imgur.com/GahKo8c.png",
 		"name": "Supersonics",
 		"region": "Seattle",
 		"colors": ["#046a3b", "#000000", "#046a3b"],
 		"seasons": {
-			"1968": { "imgURL": "https://i.ibb.co/W3kQjYq/sea1968.png" },
+			"1968": { 
+				"imgURL": "https://i.imgur.com/GahKo8c.png",
+				"imgURLSmall": "https://i.imgur.com/0uVxP7M.png" },
 			"1971": { "imgURL": "https://i.ibb.co/sJds3Zb/sea1971.png" },
 			"1972": { "imgURL": "https://i.ibb.co/2vY4PPQ/sea1972.png" },
 			"1976": {
@@ -860,7 +870,7 @@
 		"colors": ["#0000FF", "#FF0000", "#FF0000"]
 	},
 	"STB": {
-		"imgURL": "https://i.ibb.co/9tyKVbx/stb.png",
+		"imgURL": "https://i.imgur.com/qjoZi2x.png",
 		"name": "Bombers",
 		"region": "St. Louis",
 		"colors": ["#996600", "#000000", "#000000"]
@@ -882,7 +892,7 @@
 		"imgURL": "https://i.ibb.co/Vjq68Gy/syr.png",
 		"name": "Nationals",
 		"region": "Syracuse",
-		"colors": ["#FFFFFF", "#FF0000", "#0000FF"]
+		"colors": ["#d50032", "#002f6c", "#c79969"]
 	},
 	"TOR": {
 		"imgURL": "https://i.ibb.co/4SYfcv3/tor1996.png",
