@@ -58,7 +58,7 @@
 		"imgURL": "https://i.ibb.co/LxQkyLy/blb.png",
 		"name": "Bullets",
 		"region": "Baltimore",
-		"colors": ["#0000FF", "#FF0000", "#FFFFFF"]
+		"colors": ["#e35205", "#002855", "#ffffff"]
 	},
 	"BOS": {
 		"imgURL": "https://i.imgur.com/H94UWlD.png",
@@ -84,12 +84,14 @@
 		"colors": ["#000000", "#FFFFFF", "#FFFFFF"]
 	},
 	"BUF": {
-		"imgURL": "https://i.ibb.co/rQnYqc7/buf1971.png",
+		"imgURL": "https://i.imgur.com/cNE59IX.png",
 		"name": "Braves",
 		"region": "Buffalo",
-		"colors": ["#000000", "#FFA500", "#FFFFFF"],
+		"colors": ["#002f6c", "#daaa00", "#d50032"],
 		"seasons": {
-			"1971": { "imgURL": "https://i.ibb.co/rQnYqc7/buf1971.png" },
+			"1971": {
+				"imgURL": "https://i.imgur.com/cNE59IX.png",
+				"imgURLSmall": "https://i.imgur.com/cFrkZ5i.png" },
 			"1972": { "imgURL": "https://i.ibb.co/9vWHPt1/buf1972.png" }
 		}
 	},
@@ -103,13 +105,20 @@
 		"imgURL": "https://i.ibb.co/sbwBPkc/cha2005.png",
 		"name": "Bobcats",
 		"region": "Charlotte",
-		"colors": ["#008080", "#FFA500", "#FFFFFF"],
+		"colors": ["#f9423a", "#ffffff", "#1b365d"],
 		"seasons": {
-			"2005": { "imgURL": "https://i.ibb.co/sbwBPkc/cha2005.png" },
+			"2005": {
+				"imgURL": "https://i.ibb.co/sbwBPkc/cha2005.png",
+				"imgURLSmall": "https://i.imgur.com/O5atZ2j.png" },
 			"2009": {
 				"imgURL": "https://i.ibb.co/bgT3MdP/cha2009.png",
-				"imgURL": "https://i.imgur.com/kiaGxty.png" },
-			"2013": { "imgURL": "https://i.ibb.co/HHXZy5v/cha2013.png" }
+				"imgURLSmall": "https://i.imgur.com/kiaGxty.png",
+				"colors": ["#1b365d", "#ffffff", "#f9423a"]
+				},
+			"2013": {
+				"imgURL": "https://i.ibb.co/HHXZy5v/cha2013.png",
+				"imgURLSmall": "https://i.imgur.com/5TWEVFh.png",
+				"colors": ["#0c2340", "#ffffff", "#e35205"] }
 		}
 	},
 	"CHH": {
@@ -171,7 +180,9 @@
 		"region": "Cleveland",
 		"colors": ["#DC3B34", "#04225C", "#FFFFFF"],
 		"seasons": {
-			"1971": { "imgURL": "https://i.ibb.co/jwrfQzF/cle1971.png" },
+			"1971": {
+				"imgURL": "https://i.ibb.co/jwrfQzF/cle1971.png",
+				"imgURLSmall": "https://i.imgur.com/tBJcYD7.png" },
 			"1984": { "imgURL": "https://i.ibb.co/z7zvmQx/cle1984.png" },
 			"1995": {
 				"imgURL": "https://i.ibb.co/z6z89y0/cle1995.png",
@@ -180,6 +191,7 @@
 			},
 			"2004": {
 				"imgURL": "https://i.ibb.co/K9bDndh/cle2004.png",
+				"imgURLSmall": "https://i.imgur.com/kTrSD2E.png",
 				"colors": ["#860038", "#041E42", "#FDBB30"]
 			},
 			"2011": {
@@ -232,7 +244,9 @@
 		"region": "Denver",
 		"colors": ["#041E42", "#9D2235", "#8B6F4E"],
 		"seasons": {
-			"1977": { "imgURL": "https://i.ibb.co/9VGgW5L/den1977.png" },
+			"1977": {
+				"imgURL": "https://i.imgur.com/Z1xBxsd.png",
+				"imgURLSmall": "https://i.ibb.co/9VGgW5L/den1977.png" },
 			"1982": {
 				"imgURL": "https://i.ibb.co/PZW4zFn/den1982.png",
 				"imgURLSmall": "https://i.imgur.com/Fr78pVI.png",
@@ -245,6 +259,7 @@
 			},
 			"2004": {
 				"imgURL": "https://i.ibb.co/3d6t9tv/den2004.png",
+				"imgURLSmall": "https://i.imgur.com/Y4GnULv.png",
 				"colors": ["#00285E", "#418FDE", "#FDB927"]
 			},
 			"2009": {
@@ -267,7 +282,7 @@
 		"seasons": {
 			"1958": { "imgURL": "https://i.ibb.co/q7yyk1z/det1958.png" },
 			"1972": { "imgURL": "https://i.ibb.co/dPNQXmC/det1972.png" },
-			"1976": { "imgURL": "https://i.ibb.co/kDsfzn5/det1976.png" },
+			"1976": { "imgURL": "https://i.imgur.com/Pm213ow.png" },
 			"1980": { 
 				"imgURL": "https://i.ibb.co/CwMRLbn/det1980.png",
 				"colors": ["#003da5", "#d50032", "#ffffff"] },
@@ -311,12 +326,14 @@
 	},
 	"GSW": {
 		"abbrev": "GSW",
-		"imgURL": "https://i.ibb.co/QmMHQSG/gsw1972.png",
+		"imgURL": "https://i.imgur.com/uRBeT26.png",
 		"name": "Warriors",
 		"region": "Golden State",
 		"colors": ["#002F6C", "#FFCD00", "#FFFFFF"],
 		"seasons": {
-			"1972": { "imgURL": "https://i.ibb.co/QmMHQSG/gsw1972.png" },
+			"1972": {
+				"imgURL": "https://i.imgur.com/uRBeT26.png",
+				"imgURLSmall": "https://i.imgur.com/DQ2dtjC.png" },
 			"1976": {
 				"imgURL": "https://i.ibb.co/M6mjPDF/gsw1976.png",
 				"imgURLSmall": "https://i.imgur.com/TUJnlfI.png" },
@@ -370,7 +387,7 @@
 		"region": "Indiana",
 		"colors": ["#002D62", "#FDBB30", "#BEC0C2"],
 		"seasons": {
-			"1977": { "imgURL": "https://i.ibb.co/tb138QC/ind1977.png" },
+			"1977": { "imgURL": "https://i.imgur.com/lImXIdy.png" },
 			"1991": {
 				"imgURL": "https://i.imgur.com/bga5d2C.png",
 				"imgURLSmall": "https://i.imgur.com/xsFGpXM.png" },
@@ -395,16 +412,17 @@
 		"colors": ["#0000FF", "#FFFFFF", "#FF0000"]
 	},
 	"KCK": {
-		"imgURL": "https://i.ibb.co/NLgHmXq/kck.png",
+		"imgURL": "https://i.imgur.com/PwatZHe.png",
+		"imgURLSmall": "https://i.imgur.com/44XZZFv.png",
 		"name": "Kings",
 		"region": "Kansas City",
-		"colors": ["#FF0000", "#0000FF", "#000000"]
+		"colors": ["#002f6c", "#ba0c2f", "#ffffff"]
 	},
 	"KCO": {
 		"imgURL": "https://i.ibb.co/6R0gpp9/kco.png",
 		"name": "Kings",
 		"region": "Kansas City-Omaha",
-		"colors": ["#FF0000", "#0000FF", "#000000"]
+		"colors": ["#002f6c", "#ba0c2f", "#ffffff"]
 	},
 	"LAC": {
 		"imgURL": "https://i.ibb.co/fYdKZCH/lac1985.png",
@@ -570,9 +588,11 @@
 		"colors": ["#1b7bf7", "#ffea00", "#ffffff"],
 		"seasons": {
 			"2003": { 
-			"imgURL": "https://i.ibb.co/hm7MgtM/noh2003.png",
-			"imgURLSmall": "https://i.imgur.com/UiR7uIW.png" },
-			"2009": { "imgURL": "https://i.ibb.co/LPJKL4V/noh2009.png" }
+				"imgURL": "https://i.ibb.co/hm7MgtM/noh2003.png",
+				"imgURLSmall": "https://i.imgur.com/UiR7uIW.png" },
+			"2009": { 
+				"imgURL": "https://i.ibb.co/LPJKL4V/noh2009.png",
+				"imgURLSmall": "https://i.imgur.com/JzYWH5Q.png" }
 		}
 	},
 	"NOJ": {
@@ -580,7 +600,7 @@
 		"imgURL": "https://i.ibb.co/894qpF7/noj.png",
 		"name": "Jazz",
 		"region": "New Orleans",
-		"colors": ["#753BBD", "#00A9E0", "#006272"]
+		"colors": ["#572c5f", "#ffffff", "#ffc72c"]
 	},
 	"NOP": {
 		"imgURL": "https://i.imgur.com/vB0C6GZ.png",
@@ -727,12 +747,14 @@
 		"colors": ["#996600", "#FFFFFF", "#FF0000"]
 	},
 	"POR": {
-		"imgURL": "https://i.ibb.co/WFWcZN3/por1971.png",
+		"imgURL": "https://i.imgur.com/MTiHNr2.png",
 		"name": "Trailblazers",
 		"region": "Portland",
-		"colors": ["#E03A3E", "#000000", "#FFFFFF"],
+		"colors": ["#ba0c2f", "#ffffff", "#000000"],
 		"seasons": {
-			"1971": { "imgURL": "https://i.ibb.co/WFWcZN3/por1971.png" },
+			"1971": {
+				"imgURL": "https://i.imgur.com/MTiHNr2.png",
+				"imgURLSmall": "https://i.imgur.com/iiI420p.png" },
 			"1991": {
 				"imgURL": "https://i.imgur.com/cHa0VSB.png",
 				"imgURLSmall": "https://i.ibb.co/Cm2ktkS/por1991.png",
@@ -790,22 +812,21 @@
 		"imgURL": "https://i.imgur.com/nmTndNU.png",
 		"name": "Spurs",
 		"region": "San Antonio",
-		"colors": ["#c4ced4", "#000000", "#FFFFFF"],
+		"colors": ["#010101", "#ffffff", "#cdd6db"],
 		"seasons": {
 			"1977": { "imgURL": "https://i.imgur.com/nmTndNU.png" },
 			"1990": {
 				"imgURL": "https://i.ibb.co/YZWsVDJ/sas1990.png",
-				"imgURLSmall": "https://i.imgur.com/PWVrIQh.png",
-				"colors": ["#010101", "#ffffff", "#cdd6db"]
+				"imgURLSmall": "https://i.imgur.com/PWVrIQh.png"
 			},
 			"2003": {
 				"imgURL": "https://i.ibb.co/QcZsVCs/sas2003.png",
-				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png",
-				"colors": ["#010101", "#ffffff", "#cdd6db"] },
+				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png"
+			},
 			"2018": {
 				"imgURL": "https://i.imgur.com/yXLRt2y.png",
-				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png",
-				"colors": ["#010101", "#ffffff", "#cdd6db"] }
+				"imgURLSmall": "https://i.imgur.com/HSDTN4L.png"
+			}
 		}
 	},
 	"SDC": {
@@ -828,13 +849,15 @@
 		"imgURL": "https://i.imgur.com/GahKo8c.png",
 		"name": "Supersonics",
 		"region": "Seattle",
-		"colors": ["#046a3b", "#000000", "#046a3b"],
+		"colors": ["#173f35", "#ffffff", "#eaaa00"],
 		"seasons": {
 			"1968": { 
 				"imgURL": "https://i.imgur.com/GahKo8c.png",
 				"imgURLSmall": "https://i.imgur.com/0uVxP7M.png" },
 			"1971": { "imgURL": "https://i.ibb.co/sJds3Zb/sea1971.png" },
-			"1972": { "imgURL": "https://i.ibb.co/2vY4PPQ/sea1972.png" },
+			"1972": {
+				"imgURL": "https://i.ibb.co/2vY4PPQ/sea1972.png",
+				"imgURL": "https://i.imgur.com/zo1zobQ.png" },
 			"1976": {
 				"imgURL": "https://i.ibb.co/pZSZFzM/sea1976.png",
 				"imgURLSmall": "https://i.imgur.com/SCSQUHD.png",
@@ -860,7 +883,9 @@
 		"colors": ["#002F6C", "#FFCD00", "#FFFFFF"],
 		"seasons": {
 			"1963": { "imgURL": "https://i.ibb.co/K5K5tH4/sfw1963.png" },
-			"1971": { "imgURL": "https://i.ibb.co/GxbnWwL/sfw1971.png" }
+			"1971": {
+				"imgURL": "https://i.ibb.co/GxbnWwL/sfw1971.png",
+				"imgURLSmall": "https://i.imgur.com/QEudiBZ.png" }
 		}
 	},
 	"SHE": {
@@ -910,6 +935,7 @@
 			},
 			"2016": {
 				"imgURL": "https://i.ibb.co/7XtpXhq/tor2016.png",
+				"imgURLSmall": "https://i.imgur.com/SgfQfil.png",
 				"colors": ["#ce1141", "#000000", "#A1A1A4"]
 			},
 			"2021": {
@@ -950,7 +976,8 @@
 			},
 			"2005": {
 				"imgURL": "https://i.ibb.co/bQRz6R6/uta2005.png",
-				"colors": ["#00275D", "#3E2680", "#6CAEDF"]
+				"imgURLSmall": "https://i.imgur.com/kTwZPrN.png",
+				"colors": ["#0a2f50", "#4b9fe2", "#4b9fe2"]
 			},
 			"2011": {
 				"imgURL": "https://i.ibb.co/PgF77W8/uta2011.png",
@@ -979,16 +1006,20 @@
 		"seasons": {
 			"1998": {
 				"imgURL": "https://i.imgur.com/g7DHfj1.png",
-				"imgURLSmall": "https://i.imgur.com/EUPml6Q.png" },
+				"imgURLSmall": "https://i.imgur.com/EUPml6Q.png",
+				"colors": ["#236192", "#ffffff", "#ba7c5d"] },
 			"2008": {
 				"imgURL": "https://i.imgur.com/uxcYCDH.png",
-				"imgURLSmall": "https://i.ibb.co/X8Ygn2L/was2008.png" },
+				"imgURLSmall": "https://i.ibb.co/X8Ygn2L/was2008.png",
+				"colors": ["#236192", "#ffffff", "#ba7c5d"] },
 			"2012": { 
 				"imgURL": "https://i.imgur.com/tO4KVj9.png",
-				"imgURLSmall": "https://i.imgur.com/G2OVJTM.png" },
+				"imgURLSmall": "https://i.imgur.com/G2OVJTM.png",
+				"colors": ["#c8102e", "#0c2340", "#ffffff"] },
 			"2016": {
 				"imgURL": "https://i.ibb.co/K6rZgm4/was2016.png",
-				"imgURLSmall": "https://i.imgur.com/xwDq8vp.png"}
+				"imgURLSmall": "https://i.imgur.com/xwDq8vp.png",
+				"colors": ["#0c2340", "#c8102e", "#ffffff"]}
 		}
 	},
 	"WAT": {
