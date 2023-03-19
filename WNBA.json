@@ -5577,6 +5577,43 @@
             "imgURL": "/img/blank-face.png",
             "tid": 11,
             "pid": 140
+        },
+        {
+            "name": "Brittney Griner",
+            "ratings": [{
+                "hgt": 79,
+                "stre": 88,
+                "spd": 53,
+                "jmp": 68,
+                "endu": 79,
+                "ins": 85,
+                "dnk": 55,
+                "ft": 67,
+                "fg": 65,
+                "tp": 17,
+                "oiq": 73,
+                "diq": 65,
+                "drb": 55,
+                "pss": 60,
+                "reb": 69
+            }],
+            "hgt": 81,
+            "wgt": 205,
+            "college": "Baylor",
+            "born": {
+                "year": 1990,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "42"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 141
         }
     ]
 }
