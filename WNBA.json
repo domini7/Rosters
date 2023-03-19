@@ -1,0 +1,5582 @@
+{
+    "gameAttributes": [{
+            "key": "season",
+            "value": 2022
+        },
+        {
+            "key": "startingSeason",
+            "value": 2022
+        },
+        {
+            "key": "numGames",
+            "value": 40
+        },
+        {
+            "key": "numGamesConf",
+            "value": null
+        },
+        {
+            "key": "numGamesDiv",
+            "value": null
+        },
+        {
+            "key": "numGamesPlayoffSeries",
+            "value": [3, 5, 5]
+        },
+        {
+            "key": "playoffsByConf",
+            "value": false
+        },
+        {
+            "key": "quarterLength",
+            "value": 10
+        },
+        {
+            "key": "salaryCap",
+            "value": 1420
+        },
+        {
+            "key": "luxuryPayroll",
+            "value": 3000
+        },
+        {
+            "key": "luxuryTax",
+            "value": 0
+        },
+        {
+            "key": "maxContract",
+            "value": 230
+        },
+        {
+            "key": "minContract",
+            "value": 60
+        },
+        {
+            "key": "minRosterSize",
+            "value": 10
+        },
+        {
+            "key": "maxRosterSize",
+            "value": 12
+        },
+        {
+            "key": "minPayroll",
+            "value": 1180
+        },
+        {
+            "key": "pace",
+            "value": 99
+        },
+        {
+            "key": "threePointTendencyFactor",
+            "value": 0.92
+        },
+        {
+            "key": "twoPointAccuracyFactor",
+            "value": 1.01
+        },
+        {
+            "key": "foulRateFactor",
+            "value": 1.12
+        },
+        {
+            "key": "turnoverFactor",
+            "value": 1.025
+        },
+        {
+            "key": "stealFactor",
+            "value": 1.2
+        },
+        {
+            "key": "blockFactor",
+            "value": 0.98
+        },
+        {
+            "key": "assistFactor",
+            "value": 1.05
+        },
+        {
+            "key": "orbFactor",
+            "value": 0.98
+        },
+        {
+            "key": "draftAges",
+            "value": [20, 22]
+        },
+        {
+            "key": "allStarType",
+            "value": "byConf"
+        },
+        {
+            "key": "draftLotteryCustomChances",
+            "value": [442, 276, 178, 104]
+        },
+        {
+            "key": "playIn",
+            "value": false
+        },
+        {
+            "key": "gender",
+            "value": "female"
+        },
+        {
+            "key": "draftType",
+            "value": "custom"
+        },
+        {
+            "key": "numDraftRounds",
+            "value": 3
+        },
+        {
+            "key": "draftPickAutoContractPercent",
+            "value": 32
+        },
+
+        {
+            "key": "confs",
+            "value": [{
+                    "cid": 0,
+                    "name": "Eastern Conference"
+                },
+                {
+                    "cid": 1,
+                    "name": "Western Conference"
+                }
+            ]
+        },
+        {
+            "key": "divs",
+            "value": [{
+                    "did": 0,
+                    "cid": 0,
+                    "name": "East"
+                },
+                {
+                    "did": 1,
+                    "cid": 1,
+                    "name": "West"
+                }
+            ]
+        },
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "frequencies": {
+                    "Argentina": 71,
+                    "Australia": 174,
+                    "Bosnia and Herzegovina": 140,
+                    "Brazil": 82,
+                    "Canada": 392,
+                    "China": 30,
+                    "Croatia": 216,
+                    "Czech Republic": 34,
+                    "England": 112,
+                    "France": 294,
+                    "Germany": 181,
+                    "Greece": 214,
+                    "Italy": 228,
+                    "Lithuania": 195,
+                    "Montenegro": 85,
+                    "Nigeria": 136,
+                    "Poland": 69,
+                    "Russia": 116,
+                    "Senegal": 113,
+                    "Serbia": 341,
+                    "Slovenia": 105,
+                    "Spain": 251,
+                    "Sweden": 47,
+                    "Turkey": 110,
+                    "USA": 13461
+                }
+            }
+        }
+    ],
+    "teams": [{
+            "tid": 0,
+            "cid": 0,
+            "did": 0,
+            "region": "Atlanta",
+            "name": "Dream",
+            "abbrev": "ATL",
+            "pop": 5.3,
+            "colors": ["#e3173e", "#363b37", "#9ea2a2"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Atlanta_Dream_logo.svg/1200px-Atlanta_Dream_logo.svg.png"
+        },
+        {
+            "tid": 1,
+            "cid": 0,
+            "did": 0,
+            "region": "Chicago",
+            "name": "Sky",
+            "abbrev": "CHI",
+            "pop": 9.1,
+            "colors": ["#418fde", "#ffcd00", "#000000"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Chicago_Sky_logo.svg/1200px-Chicago_Sky_logo.svg.png"
+        },
+        {
+            "tid": 2,
+            "cid": 0,
+            "did": 0,
+            "region": "Connecticut",
+            "name": "Sun",
+            "abbrev": "CON",
+            "pop": 1.15,
+            "colors": ["#f3703a", "#002d62", "#bf2f38"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Connecticut_Sun_logo.svg/800px-Connecticut_Sun_logo.svg.png"
+        },
+        {
+            "tid": 3,
+            "cid": 0,
+            "did": 0,
+            "region": "Indiana",
+            "name": "Fever",
+            "abbrev": "IND",
+            "pop": 1.6,
+            "colors": ["#002d62", "#e03a3e", "#ffd520"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/1200px-Indiana_Fever_logo.svg.png"
+        },
+        {
+            "tid": 4,
+            "cid": 0,
+            "did": 0,
+            "region": "New York",
+            "name": "Liberty",
+            "abbrev": "NY",
+            "pop": 21.5,
+            "colors": ["#86cebc", "#000000", "#ffffff "],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/New_York_Liberty_logo.svg/1200px-New_York_Liberty_logo.svg.png"
+        },
+        {
+            "tid": 5,
+            "cid": 0,
+            "did": 0,
+            "region": "Washington",
+            "name": "Mystics",
+            "abbrev": "WAS",
+            "pop": 6.2,
+            "colors": ["#e03a3e", "#002b5c", "#c4ced4"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Washington_Mystics_logo.svg/1200px-Washington_Mystics_logo.svg.png"
+        },
+        {
+            "tid": 6,
+            "cid": 1,
+            "did": 1,
+            "region": "Dallas",
+            "name": "Wings",
+            "abbrev": "DAL",
+            "pop": 6.6,
+            "colors": ["#0d2240", "#c4d600", "#00a8e1"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Dallas_Wings_logo.svg/1200px-Dallas_Wings_logo.svg.png"
+        },
+        {
+            "tid": 7,
+            "cid": 1,
+            "did": 1,
+            "region": "Las Vegas",
+            "name": "Aces",
+            "abbrev": "LV",
+            "pop": 2.1,
+            "colors": ["#c22032", "#000000", "#bd955b"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Las_Vegas_Aces_logo.svg/1200px-Las_Vegas_Aces_logo.svg.png"
+        },
+        {
+            "tid": 8,
+            "cid": 1,
+            "did": 1,
+            "region": "Los Angeles",
+            "name": "Sparks",
+            "abbrev": "LA",
+            "pop": 15.6,
+            "colors": ["#552583", "#fdb927", "#00ae9b"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Los_Angeles_Sparks_logo.svg/1200px-Los_Angeles_Sparks_logo.svg.png"
+        },
+        {
+            "tid": 9,
+            "cid": 1,
+            "did": 1,
+            "region": "Minnesota",
+            "name": "Lynx",
+            "abbrev": "MIN",
+            "pop": 2.8,
+            "colors": ["#152a46", "#236192", "#78be20"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Minnesota_Lynx_logo.svg/1200px-Minnesota_Lynx_logo.svg.png"
+        },
+        {
+            "tid": 10,
+            "cid": 1,
+            "did": 1,
+            "region": "Phoenix",
+            "name": "Mercury",
+            "abbrev": "PHO",
+            "pop": 4.3,
+            "colors": ["#211646", "#d35e13", "#b3b2b1"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Phoenix_Mercury_logo.svg/800px-Phoenix_Mercury_logo.svg.png"
+        },
+        {
+            "tid": 11,
+            "cid": 1,
+            "did": 1,
+            "region": "Seattle",
+            "name": "Storm",
+            "abbrev": "SEA",
+            "pop": 3.8,
+            "colors": ["#3c5239", "#f6df3d", "#a4a8ab"],
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Seattle_Storm_%282021%29_logo.svg/1200px-Seattle_Storm_%282021%29_logo.svg.png"
+        }
+    ],
+    "players": [{
+            "name": "Aari McDonald",
+            "ratings": [{
+                "hgt": 22.2,
+                "stre": 56.8,
+                "spd": 81.255,
+                "jmp": 63.86,
+                "endu": 74.875,
+                "ins": 44.5,
+                "dnk": 36.8,
+                "ft": 73.7,
+                "fg": 47.0,
+                "tp": 41.06,
+                "oiq": 63.3,
+                "diq": 37.8,
+                "drb": 70.55,
+                "pss": 86.501,
+                "reb": 43.56
+            }],
+            "hgt": 66,
+            "wgt": 141,
+            "college": "Arizona",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "2"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 0
+        },
+        {
+            "name": "AD Durr",
+            "ratings": [{
+                "hgt": 37.0,
+                "stre": 58.0,
+                "spd": 71.45,
+                "jmp": 56.66,
+                "endu": 65.05,
+                "ins": 49.0,
+                "dnk": 41.6,
+                "ft": 53.6,
+                "fg": 52.0,
+                "tp": 44.61,
+                "oiq": 60.1,
+                "diq": 36.9,
+                "drb": 54.85,
+                "pss": 55.001,
+                "reb": 42.0
+            }],
+            "hgt": 70,
+            "wgt": 151,
+            "college": "Louisville",
+            "born": {
+                "year": 1997,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "23"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 1
+        },
+        {
+            "name": "Beatrice Mompremier",
+            "ratings": [{
+                "hgt": 59.2,
+                "stre": 50.4,
+                "spd": 43.25,
+                "jmp": 53.92,
+                "endu": 38.725,
+                "ins": 35.5,
+                "dnk": 20.0,
+                "ft": 16.5,
+                "fg": 31.05,
+                "tp": 20.0,
+                "oiq": 22.2,
+                "diq": 53.4,
+                "drb": 31.05,
+                "pss": 21.001,
+                "reb": 63.8
+            }],
+            "hgt": 76,
+            "wgt": 190,
+            "college": "Miami (FL)",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "1"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 2
+        },
+        {
+            "name": "Cheyenne Parker",
+            "ratings": [{
+                "hgt": 59.2,
+                "stre": 80.4,
+                "spd": 67.89,
+                "jmp": 86.74,
+                "endu": 79.05,
+                "ins": 61.5,
+                "dnk": 48.0,
+                "ft": 58.5,
+                "fg": 65.65,
+                "tp": 18.8,
+                "oiq": 66.6,
+                "diq": 74.6,
+                "drb": 75.6,
+                "pss": 71.001,
+                "reb": 87.42
+            }],
+            "hgt": 76,
+            "wgt": 193,
+            "college": "Middle Tennessee",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "32"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 3
+        },
+        {
+            "name": "Erica Wheeler",
+            "ratings": [{
+                "hgt": 25.9,
+                "stre": 74.4,
+                "spd": 82.235,
+                "jmp": 65.86,
+                "endu": 79.175,
+                "ins": 34.0,
+                "dnk": 36.0,
+                "ft": 49.2,
+                "fg": 57.0,
+                "tp": 29.72,
+                "oiq": 62.1,
+                "diq": 41.7,
+                "drb": 77.025,
+                "pss": 80,
+                "reb": 50.6
+            }],
+            "hgt": 67,
+            "wgt": 143,
+            "college": "Rutgers",
+            "born": {
+                "year": 1991,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "17"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 4
+        },
+        {
+            "name": "Kaila Charles",
+            "ratings": [{
+                "hgt": 48.1,
+                "stre": 20,
+                "spd": 49,
+                "jmp": 20,
+                "endu": 25,
+                "ins": 20,
+                "dnk": 20,
+                "ft": 20,
+                "fg": 20,
+                "tp": 20,
+                "oiq": 20,
+                "diq": 20,
+                "drb": 20,
+                "pss": 20,
+                "reb": 20
+            }],
+            "hgt": 73,
+            "wgt": 170,
+            "college": "Maryland",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "5"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 5
+        },
+        {
+            "name": "Kia Vaughn",
+            "ratings": [{
+                "hgt": 59.2,
+                "stre": 71.6,
+                "spd": 45.31,
+                "jmp": 53.52,
+                "endu": 51.05,
+                "ins": 33.5,
+                "dnk": 20.8,
+                "ft": 37.4,
+                "fg": 34.85,
+                "tp": 20.0,
+                "oiq": 27.9,
+                "diq": 49.2,
+                "drb": 47.45,
+                "pss": 41.001,
+                "reb": 69.64
+            }],
+            "hgt": 76,
+            "wgt": 205,
+            "college": "Rutgers",
+            "born": {
+                "year": 1987,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "7"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 6
+        },
+        {
+            "name": "Kristy Wallace",
+            "ratings": [{
+                "hgt": 40.7,
+                "stre": 52.8,
+                "spd": 73.16,
+                "jmp": 65.32,
+                "endu": 67.4,
+                "ins": 36.0,
+                "dnk": 24.4,
+                "ft": 58.6,
+                "fg": 37.6,
+                "tp": 40.76,
+                "oiq": 47.4,
+                "diq": 40.6,
+                "drb": 70.1,
+                "pss": 74.901,
+                "reb": 48.44
+            }],
+            "hgt": 71,
+            "wgt": 160,
+            "college": "Baylor",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "3"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 7
+        },
+        {
+            "name": "Maya Caldwell",
+            "ratings": [{
+                "hgt": 40.7,
+                "stre": 60.0,
+                "spd": 74.71,
+                "jmp": 67.5,
+                "endu": 73.7,
+                "ins": 43.5,
+                "dnk": 36.8,
+                "ft": 76.0,
+                "fg": 45.85,
+                "tp": 52.56,
+                "oiq": 66.9,
+                "diq": 43.0,
+                "drb": 72.5,
+                "pss": 74.901,
+                "reb": 52.48
+            }],
+            "hgt": 71,
+            "wgt": 160,
+            "college": "Georgia",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "33"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 8
+        },
+        {
+            "name": "Monique Billings",
+            "ratings": [{
+                "hgt": 59.2,
+                "stre": 86.8,
+                "spd": 60.39,
+                "jmp": 72.36,
+                "endu": 59.3,
+                "ins": 47.0,
+                "dnk": 36.8,
+                "ft": 52.5,
+                "fg": 47.0,
+                "tp": 20.0,
+                "oiq": 38.3,
+                "diq": 57.6,
+                "drb": 62.05,
+                "pss": 45.001,
+                "reb": 88.84
+            }],
+            "hgt": 76,
+            "wgt": 192,
+            "college": "UCLA",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "25"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 9
+        },
+        {
+            "name": "Naz Hillmon",
+            "ratings": [{
+                "hgt": 51.8,
+                "stre": 78.0,
+                "spd": 54.69,
+                "jmp": 65.92,
+                "endu": 64.7,
+                "ins": 38.0,
+                "dnk": 27.6,
+                "ft": 70.7,
+                "fg": 38.0,
+                "tp": 20.08,
+                "oiq": 33.6,
+                "diq": 53.4,
+                "drb": 56.1,
+                "pss": 39.001,
+                "reb": 76.62
+            }],
+            "hgt": 74,
+            "wgt": 190,
+            "college": "Michigan",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "00"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 10
+        },
+        {
+            "name": "Nia Coffey",
+            "ratings": [{
+                "hgt": 48.1,
+                "stre": 82.4,
+                "spd": 66.7,
+                "jmp": 62.6,
+                "endu": 67.25,
+                "ins": 42.0,
+                "dnk": 22.4,
+                "ft": 49.4,
+                "fg": 42.0,
+                "tp": 26.6,
+                "oiq": 41.2,
+                "diq": 51.8,
+                "drb": 47.75,
+                "pss": 29.668,
+                "reb": 77.64
+            }],
+            "hgt": 73,
+            "wgt": 182,
+            "college": "Northwestern",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "12"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 11
+        },
+        {
+            "name": "Rhyne Howard",
+            "ratings": [{
+                "hgt": 51.8,
+                "stre": 80,
+                "spd": 62.51,
+                "jmp": 91.1,
+                "endu": 90.45,
+                "ins": 58.5,
+                "dnk": 44,
+                "ft": 53.6,
+                "fg": 62.5,
+                "tp": 69.9,
+                "oiq": 74.0,
+                "diq": 59.0,
+                "drb": 67.2,
+                "pss": 69,
+                "reb": 73.86
+            }],
+            "hgt": 74,
+            "wgt": 175,
+            "college": "Kentucky",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "10"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 12
+        },
+        {
+            "name": "Tiffany Hayes",
+            "ratings": [{
+                "hgt": 37.0,
+                "stre": 96.0,
+                "spd": 85.975,
+                "jmp": 83.5,
+                "endu": 81.625,
+                "ins": 56.0,
+                "dnk": 60.8,
+                "ft": 45.5,
+                "fg": 59.6,
+                "tp": 44.72,
+                "oiq": 70.55,
+                "diq": 51.5,
+                "drb": 80.45,
+                "pss": 73.338,
+                "reb": 62.48
+            }],
+            "hgt": 70,
+            "wgt": 155,
+            "college": "Connecticut",
+            "born": {
+                "year": 1989,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 0,
+                "season": 2022,
+                "jerseyNumber": "15"
+            }],
+            "statsTids": [0],
+            "imgURL": "/img/blank-face.png",
+            "tid": 0,
+            "pid": 13
+        },
+        {
+            "name": "Allie Quigley",
+            "ratings": [{
+                "hgt": 37.0,
+                "stre": 76.0,
+                "spd": 65.975,
+                "jmp": 63.5,
+                "endu": 61.625,
+                "ins": 36.0,
+                "dnk": 50.8,
+                "ft": 65.5,
+                "fg": 49.6,
+                "tp": 64.72,
+                "oiq": 60.55,
+                "diq": 61.5,
+                "drb": 70.45,
+                "pss": 63.338,
+                "reb": 42.48
+            }],
+            "hgt": 70,
+            "wgt": 142,
+            "college": "DePaul",
+            "born": {
+                "year": 1986,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "14"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 14
+        },
+        {
+            "name": "Azura Stevens",
+            "ratings": [{
+                "hgt": 66.6,
+                "stre": 79.6,
+                "spd": 75.65,
+                "jmp": 76.6,
+                "endu": 49.525,
+                "ins": 43.0,
+                "dnk": 37.4,
+                "ft": 28.56,
+                "fg": 51.9,
+                "tp": 41.78,
+                "oiq": 42.6,
+                "diq": 63.3,
+                "drb": 27.3,
+                "pss": 26.6011,
+                "reb": 41.66
+            }],
+            "hgt": 78,
+            "wgt": 180,
+            "college": "Connecticut",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "30"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 14
+        },
+        {
+            "name": "Candace Parker",
+            "ratings": [{
+                "hgt": 59.2,
+                "stre": 90.4,
+                "spd": 72.05,
+                "jmp": 65,
+                "endu": 75.675,
+                "ins": 53.2,
+                "dnk": 62.8,
+                "ft": 64.48,
+                "fg": 56.3,
+                "tp": 39.58,
+                "oiq": 74.7,
+                "diq": 95.7,
+                "drb": 70.25,
+                "pss": 72.335,
+                "reb": 72.54
+            }],
+            "hgt": 76,
+            "wgt": 175,
+            "college": "Tennessee",
+            "born": {
+                "year": 1986,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "3"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 15
+        },
+        {
+            "name": "Courtney Vandersloot",
+            "ratings": [{
+                "hgt": 29.6,
+                "stre": 46.4,
+                "spd": 80.25,
+                "jmp": 56.2,
+                "endu": 59.625,
+                "ins": 26.0,
+                "dnk": 32.8,
+                "ft": 60.45,
+                "fg": 38.2,
+                "tp": 33.42,
+                "oiq": 88.5,
+                "diq": 62.1,
+                "drb": 95.25,
+                "pss": 90,
+                "reb": 37.94
+            }],
+            "hgt": 68,
+            "wgt": 137,
+            "college": "Gonzaga",
+            "born": {
+                "year": 1989,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "22"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 16
+        },
+        {
+            "name": "Dana Evans",
+            "ratings": [{
+                "hgt": 25.9,
+                "stre": 30.8,
+                "spd": 56.05,
+                "jmp": 36.4,
+                "endu": 25.875,
+                "ins": 18.5,
+                "dnk": 16.8,
+                "ft": 34.4,
+                "fg": 22.0,
+                "tp": 27.92,
+                "oiq": 29.9,
+                "diq": 33.5,
+                "drb": 21.7,
+                "pss": 28.2671,
+                "reb": 15.62
+            }],
+            "hgt": 66,
+            "wgt": 145,
+            "college": "Louisville",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "11"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 17
+        },
+        {
+            "name": "Emma Meesseman",
+            "ratings": [{
+                "hgt": 59.2,
+                "stre": 62.0,
+                "spd": 64.25,
+                "jmp": 96.8,
+                "endu": 64.35,
+                "ins": 61.0,
+                "dnk": 42.0,
+                "ft": 70.34,
+                "fg": 66.2,
+                "tp": 30.68,
+                "oiq": 68.4,
+                "diq": 87.4,
+                "drb": 92.7,
+                "pss": 69.2671,
+                "reb": 60.1
+            }],
+            "hgt": 76,
+            "wgt": 191,
+            "college": "",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "33"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 18
+        },
+        {
+            "name": "Julie Allemand",
+            "ratings": [{
+                "hgt": 29.6,
+                "stre": 27.2,
+                "spd": 60.75,
+                "jmp": 37.4,
+                "endu": 36.225,
+                "ins": 16.0,
+                "dnk": 10.4,
+                "ft": 23.94,
+                "fg": 23.2,
+                "tp": 23.32,
+                "oiq": 40.2,
+                "diq": 37.7,
+                "drb": 51.5,
+                "pss": 83.0671,
+                "reb": 22.78
+            }],
+            "hgt": 68,
+            "wgt": 147,
+            "college": "",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "20"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 19
+        },
+        {
+            "name": "Kahleah Copper",
+            "ratings": [{
+                "hgt": 48.1,
+                "stre": 93.2,
+                "spd": 82.65,
+                "jmp": 63.7,
+                "endu": 64.975,
+                "ins": 62.5,
+                "dnk": 68.8,
+                "ft": 64.25,
+                "fg": 66.75,
+                "tp": 51.97,
+                "oiq": 62.1,
+                "diq": 49.1,
+                "drb": 75.65,
+                "pss": 50.4681,
+                "reb": 61.22
+            }],
+            "hgt": 73,
+            "wgt": 165,
+            "college": "Rutgers",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "2"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 20
+        },
+        {
+            "name": "Li Yueru",
+            "ratings": [{
+                "hgt": 70.3,
+                "stre": 45.6,
+                "spd": 14.45,
+                "jmp": 41.4,
+                "endu": 11.675,
+                "ins": 15.5,
+                "dnk": 10.0,
+                "ft": 40,
+                "fg": 10.5,
+                "tp": 10,
+                "oiq": 38.3,
+                "diq": 29.9,
+                "drb": 25.5,
+                "pss": 6.5009,
+                "reb": 17.54
+            }],
+            "hgt": 79,
+            "wgt": 181,
+            "college": "",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "0"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 21
+        },
+        {
+            "name": "Rebekah Gardner",
+            "ratings": [{
+                "hgt": 48.1,
+                "stre": 54.0,
+                "spd": 77.05,
+                "jmp": 56.0,
+                "endu": 49.425,
+                "ins": 34.5,
+                "dnk": 31.6,
+                "ft": 36.0,
+                "fg": 43.95,
+                "tp": 25.94,
+                "oiq": 37.9,
+                "diq": 52.6,
+                "drb": 42.5,
+                "pss": 43.2671,
+                "reb": 37.86
+            }],
+            "hgt": 73,
+            "wgt": 155,
+            "college": "UCLA",
+            "born": {
+                "year": 1990,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "35"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 22
+        },
+        {
+            "name": "Ruthy Hebard",
+            "ratings": [{
+                "hgt": 59.2,
+                "stre": 58.8,
+                "spd": 28.65,
+                "jmp": 55.6,
+                "endu": 21.975,
+                "ins": 25.0,
+                "dnk": 20.0,
+                "ft": 13.5,
+                "fg": 30.0,
+                "tp": 10,
+                "oiq": 15.7,
+                "diq": 24.7,
+                "drb": 19.25,
+                "pss": 15.1011,
+                "reb": 27.78
+            }],
+            "hgt": 76,
+            "wgt": 190,
+            "college": "Oregon",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 1,
+                "season": 2022,
+                "jerseyNumber": "24"
+            }],
+            "statsTids": [1],
+            "imgURL": "/img/blank-face.png",
+            "tid": 1,
+            "pid": 23
+        },
+        {
+            "name": "Alyssa Thomas",
+            "ratings": [{
+                "hgt": 44.2,
+                "stre": 66.1,
+                "spd": 37.7,
+                "jmp": 38.0,
+                "endu": 32.1,
+                "ins": 50.6,
+                "dnk": 42.0,
+                "ft": 21.9,
+                "fg": 25.3,
+                "tp": 10,
+                "oiq": 34.1,
+                "diq": 28.3,
+                "drb": 25.3,
+                "pss": 37.3031,
+                "reb": 37.8
+            }],
+            "hgt": 74,
+            "wgt": 190,
+            "college": "Maryland",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "25"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 24
+        },
+        {
+            "name": "Bria Hartley",
+            "ratings": [{
+                "hgt": 28.4,
+                "stre": 31.2,
+                "spd": 48.2,
+                "jmp": 29.6,
+                "endu": 12.0,
+                "ins": 6.6,
+                "dnk": 6.6,
+                "ft": 10,
+                "fg": 6.6,
+                "tp": 40.0,
+                "oiq": 19.7,
+                "diq": 28.3,
+                "drb": 6.6,
+                "pss": 8.9,
+                "reb": 8.1
+            }],
+            "hgt": 69,
+            "wgt": 148,
+            "college": "Connecticut",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "14"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 25
+        },
+        {
+            "name": "Brionna Jones",
+            "ratings": [{
+                "hgt": 50.7,
+                "stre": 60.5,
+                "spd": 25.2,
+                "jmp": 30.4,
+                "endu": 25.1,
+                "ins": 51.8,
+                "dnk": 41.6,
+                "ft": 33.8,
+                "fg": 29.0,
+                "tp": 10,
+                "oiq": 29.5,
+                "diq": 25.3,
+                "drb": 26.0,
+                "pss": 29.0,
+                "reb": 20.1
+            }],
+            "hgt": 75,
+            "wgt": 210,
+            "college": "Maryland",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "42"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 26
+        },
+        {
+            "name": "Courtney Williams",
+            "ratings": [{
+                "hgt": 25.9,
+                "stre": 54.5,
+                "spd": 54.9,
+                "jmp": 59.6,
+                "endu": 67.9,
+                "ins": 41.0,
+                "dnk": 53.6,
+                "ft": 42.0,
+                "fg": 52.2,
+                "tp": 27.04,
+                "oiq": 58.1,
+                "diq": 48.7,
+                "drb": 52.7,
+                "pss": 52.3,
+                "reb": 39.6
+            }],
+            "hgt": 68,
+            "wgt": 133,
+            "college": "South Florida",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "10"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 27
+        },
+        {
+            "name": "DeWanna Bonner",
+            "ratings": [{
+                "hgt": 54.2,
+                "stre": 35.5,
+                "spd": 48.6,
+                "jmp": 57.2,
+                "endu": 30.0,
+                "ins": 33.0,
+                "dnk": 26.4,
+                "ft": 33.0,
+                "fg": 26.0,
+                "tp": 26.32,
+                "oiq": 29.7,
+                "diq": 29.3,
+                "drb": 23.0,
+                "pss": 19.6,
+                "reb": 19.8
+            }],
+            "hgt": 76,
+            "wgt": 142,
+            "college": "Auburn",
+            "born": {
+                "year": 1987,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "24"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 28
+        },
+        {
+            "name": "DiJonai Carrington",
+            "ratings": [{
+                "hgt": 37.1,
+                "stre": 41.7,
+                "spd": 45.1,
+                "jmp": 54.8,
+                "endu": 17.5,
+                "ins": 18.2,
+                "dnk": 23.0,
+                "ft": 15.0,
+                "fg": 18.5,
+                "tp": 24.48,
+                "oiq": 21.7,
+                "diq": 22.3,
+                "drb": 33.7,
+                "pss": 27.7,
+                "reb": 16.1
+            }],
+            "hgt": 72,
+            "wgt": 175,
+            "college": "Baylor",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 29
+        },
+        {
+            "name": "Jasmine Thomas",
+            "ratings": [{
+                "hgt": 28.4,
+                "stre": 34.1,
+                "spd": 50.4,
+                "jmp": 30.4,
+                "endu": 31.8,
+                "ins": 22.0,
+                "dnk": 22.0,
+                "ft": 36.8,
+                "fg": 28.8,
+                "tp": 30.8,
+                "oiq": 22.9,
+                "diq": 28.3,
+                "drb": 35.7,
+                "pss": 40.5,
+                "reb": 31.8
+            }],
+            "hgt": 69,
+            "wgt": 143,
+            "college": "Duke",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "5"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 30
+        },
+        {
+            "name": "Jonquel Jones",
+            "ratings": [{
+                "hgt": 63.3,
+                "stre": 78.5,
+                "spd": 59.1,
+                "jmp": 51.6,
+                "endu": 66.4,
+                "ins": 60.8,
+                "dnk": 42.8,
+                "ft": 52.1,
+                "fg": 55.5,
+                "tp": 49.52,
+                "oiq": 67.9,
+                "diq": 39.1,
+                "drb": 50.0,
+                "pss": 42.7,
+                "reb": 55.6
+            }],
+            "hgt": 78,
+            "wgt": 202,
+            "college": "Clemson",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "35"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 31
+        },
+        {
+            "name": "Joyner Holmes",
+            "ratings": [{
+                "hgt": 50.7,
+                "stre": 53.0,
+                "spd": 25.2,
+                "jmp": 30.4,
+                "endu": 27.9,
+                "ins": 37.8,
+                "dnk": 10.7,
+                "ft": 15.4,
+                "fg": 10.7,
+                "tp": 18.16,
+                "oiq": 27.9,
+                "diq": 22.3,
+                "drb": 36.2,
+                "pss": 33.5,
+                "reb": 37.7
+            }],
+            "hgt": 75,
+            "wgt": 200,
+            "college": "Texas",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "8"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 32
+        },
+        {
+            "name": "Natisha Hiedeman",
+            "ratings": [{
+                "hgt": 25.9,
+                "stre": 30.6,
+                "spd": 47.7,
+                "jmp": 35.6,
+                "endu": 25.0,
+                "ins": 34.7,
+                "dnk": 31.8,
+                "ft": 36.0,
+                "fg": 34.5,
+                "tp": 32.88,
+                "oiq": 34.1,
+                "diq": 39.7,
+                "drb": 33.7,
+                "pss": 32.7,
+                "reb": 38.8
+            }],
+            "hgt": 68,
+            "wgt": 135,
+            "college": "Marquette",
+            "born": {
+                "year": 1997,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "2"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 33
+        },
+        {
+            "name": "Nia Clouden",
+            "ratings": [{
+                "hgt": 25.9,
+                "stre": 24.5,
+                "spd": 53.3,
+                "jmp": 29.6,
+                "endu": 38.9,
+                "ins": 35.0,
+                "dnk": 35.0,
+                "ft": 11.8,
+                "fg": 35.0,
+                "tp": 33.12,
+                "oiq": 35.5,
+                "diq": 28.3,
+                "drb": 34.1,
+                "pss": 35.5,
+                "reb": 34.6
+            }],
+            "hgt": 68,
+            "wgt": 145,
+            "college": "Michigan State",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "11"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 34
+        },
+        {
+            "name": "Odyssey Sims",
+            "ratings": [{
+                "hgt": 25.9,
+                "stre": 64.5,
+                "spd": 74.9,
+                "jmp": 59.6,
+                "endu": 68.2,
+                "ins": 42.6,
+                "dnk": 48.4,
+                "ft": 54.0,
+                "fg": 51.0,
+                "tp": 41.84,
+                "oiq": 54.2,
+                "diq": 39.3,
+                "drb": 61.7,
+                "pss": 57.9,
+                "reb": 45.8
+            }],
+            "hgt": 68,
+            "wgt": 155,
+            "college": "Baylor",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 2,
+                "season": 2022,
+                "jerseyNumber": "1"
+            }],
+            "statsTids": [2],
+            "imgURL": "/img/blank-face.png",
+            "tid": 2,
+            "pid": 35
+        },
+        {
+            "name": "Danielle Robinson",
+            "ratings": [{
+                "hgt": 28,
+                "stre": 31,
+                "spd": 47,
+                "jmp": 33,
+                "endu": 33,
+                "ins": 25,
+                "dnk": 30,
+                "ft": 34,
+                "fg": 25,
+                "tp": 28,
+                "oiq": 52,
+                "diq": 28,
+                "drb": 39,
+                "pss": 35,
+                "reb": 30
+            }],
+            "hgt": 69,
+            "wgt": 137,
+            "college": "Oklahoma",
+            "born": {
+                "year": 1989,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "3"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 36
+        },
+        {
+            "name": "Destanni Henderson",
+            "ratings": [{
+                "hgt": 24,
+                "stre": 34,
+                "spd": 49,
+                "jmp": 56,
+                "endu": 46,
+                "ins": 37,
+                "dnk": 40,
+                "ft": 32,
+                "fg": 30,
+                "tp": 29,
+                "oiq": 49,
+                "diq": 49,
+                "drb": 32,
+                "pss": 30,
+                "reb": 36
+            }],
+            "hgt": 67,
+            "wgt": 140,
+            "college": "South Carolina",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "33"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 37
+        },
+        {
+            "name": "Emily Engstler",
+            "ratings": [{
+                "hgt": 37,
+                "stre": 41,
+                "spd": 68,
+                "jmp": 58,
+                "endu": 38,
+                "ins": 39,
+                "dnk": 32,
+                "ft": 41,
+                "fg": 42,
+                "tp": 48,
+                "oiq": 28,
+                "diq": 22,
+                "drb": 44,
+                "pss": 37,
+                "reb": 39
+            }],
+            "hgt": 73,
+            "wgt": 180,
+            "college": "Louisville",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 38
+        },
+        {
+            "name": "Emma Cannon",
+            "ratings": [{
+                "hgt": 41,
+                "stre": 53,
+                "spd": 34,
+                "jmp": 34,
+                "endu": 34,
+                "ins": 35,
+                "dnk": 34,
+                "ft": 46,
+                "fg": 44,
+                "tp": 62,
+                "oiq": 36,
+                "diq": 36,
+                "drb": 38,
+                "pss": 32,
+                "reb": 12
+            }],
+            "hgt": 74,
+            "wgt": 200,
+            "college": "Florida Southern",
+            "born": {
+                "year": 1989,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "32"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 39
+        },
+        {
+            "name": "Kelsey Mitchell",
+            "ratings": [{
+                "hgt": 25,
+                "stre": 34,
+                "spd": 53,
+                "jmp": 59,
+                "endu": 52,
+                "ins": 28,
+                "dnk": 46,
+                "ft": 68,
+                "fg": 42,
+                "tp": 52,
+                "oiq": 47,
+                "diq": 49,
+                "drb": 42,
+                "pss": 46,
+                "reb": 36
+            }],
+            "hgt": 68,
+            "wgt": 160,
+            "college": "Ohio State",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "0"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 40
+        },
+        {
+            "name": "Khayla Pointer",
+            "ratings": [{
+                "hgt": 24,
+                "stre": 24,
+                "spd": 47,
+                "jmp": 45,
+                "endu": 25,
+                "ins": 23,
+                "dnk": 34,
+                "ft": 30,
+                "fg": 24,
+                "tp": 20,
+                "oiq": 27,
+                "diq": 27,
+                "drb": 22,
+                "pss": 21,
+                "reb": 23
+            }],
+            "hgt": 67,
+            "wgt": 146,
+            "college": "LSU",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "13"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 41
+        },
+        {
+            "name": "Lexie Hull",
+            "ratings": [{
+                "hgt": 37,
+                "stre": 41,
+                "spd": 42,
+                "jmp": 52,
+                "endu": 42,
+                "ins": 34,
+                "dnk": 36,
+                "ft": 37,
+                "fg": 36,
+                "tp": 34,
+                "oiq": 44,
+                "diq": 44,
+                "drb": 36,
+                "pss": 33,
+                "reb": 35
+            }],
+            "hgt": 73,
+            "wgt": 155,
+            "college": "Stanford",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "10"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 42
+        },
+        {
+            "name": "NaLyssa Smith",
+            "ratings": [{
+                "hgt": 50,
+                "stre": 53,
+                "spd": 60,
+                "jmp": 50,
+                "endu": 30,
+                "ins": 22,
+                "dnk": 30,
+                "ft": 37,
+                "fg": 30,
+                "tp": 28,
+                "oiq": 24,
+                "diq": 46,
+                "drb": 31,
+                "pss": 37,
+                "reb": 27
+            }],
+            "hgt": 76,
+            "wgt": 185,
+            "college": "Baylor",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "1"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 43
+        },
+        {
+            "name": "Queen Egbo",
+            "ratings": [{
+                "hgt": 50.7,
+                "stre": 53.0,
+                "spd": 21.8,
+                "jmp": 21.8,
+                "endu": 21.8,
+                "ins": 20.6,
+                "dnk": 13.0,
+                "ft": 29.0,
+                "fg": 13.0,
+                "tp": 30,
+                "oiq": 17.9,
+                "diq": 22.3,
+                "drb": 39.6,
+                "pss": 34.5,
+                "reb": 23.0
+            }],
+            "hgt": 76,
+            "wgt": 190,
+            "college": "Baylor",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "4"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 44
+        },
+        {
+            "name": "Rennia Davis",
+            "ratings": [{
+                "hgt": 37.1,
+                "stre": 20.0,
+                "spd": 55.7,
+                "jmp": 55.7,
+                "endu": 35.7,
+                "ins": 32.4,
+                "dnk": 43.2,
+                "ft": 10,
+                "fg": 43.2,
+                "tp": 20,
+                "oiq": 35.6,
+                "diq": 35.6,
+                "drb": 41.6,
+                "pss": 30.5,
+                "reb": 32.8
+            }],
+            "hgt": 73,
+            "wgt": 170,
+            "college": "Tennessee",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "9"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 45
+        },
+        {
+            "name": "Tiffany Mitchell",
+            "ratings": [{
+                "hgt": 28.4,
+                "stre": 31.2,
+                "spd": 49.2,
+                "jmp": 16.3,
+                "endu": 46.3,
+                "ins": 42.6,
+                "dnk": 46.8,
+                "ft": 53.4,
+                "fg": 56.8,
+                "tp": 60.96,
+                "oiq": 41.3,
+                "diq": 34.3,
+                "drb": 41.7,
+                "pss": 36.0,
+                "reb": 24.8
+            }],
+            "hgt": 69,
+            "wgt": 152,
+            "college": "South Carolina",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "25 "
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 46
+        },
+        {
+            "name": "Victoria Vivians",
+            "ratings": [{
+                "hgt": 37.1,
+                "stre": 41.7,
+                "spd": 26.9,
+                "jmp": 26.9,
+                "endu": 26.9,
+                "ins": 13.8,
+                "dnk": 18.4,
+                "ft": 24.0,
+                "fg": 18.6,
+                "tp": 22.4,
+                "oiq": 19.7,
+                "diq": 28.3,
+                "drb": 14.1,
+                "pss": 29.6,
+                "reb": 11.6
+            }],
+            "hgt": 73,
+            "wgt": 183,
+            "college": "Mississippi State",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 3,
+                "season": 2022,
+                "jerseyNumber": "35"
+            }],
+            "statsTids": [3],
+            "imgURL": "/img/blank-face.png",
+            "tid": 3,
+            "pid": 47
+        },
+        {
+            "name": "Betnijah Laney",
+            "ratings": [{
+                "hgt": 36.4,
+                "stre": 50.0,
+                "spd": 68.3,
+                "jmp": 58.3,
+                "endu": 58.3,
+                "ins": 41.6,
+                "dnk": 58.4,
+                "ft": 87.5,
+                "fg": 71.1,
+                "tp": 57.9,
+                "oiq": 62.6,
+                "diq": 31.4,
+                "drb": 51.2,
+                "pss": 41.2,
+                "reb": 59.6
+            }],
+            "hgt": 72,
+            "wgt": 166,
+            "college": "Rutgers",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "44"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 48
+        },
+        {
+            "name": "Crystal Dangerfield",
+            "ratings": [{
+                "hgt": 33.0,
+                "stre": 60.0,
+                "spd": 72.1,
+                "jmp": 52.1,
+                "endu": 52.1,
+                "ins": 54.4,
+                "dnk": 43.2,
+                "ft": 70.0,
+                "fg": 58.6,
+                "tp": 62.3,
+                "oiq": 59.9,
+                "diq": 46.7,
+                "drb": 40.0,
+                "pss": 40.0,
+                "reb": 36.6
+            }],
+            "hgt": 65,
+            "wgt": 130,
+            "college": "Connecticut",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "3"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 49
+        },
+        {
+            "name": "DiDi Richards",
+            "ratings": [{
+                "hgt": 37.4,
+                "stre": 20.0,
+                "spd": 61.1,
+                "jmp": 51.1,
+                "endu": 31.1,
+                "ins": 23.2,
+                "dnk": 22.4,
+                "ft": 70.0,
+                "fg": 29.7,
+                "tp": 27.3,
+                "oiq": 36.9,
+                "diq": 29.6,
+                "drb": 35.6,
+                "pss": 35.6,
+                "reb": 35.6
+            }],
+            "hgt": 74,
+            "wgt": 164,
+            "college": "Baylor",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "2"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 50
+        },
+        {
+            "name": "Han Xu",
+            "ratings": [{
+                "hgt": 41.0,
+                "stre": 60.0,
+                "spd": 36.8,
+                "jmp": 56.8,
+                "endu": 36.8,
+                "ins": 44.6,
+                "dnk": 38.7,
+                "ft": 79.6,
+                "fg": 50.1,
+                "tp": 64.4,
+                "oiq": 42.6,
+                "diq": 24.1,
+                "drb": 43.6,
+                "pss": 33.6,
+                "reb": 50.2
+            }],
+            "hgt": 81,
+            "wgt": 1999,
+            "college": "",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 51
+        },
+        {
+            "name": "Jocelyn Willoughby",
+            "ratings": [{
+                "hgt": 36.4,
+                "stre": 40.0,
+                "spd": 41.0,
+                "jmp": 31.0,
+                "endu": 41.0,
+                "ins": 42.8,
+                "dnk": 42.1,
+                "ft": 50.0,
+                "fg": 40.3,
+                "tp": 27.3,
+                "oiq": 38.0,
+                "diq": 27.1,
+                "drb": 31.6,
+                "pss": 31.6,
+                "reb": 35.0
+            }],
+            "hgt": 72,
+            "wgt": 180,
+            "college": "Virginia",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "13"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 52
+        },
+        {
+            "name": "Marine Johannes",
+            "ratings": [{
+                "hgt": 35.5,
+                "stre": 20.0,
+                "spd": 45.5,
+                "jmp": 45.5,
+                "endu": 55.5,
+                "ins": 36.4,
+                "dnk": 34.8,
+                "ft": 87.0,
+                "fg": 48.3,
+                "tp": 43.7,
+                "oiq": 33.8,
+                "diq": 37.1,
+                "drb": 33.6,
+                "pss": 33.6,
+                "reb": 35.2
+            }],
+            "hgt": 70,
+            "wgt": 134,
+            "college": "",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "23"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 53
+        },
+        {
+            "name": "Michaela Onyenwere",
+            "ratings": [{
+                "hgt": 36.4,
+                "stre": 20.0,
+                "spd": 13.7,
+                "jmp": 13.7,
+                "endu": 13.7,
+                "ins": 34.2,
+                "dnk": 33.2,
+                "ft": 83.6,
+                "fg": 36.3,
+                "tp": 30.0,
+                "oiq": 28.4,
+                "diq": 16.7,
+                "drb": 31.6,
+                "pss": 31.6,
+                "reb": 36.0
+            }],
+            "hgt": 72,
+            "wgt": 178,
+            "college": "UCLA",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "12"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 54
+        },
+        {
+            "name": "Natasha Howard",
+            "ratings": [{
+                "hgt": 37.4,
+                "stre": 55.0,
+                "spd": 59.9,
+                "jmp": 59.9,
+                "endu": 59.9,
+                "ins": 19.0,
+                "dnk": 14.0,
+                "ft": 71.5,
+                "fg": 52.6,
+                "tp": 42.6,
+                "oiq": 60.6,
+                "diq": 30.1,
+                "drb": 52.9,
+                "pss": 41.6,
+                "reb": 41.1
+            }],
+            "hgt": 74,
+            "wgt": 165,
+            "college": "Florida State",
+            "born": {
+                "year": 1991,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "6"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 55
+        },
+        {
+            "name": "Rebecca Allen",
+            "ratings": [{
+                "hgt": 37.4,
+                "stre": 30.0,
+                "spd": 30.9,
+                "jmp": 30.9,
+                "endu": 20.9,
+                "ins": 36.0,
+                "dnk": 34.5,
+                "ft": 83.3,
+                "fg": 37.8,
+                "tp": 31.3,
+                "oiq": 30.3,
+                "diq": 20.4,
+                "drb": 34.8,
+                "pss": 34.8,
+                "reb": 40.8
+            }],
+            "hgt": 74,
+            "wgt": 162,
+            "college": "",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "9"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 56
+        },
+        {
+            "name": "Sabrina Ionescu",
+            "ratings": [{
+                "hgt": 36.0,
+                "stre": 70.0,
+                "spd": 72.3,
+                "jmp": 62.3,
+                "endu": 72.3,
+                "ins": 54.5,
+                "dnk": 51.0,
+                "ft": 83.1,
+                "fg": 60.9,
+                "tp": 63.3,
+                "oiq": 58.4,
+                "diq": 48.4,
+                "drb": 75.4,
+                "pss": 75.4,
+                "reb": 51.6
+            }],
+            "hgt": 71,
+            "wgt": 165,
+            "college": "Oregon",
+            "born": {
+                "year": 1997,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "20"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 57
+        },
+        {
+            "name": "Sami Whitcomb",
+            "ratings": [{
+                "hgt": 35.5,
+                "stre": 50.0,
+                "spd": 41.3,
+                "jmp": 41.3,
+                "endu": 41.3,
+                "ins": 42.2,
+                "dnk": 31.8,
+                "ft": 87.0,
+                "fg": 39.6,
+                "tp": 35.1,
+                "oiq": 32.0,
+                "diq": 47.0,
+                "drb": 39.2,
+                "pss": 49.2,
+                "reb": 47.2
+            }],
+            "hgt": 70,
+            "wgt": 145,
+            "college": "Washington",
+            "born": {
+                "year": 1988,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "32"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 58
+        },
+        {
+            "name": "Stefanie Dolson",
+            "ratings": [{
+                "hgt": 39.0,
+                "stre": 30.0,
+                "spd": 52.9,
+                "jmp": 42.9,
+                "endu": 52.9,
+                "ins": 44.8,
+                "dnk": 39.2,
+                "ft": 90.5,
+                "fg": 46.4,
+                "tp": 39.4,
+                "oiq": 30.2,
+                "diq": 24.5,
+                "drb": 49.0,
+                "pss": 49.0,
+                "reb": 34.4
+            }],
+            "hgt": 77,
+            "wgt": 231,
+            "college": "Connecticut",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 4,
+                "season": 2022,
+                "jerseyNumber": "31"
+            }],
+            "statsTids": [4],
+            "imgURL": "/img/blank-face.png",
+            "tid": 4,
+            "pid": 59
+        },
+        {
+            "name": "Alysha Clark",
+            "ratings": [{
+                "hgt": 35.9,
+                "stre": 60.0,
+                "spd": 76.4,
+                "jmp": 56.4,
+                "endu": 66.4,
+                "ins": 26.3,
+                "dnk": 23.3,
+                "ft": 91.3,
+                "fg": 46.6,
+                "tp": 30.3,
+                "oiq": 31.0,
+                "diq": 50.9,
+                "drb": 32.0,
+                "pss": 42.0,
+                "reb": 42.0
+            }],
+            "hgt": 71,
+            "wgt": 167,
+            "college": "Middle Tennessee",
+            "born": {
+                "year": 1987,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "22"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 60
+        },
+        {
+            "name": "Ariel Atkins",
+            "ratings": [{
+                "hgt": 34.4,
+                "stre": 40.0,
+                "spd": 50.0,
+                "jmp": 50.0,
+                "endu": 50.0,
+                "ins": 56.4,
+                "dnk": 54.6,
+                "ft": 84.5,
+                "fg": 41.3,
+                "tp": 36.5,
+                "oiq": 43.1,
+                "diq": 32.9,
+                "drb": 42.3,
+                "pss": 42.3,
+                "reb": 57.4
+            }],
+            "hgt": 68,
+            "wgt": 167,
+            "college": "Texas",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "7"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 61
+        },
+        {
+            "name": "Elena Delle Donne",
+            "ratings": [{
+                "hgt": 39.0,
+                "stre": 70.0,
+                "spd": 67.8,
+                "jmp": 67.8,
+                "endu": 77.8,
+                "ins": 64.6,
+                "dnk": 79.1,
+                "ft": 91.3,
+                "fg": 54.7,
+                "tp": 36.8,
+                "oiq": 69.6,
+                "diq": 34.8,
+                "drb": 42.3,
+                "pss": 42.3,
+                "reb": 58.6
+            }],
+            "hgt": 77,
+            "wgt": 187,
+            "college": "Delaware",
+            "born": {
+                "year": 1989,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "11"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 62
+        },
+        {
+            "name": "Elizabeth Williams",
+            "ratings": [{
+                "hgt": 38.0,
+                "stre": 30.0,
+                "spd": 54.9,
+                "jmp": 44.9,
+                "endu": 54.9,
+                "ins": 39.4,
+                "dnk": 34.7,
+                "ft": 58.1,
+                "fg": 24.1,
+                "tp": 10.0,
+                "oiq": 45.3,
+                "diq": 37.5,
+                "drb": 40.5,
+                "pss": 40.5,
+                "reb": 31.6
+            }],
+            "hgt": 75,
+            "wgt": 200,
+            "college": "Duke",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "1"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 63
+        },
+        {
+            "name": "Evina Westbrook",
+            "ratings": [{
+                "hgt": 36.5,
+                "stre": 20.0,
+                "spd": 25.3,
+                "jmp": 55.3,
+                "endu": 45.3,
+                "ins": 26.5,
+                "dnk": 27.5,
+                "ft": 83.3,
+                "fg": 50.0,
+                "tp": 50.0,
+                "oiq": 20.0,
+                "diq": 15.0,
+                "drb": 40.5,
+                "pss": 40.5,
+                "reb": 32.0
+            }],
+            "hgt": 72,
+            "wgt": 156,
+            "college": "Connecticut",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "4"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 64
+        },
+        {
+            "name": "Jazmine Jones",
+            "ratings": [{
+                "hgt": 36.5,
+                "stre": 20.0,
+                "spd": 33.0,
+                "jmp": 43.0,
+                "endu": 23.0,
+                "ins": 20.0,
+                "dnk": 20.0,
+                "ft": 20.0,
+                "fg": 20.0,
+                "tp": 20.0,
+                "oiq": 15.0,
+                "diq": 15.0,
+                "drb": 20.0,
+                "pss": 20.0,
+                "reb": 22.0
+            }],
+            "hgt": 72,
+            "wgt": 160,
+            "college": "Louisville",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "23"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 65
+        },
+        {
+            "name": "Myisha Hines-Allen",
+            "ratings": [{
+                "hgt": 37.0,
+                "stre": 20.0,
+                "spd": 19.3,
+                "jmp": 19.3,
+                "endu": 19.3,
+                "ins": 28.3,
+                "dnk": 25.8,
+                "ft": 70.3,
+                "fg": 40.0,
+                "tp": 36.7,
+                "oiq": 30.3,
+                "diq": 18.9,
+                "drb": 31.9,
+                "pss": 31.9,
+                "reb": 15.6
+            }],
+            "hgt": 73,
+            "wgt": 200,
+            "college": "Louisville",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "2"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 66
+        },
+        {
+            "name": "Natasha Cloud",
+            "ratings": [{
+                "hgt": 34.9,
+                "stre": 60.0,
+                "spd": 61.3,
+                "jmp": 41.3,
+                "endu": 31.3,
+                "ins": 47.2,
+                "dnk": 44.8,
+                "ft": 82.4,
+                "fg": 40.0,
+                "tp": 31.9,
+                "oiq": 34.3,
+                "diq": 22.3,
+                "drb": 57.0,
+                "pss": 47.0,
+                "reb": 49.2
+            }],
+            "hgt": 69,
+            "wgt": 160,
+            "college": "Saint Joseph's",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "9"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 67
+        },
+        {
+            "name": "Rui Machida",
+            "ratings": [{
+                "hgt": 32.3,
+                "stre": 50.0,
+                "spd": 82.9,
+                "jmp": 52.9,
+                "endu": 52.9,
+                "ins": 21.9,
+                "dnk": 31.4,
+                "ft": 66.7,
+                "fg": 29.3,
+                "tp": 50.6,
+                "oiq": 67.6,
+                "diq": 17.1,
+                "drb": 62.6,
+                "pss": 62.6,
+                "reb": 32.6
+            }],
+            "hgt": 64,
+            "wgt": 126,
+            "college": "",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "13"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 68
+        },
+        {
+            "name": "Shakira Austin",
+            "ratings": [{
+                "hgt": 39.0,
+                "stre": 30.0,
+                "spd": 31.6,
+                "jmp": 31.6,
+                "endu": 31.6,
+                "ins": 42.2,
+                "dnk": 36.2,
+                "ft": 62.4,
+                "fg": 27.5,
+                "tp": 10.0,
+                "oiq": 39.5,
+                "diq": 30.4,
+                "drb": 30.9,
+                "pss": 30.9,
+                "reb": 17.2
+            }],
+            "hgt": 77,
+            "wgt": 190,
+            "college": "Maryland",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "0"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 69
+        },
+        {
+            "name": "Shatori Walker-Kimbrough",
+            "ratings": [{
+                "hgt": 34.9,
+                "stre": 40.0,
+                "spd": 40.1,
+                "jmp": 40.1,
+                "endu": 40.1,
+                "ins": 45.0,
+                "dnk": 43.5,
+                "ft": 90.2,
+                "fg": 39.1,
+                "tp": 34.7,
+                "oiq": 49.7,
+                "diq": 20.3,
+                "drb": 31.5,
+                "pss": 31.5,
+                "reb": 34.4
+            }],
+            "hgt": 69,
+            "wgt": 140,
+            "college": "Maryland",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "32"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 70
+        },
+        {
+            "name": "Tianna Hawkins",
+            "ratings": [{
+                "hgt": 38.0,
+                "stre": 50.0,
+                "spd": 42.8,
+                "jmp": 42.8,
+                "endu": 32.8,
+                "ins": 45.6,
+                "dnk": 42.4,
+                "ft": 95.2,
+                "fg": 37.8,
+                "tp": 26.4,
+                "oiq": 25.0,
+                "diq": 16.3,
+                "drb": 30.8,
+                "pss": 30.8,
+                "reb": 26.0
+            }],
+            "hgt": 75,
+            "wgt": 186,
+            "college": "Maryland",
+            "born": {
+                "year": 1991,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 5,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [5],
+            "imgURL": "/img/blank-face.png",
+            "tid": 5,
+            "pid": 71
+        },
+        {
+            "name": "Allisha Gray",
+            "ratings": [{
+                "hgt": 36.5,
+                "stre": 60.0,
+                "spd": 72.9,
+                "jmp": 62.9,
+                "endu": 62.9,
+                "ins": 41.4,
+                "dnk": 55.7,
+                "ft": 79.8,
+                "fg": 43.6,
+                "tp": 40.8,
+                "oiq": 47.9,
+                "diq": 58.6,
+                "drb": 52.5,
+                "pss": 42.5,
+                "reb": 40.0
+            }],
+            "hgt": 72,
+            "wgt": 167,
+            "college": "South Carolina",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "15"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 72
+        },
+        {
+            "name": "Arike Ogunbowale",
+            "ratings": [{
+                "hgt": 34.5,
+                "stre": 70.0,
+                "spd": 61.4,
+                "jmp": 61.4,
+                "endu": 81.4,
+                "ins": 68.2,
+                "dnk": 89.1,
+                "ft": 69.8,
+                "fg": 69.7,
+                "tp": 41.2,
+                "oiq": 47.0,
+                "diq": 39.5,
+                "drb": 51.6,
+                "pss": 43.6,
+                "reb": 35.5
+            }],
+            "hgt": 68,
+            "wgt": 165,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1997,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "24"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 73
+        },
+        {
+            "name": "Awak Kuier",
+            "ratings": [{
+                "hgt": 38.5,
+                "stre": 30.0,
+                "spd": 32.6,
+                "jmp": 42.6,
+                "endu": 22.6,
+                "ins": 16.0,
+                "dnk": 12.0,
+                "ft": 61.3,
+                "fg": 32.6,
+                "tp": 19.0,
+                "oiq": 28.3,
+                "diq": 33.3,
+                "drb": 30.9,
+                "pss": 30.9,
+                "reb": 34.5
+            }],
+            "hgt": 76,
+            "wgt": 168,
+            "college": "",
+            "born": {
+                "year": 2001,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "28"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 74
+        },
+        {
+            "name": "Charli Collier",
+            "ratings": [{
+                "hgt": 39.0,
+                "stre": 40.0,
+                "spd": 24.6,
+                "jmp": 24.6,
+                "endu": 24.6,
+                "ins": 24.8,
+                "dnk": 21.5,
+                "ft": 71.4,
+                "fg": 24.0,
+                "tp": 10.0,
+                "oiq": 22.6,
+                "diq": 21.8,
+                "drb": 20.1,
+                "pss": 20.1,
+                "reb": 31.0
+            }],
+            "hgt": 77,
+            "wgt": 188,
+            "college": "Texas",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "35"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 75
+        },
+        {
+            "name": "Jasmine Dickey",
+            "ratings": [{
+                "hgt": 35.5,
+                "stre": 20.0,
+                "spd": 24.7,
+                "jmp": 24.7,
+                "endu": 24.7,
+                "ins": 22.4,
+                "dnk": 21.5,
+                "ft": 66.7,
+                "fg": 22.8,
+                "tp": 25.0,
+                "oiq": 13.9,
+                "diq": 10.6,
+                "drb": 30.1,
+                "pss": 30.1,
+                "reb": 20.9
+            }],
+            "hgt": 70,
+            "wgt": 155,
+            "college": "Delaware",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "23"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 76
+        },
+        {
+            "name": "Kayla Thornton",
+            "ratings": [{
+                "hgt": 37.0,
+                "stre": 30.0,
+                "spd": 59.2,
+                "jmp": 65.2,
+                "endu": 29.2,
+                "ins": 30.8,
+                "dnk": 33.6,
+                "ft": 82.9,
+                "fg": 44.3,
+                "tp": 32.9,
+                "oiq": 54.7,
+                "diq": 58.9,
+                "drb": 21.8,
+                "pss": 21.8,
+                "reb": 10.7
+            }],
+            "hgt": 73,
+            "wgt": 190,
+            "college": "Texas-El Paso",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "6"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 77
+        },
+        {
+            "name": "Marina Mabrey",
+            "ratings": [{
+                "hgt": 36.0,
+                "stre": 30.0,
+                "spd": 28.0,
+                "jmp": 28.0,
+                "endu": 28.0,
+                "ins": 14.8,
+                "dnk": 27.4,
+                "ft": 68.1,
+                "fg": 40.9,
+                "tp": 35.1,
+                "oiq": 27.6,
+                "diq": 17.4,
+                "drb": 63.7,
+                "pss": 63.7,
+                "reb": 55.5
+            }],
+            "hgt": 71,
+            "wgt": 170,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "3"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 78
+        },
+        {
+            "name": "Satou Sabally",
+            "ratings": [{
+                "hgt": 38.5,
+                "stre": 50.0,
+                "spd": 51.7,
+                "jmp": 41.7,
+                "endu": 61.7,
+                "ins": 51.0,
+                "dnk": 45.5,
+                "ft": 91.4,
+                "fg": 37.5,
+                "tp": 33.3,
+                "oiq": 23.1,
+                "diq": 15.3,
+                "drb": 42.1,
+                "pss": 42.1,
+                "reb": 38.7
+            }],
+            "hgt": 76,
+            "wgt": 175,
+            "college": "Oregon",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "0"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 79
+        },
+        {
+            "name": "Teaira McCowan",
+            "ratings": [{
+                "hgt": 40.0,
+                "stre": 40.0,
+                "spd": 28.9,
+                "jmp": 28.9,
+                "endu": 18.9,
+                "ins": 20.4,
+                "dnk": 37.0,
+                "ft": 60.0,
+                "fg": 60.2,
+                "tp": 30.0,
+                "oiq": 24.0,
+                "diq": 19.0,
+                "drb": 30.8,
+                "pss": 30.8,
+                "reb": 32.6
+            }],
+            "hgt": 79,
+            "wgt": 239,
+            "college": "Mississippi State",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "7"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 80
+        },
+        {
+            "name": "Tyasha Harris",
+            "ratings": [{
+                "hgt": 35.5,
+                "stre": 20.0,
+                "spd": 35.8,
+                "jmp": 35.8,
+                "endu": 35.8,
+                "ins": 25.0,
+                "dnk": 23.2,
+                "ft": 79.2,
+                "fg": 38.8,
+                "tp": 30.9,
+                "oiq": 23.5,
+                "diq": 15.6,
+                "drb": 22.8,
+                "pss": 22.8,
+                "reb": 22.0
+            }],
+            "hgt": 70,
+            "wgt": 152,
+            "college": "South Carolina",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "52"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 81
+        },
+        {
+            "name": "Veronica Burton",
+            "ratings": [{
+                "hgt": 35.0,
+                "stre": 20.0,
+                "spd": 15.2,
+                "jmp": 15.2,
+                "endu": 15.2,
+                "ins": 33.6,
+                "dnk": 20.9,
+                "ft": 100.0,
+                "fg": 33.7,
+                "tp": 27.9,
+                "oiq": 20.6,
+                "diq": 14.1,
+                "drb": 31.9,
+                "pss": 31.9,
+                "reb": 22.8
+            }],
+            "hgt": 69,
+            "wgt": 160,
+            "college": "Northwestern",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 6,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [6],
+            "imgURL": "/img/blank-face.png",
+            "tid": 6,
+            "pid": 82
+        },
+        {
+            "name": "A'ja Wilson",
+            "ratings": [{
+                "hgt": 38.5,
+                "stre": 90.0,
+                "spd": 60.0,
+                "jmp": 67.0,
+                "endu": 84.0,
+                "ins": 84.2,
+                "dnk": 72.1,
+                "ft": 81.3,
+                "fg": 54.9,
+                "tp": 37.3,
+                "oiq": 69.3,
+                "diq": 52.8,
+                "drb": 42.1,
+                "pss": 42.1,
+                "reb": 66.2
+            }],
+            "hgt": 76,
+            "wgt": 195,
+            "college": "South Carolina",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "22"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 83
+        },
+        {
+            "name": "Aisha Sheppard",
+            "ratings": [{
+                "hgt": 35.0,
+                "stre": 30.0,
+                "spd": 37.6,
+                "jmp": 37.6,
+                "endu": 37.6,
+                "ins": 22.0,
+                "dnk": 20.4,
+                "ft": 75.0,
+                "fg": 18.5,
+                "tp": 27.3,
+                "oiq": 28.2,
+                "diq": 29.1,
+                "drb": 30.3,
+                "pss": 30.3,
+                "reb": 31.2
+            }],
+            "hgt": 69,
+            "wgt": 145,
+            "college": "Virginia Tech",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "4"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 84
+        },
+        {
+            "name": "Chelsea Gray",
+            "ratings": [{
+                "hgt": 36.0,
+                "stre": 60.0,
+                "spd": 69.7,
+                "jmp": 59.7,
+                "endu": 49.7,
+                "ins": 66.0,
+                "dnk": 67.8,
+                "ft": 91.0,
+                "fg": 53.3,
+                "tp": 54.0,
+                "oiq": 58.5,
+                "diq": 38.2,
+                "drb": 46.1,
+                "pss": 46.1,
+                "reb": 46.0
+            }],
+            "hgt": 71,
+            "wgt": 170,
+            "college": "Duke",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "12"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 85
+        },
+        {
+            "name": "Dearica Hamby",
+            "ratings": [{
+                "hgt": 38.0,
+                "stre": 40.0,
+                "spd": 56.5,
+                "jmp": 46.5,
+                "endu": 56.5,
+                "ins": 55.6,
+                "dnk": 35.2,
+                "ft": 72.0,
+                "fg": 39.3,
+                "tp": 41.9,
+                "oiq": 32.3,
+                "diq": 28.4,
+                "drb": 41.1,
+                "pss": 51.1,
+                "reb": 30.7
+            }],
+            "hgt": 75,
+            "wgt": 189,
+            "college": "Wake Forest",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "5"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 86
+        },
+        {
+            "name": "Iliana Rupert",
+            "ratings": [{
+                "hgt": 38.5,
+                "stre": 30.0,
+                "spd": 33.1,
+                "jmp": 33.1,
+                "endu": 33.1,
+                "ins": 37.2,
+                "dnk": 30.9,
+                "ft": 33.3,
+                "fg": 52.8,
+                "tp": 36.8,
+                "oiq": 32.8,
+                "diq": 34.5,
+                "drb": 40.9,
+                "pss": 30.9,
+                "reb": 34.6
+            }],
+            "hgt": 76,
+            "wgt": 180,
+            "college": "",
+            "born": {
+                "year": 2001,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 87
+        },
+        {
+            "name": "Jackie Young",
+            "ratings": [{
+                "hgt": 36.5,
+                "stre": 60.0,
+                "spd": 63.2,
+                "jmp": 53.2,
+                "endu": 43.2,
+                "ins": 56.2,
+                "dnk": 48.4,
+                "ft": 85.9,
+                "fg": 46.3,
+                "tp": 43.1,
+                "oiq": 27.0,
+                "diq": 16.9,
+                "drb": 53.9,
+                "pss": 63.9,
+                "reb": 48.4
+            }],
+            "hgt": 72,
+            "wgt": 165,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1997,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "0"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 88
+        },
+        {
+            "name": "Kelsey Plum",
+            "ratings": [{
+                "hgt": 34.5,
+                "stre": 70.0,
+                "spd": 72.8,
+                "jmp": 62.8,
+                "endu": 52.8,
+                "ins": 54.8,
+                "dnk": 67.3,
+                "ft": 83.9,
+                "fg": 65.0,
+                "tp": 62.0,
+                "oiq": 51.2,
+                "diq": 44.6,
+                "drb": 55.1,
+                "pss": 55.1,
+                "reb": 45.6
+            }],
+            "hgt": 68,
+            "wgt": 145,
+            "college": "Washington",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "10"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 89
+        },
+        {
+            "name": "Kiah Stokes",
+            "ratings": [{
+                "hgt": 38.0,
+                "stre": 40.0,
+                "spd": 35.3,
+                "jmp": 45.3,
+                "endu": 45.3,
+                "ins": 39.6,
+                "dnk": 41.2,
+                "ft": 81.3,
+                "fg": 38.8,
+                "tp": 20.8,
+                "oiq": 44.6,
+                "diq": 17.9,
+                "drb": 30.6,
+                "pss": 33.6,
+                "reb": 36.8
+            }],
+            "hgt": 75,
+            "wgt": 191,
+            "college": "Connecticut",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "41"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 90
+        },
+        {
+            "name": "Kierstan Bell",
+            "ratings": [{
+                "hgt": 37.0,
+                "stre": 20.0,
+                "spd": 35.8,
+                "jmp": 35.8,
+                "endu": 35.8,
+                "ins": 33.6,
+                "dnk": 20.5,
+                "ft": 100.0,
+                "fg": 38.6,
+                "tp": 13.6,
+                "oiq": 37.4,
+                "diq": 27.7,
+                "drb": 30.3,
+                "pss": 30.3,
+                "reb": 41.8
+            }],
+            "hgt": 73,
+            "wgt": 176,
+            "college": "Ohio State",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "1"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 91
+        },
+        {
+            "name": "Riquna Williams",
+            "ratings": [{
+                "hgt": 34.0,
+                "stre": 30.0,
+                "spd": 38.0,
+                "jmp": 38.0,
+                "endu": 38.0,
+                "ins": 43.6,
+                "dnk": 41.2,
+                "ft": 76.2,
+                "fg": 25.0,
+                "tp": 36.6,
+                "oiq": 36.0,
+                "diq": 32.1,
+                "drb": 51.2,
+                "pss": 51.2,
+                "reb": 44.6
+            }],
+            "hgt": 67,
+            "wgt": 165,
+            "college": "Miami (FL)",
+            "born": {
+                "year": 1990,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "2"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 92
+        },
+        {
+            "name": "Sydney Colson",
+            "ratings": [{
+                "hgt": 34.5,
+                "stre": 20.0,
+                "spd": 56.8,
+                "jmp": 56.8,
+                "endu": 46.8,
+                "ins": 32.8,
+                "dnk": 31.2,
+                "ft": 70.0,
+                "fg": 50.3,
+                "tp": 47.3,
+                "oiq": 49.9,
+                "diq": 38.8,
+                "drb": 41.0,
+                "pss": 51.0,
+                "reb": 31.0
+            }],
+            "hgt": 68,
+            "wgt": 140,
+            "college": "Texas A&M",
+            "born": {
+                "year": 1989,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "51"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 93
+        },
+        {
+            "name": "Theresa Plaisance",
+            "ratings": [{
+                "hgt": 69.0,
+                "stre": 30.0,
+                "spd": 12.9,
+                "jmp": 12.9,
+                "endu": 12.9,
+                "ins": 6.4,
+                "dnk": 0.9,
+                "ft": 70.0,
+                "fg": 39.6,
+                "tp": 34.8,
+                "oiq": 13.7,
+                "diq": 14.0,
+                "drb": 60.5,
+                "pss": 50.5,
+                "reb": 4.0
+            }],
+            "hgt": 77,
+            "wgt": 200,
+            "college": "LSU",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 7,
+                "season": 2022,
+                "jerseyNumber": "55"
+            }],
+            "statsTids": [7],
+            "imgURL": "/img/blank-face.png",
+            "tid": 7,
+            "pid": 94
+        },
+        {
+            "name": "Brittney Sykes",
+            "ratings": [{
+                "hgt": 33.3,
+                "stre": 74.8,
+                "spd": 62.52,
+                "jmp": 59,
+                "endu": 64.0,
+                "ins": 61.82,
+                "dnk": 76.8,
+                "ft": 48,
+                "fg": 71.15,
+                "tp": 33,
+                "oiq": 71.1,
+                "diq": 68.4,
+                "drb": 67.525,
+                "pss": 65,
+                "reb": 65.36
+            }],
+            "hgt": 69,
+            "wgt": 154,
+            "college": "Syracuse",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "15"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 95
+        },
+        {
+            "name": "Chennedy Carter",
+            "ratings": [{
+                "hgt": 33.3,
+                "stre": 71.6,
+                "spd": 79.88,
+                "jmp": 48.4,
+                "endu": 56.9,
+                "ins": 53.25,
+                "dnk": 56.0,
+                "ft": 40.5,
+                "fg": 60.25,
+                "tp": 24,
+                "oiq": 46.2,
+                "diq": 66.4,
+                "drb": 62.85,
+                "pss": 61,
+                "reb": 35.6
+            }],
+            "hgt": 69,
+            "wgt": 143,
+            "college": "Texas A&M",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "7"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 96
+        },
+        {
+            "name": "Chiney Ogwumike",
+            "ratings": [{
+                "hgt": 55.5,
+                "stre": 70.4,
+                "spd": 63,
+                "jmp": 56.4,
+                "endu": 61.9,
+                "ins": 65.0,
+                "dnk": 58.0,
+                "ft": 37,
+                "fg": 65.0,
+                "tp": 28,
+                "oiq": 34.9,
+                "diq": 75.6,
+                "drb": 42.1,
+                "pss": 34.8673,
+                "reb": 92.6
+            }],
+            "hgt": 75,
+            "wgt": 183,
+            "college": "Stanford",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "13"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 97
+        },
+        {
+            "name": "Jasmine Walker",
+            "ratings": [{
+                "hgt": 55.5,
+                "stre": 42.0,
+                "spd": 74.72,
+                "jmp": 38.0,
+                "endu": 40.1,
+                "ins": 24.0,
+                "dnk": 14.0,
+                "ft": 80.0,
+                "fg": 24.4,
+                "tp": 34,
+                "oiq": 16.8,
+                "diq": 56.8,
+                "drb": 23.425,
+                "pss": 20.4132,
+                "reb": 36.08
+            }],
+            "hgt": 75,
+            "wgt": 182,
+            "college": "Alabama",
+            "born": {
+                "year": 1998,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "40"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 98
+        },
+        {
+            "name": "Jordin Canada",
+            "ratings": [{
+                "hgt": 22.2,
+                "stre": 63.8,
+                "spd": 65.85,
+                "jmp": 49.6,
+                "endu": 80.75,
+                "ins": 52.63,
+                "dnk": 55.2,
+                "ft": 63,
+                "fg": 58.0,
+                "tp": 31.4,
+                "oiq": 66.3,
+                "diq": 93.4,
+                "drb": 56.75,
+                "pss": 76.7521,
+                "reb": 34.2
+            }],
+            "hgt": 66,
+            "wgt": 135,
+            "college": "UCLA",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 99
+        },
+        {
+            "name": "Katie Lou Samuelson",
+            "ratings": [{
+                "hgt": 55.5,
+                "stre": 65.6,
+                "spd": 92.15,
+                "jmp": 57,
+                "endu": 86,
+                "ins": 40.0,
+                "dnk": 37.6,
+                "ft": 65,
+                "fg": 42.0,
+                "tp": 65.0,
+                "oiq": 46.5,
+                "diq": 71.5,
+                "drb": 58,
+                "pss": 52,
+                "reb": 50.68
+            }],
+            "hgt": 75,
+            "wgt": 163,
+            "college": "Connecticut",
+            "born": {
+                "year": 1997,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "33"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 100
+        },
+        {
+            "name": "Kianna Smith",
+            "ratings": [{
+                "hgt": 44.4,
+                "stre": 31.6,
+                "spd": 80,
+                "jmp": 37,
+                "endu": 43.175,
+                "ins": 27.5,
+                "dnk": 20.0,
+                "ft": 80.0,
+                "fg": 27.5,
+                "tp": 34,
+                "oiq": 22.5,
+                "diq": 53.4,
+                "drb": 21.775,
+                "pss": 30.5007,
+                "reb": 32.8
+            }],
+            "hgt": 72,
+            "wgt": 155,
+            "college": "Louisville",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "5"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 101
+        },
+        {
+            "name": "Lexie Brown",
+            "ratings": [{
+                "hgt": 33.3,
+                "stre": 61.2,
+                "spd": 87.5,
+                "jmp": 49,
+                "endu": 76.25,
+                "ins": 31,
+                "dnk": 32.8,
+                "ft": 44.5,
+                "fg": 32.65,
+                "tp": 77,
+                "oiq": 42.9,
+                "diq": 86.0,
+                "drb": 59,
+                "pss": 66,
+                "reb": 35.6
+            }],
+            "hgt": 69,
+            "wgt": 160,
+            "college": "Duke",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "4"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 102
+        },
+        {
+            "name": "Nneka Ogwumike",
+            "ratings": [{
+                "hgt": 51.8,
+                "stre": 58.6,
+                "spd": 65.43,
+                "jmp": 62,
+                "endu": 90.65,
+                "ins": 79.18,
+                "dnk": 70,
+                "ft": 63,
+                "fg": 84.9,
+                "tp": 36,
+                "oiq": 80.5,
+                "diq": 68.8,
+                "drb": 70.35,
+                "pss": 61.3361,
+                "reb": 98.84
+            }],
+            "hgt": 74,
+            "wgt": 174,
+            "college": "Stanford",
+            "born": {
+                "year": 1990,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "30"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 103
+        },
+        {
+            "name": "Olivia Nelson-Ododa",
+            "ratings": [{
+                "hgt": 63.1,
+                "stre": 81.2,
+                "spd": 51.25,
+                "jmp": 62.0,
+                "endu": 52.625,
+                "ins": 64.4,
+                "dnk": 48.0,
+                "ft": 36,
+                "fg": 75.4,
+                "tp": 20.0,
+                "oiq": 31.2,
+                "diq": 73.0,
+                "drb": 24.1,
+                "pss": 22.3203,
+                "reb": 68.2
+            }],
+            "hgt": 77,
+            "wgt": 170,
+            "college": "Connecticut",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "10"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 104
+        },
+        {
+            "name": "Rae Burrell",
+            "ratings": [{
+                "hgt": 51.8,
+                "stre": 50.8,
+                "spd": 71.18,
+                "jmp": 40,
+                "endu": 52.875,
+                "ins": 20.0,
+                "dnk": 14.0,
+                "ft": 80.0,
+                "fg": 20.0,
+                "tp": 38.12,
+                "oiq": 16.8,
+                "diq": 50.7,
+                "drb": 14.925,
+                "pss": 23.4003,
+                "reb": 29.24
+            }],
+            "hgt": 74,
+            "wgt": 168,
+            "college": "Tennessee",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "12"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 105
+        },
+        {
+            "name": "Liz Cambage",
+            "ratings": [{
+                "hgt": 74.0,
+                "stre": 75.6,
+                "spd": 56.29,
+                "jmp": 50.8,
+                "endu": 72,
+                "ins": 60.0,
+                "dnk": 50.0,
+                "ft": 55,
+                "fg": 50.3,
+                "tp": 25.24,
+                "oiq": 64.2,
+                "diq": 45.4,
+                "drb": 52.775,
+                "pss": 57.3421,
+                "reb": 75
+            }],
+            "hgt": 80,
+            "wgt": 216,
+            "college": "",
+            "born": {
+                "year": 2000,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 8,
+                "season": 2022,
+                "jerseyNumber": "1"
+            }],
+            "statsTids": [8],
+            "imgURL": "/img/blank-face.png",
+            "tid": 8,
+            "pid": 106
+        },
+        {
+            "name": "Natalie Achonwa",
+            "ratings": [{
+                "hgt": 55.5,
+                "stre": 66.4,
+                "spd": 54.0,
+                "jmp": 46.0,
+                "endu": 34.075,
+                "ins": 37.5,
+                "dnk": 30.4,
+                "ft": 68,
+                "fg": 42.8,
+                "tp": 20.0,
+                "oiq": 26.2,
+                "diq": 47.0,
+                "drb": 27.3,
+                "pss": 39.8,
+                "reb": 63.04
+            }],
+            "hgt": 75,
+            "wgt": 198,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "11"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 107
+        },
+        {
+            "name": "Lindsay Allen",
+            "ratings": [{
+                "hgt": 29.6,
+                "stre": 34.6,
+                "spd": 70.5,
+                "jmp": 38.0,
+                "endu": 33.675,
+                "ins": 19.0,
+                "dnk": 20.0,
+                "ft": 83.0,
+                "fg": 29.2,
+                "tp": 28.0,
+                "oiq": 24.3,
+                "diq": 36.0,
+                "drb": 51.0,
+                "pss": 60.8,
+                "reb": 27.2
+            }],
+            "hgt": 68,
+            "wgt": 144,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "1"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 108
+        },
+        {
+            "name": "Rachel Banham",
+            "ratings": [{
+                "hgt": 37.0,
+                "stre": 34.2,
+                "spd": 79.25,
+                "jmp": 33.0,
+                "endu": 39.625,
+                "ins": 22.0,
+                "dnk": 20.8,
+                "ft": 60.0,
+                "fg": 21.2,
+                "tp": 36,
+                "oiq": 31.7,
+                "diq": 33.3,
+                "drb": 33.55,
+                "pss": 44.9,
+                "reb": 23.14
+            }],
+            "hgt": 70,
+            "wgt": 175,
+            "college": "Minnesota",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "15"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 109
+        },
+        {
+            "name": "Bridget Carleton",
+            "ratings": [{
+                "hgt": 48.1,
+                "stre": 38.6,
+                "spd": 68.8,
+                "jmp": 46.0,
+                "endu": 38.2,
+                "ins": 22.0,
+                "dnk": 19.6,
+                "ft": 37,
+                "fg": 24.5,
+                "tp": 25,
+                "oiq": 22.1,
+                "diq": 44.0,
+                "drb": 20.75,
+                "pss": 32.1,
+                "reb": 35.44
+            }],
+            "hgt": 73,
+            "wgt": 190,
+            "college": "Iowa State",
+            "born": {
+                "year": 1997,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "6"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 110
+        },
+        {
+            "name": "Napheesa Collier",
+            "ratings": [{
+                "hgt": 48.1,
+                "stre": 58.6,
+                "spd": 73.2,
+                "jmp": 55.0,
+                "endu": 51.4,
+                "ins": 35.0,
+                "dnk": 42.4,
+                "ft": 40,
+                "fg": 44.4,
+                "tp": 24.4,
+                "oiq": 30.4,
+                "diq": 49.6,
+                "drb": 23.0,
+                "pss": 38.0,
+                "reb": 47.6
+            }],
+            "hgt": 73,
+            "wgt": 182,
+            "college": "Connecticut",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "24"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 111
+        },
+        {
+            "name": "Damiris Dantas",
+            "ratings": [{
+                "hgt": 55.5,
+                "stre": 47.8,
+                "spd": 68.25,
+                "jmp": 44.0,
+                "endu": 39.625,
+                "ins": 25.5,
+                "dnk": 27.6,
+                "ft": 70,
+                "fg": 31.1,
+                "tp": 33,
+                "oiq": 25.7,
+                "diq": 44.5,
+                "drb": 30.15,
+                "pss": 47.7,
+                "reb": 51.62
+            }],
+            "hgt": 75,
+            "wgt": 212,
+            "college": "",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "12"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 112
+        },
+        {
+            "name": "Sylvia Fowles",
+            "ratings": [{
+                "hgt": 66.6,
+                "stre": 86.0,
+                "spd": 52.15,
+                "jmp": 67.0,
+                "endu": 72.075,
+                "ins": 88.0,
+                "dnk": 70.0,
+                "ft": 23,
+                "fg": 64.95,
+                "tp": 20.0,
+                "oiq": 43.8,
+                "diq": 71.1,
+                "drb": 32.2,
+                "pss": 44.8,
+                "reb": 76.52
+            }],
+            "hgt": 78,
+            "wgt": 219,
+            "college": "LSU",
+            "born": {
+                "year": 1985,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "34"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 113
+        },
+        {
+            "name": "Moriah Jefferson",
+            "ratings": [{
+                "hgt": 22.2,
+                "stre": 42.6,
+                "spd": 83.1,
+                "jmp": 48.0,
+                "endu": 60.6,
+                "ins": 32.1,
+                "dnk": 35.8,
+                "ft": 68,
+                "fg": 29.95,
+                "tp": 34.0,
+                "oiq": 41.6,
+                "diq": 45.6,
+                "drb": 54.35,
+                "pss": 63.1,
+                "reb": 32.8
+            }],
+            "hgt": 66,
+            "wgt": 123,
+            "college": "Connecticut",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "4"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 114
+        },
+        {
+            "name": "Kayla McBride",
+            "ratings": [{
+                "hgt": 40.7,
+                "stre": 56.2,
+                "spd": 67,
+                "jmp": 42.0,
+                "endu": 67.3,
+                "ins": 33.0,
+                "dnk": 47.6,
+                "ft": 77,
+                "fg": 36.3,
+                "tp": 36,
+                "oiq": 40.7,
+                "diq": 49.4,
+                "drb": 33.675,
+                "pss": 47.793,
+                "reb": 41.86
+            }],
+            "hgt": 71,
+            "wgt": 184,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1992,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 115
+        },
+        {
+            "name": "Aerial Powers",
+            "ratings": [{
+                "hgt": 40.7,
+                "stre": 69.8,
+                "spd": 59.74,
+                "jmp": 53.0,
+                "endu": 60.525,
+                "ins": 47.5,
+                "dnk": 61.6,
+                "ft": 68,
+                "fg": 47.5,
+                "tp": 29,
+                "oiq": 43.8,
+                "diq": 54.9,
+                "drb": 42.15,
+                "pss": 56.4,
+                "reb": 72.64
+            }],
+            "hgt": 71,
+            "wgt": 166,
+            "college": "Michigan State",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "3"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 116
+        },
+        {
+            "name": "Jessica Shepard",
+            "ratings": [{
+                "hgt": 59.6,
+                "stre": 96.4,
+                "spd": 61.45,
+                "jmp": 57.0,
+                "endu": 58.725,
+                "ins": 46.5,
+                "dnk": 40.4,
+                "ft": 39,
+                "fg": 49.15,
+                "tp": 21.5,
+                "oiq": 39.3,
+                "diq": 53.3,
+                "drb": 47.0,
+                "pss": 56.0,
+                "reb": 78.28
+            }],
+            "hgt": 76,
+            "wgt": 184,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 9,
+                "season": 2022,
+                "jerseyNumber": "10"
+            }],
+            "statsTids": [9],
+            "imgURL": "/img/blank-face.png",
+            "tid": 9,
+            "pid": 117
+        },
+        {
+            "name": "Brianna Turner",
+            "ratings": [{
+                "hgt": 44.15,
+                "stre": 56.8,
+                "spd": 61.9,
+                "jmp": 66.8,
+                "endu": 69.7,
+                "ins": 51.94,
+                "dnk": 25,
+                "ft": 33.8,
+                "fg": 37.22,
+                "tp": 20,
+                "oiq": 46.1,
+                "diq": 47.8,
+                "drb": 33.3,
+                "pss": 46.89,
+                "reb": 70.8
+            }],
+            "hgt": 75,
+            "wgt": 170,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 118
+        },
+        {
+            "name": "Diamond DeShields",
+            "ratings": [{
+                "hgt": 40.29,
+                "stre": 53.9,
+                "spd": 73.68,
+                "jmp": 61.7,
+                "endu": 63.9,
+                "ins": 53.32,
+                "dnk": 42,
+                "ft": 60.32,
+                "fg": 61.4,
+                "tp": 48.3,
+                "oiq": 54.2,
+                "diq": 54.3,
+                "drb": 79.5,
+                "pss": 48.18,
+                "reb": 55.6
+            }],
+            "hgt": 73,
+            "wgt": 172,
+            "college": "Tennessee",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "1"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 119
+        },
+        {
+            "name": "Diana Taurasi",
+            "ratings": [{
+                "hgt": 35.15,
+                "stre": 56.4,
+                "spd": 73.53,
+                "jmp": 47.4,
+                "endu": 68.45,
+                "ins": 49.82,
+                "dnk": 56.6,
+                "ft": 77.24,
+                "fg": 86.82,
+                "tp": 68.3,
+                "oiq": 70.7,
+                "diq": 48.3,
+                "drb": 80,
+                "pss": 51.51,
+                "reb": 46.6
+            }],
+            "hgt": 72,
+            "wgt": 163,
+            "college": "Connecticut",
+            "born": {
+                "year": 1982,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "3"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 120
+        },
+        {
+            "name": "Jennie Simms",
+            "ratings": [{
+                "hgt": 35.15,
+                "stre": 26.1,
+                "spd": 40.42,
+                "jmp": 28.9,
+                "endu": 35.1,
+                "ins": 25.74,
+                "dnk": 23.6,
+                "ft": 39.6,
+                "fg": 23.69,
+                "tp": 25.5,
+                "oiq": 33.8,
+                "diq": 31.3,
+                "drb": 26.55,
+                "pss": 31.61,
+                "reb": 25
+            }],
+            "hgt": 72,
+            "wgt": 165,
+            "college": "Old Dominion",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "25"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 121
+        },
+        {
+            "name": "Kaela Davis",
+            "ratings": [{
+                "hgt": 42.35,
+                "stre": 33.6,
+                "spd": 48.3,
+                "jmp": 44.1,
+                "endu": 31.2,
+                "ins": 28.38,
+                "dnk": 25,
+                "ft": 49.7,
+                "fg": 34.7,
+                "tp": 46.7,
+                "oiq": 30.7,
+                "diq": 30.4,
+                "drb": 24.9,
+                "pss": 22.97,
+                "reb": 25
+            }],
+            "hgt": 74,
+            "wgt": 170,
+            "college": "South Carolina",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "33"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 122
+        },
+        {
+            "name": "Megan Gustafson",
+            "ratings": [{
+                "hgt": 44.15,
+                "stre": 25,
+                "spd": 38.7,
+                "jmp": 34.6,
+                "endu": 31.8,
+                "ins": 34.74,
+                "dnk": 25,
+                "ft": 31.9,
+                "fg": 27.8,
+                "tp": 25.5,
+                "oiq": 26.2,
+                "diq": 27.9,
+                "drb": 26.7,
+                "pss": 25,
+                "reb": 50.8
+            }],
+            "hgt": 75,
+            "wgt": 195,
+            "college": "Iowa",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "10"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 123
+        },
+        {
+            "name": "Reshanda Gray",
+            "ratings": [{
+                "hgt": 42.35,
+                "stre": 29.8,
+                "spd": 46.2,
+                "jmp": 38.2,
+                "endu": 29.3,
+                "ins": 25.4,
+                "dnk": 23.4,
+                "ft": 25,
+                "fg": 26.6,
+                "tp": 25,
+                "oiq": 23.9,
+                "diq": 42.1,
+                "drb": 34.65,
+                "pss": 28.82,
+                "reb": 51.2
+            }],
+            "hgt": 74,
+            "wgt": 192,
+            "college": "California",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "12"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 124
+        },
+        {
+            "name": "Sam Thomas",
+            "ratings": [{
+                "hgt": 35.15,
+                "stre": 25,
+                "spd": 38.62,
+                "jmp": 26.7,
+                "endu": 29.3,
+                "ins": 25.4,
+                "dnk": 25,
+                "ft": 25,
+                "fg": 22.3,
+                "tp": 27.5,
+                "oiq": 26.1,
+                "diq": 23.2,
+                "drb": 25.7,
+                "pss": 25,
+                "reb": 25
+            }],
+            "hgt": 72,
+            "wgt": 165,
+            "college": "Arizona",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "14"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 125
+        },
+        {
+            "name": "Shey Peddy",
+            "ratings": [{
+                "hgt": 23.27,
+                "stre": 39.9,
+                "spd": 65.72,
+                "jmp": 39.5,
+                "endu": 62.55,
+                "ins": 39.58,
+                "dnk": 28.8,
+                "ft": 58.14,
+                "fg": 44.5,
+                "tp": 48.2,
+                "oiq": 55.1,
+                "diq": 45.2,
+                "drb": 60.45,
+                "pss": 61.88,
+                "reb": 51.8
+            }],
+            "hgt": 67,
+            "wgt": 147,
+            "college": "Temple",
+            "born": {
+                "year": 1988,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "11"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 126
+        },
+        {
+            "name": "Skylar Diggins-Smith",
+            "ratings": [{
+                "hgt": 30.73,
+                "stre": 79.6,
+                "spd": 67,
+                "jmp": 63.9,
+                "endu": 71.3,
+                "ins": 59.96,
+                "dnk": 46.8,
+                "ft": 75.08,
+                "fg": 73.12,
+                "tp": 59.4,
+                "oiq": 85.9,
+                "diq": 55.7,
+                "drb": 67.25,
+                "pss": 74.53,
+                "reb": 67
+            }],
+            "hgt": 69,
+            "wgt": 145,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1990,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "4"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 127
+        },
+        {
+            "name": "Sophie Cunningham",
+            "ratings": [{
+                "hgt": 40.29,
+                "stre": 58.1,
+                "spd": 70.08,
+                "jmp": 60.9,
+                "endu": 68.88,
+                "ins": 46.46,
+                "dnk": 28.2,
+                "ft": 62.9,
+                "fg": 42.06,
+                "tp": 46.3,
+                "oiq": 47.4,
+                "diq": 50.9,
+                "drb": 51.75,
+                "pss": 52.14,
+                "reb": 58.4
+            }],
+            "hgt": 73,
+            "wgt": 170,
+            "college": "Missouri",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "9"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 128
+        },
+        {
+            "name": "Yvonne Turner",
+            "ratings": [{
+                "hgt": 25.95,
+                "stre": 25,
+                "spd": 43.62,
+                "jmp": 35.4,
+                "endu": 31.8,
+                "ins": 25,
+                "dnk": 25,
+                "ft": 33.8,
+                "fg": 30.5,
+                "tp": 20,
+                "oiq": 29.2,
+                "diq": 54.6,
+                "drb": 38.175,
+                "pss": 32.84,
+                "reb": 25
+            }],
+            "hgt": 70,
+            "wgt": 131,
+            "college": "Nebraska",
+            "born": {
+                "year": 1987,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 10,
+                "season": 2022,
+                "jerseyNumber": "22"
+            }],
+            "statsTids": [10],
+            "imgURL": "/img/blank-face.png",
+            "tid": 10,
+            "pid": 129
+        },
+        {
+            "name": "Breanna Stewart",
+            "ratings": [{
+                "hgt": 59,
+                "stre": 87,
+                "spd": 61.77,
+                "jmp": 64.8,
+                "endu": 67.1,
+                "ins": 40.5,
+                "dnk": 66.4,
+                "ft": 61.4,
+                "fg": 78.15,
+                "tp": 83.3,
+                "oiq": 71.9,
+                "diq": 49.2,
+                "drb": 55.15,
+                "pss": 42.369,
+                "reb": 64.8
+            }],
+            "hgt": 76,
+            "wgt": 170,
+            "college": "Connecticut",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "30"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 130
+        },
+        {
+            "name": "Briann January",
+            "ratings": [{
+                "hgt": 17,
+                "stre": 27.5,
+                "spd": 27.94,
+                "jmp": 22.0,
+                "endu": 58,
+                "ins": 25,
+                "dnk": 25,
+                "ft": 25.6,
+                "fg": 25.9,
+                "tp": 27,
+                "oiq": 25.5,
+                "diq": 25.1,
+                "drb": 25,
+                "pss": 29,
+                "reb": 25
+            }],
+            "hgt": 68,
+            "wgt": 148,
+            "college": "Arizona State",
+            "born": {
+                "year": 1987,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "20"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 131
+        },
+        {
+            "name": "Epiphanny Prince",
+            "ratings": [{
+                "hgt": 23,
+                "stre": 40.6,
+                "spd": 27.474,
+                "jmp": 22.0,
+                "endu": 27.5,
+                "ins": 25,
+                "dnk": 25,
+                "ft": 26.8,
+                "fg": 25,
+                "tp": 27,
+                "oiq": 25.4,
+                "diq": 23.6,
+                "drb": 25,
+                "pss": 25,
+                "reb": 25
+            }],
+            "hgt": 69,
+            "wgt": 179,
+            "college": "Rutgers",
+            "born": {
+                "year": 1988,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "11"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 132
+        },
+        {
+            "name": "Ezi Magbegor",
+            "ratings": [{
+                "hgt": 39.4,
+                "stre": 71.4,
+                "spd": 33.24,
+                "jmp": 32.8,
+                "endu": 27.3,
+                "ins": 25,
+                "dnk": 25,
+                "ft": 26,
+                "fg": 26,
+                "tp": 25.4,
+                "oiq": 25.8,
+                "diq": 27.6,
+                "drb": 25,
+                "pss": 26,
+                "reb": 31.2
+            }],
+            "hgt": 76,
+            "wgt": 176,
+            "college": "",
+            "born": {
+                "year": 1999,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "13"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 133
+        },
+        {
+            "name": "Gabby Williams",
+            "ratings": [{
+                "hgt": 29,
+                "stre": 62.9,
+                "spd": 35.16,
+                "jmp": 33.6,
+                "endu": 30.4,
+                "ins": 25,
+                "dnk": 25,
+                "ft": 25.4,
+                "fg": 25.4,
+                "tp": 27.5,
+                "oiq": 47.9,
+                "diq": 28.5,
+                "drb": 54.22,
+                "pss": 69,
+                "reb": 32.8
+            }],
+            "hgt": 71,
+            "wgt": 172,
+            "college": "Connecticut",
+            "born": {
+                "year": 1996,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "5"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 134
+        },
+        {
+            "name": "Jantel Lavender",
+            "ratings": [{
+                "hgt": 39,
+                "stre": 63.8,
+                "spd": 26,
+                "jmp": 24.4,
+                "endu": 27.4,
+                "ins": 25,
+                "dnk": 25,
+                "ft": 25.8,
+                "fg": 25.95,
+                "tp": 24.0,
+                "oiq": 25,
+                "diq": 23.2,
+                "drb": 32,
+                "pss": 26.506,
+                "reb": 27
+            }],
+            "hgt": 76,
+            "wgt": 185,
+            "college": "Ohio State",
+            "born": {
+                "year": 1988,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "14"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 135
+        },
+        {
+            "name": "Jewell Loyd",
+            "ratings": [{
+                "hgt": 26,
+                "stre": 82.2,
+                "spd": 39,
+                "jmp": 30.5,
+                "endu": 31.3,
+                "ins": 45,
+                "dnk": 45,
+                "ft": 26.9,
+                "fg": 25.53,
+                "tp": 32.2,
+                "oiq": 58.2,
+                "diq": 26.9,
+                "drb": 54.767,
+                "pss": 51.121,
+                "reb": 45
+            }],
+            "hgt": 70,
+            "wgt": 148,
+            "college": "Notre Dame",
+            "born": {
+                "year": 1993,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "24"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 136
+        },
+        {
+            "name": "Mercedes Russell",
+            "ratings": [{
+                "hgt": 43.8,
+                "stre": 61.2,
+                "spd": 23.76,
+                "jmp": 25,
+                "endu": 27,
+                "ins": 25,
+                "dnk": 25,
+                "ft": 24.6,
+                "fg": 25.6,
+                "tp": 25,
+                "oiq": 25.5,
+                "diq": 22.6,
+                "drb": 25,
+                "pss": 23,
+                "reb": 25
+            }],
+            "hgt": 78,
+            "wgt": 195,
+            "college": "Tennessee",
+            "born": {
+                "year": 1995,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "21"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 137
+        },
+        {
+            "name": "Stephanie Talbot",
+            "ratings": [{
+                "hgt": 34.4,
+                "stre": 53.8,
+                "spd": 30.66,
+                "jmp": 25.8,
+                "endu": 27.4,
+                "ins": 25,
+                "dnk": 25,
+                "ft": 25.15,
+                "fg": 25.79,
+                "tp": 29.5,
+                "oiq": 25.9,
+                "diq": 25.5,
+                "drb": 26,
+                "pss": 25,
+                "reb": 25
+            }],
+            "hgt": 74,
+            "wgt": 192,
+            "college": "",
+            "born": {
+                "year": 1994,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "7"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 138
+        },
+        {
+            "name": "Sue Bird",
+            "ratings": [{
+                "hgt": 23,
+                "stre": 57,
+                "spd": 54,
+                "jmp": 34,
+                "endu": 61.2,
+                "ins": 25,
+                "dnk": 65,
+                "ft": 65,
+                "fg": 32,
+                "tp": 57,
+                "oiq": 28.5,
+                "diq": 24.2,
+                "drb": 75,
+                "pss": 76.501,
+                "reb": 45
+            }],
+            "hgt": 69,
+            "wgt": 150,
+            "college": "Connecticut",
+            "born": {
+                "year": 1980,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "10"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 139
+        },
+        {
+            "name": "Tina Charles",
+            "ratings": [{
+                "hgt": 39,
+                "stre": 78,
+                "spd": 63.84,
+                "jmp": 48.8,
+                "endu": 59,
+                "ins": 55,
+                "dnk": 45,
+                "ft": 57,
+                "fg": 65,
+                "tp": 47.8,
+                "oiq": 25.2,
+                "diq": 25,
+                "drb": 45,
+                "pss": 45,
+                "reb": 39.6
+            }],
+            "hgt": 76,
+            "wgt": 192,
+            "college": "Connecticut",
+            "born": {
+                "year": 1988,
+                "loc": "USA"
+            },
+            "stats": [{
+                "playoffs": false,
+                "tid": 11,
+                "season": 2022,
+                "jerseyNumber": "31"
+            }],
+            "statsTids": [11],
+            "imgURL": "/img/blank-face.png",
+            "tid": 11,
+            "pid": 140
+        }
+    ]
+}
